@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Rock 'n' Roll",
+        "Energetic Performance",
+        "Stage Presence",
+        "Guitar Solo",
+        "Powerful Vocals",
+        "Drumming Explosion",
+        "Bass Riff",
+        "Screaming Fans",
+        "Lively Crowd",
+        "Electric Atmosphere",
+        "Strobe Lights",
+        "Flickering Stage Lights",
+        "Vintage Instruments",
+        "Harmonized Guitars",
+        "Sweat-Drenched Performers",
+        "Expressive Faces",
+        "Cathartic Experience"
+    ],
+    "negative": [
+        "Disinterested Audience",
+        "Out of Tune Instruments",
+        "Misplaced Mic Stand",
+        "Unfocused Performers",
+        "Dissonant Chords",
+        "Off-Key Vocals",
+        "Lackluster Drumming",
+        "Forgetful Bassist",
+        "Bored Fans",
+        "Quiet Crowd",
+        "Sparse Attendance",
+        "Flat Lighting",
+        "Inattentive Audience Members",
+        "Uninspired Performance",
+        "Lack of Energy",
+        "Discordant Melody"
+    ]
+}

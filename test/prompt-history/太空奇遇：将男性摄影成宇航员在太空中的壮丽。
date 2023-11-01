@@ -1,0 +1,42 @@
+{
+    "positive": [
+        "Astronaut",
+        "Cosmic Journey",
+        "Space Odyssey",
+        "Intergalactic Adventure",
+        "Stellar Fashion",
+        "Zero Gravity",
+        "Planetary Exploration",
+        "Galactic Glow",
+        "Neon Cosmos",
+        "Infinite Possibilities",
+        "Futuristic Styles",
+        "Lunar Landscape",
+        "Meteor Shower",
+        "Star Trails",
+        "Ethereal Atmosphere",
+        "Outer Space Grooming",
+        "Astrophysical Makeup",
+        "Nebula Hues"
+    ],
+    "negative": [
+        "Void of Inspiration",
+        "Cosmic Loneliness",
+        "Endless Nothingness",
+        "Intergalactic Peril",
+        "Stellar Isolation",
+        "Weightless Terror",
+        "Planetary Desolation",
+        "Galactic Darkness",
+        "Neon Void",
+        "Limited Horizons",
+        "Futuristic Despair",
+        "Lunar Wasteland",
+        "Meteor Storm",
+        "Starless Night",
+        "Ethereal Menace",
+        "Outer Space Anxiety",
+        "Astrophysical Danger",
+        "Nebula Shadows"
+    ]
+}

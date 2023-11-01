@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Angelic",
+        "Heavenly",
+        "Divine",
+        "Wings",
+        "Halo",
+        "Glowing",
+        "Beautiful",
+        "Innocent",
+        "Purity",
+        "Cherub",
+        "Celestial",
+        "Radiant",
+        "Aura",
+        "Seraphim"
+    ],
+    "negative": [
+        "Demon",
+        "Fallen Angel",
+        "Satanic",
+        "Hellish",
+        "Temptation",
+        "Evil",
+        "Lust",
+        "Greed",
+        "Pride",
+        "Envy",
+        "Wrath",
+        "Vanity",
+        "Corruption"
+    ]
+}

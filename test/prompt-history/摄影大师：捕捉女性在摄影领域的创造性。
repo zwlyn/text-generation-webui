@@ -1,0 +1,21 @@
+{
+    "positive": [
+        "Creative Expression",
+        "Female Perspective",
+        "Empowerment",
+        "Artistic Vision",
+        "Captivating Moments",
+        "Diverse Stories",
+        "Inspiring Journeys",
+        "Collaboration",
+        "Growth",
+        "Confidence"
+    ],
+    "negative": [
+        "Stereotypes",
+        "Limited Opportunities",
+        "Self-Doubt",
+        "Isolation",
+        "Objectification"
+    ]
+}

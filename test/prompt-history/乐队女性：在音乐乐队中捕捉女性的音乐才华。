@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Musical",
+        "Feminine",
+        "Inspiring",
+        "Creative",
+        "Artistic",
+        "Passionate",
+        "Performance",
+        "Expression",
+        "Energetic",
+        "United",
+        "Collaboration",
+        "Harmony",
+        "Beauty",
+        "Empowering",
+        "Diversity"
+    ],
+    "negative": [
+        "Discordant",
+        "Fragmented",
+        "Conflict",
+        "Struggle",
+        "Isolated",
+        "Suppressed",
+        "Oppression",
+        "Division",
+        "Disparity",
+        "Resistance",
+        "Silenced"
+    ]
+}

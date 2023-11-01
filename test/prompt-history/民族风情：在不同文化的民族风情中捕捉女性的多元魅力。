@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Traditional",
+        "Cultural",
+        "Ethnic",
+        "Vibrant Colors",
+        "Patterns",
+        "Textures",
+        "Handmade",
+        "Artisanal",
+        "Nature-Inspired",
+        "Folk Art",
+        "Ancestral Influence",
+        "Regional Craftsmanship",
+        "Family Heritage",
+        "Cultural Exchange",
+        "Sustainable Practices",
+        "Storytelling",
+        "Empowerment",
+        "Community Pride"
+    ],
+    "negative": [
+        "Assimilation",
+        "Loss of Tradition",
+        "Exploitation",
+        "Commodification",
+        "Westernization",
+        "Globalization",
+        "Environmental Degradation",
+        "Displacement",
+        "Cultural Erasure",
+        "Stereotyping",
+        "Marginalization"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Strong",
+        "Empowered",
+        "Confident",
+        "Fearless",
+        "Determined",
+        "Independent",
+        "Bold",
+        "Daring",
+        "Powerful",
+        "Athletic",
+        "Victorious",
+        "Inspiring",
+        "Role Model",
+        "Leader",
+        "Influential",
+        "Accomplished",
+        "Resilient",
+        "Assertive",
+        "Ambitious"
+    ],
+    "negative": [
+        "Weak",
+        "Submissive",
+        "Timid",
+        "Insecure",
+        "Dependent",
+        "Frail",
+        "Meek",
+        "Demure",
+        "Vulnerable",
+        "Waif-like",
+        "Overwhelmed",
+        "Intimidated",
+        "Ineffectual"
+    ]
+}

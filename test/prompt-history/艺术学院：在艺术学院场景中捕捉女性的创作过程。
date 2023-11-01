@@ -1,0 +1,22 @@
+{
+    "positive": [
+        "Futuristic",
+        "Creative",
+        "Innovative",
+        "Artistic",
+        "Collaborative",
+        "High-Tech",
+        "Abstract",
+        "Colorful",
+        "Symmetrical",
+        "Geometric",
+        "Minimalist"
+    ],
+    "negative": [
+        "Darkness",
+        "Loneliness",
+        "Sadness",
+        "Despair",
+        "Gloom"
+    ]
+}

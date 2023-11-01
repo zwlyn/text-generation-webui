@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Music Festival",
+        "Musical Instruments",
+        "Dance Moves",
+        "Stage Lighting",
+        "Performance Costumes",
+        "Rock Star Style",
+        "Concert Atmosphere",
+        "Audience Engagement",
+        "Expressive Emotions",
+        "Festive Mood",
+        "Celebration",
+        "Joyful Vibes",
+        "Artistic Capture",
+        "Musical Inspiration"
+    ],
+    "negative": [
+        "Sound Issues",
+        "Bad Acoustics",
+        "Off-Key Performance",
+        "Unenthusiastic Audience",
+        "Poor Lighting",
+        "Uncomfortable Clothing",
+        "Inattentive Crowd",
+        "Performer Anxiety",
+        "Disappointment",
+        "Sad Moments",
+        "Lack of Enthusiasm",
+        "Negative Energy"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "positive": [
+        "Glamorous",
+        "Elegant",
+        "Stylish",
+        "Fashionable",
+        "High-End",
+        "Luxurious",
+        "Exclusive",
+        "Behind-The-Scenes",
+        "Backstage",
+        "Dressing Room",
+        "Preparation",
+        "Creative Teamwork",
+        "Fashion Show",
+        "Runway",
+        "Catwalk",
+        "Trendsetting",
+        "Influencer",
+        "Brand Ambassador",
+        "Campaign",
+        "Advertising"
+    ],
+    "negative": [
+        "Mundane",
+        "Routine",
+        "Dull",
+        "Repetitive",
+        "Stressful",
+        "Exhausting",
+        "Pressure",
+        "Unappreciated",
+        "Overworked",
+        "Undervalued",
+        "Invisible Labor",
+        "Exploitation",
+        "Inequality",
+        "Sexism",
+        "Ageism",
+        "Racism",
+        "Body Shaming"
+    ]
+}

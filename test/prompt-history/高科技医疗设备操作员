@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Advanced Medical Equipment",
+        "High-Tech Surgery",
+        "Modern Diagnostic Tools",
+        "Robotic Assistance",
+        "Futuristic Hospital Room",
+        "Sleek Medical Device",
+        "Cybernetic Enhancements",
+        "Neon Operating Theater",
+        "Holographic Instructions",
+        "Urban Healthcare Facility",
+        "Glowing Biotech Lab",
+        "Experimental Treatment",
+        "Tech-Savvy Doctor",
+        "Futuristic Medical Uniform",
+        "Digital Patient Monitoring"
+    ],
+    "negative": [
+        "Outdated Equipment",
+        "Dark Hospital Corridor",
+        "Broken Medical Device",
+        "Abandoned Research Facility",
+        "Decaying Laboratory",
+        "Isolated Treatment Room",
+        "Unresponsive Robot Assistant",
+        "Overcrowded Healthcare Center",
+        "Dilapidated Operating Theater",
+        "Malfunctioning Holographic System",
+        "Corroded Medical Equipment",
+        "Deserted Biotech Lab",
+        "Failed Experimental Treatment",
+        "Disgruntled Doctor",
+        "Insufficient Training"
+    ]
+}

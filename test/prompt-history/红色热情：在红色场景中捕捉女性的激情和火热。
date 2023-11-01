@@ -1,0 +1,24 @@
+{
+    "positive": [
+        "red",
+        "passionate",
+        "energetic",
+        "vibrant",
+        "fiery",
+        "bold",
+        "flirtatious",
+        "desire",
+        "heatwave",
+        "sultry",
+        "intense"
+    ],
+    "negative": [
+        "calm",
+        "cool",
+        "neutral",
+        "apathetic",
+        "demure",
+        "subtle",
+        "understated"
+    ]
+}

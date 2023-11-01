@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Astronaut",
+        "Space Suit",
+        "Zero-Gravity",
+        "Planetary Exploration",
+        "Rockets",
+        "Solar System",
+        "Interstellar Travel",
+        "Manned Mission",
+        "Cosmic Rays",
+        "Orbital Station",
+        "Lunar Base",
+        "Martian Colony",
+        "Xenobiology",
+        "Astrophysics",
+        "Exoplanets"
+    ],
+    "negative": [
+        "Deep Space Isolation",
+        "Radiation Exposure",
+        "Fear of the Unknown",
+        "Galactic Conflict",
+        "Resources Depletion",
+        "Colonization Disputes",
+        "Extraterrestrial Threats",
+        "Cosmic Loneliness",
+        "Astronaut Nightmares"
+    ]
+}

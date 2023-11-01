@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Vintage",
+        "Retro",
+        "Swing Dancing",
+        "Jazz Music",
+        "Classic Cars",
+        "1950s Fashion",
+        "Rockabilly Style",
+        "Pin-up Girls",
+        "Bright Colors",
+        "Diner Scene",
+        "Leather Jackets",
+        "Tattoos",
+        "Punk Attitude"
+    ],
+    "negative": [
+        "Modern Influences",
+        "Overused Themes",
+        "Cliched Imagery",
+        "Stereotypes",
+        "Lack of Authenticity",
+        "Fake Vintage Styles",
+        "Tacky Costumes"
+    ]
+}

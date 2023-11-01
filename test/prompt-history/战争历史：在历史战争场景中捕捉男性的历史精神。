@@ -1,0 +1,23 @@
+{
+    "positive": [
+        "Military Uniform",
+        "Historical Battlefield",
+        "Vintage War Photography",
+        "War Heroes",
+        "Propaganda Posters",
+        "Patriotic Symbols",
+        "Antique Weaponry",
+        "Retro Military Vehicles"
+    ],
+    "negative": [
+        "Bloodshed",
+        "Suffering",
+        "Destruction",
+        "Loss",
+        "Trauma",
+        "Human Tragedy",
+        "War Crimes",
+        "Atrocities",
+        "Despair"
+    ]
+}

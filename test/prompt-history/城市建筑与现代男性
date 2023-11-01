@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Sleek Skyscrapers",
+        "Futuristic Infrastructure",
+        "Urban Oasis",
+        "Modern Metropolis",
+        "Neon Streets",
+        "Eco-Friendly Designs",
+        "Technologically Advanced",
+        "Sustainable Living",
+        "Stylish Architecture",
+        "Minimalist Aesthetic",
+        "Bold Statements",
+        "Vibrant Culture",
+        "Multiculturalism",
+        "Inclusive Spaces",
+        "Advanced Transportation",
+        "Digital Connectivity",
+        "Health Conscious",
+        "Balanced Lifestyle"
+    ],
+    "negative": [
+        "Abandoned Construction Sites",
+        "Collapsing Infrastructure",
+        "Polluted Cityscapes",
+        "Overcrowded Streets",
+        "Dilapidated Buildings",
+        "Decaying Neighborhoods",
+        "Outdated Technology",
+        "Uninhabitable Spaces",
+        "Graffiti-Covered Walls",
+        "Noise Pollution",
+        "Traffic Congestion",
+        "Digital Overload",
+        "Stressful Living Conditions",
+        "Inaccessible Public Spaces",
+        "Inequality",
+        "Crumbling Foundations",
+        "Divided Communities"
+    ]
+}

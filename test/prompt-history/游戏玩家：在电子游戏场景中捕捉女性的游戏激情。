@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Futuristic Gadgets",
+        "Sleek Armor",
+        "Holographic Displays",
+        "Advanced Weaponry",
+        "Cybernetic Enhancements",
+        "Urban Assault",
+        "Techno-Punk Style",
+        "High-Tech Vehicles",
+        "Glowing Orbs",
+        "Exotic Landscapes",
+        "Sci-Fi Cityscape",
+        "Neon Lit Battlefield",
+        "Advanced Prosthetics",
+        "Holographic Communication",
+        "Futuristic Medical Tech",
+        "Robotic Companions"
+    ],
+    "negative": [
+        "Abandoned Infrastructure",
+        "Dark and Gloomy Corridors",
+        "Ruined Futuristic Cityscape",
+        "Desolation and Decay",
+        "Corroded Metal Surfaces",
+        "Frozen Overviews of Techno-Utopia",
+        "Icy Grip of Technology",
+        "Post-Apocalyptic Atmosphere",
+        "Dystopian Elements",
+        "Grim Darkness",
+        "Somber Tones",
+        "Eerie Silence",
+        "Haunting Melodies",
+        "Ominous Shadows",
+        "Cold and Lifeless",
+        "Melancholic Ambiance"
+    ]
+}

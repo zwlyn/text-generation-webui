@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Fierce",
+        "Confident",
+        "Independent",
+        "Sexy",
+        "Mysterious",
+        "Charismatic",
+        "Strong",
+        "Determined",
+        "Empowered",
+        "Defiant",
+        "Daring",
+        "Rebellious",
+        "Dynamic",
+        "Glamorous",
+        "Fearless",
+        "Adventurous",
+        "Energetic",
+        "Innovative"
+    ],
+    "negative": [
+        "Weak",
+        "Vulnerable",
+        "Dependent",
+        "Afraid",
+        "Naive",
+        "Timid",
+        "Ineffectual",
+        "Unassertive",
+        "Submissive",
+        "Compliant",
+        "Passive"
+    ]
+}

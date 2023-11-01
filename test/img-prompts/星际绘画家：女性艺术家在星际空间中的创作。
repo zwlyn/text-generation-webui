@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Futuristic",
+        "Creative",
+        "Innovative",
+        "Colorful",
+        "Sci-Fi Inspired",
+        "Imaginative",
+        "Outer Space",
+        "Intergalactic",
+        "Adventure",
+        "Exploration",
+        "Pioneering",
+        "Collaboration",
+        "Diversity",
+        "Inclusivity"
+    ],
+    "negative": [
+        "Sexist",
+        "Gender Bias",
+        "Discrimination",
+        "Unfair Treatment",
+        "Inequality",
+        "Underrepresentation",
+        "Marginalization",
+        "Exclusionary"
+    ]
+}

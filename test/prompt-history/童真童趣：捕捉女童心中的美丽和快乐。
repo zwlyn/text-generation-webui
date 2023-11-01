@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Beauty",
+        "Joy",
+        "Fun",
+        "Creative",
+        "Colorful",
+        "Girly",
+        "Playful",
+        "Fashionable",
+        "Elegant",
+        "Charming",
+        "Inspiring",
+        "Vibrant",
+        "Imaginative",
+        "Lively",
+        "Artistic",
+        "Youthful",
+        "Exciting",
+        "Optimistic"
+    ],
+    "negative": [
+        "Sadness",
+        "Gloominess",
+        "Seriousness",
+        "Monotony",
+        "Drab",
+        "Boring",
+        "Uninspired",
+        "Forced",
+        "Mismatched",
+        "Disjointed",
+        "Haphazard",
+        "Confusing"
+    ]
+}

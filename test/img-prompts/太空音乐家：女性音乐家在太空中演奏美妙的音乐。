@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Female Musician",
+        "Melodious Tunes",
+        "Starry Backdrop",
+        "Galactic Performance",
+        "Intergalactic Audience",
+        "Inspiring",
+        "Cosmic Harmony",
+        "Out of This World",
+        "Stellar Soundscapes",
+        "Beautifully Unique",
+        "Awe-Inspiring",
+        "Groundbreaking",
+        "Pioneering",
+        "Ethereal Glow",
+        "Exploration",
+        "Bold Creative",
+        "Visionary"
+    ],
+    "negative": [
+        "Isolated Performance",
+        "Abandoned Spacecraft",
+        "Desolate Landscape",
+        "Lonely Melody",
+        "Dissonant Chords",
+        "Eerie Silence",
+        "Forgotten History",
+        "Haunting Memories",
+        "Derelict Technology",
+        "Faded Glory",
+        "Shadows of the Past",
+        "Loss of Inspiration",
+        "Broken Dreams",
+        "Chilling Emptiness",
+        "Fear of the Unknown"
+    ]
+}

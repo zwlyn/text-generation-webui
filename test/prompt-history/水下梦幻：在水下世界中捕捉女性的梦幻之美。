@@ -1,0 +1,23 @@
+{
+    "positive": [
+        "Underwater Dreamland",
+        "Fantastical Creatures",
+        "Mysterious Landscapes",
+        "Sparkling Seascapes",
+        "Iridescent Colors",
+        "Fluid Movements",
+        "Playful Lighting",
+        "Water Reflections",
+        "Dreamlike Atmosphere"
+    ],
+    "negative": [
+        "Limited Visibility",
+        "Cold Temperatures",
+        "Pressure Changes",
+        "Difficulty Communicating",
+        "Unpredictable Currents",
+        "Risk of Drowning",
+        "Dangerous Marine Life",
+        "Navigational Challenges"
+    ]
+}

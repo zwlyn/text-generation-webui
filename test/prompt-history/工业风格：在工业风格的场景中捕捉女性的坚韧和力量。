@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Industrial",
+        "Strong",
+        "Resilient",
+        "Feminine Strength",
+        "Powerful Women",
+        "Steampunk",
+        "Science Fiction",
+        "Metal Textures",
+        "Machinery",
+        "Factories",
+        "Innovation",
+        "Technology",
+        "Modern",
+        "Urban Life"
+    ],
+    "negative": [
+        "Dangerous",
+        "Hazardous Environment",
+        "Unsafe Conditions",
+        "Exhaustion",
+        "Exploitation",
+        "Discrimination",
+        "Gender Inequality",
+        "Sexual Harassment",
+        "Workplace Issues"
+    ]
+}

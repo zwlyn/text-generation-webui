@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Quiet Stage",
+        "Elegant Theater",
+        "Creative Set Design",
+        "Bright Colors",
+        "Contrasting Hues",
+        "Fashionable Costumes",
+        "Confident Presence",
+        "Charming Performance",
+        "Mysterious Aura",
+        "Spacious Scene",
+        "Open Environment"
+    ],
+    "negative": [
+        "Noisy Stage",
+        "Messy Backstage",
+        "Ugly Set Design",
+        "Dull Colors",
+        "Clashing Hues",
+        "Outdated Costumes",
+        "Shy Performer",
+        "Bad Acting",
+        "Lack of Charisma",
+        "Cramped Space",
+        "Enclosed Environment"
+    ]
+}

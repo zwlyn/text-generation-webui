@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Summer Day",
+        "Beach",
+        "Sunbathing",
+        "Swimming",
+        "Seashells",
+        "Girl",
+        "Laughing",
+        "Frolicking",
+        "Waves Crashing",
+        "Sand Castles",
+        "Bikini",
+        "Board Shorts",
+        "Cooler",
+        "Ice Cream",
+        "Beach Ball",
+        "Volleyball",
+        "Picnic",
+        "Parasol",
+        "Tan Lines",
+        "Beach Towel",
+        "Flip Flops"
+    ],
+    "negative": [
+        "Overcast Day",
+        "Rainy Beach",
+        "Cold Winds",
+        "Rough Surf",
+        "Littered Shoreline",
+        "Gloomy Skies",
+        "Abandoned Beach Gear",
+        "Receding Tide",
+        "Desolate Dunes",
+        "Thunderstorms",
+        "Chilly Evening"
+    ]
+}

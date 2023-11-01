@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Exotic Travel",
+        "Adventurous Journey",
+        "Mysterious Locations",
+        "Foreign Cultures",
+        "Natural Wonders",
+        "Urban Exploration",
+        "Spectacular Landscapes",
+        "Architectural Marvels",
+        "Ancient Ruins",
+        "Historical Sites",
+        "Futuristic Infrastructure",
+        "Travel Gadgets",
+        "Local Flavors",
+        "Street Art",
+        "Nightlife Scenes",
+        "Scenic Viewpoints"
+    ],
+    "negative": [
+        "Lost in Translation",
+        "Cultural Misunderstandings",
+        "Language Barriers",
+        "Unfriendly Locals",
+        "Pollution and Littering",
+        "Overcrowded Tourist Spots",
+        "Safety Concerns",
+        "Heavy Traffic",
+        "Bad Weather Conditions",
+        "Tourist Traps",
+        "Urban Congestion",
+        "Crime and Theft",
+        "Navigational Challenges"
+    ]
+}

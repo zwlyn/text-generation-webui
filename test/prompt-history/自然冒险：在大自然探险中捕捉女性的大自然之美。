@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Nature Adventure",
+        "Woman Empowerment",
+        "Female Strength",
+        "Beauty of Nature",
+        "Adventurous Spirit",
+        "Outdoor Exploration",
+        "Scenic Wonders",
+        "Mother Earth",
+        "Rugged Landscapes",
+        "Freedom",
+        "Infinite Possibilities",
+        "Sunlit Horizons",
+        "Mountain Peaks",
+        "Forest Glades",
+        "Ocean Depths",
+        "Vast Skies",
+        "Natural Beauty",
+        "Fearless"
+    ],
+    "negative": [
+        "Isolated",
+        "Dangerous Wildlife",
+        "Inhospitable Terrain",
+        "Unpredictable Weather",
+        "Limited Resources",
+        "Risky Ventures",
+        "Exhausting Hikes",
+        "Steep Cliffs",
+        "Remote Locations",
+        "Unexplored Areas",
+        "Nature's Wrath",
+        "Survival Challenges",
+        "Dense Vegetation",
+        "Muddy Trails",
+        "Cold Temperatures",
+        "High Altitudes"
+    ]
+}

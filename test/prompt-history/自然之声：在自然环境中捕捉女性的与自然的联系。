@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Nature",
+        "Organic",
+        "Greenery",
+        "Botanical",
+        "Floral",
+        "Wildlife",
+        "Riverside",
+        "Forest",
+        "Mountains",
+        "Sunset",
+        "Serenity",
+        "Peaceful",
+        "Harmony",
+        "Ocean",
+        "Beach"
+    ],
+    "negative": [
+        "Urban Jungle",
+        "Concrete",
+        "Graffiti",
+        "Litter",
+        "Pollution",
+        "Traffic",
+        "Noise Pollution",
+        "Overcrowding",
+        "High-Rises",
+        "Construction",
+        "Garbage",
+        "Abandoned"
+    ]
+}

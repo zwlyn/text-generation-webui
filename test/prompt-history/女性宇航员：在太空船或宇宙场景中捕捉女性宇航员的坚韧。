@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Astronaut",
+        "Cosmonaut",
+        "Spacewalk",
+        "Manned Mission",
+        "Zero-G Environment",
+        "Orbiting Space Station",
+        "Lunar Base",
+        "Interstellar Traveler",
+        "Future Tech Suit",
+        "Neutral Buoyancy Lab",
+        "Extravehicular Activity",
+        "EVA Training",
+        "Planetary Rover",
+        "Exploration",
+        "Innovation",
+        "Pioneering Spirit"
+    ],
+    "negative": [
+        "Isolated",
+        "Loneliness",
+        "Dangers of Space",
+        "Vast Emptiness",
+        "Fear of the Unknown",
+        "C claustrophobic environment",
+        "Mental Stress",
+        "Physical Challenges",
+        "Risks",
+        "Setbacks",
+        "Hazards",
+        "Training Accidents"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Strength",
+        "Confidence",
+        "Perseverance",
+        "Determination",
+        "Accomplishment",
+        "Female Empowerment",
+        "Inspirational",
+        "Role Model",
+        "Overcoming Challenges",
+        "Passionate Pursuit",
+        "Achieving Goals",
+        "Teamwork",
+        "Camaraderie",
+        "Resilience",
+        "Joy",
+        "Grit",
+        "Victory"
+    ],
+    "negative": [
+        "Self-Doubt",
+        "Insecurity",
+        "Fear of Failure",
+        "Lack of Confidence",
+        "Feeling Overwhelmed",
+        "Stereotypes",
+        "Discrimination",
+        "Prejudice",
+        "Self-Consciousness"
+    ]
+}

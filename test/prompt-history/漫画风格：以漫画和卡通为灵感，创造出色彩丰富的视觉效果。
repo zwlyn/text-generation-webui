@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Cartoon Style",
+        "Comic Book Inspired",
+        "Colorful Characters",
+        "Graphic Novel Aesthetic",
+        "Animated Effects",
+        "Illustrative Flair",
+        "Chibi Style",
+        "Manga Influence",
+        "Superhero Motifs",
+        "Fantastical Elements",
+        "Storybook Atmosphere",
+        "Whimsical Details",
+        "Bold Shadows",
+        "Dynamic Perspectives"
+    ],
+    "negative": [
+        "Lack of Color",
+        "Dull Characters",
+        "Monotonous Aesthetics",
+        "No Animation",
+        "Flat Design",
+        "Absence of Flair",
+        "No Chibi Style",
+        "Uninspired by Manga",
+        "Superhero Cliches",
+        "Overused Fantasy Elements",
+        "Boring Storybook",
+        "Missing Details",
+        "Weak Shadows",
+        "Static Perspectives"
+    ]
+}

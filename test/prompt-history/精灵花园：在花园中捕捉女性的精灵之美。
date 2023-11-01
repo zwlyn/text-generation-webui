@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Beautiful",
+        "Ethereal",
+        "Feminine",
+        "Glowing",
+        "Mystical",
+        "Enchanting",
+        "Soft",
+        "Flowy",
+        "Radiant",
+        "Spectral",
+        "Dreamlike",
+        "Whimsical",
+        "Magical",
+        "Innocent",
+        "Airy",
+        "Floating",
+        "Tender",
+        "Charming"
+    ],
+    "negative": [
+        "Ghostly",
+        "Haunted",
+        "Spooky",
+        "Creepy",
+        "Eerie",
+        "Unsettling",
+        "Dark",
+        "Forbidding",
+        "Mysterious",
+        "Ominous",
+        "Shadowy",
+        "Secretive",
+        "Hidden",
+        "Unknown",
+        "Sinister",
+        "Suspicious",
+        "Chilling"
+    ]
+}

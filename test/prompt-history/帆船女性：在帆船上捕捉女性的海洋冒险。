@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Adventurous",
+        "Female Explorer",
+        "Ocean Exploration",
+        "Sailing Adventure",
+        "Beautiful Shipwrecks",
+        "Diving Women",
+        "Maritime History",
+        "Sea Legends",
+        "Women's Sailor Style",
+        "Nautical Fashion",
+        "Brave Heroines",
+        "Salvaging Treasures",
+        "Coastal Scenery",
+        "Beachside Discoveries",
+        "Sunken Cities",
+        "Marine Archaeology"
+    ],
+    "negative": [
+        "Shipwreck Peril",
+        "Dangerous Depths",
+        "Underwater Threats",
+        "Lost At Sea",
+        "Navigational Challenges",
+        "Bad Weather Conditions",
+        "Maritime Disasters",
+        "Sea Monsters Myths",
+        "Abandoned Ships",
+        "Dark Ocean Secrets",
+        "Ghost Ship Stories",
+        "Cursed Treasures",
+        "Mysterious Whirlpools",
+        "Tidal Dangers",
+        "Sirens Call"
+    ]
+}

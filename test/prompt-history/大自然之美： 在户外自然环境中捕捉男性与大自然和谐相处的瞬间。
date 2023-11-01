@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Nature",
+        "Wilderness",
+        "Serenity",
+        "Harmony",
+        "Organic",
+        "Sunlit",
+        "Forest",
+        "River",
+        "Mountain",
+        "Botanical",
+        "Foliage",
+        "Gentle Breeze",
+        "Soft Lighting",
+        "Mossy Rock",
+        "Tranquil Moment"
+    ],
+    "negative": [
+        "Urban Sprawl",
+        "Pollution",
+        "Deforestation",
+        "Desertification",
+        "Invasive Species",
+        "Trash",
+        "Littering",
+        "Overdevelopment",
+        "Noise Pollution",
+        "Air Pollution",
+        "Water Pollution",
+        "Climate Change"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Military",
+        "Futuristic Military",
+        "Technological Advancements",
+        "Advanced Armor",
+        "Weaponry",
+        "Soldier of the Future",
+        "Cyborg Enhancements",
+        "Intelligent Battlefield",
+        "Tactical Gear",
+        "Nanotechnology",
+        "Stealth Operations",
+        "Future Warfare Tactics",
+        "Smart Weapons",
+        "Network-Centric Warfare",
+        "Advanced Training Simulations"
+    ],
+    "negative": [
+        "Loss of Humanity",
+        "Desensitized to Violence",
+        "Overreliance on Technology",
+        "Soldier Dehumanization",
+        "War Profiteering",
+        "Militaristic Society",
+        "Disconnected from Reality",
+        "Cyber Warfare Threats",
+        "Psychological Trauma",
+        "Collateral Damage",
+        "Loss of Moral Code",
+        "Unethical Experimentation",
+        "Technology Run Amok",
+        "Dystopian Battlefield"
+    ]
+}

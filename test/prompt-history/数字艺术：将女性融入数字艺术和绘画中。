@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Feminine Aesthetics",
+        "Glamorous Tech",
+        "Neon Colors",
+        "Sleek Designs",
+        "Future Fashion",
+        "Urban Environment",
+        "Holographic Effects",
+        "Cybernetic Accessories",
+        "Elegant Gadgets",
+        "Futuristic Hairstyles",
+        "High-Tech Makeup",
+        "Sci-Fi Chic",
+        "Virtual Reality Fashion",
+        "Glowing Accents",
+        "Exotic Influences",
+        "Urban Explorer",
+        "Female Tech Enthusiast"
+    ],
+    "negative": [
+        "Dark Tones",
+        "Abandoned Spaces",
+        "Technology Glitches",
+        "Pollution",
+        "Overcrowded City",
+        "Crumbling Infrastructure",
+        "Corruption",
+        "Surveillance Society",
+        "Isolation and Loneliness",
+        "Dystopian Atmosphere",
+        "Resistance Movement",
+        "Graffiti",
+        "Vandalism",
+        "Decaying Urban Landscape"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Whimsical",
+        "Fantastical",
+        "Magical",
+        "Mysterious",
+        "Enchanted",
+        "Charming",
+        "Storybook",
+        "Lush",
+        "Dreamy",
+        "Colorful",
+        "Wondrous",
+        "Legendary",
+        "Fables",
+        "Tales",
+        "Fairytale",
+        "Spectacular",
+        "Ethereal",
+        "Mythical"
+    ],
+    "negative": [
+        "Harsh",
+        "Gloomy",
+        "Dreary",
+        "Desolate",
+        "Uninviting",
+        "Grim",
+        "Ominous",
+        "Frightening",
+        "Haunting",
+        "Chilling",
+        "Somber",
+        "Melancholic",
+        "Lonely",
+        "Eerie",
+        "Creepy",
+        "Ghostly",
+        "Deserted"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "positive": [
+        "Sun-Kissed Skin",
+        "Glistening Sand",
+        "Turquoise Sea",
+        "Coconut Scented Breeze",
+        "Vibrant Tropical Plants",
+        "Beachside Cabanas",
+        "Chic Beach Attire",
+        "Parasols and Floppy Hats",
+        "Waves Lapping Shore",
+        "Swaying Palm Trees"
+    ],
+    "negative": [
+        "Blazing Sun",
+        "Overcrowded Beach",
+        "Trash on the Sand",
+        "Seaweed Tangled Feet",
+        "Piercing Wind",
+        "Uncomfortable Temperatures",
+        "Salt-Crusted Skin",
+        "Sticky Sand Stuck Shoes",
+        "Sunstroke Fatigue",
+        "Mosquito Bites",
+        "Sunburn Pain"
+    ]
+}

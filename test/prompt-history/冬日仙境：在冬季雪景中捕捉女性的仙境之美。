@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Winter Wonderland",
+        "Snowy Scenery",
+        "Frosted Trees",
+        "Icicles",
+        "Crisp Air",
+        "Cozy Fireside",
+        "Holiday Spirit",
+        "Ski Slope",
+        "Ice Skating Rink",
+        "Sledding Hills",
+        "Winter Wildlife",
+        "Snowball Fight",
+        "Hot Cocoa",
+        "Festive Decorations",
+        "Nutcracker Ballet",
+        "Carolers"
+    ],
+    "negative": [
+        "Bitter Cold",
+        "Icy Roads",
+        "Slippery Sidewalks",
+        "Power Outages",
+        "Blizzard Conditions",
+        "Frozen Pipes",
+        "Cabin Fever",
+        "Shoveling Snow",
+        "Traffic Accidents",
+        "Frostbite",
+        "Depleted Batteries",
+        "Buried Cars",
+        "Abandoned Playgrounds",
+        "Gloomy Skies",
+        "Winter Storm Warnings"
+    ]
+}

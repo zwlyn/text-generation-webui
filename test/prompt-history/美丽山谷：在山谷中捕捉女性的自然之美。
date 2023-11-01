@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Nature",
+        "Beautiful",
+        "Serene",
+        "Tranquil",
+        "Lush",
+        "Greenery",
+        "Waterfall",
+        "Forest",
+        "Mountains",
+        "Sunlight",
+        "Birds Singing",
+        "Fresh Air",
+        "Peaceful"
+    ],
+    "negative": [
+        "Urban Sprawl",
+        "Pollution",
+        "Deforestation",
+        "Garbage",
+        "Noise Pollution",
+        "Traffic Congestion",
+        "Overcrowding",
+        "Concrete Jungle",
+        "Air Pollution",
+        "Water Pollution"
+    ]
+}

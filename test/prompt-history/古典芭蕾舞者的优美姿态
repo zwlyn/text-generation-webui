@@ -1,0 +1,20 @@
+{
+    "positive": [
+        "Classical Ballet",
+        "Graceful Posture",
+        "Elegant Costumes",
+        "Scene Setting",
+        "Stage Lighting",
+        "Dramatic Expression",
+        "Artistic Composition"
+    ],
+    "negative": [
+        "Mundane Pose",
+        "Ungracious Gesture",
+        "Tacky Costumes",
+        "Lackluster Setting",
+        "Uninspired Lighting",
+        "Flat Expression",
+        "Overused Theme"
+    ]
+}

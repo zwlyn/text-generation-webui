@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Feminine",
+        "Beautiful",
+        "Strong",
+        "Confident",
+        "Empowered",
+        "Independent",
+        "Graceful",
+        "Intelligent",
+        "Skilled",
+        "Visionary",
+        "Influential",
+        "Innovative",
+        "Charismatic",
+        "Leader",
+        "Inspiring",
+        "Dignified",
+        "Elegant",
+        "Optimistic"
+    ],
+    "negative": [
+        "Submissive",
+        "Weak",
+        "Unfeminine",
+        "Vulnerable",
+        "Dependent",
+        "Clumsy",
+        "Naive",
+        "Inept",
+        "Short-sighted",
+        "Old-fashioned",
+        "Dull"
+    ]
+}

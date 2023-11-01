@@ -1,0 +1,22 @@
+{
+    "positive": [
+        "Female Artist",
+        "Creative Vision",
+        "Artistic Expression",
+        "Colorful Pallet",
+        "Inspiring Scenes",
+        "Diverse Mediums",
+        "Evolving Styles",
+        "Emotional Connections",
+        "Timeless Masterpieces"
+    ],
+    "negative": [
+        "Critical Reception",
+        "Public Perception",
+        "Commercialization of Art",
+        "Competition",
+        "Self-Doubt",
+        "Limited Resources",
+        "Expectations"
+    ]
+}

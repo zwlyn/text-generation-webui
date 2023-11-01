@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Angelic",
+        "Heavenly",
+        "Divine",
+        "Ethereal",
+        "Cherubic",
+        "Wings",
+        "Halo",
+        "Glowing Aura",
+        "Innocent",
+        "Benevolent",
+        "Beautiful",
+        "Soft Light",
+        "Celestial",
+        "Peaceful",
+        "Seraphim",
+        "Uplifting",
+        "Radiant"
+    ],
+    "negative": [
+        "Demonic",
+        "Satanic",
+        "Fallen",
+        "Ominous",
+        "Malevolent",
+        "Shadows",
+        "Red Eyes",
+        "Piercing Stare",
+        "Sinister Smile",
+        "Horns",
+        "Tail",
+        "Cracked Skin",
+        "Dark Aura",
+        "Unholy",
+        "Destructive",
+        "Haunting",
+        "Mysterious"
+    ]
+}

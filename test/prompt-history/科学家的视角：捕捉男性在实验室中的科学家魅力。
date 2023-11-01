@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Scientific Inquiry",
+        "Curiosity",
+        "Knowledge Seeker",
+        "Innovation",
+        "Experimentation",
+        "Discovery",
+        "Passionate Researcher",
+        "Intellectual Drive",
+        "Visionary Thinker",
+        "Cutting-Edge Science"
+    ],
+    "negative": [
+        "Isolated Mindset",
+        "Obscure Theories",
+        "Unethical Practices",
+        "Misplaced Priorities",
+        "Dangerous Experiments",
+        "Failed Hypotheses",
+        "Overambitious Projects",
+        "Careless Approach",
+        "Blinded by Hubris"
+    ]
+}

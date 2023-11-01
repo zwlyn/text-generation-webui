@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Snowy Wonderland",
+        "Frozen Fantasy",
+        "Icy Beauty",
+        "Crystal Clear",
+        "Glistening Ice",
+        "Winter Magic",
+        "Chilly Chic",
+        "Frosty Glamour",
+        "Glacier Goddess",
+        "Ethereal Snowfall",
+        "Dazzling Diamonds"
+    ],
+    "negative": [
+        "Bitter Cold",
+        "Frozen Desolation",
+        "Icebound Isolation",
+        "Chilling Loneliness",
+        "Snow-Covered Ruins",
+        "Blinding Frost",
+        "Frigid Despair",
+        "Gloomy Shadows",
+        "Stark Emptiness"
+    ]
+}

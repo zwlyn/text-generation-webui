@@ -1,0 +1,27 @@
+{
+    "positive": [
+        "Magical Academy",
+        "Female Magicians",
+        "Enchanting Beauty",
+        "Spellbinding Looks",
+        "Witchcraft",
+        "Sorcery",
+        "Mysticism",
+        "Occult Knowledge",
+        "Natural Magic",
+        "Elemental Forces",
+        "Celestial Bodies",
+        "Charming Spells",
+        "Supernatural Grace"
+    ],
+    "negative": [
+        "Mundane Reality",
+        "Lack of Enchantment",
+        "Banality",
+        "Disenchanted World",
+        "Unmagical Life",
+        "Prosaic Existence",
+        "Practicality",
+        "Ordinary Routine"
+    ]
+}

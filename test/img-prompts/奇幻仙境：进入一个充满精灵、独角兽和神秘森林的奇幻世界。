@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Magical Forest",
+        "Mysterious Creatures",
+        "Whimsical Atmosphere",
+        "Enchanted Woods",
+        "Fantastical Beings",
+        "Charming Landscapes",
+        "Wondrous Adventures",
+        "Spellbinding Scenery",
+        "Otherworldly Realm",
+        "Arcane Wonders",
+        "Ethereal Encounters",
+        "Quests and Trials",
+        "Fantasy Fashion",
+        "Intricate Details",
+        "Dreamlike Atmosphere"
+    ],
+    "negative": [
+        "Mundane World",
+        "Ordinary Life",
+        "Boring Landscapes",
+        "Lack of Magic",
+        "Missing Enchantment",
+        "Cold Reality",
+        "Monotonous Adventures",
+        "Dull Scenery",
+        "Plain Encounters",
+        "No Arcane Powers",
+        "Absence of Fantasy",
+        "Trivial Tasks",
+        "Boring Fashion",
+        "Lacking Imagination",
+        "Grey Atmosphere"
+    ]
+}

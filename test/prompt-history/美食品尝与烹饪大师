@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Gastronomy",
+        "Culinary Mastery",
+        "Sophisticated Taste",
+        "Food Artistry",
+        "Kitchen Wizardry",
+        "Bold Flavors",
+        "Exquisite Presentation",
+        "Haute Cuisine",
+        "Molecular Gastronomy",
+        "Innovative Techniques",
+        "Culinary Visionary",
+        "Sensory Exploration",
+        "Foodie Adventure",
+        "Palate Pleasures",
+        "Gourmet Delights",
+        "Dining Experience",
+        "Epicurean Journey"
+    ],
+    "negative": [
+        "Unappetizing",
+        "Bland Dishes",
+        "Overcooked Food",
+        "Lack of Creativity",
+        "Monotonous Menu",
+        "Subpar Seasoning",
+        "Ugly Presentation",
+        "Mundane Cuisine",
+        "Outdated Techniques",
+        "Culinary Dinosaur",
+        "Tasteless Offerings",
+        "Food Fiasco",
+        "Gastronomic Disaster",
+        "Dining Disappointment",
+        "Uninspired Plates",
+        "Plain Flavors"
+    ]
+}

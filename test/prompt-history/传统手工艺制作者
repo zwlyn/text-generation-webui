@@ -1,0 +1,23 @@
+{
+    "positive": [
+        "Artisanal",
+        "Handmade",
+        "Skilled Craftsmanship",
+        "Traditional Techniques",
+        "Timeless Design",
+        "Intricate Detailing",
+        "Natural Materials",
+        "Masterful Creation",
+        "Cultural Heritage",
+        "Sustainable Practices"
+    ],
+    "negative": [
+        "Mass Production",
+        "Automated Processes",
+        "Discarded Tools",
+        "Forgotten Skills",
+        "Outdated Methods",
+        "Lack of Innovation",
+        "Resistant to Change"
+    ]
+}

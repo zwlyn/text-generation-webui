@@ -1,0 +1,23 @@
+{
+    "positive": [
+        "Dance Performance",
+        "Theatrical Dance",
+        "Expression through Movement",
+        "Choreography",
+        "Costumes and Makeup",
+        "Stage Lighting",
+        "Performance Art",
+        "Interpretative Dance",
+        "Storytelling through Dance"
+    ],
+    "negative": [
+        "Mismatched Rhythm",
+        "Ungraceful Poses",
+        "Confused Choreography",
+        "Incoherent Storyline",
+        "Poor Use of Space",
+        "Overacting",
+        "Unimaginative Costumes",
+        "Lack of Emotion"
+    ]
+}

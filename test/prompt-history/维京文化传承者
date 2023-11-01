@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Traditional",
+        "Japanese Culture",
+        "Ancient Wisdom",
+        "Harmony",
+        "Nature Inspired",
+        "Serenity",
+        "Respectful",
+        "Heritage",
+        "Timeless",
+        "Sacred Spaces",
+        "Rituals",
+        "Elegance",
+        "Beauty",
+        "Zen Aesthetic",
+        "Wabi Sabi",
+        "Fresh Perspective"
+    ],
+    "negative": [
+        "Modern Influence",
+        "Loss of Tradition",
+        "Urban Sprawl",
+        "Disrespectful Behavior",
+        "Environmental Degradation",
+        "Noise Pollution",
+        "Overdevelopment",
+        "Commercialization"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Adventurous",
+        "Outdoorsy",
+        "Courageous",
+        "Inspirational",
+        "Resilient",
+        "Empowering",
+        "Challenging",
+        "Exciting",
+        "Daring",
+        "Boundary-pushing",
+        "Confident",
+        "Fearless",
+        "Awe-inspiring",
+        "Authentic",
+        "Nature-loving",
+        "Venturesome",
+        "Unstoppable"
+    ],
+    "negative": [
+        "Dangerous",
+        "Treacherous",
+        "Hazardous",
+        "Isolated",
+        "Desolate",
+        "Intimidating",
+        "Threatening",
+        "Unpredictable",
+        "Inhospitable",
+        "Hostile",
+        "Chaotic",
+        "Disorienting"
+    ]
+}

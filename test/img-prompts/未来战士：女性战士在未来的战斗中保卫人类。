@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Female Warrior",
+        "Cybernetic Enhancements",
+        "Advanced Armor",
+        "Futuristic Weaponry",
+        "Holographic Interface",
+        "Sleek Design",
+        "Urban Battlefield",
+        "Neon Lights",
+        "Dynamic Poses",
+        "Strong Expression",
+        "Confident Stance",
+        "Teamwork"
+    ],
+    "negative": [
+        "Dystopian Cityscape",
+        "Post-Apocalyptic Scenario",
+        "Broken Technology",
+        "Pollution and Decay",
+        "Crippled Infrastructure",
+        "Surveillance Drones",
+        "Isolated Warrior",
+        "Desolate Environment",
+        "Corrupted Systems",
+        "Cyber Threats",
+        "Escalating Conflict",
+        "Human Suffering"
+    ]
+}

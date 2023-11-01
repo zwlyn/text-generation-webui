@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Rustic",
+        "Authentic",
+        "Hardworking",
+        "Sunrise on the Farm",
+        "Harvest Time",
+        "Farmer's Pride",
+        "Tractor Driving",
+        "Planting Seeds",
+        "Country Life",
+        "Idyllic Scenery",
+        "Bountiful Crops",
+        "Animal Care",
+        "Barnyard Chores"
+    ],
+    "negative": [
+        "Drought Stricken Land",
+        "Abandoned Farmhouse",
+        "Hurricane Damage on the Farm",
+        "Crop Failure",
+        "Farm Equipment Breakdown",
+        "Pesticide Exposure",
+        "Soil Erosion",
+        "Invasive Species",
+        "Wildfire Threat",
+        "Rural Isolation",
+        "Urban Sprawl Encroachment",
+        "Environmental Degradation",
+        "Agricultural Economic Stress"
+    ]
+}

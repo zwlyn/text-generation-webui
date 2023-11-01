@@ -1,0 +1,24 @@
+{
+    "positive": [
+        "Emotional",
+        "Intense",
+        "In-the-moment",
+        "Authentic",
+        "Dramatic",
+        "Powerful",
+        "Candid",
+        "Revealing",
+        "Genuine"
+    ],
+    "negative": [
+        "Detached",
+        "Distant",
+        "Unemotional",
+        "Forced",
+        "Artificial",
+        "Posed",
+        "Contrived",
+        "Insincere",
+        "Superficial"
+    ]
+}

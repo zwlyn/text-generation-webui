@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Adventure",
+        "Wilderness",
+        "Camping",
+        "Hiking",
+        "Backpacking",
+        "Mountains",
+        "Forests",
+        "Rivers",
+        "Outdoorsman",
+        "Nature Connection",
+        "Survival Skills",
+        "Challenge",
+        "Exploration",
+        "Freedom",
+        "Sunrise",
+        "Sunset",
+        "Awe-Inspiring"
+    ],
+    "negative": [
+        "Dangerous",
+        "Isolation",
+        "Loneliness",
+        "Harsh Conditions",
+        "Risky",
+        "Unpredictable",
+        "Extreme Weather",
+        "Fatigue",
+        "Bushwhacking",
+        "Precarious Terrain",
+        "Threats",
+        "Setbacks",
+        "Peril",
+        "Deserts",
+        "Swamps",
+        "Untamed Wilderness"
+    ]
+}

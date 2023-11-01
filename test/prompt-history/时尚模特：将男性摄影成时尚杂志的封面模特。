@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Urban Jungle",
+        "Futuristic Style",
+        "High-Tech Gadgets",
+        "Neon Signs",
+        "Sleek Haircut",
+        "Holographic Interface",
+        "Advanced Technology",
+        "Metallic Accents",
+        "Glowing Light Trails",
+        "Exotic Locations",
+        "Stylish Accessories",
+        "Vibrant Colors",
+        "Futuristic Vehicles"
+    ],
+    "negative": [
+        "Abandoned City",
+        "Dystopian Atmosphere",
+        "Dark Alleys",
+        "Polluted Environment",
+        "Crumbling Infrastructure",
+        "Broken Gadgets",
+        "Surveillance Cameras",
+        "Isolated Individuals",
+        "Desolate Landscapes",
+        "Cyber Attacks",
+        "Technology Failure",
+        "Graffiti",
+        "Corrupt Authorities",
+        "Hacking Scenes",
+        "Underground Bases"
+    ]
+}

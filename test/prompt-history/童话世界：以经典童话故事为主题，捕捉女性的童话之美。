@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Magical Forest",
+        "Enchanted Castle",
+        "Fairy Godmother",
+        "Mysterious Creatures",
+        "Charming Prince",
+        "Glass Slipper",
+        "Spellbound",
+        "Once Upon A Time",
+        "Wondrous Adventure",
+        "Whimsical Wardrobe",
+        "Cinderella's Ball",
+        "Jack And The Beanstalk",
+        "Sleeping Beauty's Castle",
+        "The Ugly Duckling's Transformation",
+        "Hansel And Gretel's Forest"
+    ],
+    "negative": [
+        "Abandoned Throne",
+        "Dark Curse",
+        "Forbidden Forest",
+        "Sinister Whispers",
+        "Unhappy Ending",
+        "Forgotten Tale",
+        "Shattered Dreams",
+        "Broken Glass Slipper",
+        "Buried Treasure",
+        "Lost In A Labyrinth",
+        "The Beast's Castle",
+        "Goldilocks' Ruins"
+    ]
+}

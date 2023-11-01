@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Inner Peace",
+        "Meditative State",
+        "Quiet Mind",
+        "Focused Energy",
+        "Calm Strength",
+        "Balance",
+        "Serenity",
+        "Relaxation",
+        "Deep Breathing",
+        "Peaceful Connection",
+        "Mindful Moment",
+        "Harmony"
+    ],
+    "negative": [
+        "Restless Thoughts",
+        "Overwhelming Emotions",
+        "Unquiet Mind",
+        "Disrupted Focus",
+        "Tense Muscles",
+        "Lack of Balance",
+        "Stress",
+        "Anxiety",
+        "Rapid Breathing",
+        "Mental Chaos",
+        "Disharmony"
+    ]
+}

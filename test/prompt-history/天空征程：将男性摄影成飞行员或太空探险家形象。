@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Astronaut",
+        "Cosmic Explorer",
+        "Galactic Journey",
+        "Planetary Rover",
+        "Manned Mission",
+        "Stellar Voyage",
+        "Interstellar Traveler",
+        "Starship Crew Member",
+        "Extraterrestrial Encounter",
+        "Outer Space Expedition"
+    ],
+    "negative": [
+        "Lost in Space",
+        "Alien Peril",
+        "Cosmic Radiation",
+        "Depleted Oxygen Supply",
+        "Frozen Vacuum of Space",
+        "Hazardous Debris",
+        "Isolation From Earth",
+        "Life Support System Failure",
+        "Navigational Error",
+        "Orbital Decay"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Urban Chic",
+        "Stylish",
+        "Modern",
+        "Sleek",
+        "Futuristic Design",
+        "High Fashion",
+        "Bold Statements",
+        "Daring Accessories",
+        "Elegant Layering",
+        "Geometric Shapes",
+        "Graphic Prints",
+        "Vibrant Colors",
+        "Minimalist Elegance",
+        "Sophisticated Silhouettes",
+        "Crisp Textures",
+        "Refined Details",
+        "Tailored Fit"
+    ],
+    "negative": [
+        "Outdated Trends",
+        "Drab Tones",
+        "Boring Patterns",
+        "Ill-Fitting Garments",
+        "Mismatched Colors",
+        "Overused Accessories",
+        "Lackluster Designs",
+        "Cliché Themes"
+    ]
+}

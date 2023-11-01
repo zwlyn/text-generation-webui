@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Adventurous",
+        "Sun-Kissed",
+        "Free-Spirited",
+        "Carefree",
+        "Daring",
+        "Active Lifestyle",
+        "Outdoor Sports",
+        "Extreme Activities",
+        "Surfing",
+        "Scuba Diving",
+        "Sea Exploration",
+        "Coastal Hiking",
+        "Water Fun",
+        "Rugged Landscapes"
+    ],
+    "negative": [
+        "Loneliness",
+        "Vulnerability",
+        "Desolation",
+        "Dangerous Waves",
+        "Unpredictable Weather",
+        "Sun Burns",
+        "Dehydration",
+        "Exhaustion",
+        "Sea Creatures",
+        "Submerged Rocks",
+        "Currents",
+        "Riptides"
+    ]
+}

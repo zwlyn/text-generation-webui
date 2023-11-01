@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Elegant",
+        "Regal",
+        "Mysterious",
+        "Alluring",
+        "Beauty",
+        "Glamour",
+        "Dignified",
+        "Confident",
+        "Charming",
+        "Enchanting",
+        "Classic",
+        "Timeless"
+    ],
+    "negative": [
+        "Harsh",
+        "Cruel",
+        "Desolate",
+        "Unkind",
+        "Forbidding",
+        "Sadistic",
+        "Dark",
+        "Lifeless",
+        "Haunting",
+        "Unsettling",
+        "Oppressive",
+        "Chilling"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Ice Queen",
+        "Frosty Glamour",
+        "Ethereal Beauty",
+        "Crystal Elegance",
+        "Winter Wonderland",
+        "Sparkling Chill",
+        "Glistening Glacier",
+        "Icicle Radiance",
+        "Arctic Enchantment",
+        "Frostbitten Fashion",
+        "Chilling Grace",
+        "Silent Splendor",
+        "Winter's Allure",
+        "Cold Charisma",
+        "Glimmering Snowflakes",
+        "Subzero Chic",
+        "Frozen Serenity"
+    ],
+    "negative": [
+        "Bitter Cold",
+        "Frostbite Fear",
+        "Icebound Desolation",
+        "Chilling Loneliness",
+        "Arctic Wasteland",
+        "Glacial Isolation",
+        "Winter's Sorrow",
+        "Frigid Anguish",
+        "Cold Indifference",
+        "Frozen Torment",
+        "Snowbound Suffering",
+        "Icy Despair",
+        "Gloomy Solitude",
+        "Frosty Anger",
+        "Winter's Grief"
+    ]
+}

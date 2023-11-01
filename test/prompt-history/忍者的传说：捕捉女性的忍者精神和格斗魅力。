@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Female Ninja",
+        "Woman Warrior",
+        "Agile",
+        "Acrobatic",
+        "Graceful",
+        "Stealthy",
+        "Strong",
+        "Defender",
+        "Katana",
+        "Martial Arts",
+        "Quiet Confidence",
+        "Mysterious",
+        "Ninja Costume",
+        "Futuristic Armor",
+        "Shadow Play"
+    ],
+    "negative": [
+        "Vulnerable",
+        "Injured",
+        "Exhausted",
+        "Defeated",
+        "Broken Weapon",
+        "Lost Cause",
+        "Surrender",
+        "Despair",
+        "Dark Alley",
+        "Abandoned Building",
+        "Urban Chaos",
+        "Crime Scene",
+        "Gang Territory",
+        "Narrow Escape"
+    ]
+}

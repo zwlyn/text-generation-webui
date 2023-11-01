@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Icicle",
+        "Frozen",
+        "Ethereal",
+        "Winter Wonderland",
+        "Snow Princess",
+        "Crystal",
+        "Glistening",
+        "Whiteout",
+        "Frosty",
+        "Narnia-esque",
+        "Mythical Creature",
+        "Arctic Beauty",
+        "Magical Ice Sculptures",
+        "Breathtaking Landscape",
+        "Shimmering",
+        "Dazzling",
+        "Enchanting"
+    ],
+    "negative": [
+        "Frozen to Death",
+        "Abandoned Cabin",
+        "Blizzard Conditions",
+        "Bitter Cold",
+        "Snowblind",
+        "Ice Slick",
+        "Hypothermia",
+        "Starving in the Snow",
+        "Loneliness",
+        "Desolation",
+        "Frozen Tundra",
+        "Inhospitable Environment",
+        "Uninhabitable Conditions",
+        "Deathly Silence"
+    ]
+}

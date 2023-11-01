@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Ethereal",
+        "Dreamlike",
+        "Aerial View",
+        "Suspended in Air",
+        "Flying",
+        "Gliding",
+        "Serene",
+        "Peaceful",
+        "Weightlessness",
+        "Motion Blur",
+        "Infinity Pool",
+        "Clouds",
+        "Panoramic",
+        "Bird's-eye View",
+        "Drone Shot",
+        "Wide Angle Lens"
+    ],
+    "negative": [
+        "Grounded",
+        "Concrete Jungle",
+        "Gravity",
+        "Limited Perspective",
+        "Urban Congestion",
+        "Noise Pollution",
+        "Traffic Jams",
+        "Air Pollution",
+        "Overcrowding",
+        "Construction Chaos",
+        "Narrow Alleys",
+        "Cramped Spaces",
+        "Potholed Roads",
+        "Exhaust Fumes"
+    ]
+}

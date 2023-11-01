@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Classical",
+        "Artistic",
+        "Greek God",
+        "Marble Statue",
+        "Elegant",
+        "Timeless",
+        "Ornate",
+        "Sculpted",
+        "Refined",
+        "Heroic",
+        "Mythological",
+        "Immortal"
+    ],
+    "negative": [
+        "Destruction",
+        "Decaying",
+        "Abandoned",
+        "Forgotten",
+        "Desecrated",
+        "Damaged",
+        "Broken",
+        "Neglected",
+        "Eroded",
+        "Overgrown",
+        "Shadowy"
+    ]
+}

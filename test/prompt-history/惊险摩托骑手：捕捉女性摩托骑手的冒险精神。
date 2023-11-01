@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Adventure",
+        "Freedom",
+        "Liberation",
+        "Empowerment",
+        "Independence",
+        "Speed",
+        "Exhilaration",
+        "Rebellion",
+        "Self-expression",
+        "Confidence",
+        "Fearlessness",
+        "Travel",
+        "Wanderlust",
+        "Nature",
+        "Sunset",
+        "Road Trip"
+    ],
+    "negative": [
+        "Danger",
+        "Accident",
+        "Injury",
+        "Risk",
+        "Unsafe",
+        "Caution",
+        "Fear",
+        "Anxiety",
+        "Uncertainty",
+        "Hazard",
+        "Vulnerability",
+        "Restraint"
+    ]
+}

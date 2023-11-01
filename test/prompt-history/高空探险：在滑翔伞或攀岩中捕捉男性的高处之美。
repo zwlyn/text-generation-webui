@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Adventure",
+        "Sky High",
+        "Extreme Sports",
+        "Risk Taking",
+        "Thrill Seeking",
+        "Outdoor Activities",
+        "Freedom",
+        "Danger",
+        "Excitement",
+        "Nature",
+        "Landscape Photography",
+        "Wide Angle Lens",
+        "Aerial Views",
+        "Altitude",
+        "Panoramic"
+    ],
+    "negative": [
+        "Fear of Heights",
+        "Gravity",
+        "Accidents",
+        "Injury",
+        "Dangerous Situations",
+        "Unstable Conditions",
+        "Limited Oxygen",
+        "Vulnerability",
+        "Risky Behavior",
+        "Physical Challenges",
+        "Nature's Wrath",
+        "Terrain Issues",
+        "Restrictions"
+    ]
+}

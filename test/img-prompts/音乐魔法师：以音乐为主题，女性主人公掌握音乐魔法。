@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Musical",
+        "Magic",
+        "Female Protagonist",
+        "Wand",
+        "Rhythmic",
+        "Harmony",
+        "Enchanted",
+        "Melodious",
+        "Spellbinding",
+        "Inspirational",
+        "Euphoric",
+        "Crescendo",
+        "Synergy",
+        "Orchestral",
+        "Symphony"
+    ],
+    "negative": [
+        "Discordant",
+        "Dissonance",
+        "Despair",
+        "Loss",
+        "Sadness",
+        "Melancholy",
+        "Tragic",
+        "Anxious",
+        "Fearful",
+        "Ominous",
+        "Gloomy",
+        "Unsettling",
+        "Haunting",
+        "Deserted",
+        "Isolation"
+    ]
+}

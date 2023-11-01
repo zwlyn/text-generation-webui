@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Cyberpunk City Life",
+        "Futuristic Urban Scenery",
+        "Masculine Street Style",
+        "Neon-Lit Metropolis",
+        "High-Tech Cityscape",
+        "Urban Innovation",
+        "Holographic Advertising",
+        "Cybernetic Enhancements in Fashion",
+        "Sleek Urban Design",
+        "Dystopian Future Vision",
+        "Sci-Fi Chic Attire",
+        "Virtual Reality Experience",
+        "Futuristic Grooming Techniques",
+        "Metallic Accents",
+        "Glowing City Nights",
+        "Exotic Cultural Fusion",
+        "Urban Adventurer",
+        "Techno-Geek Lifestyle"
+    ],
+    "negative": [
+        "Dark Urban Streets",
+        "Post-Apocalyptic Cityscapes",
+        "Grimy Street Corners",
+        "Urban Decay and Deterioration",
+        "Pollution in the Metropolis",
+        "Surveillance Cameras Everywhere",
+        "Isolated Individuals",
+        "Deserted Urban Spaces",
+        "Cybercrime Hideouts",
+        "System Failure Chaos",
+        "Dystopian City Reality",
+        "Ruined City Skyline",
+        "Corruption in the Urban Environment",
+        "Hackers' Lairs",
+        "Underground Worlds",
+        "Chaotic Street Life",
+        "Resistance Movement"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "positive": [
+        "Galactic Glamour",
+        "Stellar Elegance",
+        "Futuristic Fashion",
+        "Holographic Style",
+        "Otherworldly Beauty",
+        "Neon Cosmos",
+        "Celestial Aura",
+        "Starlit Allure",
+        "Astral Grace"
+    ],
+    "negative": [
+        "Dark Voids",
+        "Desolate Landscapes",
+        "Eerie Silence",
+        "Vast Emptiness",
+        "Loneliness in the Stars",
+        "Frozen Wasteland",
+        "Mysterious Shadows",
+        "Infinite Blackness"
+    ]
+}

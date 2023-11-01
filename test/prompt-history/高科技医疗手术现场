@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Advanced Surgery",
+        "Futuristic Operating Room",
+        "High-Tech Medical Equipment",
+        "Robotic Assistance",
+        "Digital Monitoring",
+        "Minimally Invasive Procedures",
+        "Precision Medicine",
+        "Cutting Edge Technology",
+        "Innovative Techniques",
+        "Sterile Environment"
+    ],
+    "negative": [
+        "Unsterilized Instruments",
+        "Outdated Equipment",
+        "Patient Risk",
+        "Ineffective Treatments",
+        "Overcrowded Facilities",
+        "Understaffed Medical Team",
+        "Lack of Training",
+        "Substandard Sanitation",
+        "Communication Breakdown"
+    ]
+}

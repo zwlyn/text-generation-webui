@@ -1,0 +1,42 @@
+{
+    "positive": [
+        "Feminine",
+        "Magical",
+        "Dreamy",
+        "Whimsical",
+        "Colorful",
+        "Mysterious",
+        "Enchanted Forest",
+        "Castle",
+        "Spellbook",
+        "Flowers",
+        "Nature Spirits",
+        "Charming",
+        "Innocent",
+        "Playful",
+        "Fantastical Creatures",
+        "Soft Light",
+        "Cotton Candy Skies",
+        "Opulent",
+        "Ethereal"
+    ],
+    "negative": [
+        "Gloomy",
+        "Somber",
+        "Haunted",
+        "Dark Secrets",
+        "Forbidden Knowledge",
+        "Frightening Creatures",
+        "Cursed",
+        "Shadows",
+        "Abandoned Places",
+        "Eerie Silence",
+        "Lurking Danger",
+        "Unsettling",
+        "Ominous Clouds",
+        "Mysterious Whispers",
+        "Dark Tunnels",
+        "Ancient Evil",
+        "Creeping Vines"
+    ]
+}

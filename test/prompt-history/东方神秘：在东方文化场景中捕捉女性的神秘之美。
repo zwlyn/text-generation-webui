@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Serene",
+        "Ethereal",
+        "Floral",
+        "Natural Light",
+        "Soft Focus",
+        "Wistful Gaze",
+        "Whispering Wind",
+        "Delicate Textures",
+        "Muted Tones",
+        "Sacred Space",
+        "Timeless",
+        "Organic",
+        "Lush Landscapes",
+        "Celestial Bodies",
+        "Reflective",
+        "Intimate Moments"
+    ],
+    "negative": [
+        "Harsh Lighting",
+        "Disjointed",
+        "Jarring Colors",
+        "Overwhelming Detail",
+        "Intrusive Gaze",
+        "Forced Expression",
+        "Artificial Elements",
+        "Garish Tones",
+        "Contrived Setting",
+        "Anachronistic",
+        "Synthetic Atmosphere",
+        "Barren Landscapes",
+        "Ominous Skies",
+        "Disruptive",
+        "Public Spectacle"
+    ]
+}

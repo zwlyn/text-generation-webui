@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "American Indie Culture",
+        "Alternative Lifestyle",
+        "Creative Expression",
+        "Artistic Freedom",
+        "Independent Spirit",
+        "Diverse Community",
+        "Cultural Exchange",
+        "Festivals and Events",
+        "Street Art",
+        "Graffiti",
+        "Local Businesses",
+        "Sustainability",
+        "Grassroots Movements",
+        "Collaboration",
+        "Open-Mindedness",
+        "Empowerment"
+    ],
+    "negative": [
+        "Mainstream Culture Dominance",
+        "Lack of Support for Local Talent",
+        "Commercialization of Art",
+        "Resistance to Change",
+        "Exclusionary Attitudes",
+        "Environmental Degradation",
+        "Urban Sprawl",
+        "Gentrification",
+        "Discrimination",
+        "Prejudice",
+        "Competition",
+        "Intolerance",
+        "Isolation",
+        "Narrow-Mindedness"
+    ]
+}

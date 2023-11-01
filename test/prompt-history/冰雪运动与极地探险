@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Ice and snow sports",
+        "Arctic adventure",
+        "Northern lights",
+        "Snowy landscapes",
+        "Winter fashion",
+        "Cold weather gear",
+        "Hiking in the snow",
+        "Mountain peaks",
+        "Frozen lakes and rivers",
+        "Glaciers and icebergs",
+        "Winter wildlife",
+        "Ice climbing",
+        "Dog sledding",
+        "Northern lights photography"
+    ],
+    "negative": [
+        "Bitter cold",
+        "Slippery surfaces",
+        "Harsh winds",
+        "Blinding snowstorms",
+        "Frostbite risk",
+        "Hypothermia danger",
+        "Long nights",
+        "Remote locations",
+        "Isolated living conditions"
+    ]
+}

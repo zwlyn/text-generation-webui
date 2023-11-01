@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Serenity",
+        "Inner Peace",
+        "Nature's Beauty",
+        "Soft Lighting",
+        "Cotton Candy Skies",
+        "Whimsical",
+        "Vintage Charm",
+        "Dreamlike Atmosphere",
+        "Tranquility",
+        "Melancholic Joy",
+        "Introspective Gaze",
+        "Soulful Eyes",
+        "Romanticized Sorrow",
+        "Gentle Touches",
+        "Fluid Motion",
+        "Timeless Beauty",
+        "Hauntingly Beautiful"
+    ],
+    "negative": [
+        "Anxiety",
+        "Fear",
+        "Loneliness",
+        "Nightmares",
+        "Dark Shadows",
+        "Distorted Reflections",
+        "Cold Stares",
+        "Haunting Memories",
+        "Tense Atmosphere",
+        "Unsettling Gaze",
+        "Painful Recollection",
+        "Somber Mood",
+        "Chilling Embrace",
+        "Restrictive Movement",
+        "Hollow Eyes",
+        "Desolate Landscapes"
+    ]
+}

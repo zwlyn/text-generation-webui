@@ -1,0 +1,27 @@
+{
+    "positive": [
+        "Futuristic Robotics",
+        "Advanced AI",
+        "Sleek Designs",
+        "High-Tech Materials",
+        "Intelligent Systems",
+        "Efficient Automation",
+        "Neon Illumination",
+        "Smart Home Integration",
+        "Holographic Interface",
+        "Seamless Connectivity",
+        "Advanced Manufacturing"
+    ],
+    "negative": [
+        "Technical Malfunction",
+        "AI Misunderstanding",
+        "Outdated Components",
+        "Limited Mobility",
+        "Unresponsive Controls",
+        "Power Supply Issues",
+        "Insufficient Processing Power",
+        "Lack of Integration",
+        "Dated Software",
+        "Inefficient Energy Use"
+    ]
+}

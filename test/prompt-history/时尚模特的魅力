@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Elegant",
+        "Sophisticated",
+        "Glamorous",
+        "Chic",
+        "Urban Oasis",
+        "Stylish",
+        "Refined",
+        "Artful",
+        "Creative",
+        "Innovative",
+        "High Fashion",
+        "Futuristic Elegance",
+        "Neo-Baroque",
+        "Bold Statement",
+        "Avant-garde",
+        "Decadent",
+        "Exclusive"
+    ],
+    "negative": [
+        "Drab",
+        "Mundane",
+        "Utilitarian",
+        "Grey Walls",
+        "Clinical Atmosphere",
+        "Uninspired",
+        "Sterile Environment",
+        "Lacking Character",
+        "Monotonous Design",
+        "Boring Decor",
+        "Plain Furniture",
+        "Unremarkable Details",
+        "Ordinary Lighting",
+        "Humble Materials",
+        "Dull Colours",
+        "Undeveloped Ideas"
+    ]
+}

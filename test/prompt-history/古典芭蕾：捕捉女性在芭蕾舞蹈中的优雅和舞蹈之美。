@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Elegant",
+        "Graceful",
+        "Ballet",
+        "Feminine",
+        "Poise",
+        "Classical",
+        "Beautiful",
+        "Swan Lake",
+        "Sylphides",
+        "Giselle",
+        "Coppelia",
+        "Don Quixote"
+    ],
+    "negative": [
+        "Harsh",
+        "Jarring",
+        "Discordant",
+        "Ungraceful",
+        "Clumsy",
+        "Inappropriate",
+        "Out of Place",
+        "Modern",
+        "Contemporary",
+        "Hip Hop",
+        "Breaking",
+        "Balletic"
+    ]
+}

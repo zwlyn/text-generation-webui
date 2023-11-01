@@ -1,0 +1,21 @@
+{
+    "positive": [
+        "Female Chef",
+        "Cooking Skills",
+        "Culinary Creativity",
+        "Kitchen Mastery",
+        "Gourmet Delights",
+        "Exquisite Flavors",
+        "Artistic Plating",
+        "Presentation Techniques"
+    ],
+    "negative": [
+        "Domestic Stereotype",
+        "Limited Opportunities",
+        "Gender Bias",
+        "Culinary Inequality",
+        "Undervalued Talent",
+        "Unfair Expectations",
+        "Male-Dominated Industry"
+    ]
+}

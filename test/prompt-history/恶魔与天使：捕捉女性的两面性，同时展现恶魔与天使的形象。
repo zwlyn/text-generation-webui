@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Angelic",
+        "Heavenly",
+        "Sacred",
+        "Halo",
+        "Wings",
+        "Glowing Aura",
+        "Divine Light",
+        "Innocent",
+        "Purity",
+        "Celestial Beauty",
+        "Ethereal Glow",
+        "Cherubic",
+        "Radiant",
+        "Seraphic",
+        "Arcangelic"
+    ],
+    "negative": [
+        "Demonic",
+        "Satanic",
+        "Fallen Angel",
+        "Shadowy Presence",
+        "Hellish Flames",
+        "Cruel Gaze",
+        "Evil Aura",
+        "Corrupted Innocence",
+        "Tainted Purity",
+        "Fallen Beauty",
+        "Ominous Glow",
+        "Fallen Cherub",
+        "Malevolent Radiance",
+        "Forsaken Seraph",
+        "Lost Arcangel"
+    ]
+}

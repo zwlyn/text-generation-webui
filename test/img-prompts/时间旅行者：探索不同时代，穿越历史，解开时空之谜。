@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Steampunk",
+        "Vintage",
+        "Masculine",
+        "Elegant",
+        "Nostalgic",
+        "Historical Landscape",
+        "Antique Details",
+        "Classic Automobiles",
+        "Gadgets and Gizmos",
+        "Optimistic",
+        "Sophisticated",
+        "Timeless",
+        "Charming",
+        "Ingenious",
+        "Explorer",
+        "Voyager"
+    ],
+    "negative": [
+        "Decaying",
+        "Dilapidated",
+        "Abandoned",
+        "Forgotten",
+        "Ruined",
+        "Desolate",
+        "Dark Corners",
+        "Clockwork Mechanisms",
+        "Eerie Inventions",
+        "Apocalyptic",
+        "Gloomy",
+        "Ominous",
+        "Haunted",
+        "Mysterious",
+        "Shadows",
+        "Decay",
+        "Loneliness"
+    ]
+}

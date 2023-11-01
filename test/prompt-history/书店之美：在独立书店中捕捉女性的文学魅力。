@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Cozy Reading Nook",
+        "Warm Book Lighting",
+        "Inviting Armchairs",
+        "Coffee and Pastries",
+        "Stained Glass Windows",
+        "Vintage Book Cover Art",
+        "Soft Natural Lighting",
+        "Beautiful Wooden Shelves",
+        "Browsing Customers",
+        "Comfortable Furniture",
+        "Friendly Bookstore Cat"
+    ],
+    "negative": [
+        "Abandoned Library",
+        "Dusty and Disorganized",
+        "Harsh Fluorescent Lighting",
+        "Cracked Leather Bindings",
+        "Mildew and Water Damage",
+        "Outdated Technology",
+        "Cluttered Workspace",
+        "Unpleasant Odors",
+        "Creepy Shadows",
+        "Neglected Garden",
+        "Broken Furniture"
+    ]
+}

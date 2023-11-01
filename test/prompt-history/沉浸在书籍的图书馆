@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Sleek Bookshelves",
+        "High-Tech Library Equipment",
+        "Neon Accents",
+        "Futuristic Lighting",
+        "Stylish Reading Nook",
+        "Masculine Decor",
+        "Comfortable Furniture",
+        "Holographic Display",
+        "Cybernetic Assistant",
+        "Sci-Fi Inspired Design",
+        "Virtual Reality Experience",
+        "Urban Library Atmosphere"
+    ],
+    "negative": [
+        "Cluttered Shelves",
+        "Outdated Technology",
+        "Dark Corners",
+        "Uncomfortable Furniture",
+        "Dated Decor",
+        "Insufficient Lighting",
+        "Ineffective Book Organization",
+        "Lack of High-Tech Equipment",
+        "Dystopian Overtones",
+        "Disorganized Space",
+        "Lack of Comfort",
+        "Urban Chaos"
+    ]
+}

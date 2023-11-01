@@ -1,0 +1,23 @@
+{
+    "positive": [
+        "Elegant",
+        "Artistic",
+        "Creative",
+        "Colorful",
+        "Geometric Shapes",
+        "Innovative Designs",
+        "Stylish",
+        "Abstract",
+        "Modern Fashion",
+        "Futuristic Elements"
+    ],
+    "negative": [
+        "Messy",
+        "Disorganized",
+        "Monotonous",
+        "Lack of Creativity",
+        "Boring",
+        "Overused Themes",
+        "Unoriginal Ideas"
+    ]
+}

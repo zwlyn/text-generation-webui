@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Solar Panels",
+        "Wind Turbines",
+        "Green Energy",
+        "Clean Technology",
+        "Eco-Friendly",
+        "Renewable Power",
+        "Innovative Design",
+        "Modern Infrastructure",
+        "Outdoor Worker",
+        "Safety Gear",
+        "Practical Clothing",
+        "Hands-On Job",
+        "Skilled Labor",
+        "Teamwork",
+        "Problem Solving",
+        "Community Improvement"
+    ],
+    "negative": [
+        "Power Line Mess",
+        "Urban Blight",
+        "Outdated Equipment",
+        "Pollution",
+        "Noise Pollution",
+        "Lack of Maintenance",
+        "Safety Hazards",
+        "Inefficient Systems"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Beach Paradise",
+        "Tropical Oasis",
+        "Palm Trees",
+        "Sun-Kissed Skin",
+        "Ocean Views",
+        "Coastal Bluffs",
+        "Salty Hair",
+        "Freckles",
+        "Warm Sand",
+        "Crystal Blue Water",
+        "Seashells",
+        "Driftwood",
+        "Beachcombing",
+        "Island Escape",
+        "Endless Horizon",
+        "Coastal Living",
+        "Sunset Strolls"
+    ],
+    "negative": [
+        "Rough Waves",
+        "Seaweed tangled feet",
+        "Sand in shoes",
+        "Burning sunscreen",
+        "Crowded beaches",
+        "Littered shoreline",
+        "Jellyfish stings",
+        "Sunstroke",
+        "Salt water splashes",
+        "Wind-blown hair"
+    ]
+}

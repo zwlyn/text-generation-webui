@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Aviation",
+        "Flight Attendant",
+        "Pilot",
+        "Wings",
+        "Clouds",
+        "Sky",
+        "Blue",
+        "Gentle",
+        "Stewardess",
+        "Captain",
+        "Takeoff",
+        "Landing",
+        "Runway",
+        "In-flight Service",
+        "Airplane Mode",
+        "Cabin Pressure"
+    ],
+    "negative": [
+        "Turbulence",
+        "Crash",
+        "Emergency Landing",
+        "Plane Crash",
+        "Fear of Flying",
+        "Panic",
+        "Terrorism",
+        "Airplane Food",
+        "Lost Luggage",
+        "Delayed Flight",
+        "Overbooked Flight",
+        "Airport Security",
+        "Long Layover"
+    ]
+}

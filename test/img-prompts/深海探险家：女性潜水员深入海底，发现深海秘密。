@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Explorer",
+        "Marine Biologist",
+        "Underwater Discovery",
+        "Sea Creatures",
+        "Aquatic Lifeforms",
+        "Ocean Exploration",
+        "Scientific Research",
+        "Pioneering Diver",
+        "Adventurer",
+        "Innovation",
+        "Technology",
+        "Cutting-Edge Suit",
+        "Watercraft",
+        "Mysterious Depths",
+        "Submersible Vehicle",
+        "Underwater Habitat",
+        "Frontier"
+    ],
+    "negative": [
+        "Isolated",
+        "Dangerous Creatures",
+        "Crushing Pressure",
+        "Limited Oxygen",
+        "Darkness",
+        "Uncharted Territory",
+        "Unknown Risks",
+        "Vulnerability",
+        "Fear",
+        "Solitude",
+        "Deep Sea Hazards",
+        "Claustrophobia",
+        "Remote Location",
+        "Risky Ventures",
+        "Challenging Conditions",
+        "Extreme Environment"
+    ]
+}

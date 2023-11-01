@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "sunbathing",
+        "swimming",
+        "beach games",
+        "volleyball",
+        "sandcastles",
+        "boogie boarding",
+        "frolicking",
+        "seashells",
+        "coastal landscape",
+        "ocean waves",
+        "salty air",
+        "laughter"
+    ],
+    "negative": [
+        "stormy skies",
+        "rising tides",
+        "jellyfish stings",
+        "eroded shoreline",
+        "abandoned beach gear",
+        "littered shore",
+        "solitude",
+        "melancholy",
+        "dangerous currents",
+        "lost in thought"
+    ]
+}

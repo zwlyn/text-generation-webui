@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Harmony",
+        "Balance",
+        "Peaceful",
+        "Serenity",
+        "Tranquility",
+        "Soft Lighting",
+        "Nature Influence",
+        "Organic Shapes",
+        "Curves",
+        "Warm Colors",
+        "Gentle Textures",
+        "Sensual",
+        "Feminine Touches"
+    ],
+    "negative": [
+        "Disruption",
+        "Imbalance",
+        "Noise",
+        "Unrest",
+        "Harsh Lighting",
+        "Urban Chaos",
+        "Angular Shapes",
+        "Sharp Lines",
+        "Cold Colors",
+        "Rough Textures",
+        "Sparse Decoration",
+        "Masculine Influence"
+    ]
+}

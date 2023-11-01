@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Graceful Movement",
+        "Elegant Costume",
+        "Stage Lighting",
+        "Theatre Atmosphere",
+        "Dramatic Expression",
+        "Female Empowerment",
+        "Choreographed Harmony",
+        "Artistic Vision",
+        "Creative Energy",
+        "Performance Artistry",
+        "Captivating Presence",
+        "Visual Poetry"
+    ],
+    "negative": [
+        "Uncoordinated Movements",
+        "Tacky Costume",
+        "Harsh Lighting",
+        "Disjointed Choreography",
+        "Expressionless Face",
+        "Lack of Confidence",
+        "Uneven Stage Proportions",
+        "Haphazard Composition",
+        "Insufficient Energy",
+        "Amateurish Performance",
+        "Dissonant Melody"
+    ]
+}

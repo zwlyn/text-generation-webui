@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Equestrian Spirit",
+        "Harmony with Nature",
+        "Feminine Mystique",
+        "Graceful Movement",
+        "Majestic Creatures",
+        "Serene Atmosphere",
+        "Timeless Beauty",
+        "Sunlit Meadows",
+        "Idyllic Scenery",
+        "Nurturing Bond",
+        "Chivalrous Vibe",
+        "Pastoral Hues",
+        "Gentle Touch"
+    ],
+    "negative": [
+        "Untamed Beasts",
+        "Frightened Gaze",
+        "Unpredictable Movements",
+        "Stormy Skies",
+        "Desolate Landscapes",
+        "Harsh Shadows",
+        "Dark Moods",
+        "Turbulent Atmosphere",
+        "Wild Winds",
+        "Chaotic Energy",
+        "Fragile Relationships",
+        "Unsettling Aura"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Underwater Beauty",
+        "Marine Life Encounters",
+        "Colorful Corals",
+        "Sunlight Filtering",
+        "Seagrass Swaying",
+        "Diverse Marine Creatures",
+        "Playful Sea Turtles",
+        "Schooling Fish",
+        "Graceful Eels",
+        "Vibrant Anemones",
+        "Coral Reef Exploration",
+        "Underwater Wonderland",
+        "Nature's Wonders",
+        "Marine Life Interactions",
+        "Aquatic Adventure",
+        "Immersive Underwater Scenes"
+    ],
+    "negative": [
+        "Dark Depths",
+        "Limited Visibility",
+        "Dangerous Predators",
+        "Rough Seas",
+        "Threatening Shadows",
+        "Murky Water",
+        "Cramped Spaces",
+        "Marine Debris",
+        "Coral Bleaching",
+        "Aquatic Pollution",
+        "Overfishing Impacts",
+        "Fragile Ecosystems",
+        "Sea Floor Decline",
+        "Human Threats to Marine Life"
+    ]
+}

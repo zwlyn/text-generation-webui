@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Futuristic",
+        "Urban",
+        "Sleek",
+        "High-Tech",
+        "Chic",
+        "Neon Lights",
+        "Cybernetic Enhancements",
+        "Holographic",
+        "Exotic",
+        "Glowing",
+        "Metallic",
+        "Vibrant",
+        "Modern",
+        "Stylish",
+        "Fashionable"
+    ],
+    "negative": [
+        "Dark",
+        "Gritty",
+        "Desolate",
+        "Polluted",
+        "Abandoned",
+        "Crime-Ridden",
+        "Overcrowded",
+        "Isolated",
+        "Decaying",
+        "Dilapidated",
+        "Noisy",
+        "Traffic Congestion",
+        "Urban Stress",
+        "Graffiti"
+    ]
+}

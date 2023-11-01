@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Scientific Experiment",
+        "Female Scientist",
+        "Innovative Solutions",
+        "Lab Coats",
+        "Advanced Technologies",
+        "Cutting-Edge Research",
+        "Bright Ideas",
+        "Collaboration",
+        "Breakthroughs",
+        "Eureka Moments",
+        "Science Champion",
+        "Pioneering Spirit",
+        "Empowerment",
+        "Role Model",
+        "Future of STEM"
+    ],
+    "negative": [
+        "Outdated Methods",
+        "Inefficient Equipment",
+        "Research Dead Ends",
+        "Uncooperative Colleagues",
+        "Lack of Resources",
+        "Public Misconceptions",
+        "Stereotypes",
+        "Gender Bias",
+        "Underrepresentation",
+        "Self-Doubt",
+        "Work-Life Balance"
+    ]
+}

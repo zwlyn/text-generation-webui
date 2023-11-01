@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Female Empowerment",
+        "Confidence",
+        "Independence",
+        "Modern Fashion",
+        "High-Tech Gadgets",
+        "Urban Oasis",
+        "Glowing City Nights",
+        "Cybersecurity Expert",
+        "Futuristic Architecture",
+        "Sleek Hairstyles",
+        "Diverse Friendships",
+        "Collaborative Workspaces",
+        "Holographic Technology",
+        "Neon-Lit Streets",
+        "Celebration of Differences",
+        "Female Innovators"
+    ],
+    "negative": [
+        "Gritty City Life",
+        "Crumbling Infrastructure",
+        "Dark Alleyways",
+        "Polluted Skies",
+        "Vulnerable Populations",
+        "Surveillance State",
+        "Isolated Individuals",
+        "Deserted Cityscapes",
+        "Corrupt Systems",
+        "Cyberbullying",
+        "Crime-Ridden Streets",
+        "Resistance Movements",
+        "Divided Societies"
+    ]
+}

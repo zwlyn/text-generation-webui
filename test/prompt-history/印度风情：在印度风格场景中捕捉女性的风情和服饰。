@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Colorful",
+        "Energetic",
+        "Patterned",
+        "Textured",
+        "Vibrant",
+        "Bold",
+        "Saturated",
+        "Traditional",
+        "Embellished",
+        "Lively",
+        "Opulent",
+        "Ethereal",
+        "Festive",
+        "Whimsical",
+        "Intricate",
+        "Artful"
+    ],
+    "negative": [
+        "Monochromatic",
+        "Somber",
+        "Simple",
+        "Unadorned",
+        "Muted",
+        "Subdued",
+        "Minimalistic",
+        "Neutral",
+        "Plain"
+    ]
+}

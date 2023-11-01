@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Auto Mechanic",
+        "Car Repair",
+        "Garage Workshop",
+        "Tools",
+        "Hands-on Task",
+        "Vintage Car Restoration",
+        "Engine Maintenance",
+        "Oil Change",
+        "Battery Check",
+        "Wheel Alignment",
+        "Tire Rotation",
+        "Brake Service",
+        "Car Wash",
+        "Detailing"
+    ],
+    "negative": [
+        "Broken Down Vehicle",
+        "Mechanical Failure",
+        "Engine Trouble",
+        "Flat Tire",
+        "Empty Gas Tank",
+        "Dead Battery",
+        "Leaking Oil",
+        "Overheating Engine",
+        "Failed Inspection"
+    ]
+}

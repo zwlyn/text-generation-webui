@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Futuristic Fashion",
+        "High-Tech Accessories",
+        "Urban Landscape",
+        "Holographic Details",
+        "Cybernetic Enhancements",
+        "Sleek Styles",
+        "Dystopian Inspiration",
+        "Sci-Fi Chic",
+        "Virtual Reality",
+        "Futuristic Grooming",
+        "Metallic Tones",
+        "Glowing Accents",
+        "Exotic Patterns",
+        "Urban Explorer",
+        "Techno-Geek Aesthetic"
+    ],
+    "negative": [
+        "Post-Apocalyptic Scenes",
+        "Dark Alleys",
+        "Abandoned Technology",
+        "Grimy Atmosphere",
+        "Pollution",
+        "Surveillance Cameras",
+        "Isolation",
+        "Desolation",
+        "Cybercrime",
+        "System Failure",
+        "Dystopian Future",
+        "Ruined Cityscape",
+        "Corruption",
+        "Hackers",
+        "Underground World",
+        "Chaos",
+        "Resistance"
+    ]
+}

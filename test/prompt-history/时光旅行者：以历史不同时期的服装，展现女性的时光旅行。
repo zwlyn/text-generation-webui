@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Victorian Elegance",
+        "Edwardian Grace",
+        "Art Deco Glamour",
+        "1920s Flapper",
+        "1950s Housewife",
+        "1960s Mod",
+        "1970s Disco Diva",
+        "Punk Rock Chick",
+        "Cyber Goth Queen",
+        "Futuristic Goddess"
+    ],
+    "negative": [
+        "Downtrodden Victorian",
+        "War-Torn Edwardian",
+        "Art Deco Despair",
+        "Prohibition Peril",
+        "Domestic Drudgery",
+        "Modern Malaise",
+        "Disco Doldrums",
+        "Post-Punk Pathos",
+        "Cyber Goth Chaos",
+        "Dystopian Nightmare"
+    ]
+}

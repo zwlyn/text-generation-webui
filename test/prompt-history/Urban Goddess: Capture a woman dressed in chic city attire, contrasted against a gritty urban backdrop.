@@ -1,0 +1,23 @@
+{
+    "positive": [
+        "Chic City Attire",
+        "Urban Backdrop",
+        "Futuristic Fashion",
+        "Neon Lights",
+        "Sleek Hair",
+        "Glowing Makeup",
+        "High-Tech Accessories",
+        "Reflective Surfaces",
+        "Metallic Colors",
+        "Dynamic Angles"
+    ],
+    "negative": [
+        "Dirt and Grime",
+        "Abandoned Buildings",
+        "Broken Infrastructure",
+        "Pollution",
+        "Run-down Neighborhoods",
+        "Vandalized Property",
+        "Decaying Walls"
+    ]
+}

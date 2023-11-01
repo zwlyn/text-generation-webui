@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Elegant",
+        "Chic",
+        "Sophisticated",
+        "Classy",
+        "Confident",
+        "Stylish",
+        "Fashionable",
+        "Glamorous",
+        "Urban Equestrian",
+        "Luxurious",
+        "Modern",
+        "High Society",
+        "Refined",
+        "Gentlemanly"
+    ],
+    "negative": [
+        "Rough",
+        "Unrefined",
+        "Crude",
+        "Unsophisticated",
+        "Inappropriate",
+        "Tacky",
+        "Outdated",
+        "Proletarian",
+        "Rustic",
+        "Uncouth",
+        "Vulgar"
+    ]
+}

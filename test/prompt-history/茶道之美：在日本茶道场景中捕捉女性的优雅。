@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Japanese Tea Ceremony",
+        "Serene Scenery",
+        "Chado Tradition",
+        "Urasenke",
+        "Omotesenke",
+        "Mushanokojima",
+        "Beautiful Woman",
+        "Graceful Movements",
+        "Kimono",
+        "Matcha Tea",
+        "Wagashi",
+        "Harmony",
+        "Zen Aesthetics",
+        "Sakura Blossoms",
+        "Tatami Mat",
+        "Kyoto Garden",
+        "Infinite Focus"
+    ],
+    "negative": [
+        "Chaos",
+        "Disrupted Ritual",
+        "Loud Noises",
+        "Annoying Guests",
+        "Unprepared Tea Tools",
+        "Spilled Tea",
+        "Inattentive Hostess",
+        "Ignoring Etiquette",
+        "Ungraceful Posture",
+        "Rushed Experience",
+        "Frowning Lady",
+        "Unappetizing Wagashi",
+        "Noisy Atmosphere",
+        "Crumpled Fukusa",
+        "Dirty Tatami Mat",
+        "Overcrowded Garden"
+    ]
+}

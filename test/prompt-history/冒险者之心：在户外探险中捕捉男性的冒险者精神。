@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Adventure",
+        "Daring",
+        "Exploration",
+        "Risk-Taking",
+        "Wanderlust",
+        "Mysterious",
+        "Remote Locations",
+        "Thrilling Experience",
+        "Challenging Environments",
+        "Bravery",
+        "Extreme Conditions",
+        "Surprises",
+        "Undiscovered Territory",
+        "Boundless Horizon"
+    ],
+    "negative": [
+        "Dangerous",
+        "Unsafe",
+        "Unpredictable",
+        "Perilous Journey",
+        "Hidden Pitfalls",
+        "Remote Isolation",
+        "Life-Threatening Situations",
+        "Tough Challenges",
+        "Rugged Terrain",
+        "Extreme Weather Conditions",
+        "Desolate Landscapes"
+    ]
+}

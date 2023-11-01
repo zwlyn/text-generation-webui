@@ -1,0 +1,20 @@
+{
+    "positive": [
+        "Magical Garden",
+        "Flower Fairy",
+        "Enchanted Nature",
+        "Blooming Wonderland",
+        "Vibrant Flora",
+        "Charming Creatures",
+        "Nature's Magic"
+    ],
+    "negative": [
+        "Barren Landscape",
+        "Frozen Flora",
+        "Withered Petals",
+        "Desolate Garden",
+        "Dying Plants",
+        "Lifeless Nature",
+        "Forgotten Greenery"
+    ]
+}

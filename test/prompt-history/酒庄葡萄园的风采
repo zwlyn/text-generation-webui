@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Elegant",
+        "Stylish",
+        "Classic",
+        "Timeless",
+        "Sophisticated",
+        "Refined",
+        "Charming",
+        "Alluring",
+        "Romantic",
+        "Glamorous",
+        "Artistic",
+        "Dramatic",
+        "Mysterious",
+        "Intriguing"
+    ],
+    "negative": [
+        "Shabby",
+        "Tacky",
+        "Overdone",
+        "Clichéd",
+        "Cheesy",
+        "Garish",
+        "Tasteless",
+        "Kitsch",
+        "Exploitative",
+        "Sleazy",
+        "Vulgar",
+        "Inappropriate",
+        "Trashy",
+        "Unclassy",
+        "Tacky"
+    ]
+}

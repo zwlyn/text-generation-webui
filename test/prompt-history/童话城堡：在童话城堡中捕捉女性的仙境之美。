@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Fairy Tale",
+        "Magical",
+        "Castle",
+        "Mysterious",
+        "Whimsical",
+        "Enchanted Forest",
+        "Glimmering Lights",
+        "Dreamlike",
+        "Fantasy Creatures",
+        "Charming",
+        "Legendary",
+        "Spectacular Views",
+        "Storybook Romance",
+        "Mythical Landscapes",
+        "Ethereal Atmosphere",
+        "Timeless Beauty",
+        "Wonderland"
+    ],
+    "negative": [
+        "Gloomy",
+        "Desolate",
+        "Forbidden",
+        "Creepy",
+        "Haunted",
+        "Dark Secrets",
+        "Abandoned",
+        "Forgotten",
+        "Unsettling",
+        "Sinister",
+        "Ominous Shadows",
+        "Hidden Dangers",
+        "Eerie Silence",
+        "Supernatural Threats",
+        "Unexplained Events",
+        "Ghostly Encounters",
+        "Chilling Atmosphere"
+    ]
+}

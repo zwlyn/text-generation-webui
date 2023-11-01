@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Ancient Greek",
+        "Goddess",
+        "Warrior",
+        "Mythology",
+        "Heroic",
+        "Epic Proportions",
+        "Marble Sculptures",
+        "Temples",
+        "Classical Beauty",
+        "Chariots",
+        "Battle Scenes",
+        "Glorious Victories",
+        "Powerful Presence",
+        "Timeless Elegance"
+    ],
+    "negative": [
+        "Forgotten",
+        "Abandoned",
+        "Decaying",
+        "Ruins",
+        "Neglected",
+        "Dark Shadows",
+        "Loneliness",
+        "Desertion",
+        "Shadowy Figures",
+        "Haunted Atmosphere",
+        "Hidden Secrets",
+        "Repressed Memories",
+        "Unsettling Atmosphere",
+        "Forgotten Tales",
+        "Eerie Silence"
+    ]
+}

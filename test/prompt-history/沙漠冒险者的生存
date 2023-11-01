@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Sahara Adventurer",
+        "Desert Wanderer",
+        "Survival Skills",
+        "Oasis Oasis",
+        "Solar Powered",
+        "Sandstorm Resistant",
+        "Nomadic Explorer",
+        "Arabian Desert",
+        "Berber Culture",
+        "Moroccan Magic",
+        "Vast Landscapes",
+        "Starry Nights",
+        "Sun-Soaked",
+        "Camel Companion",
+        "Fossil Finding"
+    ],
+    "negative": [
+        "Dehydration Danger",
+        "Heat Exhaustion",
+        "Sandstorm Chaos",
+        "Lost in the Desert",
+        "Thirsty Throes",
+        "Desolate Wasteland",
+        "Burning Sun",
+        "Merciless Mirage",
+        "Solar Blindness"
+    ]
+}

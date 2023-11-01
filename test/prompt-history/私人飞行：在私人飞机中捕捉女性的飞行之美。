@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Futuristic",
+        "Aerodynamic",
+        "Sleek",
+        "High-tech",
+        "Innovative",
+        "Modern",
+        "Urban Skyline",
+        "Neon Lights",
+        "Fashionable",
+        "Glamorous",
+        "Self-confident",
+        "Independent",
+        "Adventurous",
+        "Exploration",
+        "Pilot",
+        "Aviation",
+        "Freedom"
+    ],
+    "negative": [
+        "Isolation",
+        "Danger",
+        "Risk",
+        "Uncertainty",
+        "Vulnerability",
+        "Fear of Falling",
+        "Engine Failure",
+        "Crash Landing",
+        "Loss of Control",
+        "Bad Weather Conditions",
+        "Turbulence",
+        "Restrictions",
+        "Regulations",
+        "Limited Freedom"
+    ]
+}

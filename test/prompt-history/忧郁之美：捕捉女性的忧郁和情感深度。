@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Ethereal",
+        "Dreamlike",
+        "Feminine",
+        "Atmospheric",
+        "Soft Lighting",
+        "Mysterious",
+        "Enigmatic",
+        "Intimate",
+        "Sensual",
+        "Captivating",
+        "Alluring",
+        "Serene",
+        "Tranquil",
+        "Ethereal Beauty",
+        "Haunting Eyes",
+        "Flowing Hair",
+        "Angelic Smile",
+        "Glowing Skin"
+    ],
+    "negative": [
+        "Dark Shadows",
+        "Cold Stares",
+        "Unfathomable Thoughts",
+        "Hidden Fears",
+        "Tenuous Grip",
+        "Nightmarish Visions",
+        "Haunted Memories",
+        "Fragile Composure",
+        "Gnawing Anxiety",
+        "Chilling Doubts",
+        "Eerie Silence",
+        "Desolate Expression",
+        "Hollow Eyes",
+        "Somber Tones",
+        "Unsettling Gaze",
+        "Heavy Heart",
+        "Weighty Sorrow"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Retro Film",
+        "Vintage Atmosphere",
+        "Classic Cinema",
+        "Glamorous Hollywood",
+        "Silver Screen",
+        "Era of Hollywood",
+        "Old School Glamour",
+        "Red Carpet Ready",
+        "Film Noir",
+        "Iconic Femme Fatale",
+        "Dramatic Lighting",
+        "Black and White"
+    ],
+    "negative": [
+        "Obsolete Technology",
+        "Forgotten Era",
+        "Nostalgia",
+        "Ruined Theater",
+        "Abandoned Set",
+        "Outdated Equipment",
+        "Dusty Props",
+        "Faded Glory",
+        "Bygone Age",
+        "Melancholy",
+        "Forgotten Stars",
+        "Decaying Sets",
+        "Vintage Clutter"
+    ]
+}

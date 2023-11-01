@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Whimsical",
+        "Surreal",
+        "Dreamy",
+        "Fantasy",
+        "Mysterious",
+        "Ethereal",
+        "Magical",
+        "Enchanted",
+        "Spectral",
+        "Otherworldly",
+        "Illusory",
+        "Fairytale",
+        "Imaginative",
+        "Creative",
+        "Inspirational",
+        "Artistic",
+        "Cultural",
+        "Ephemeral"
+    ],
+    "negative": [
+        "Gloomy",
+        "Somber",
+        "Dark",
+        "Ominous",
+        "Desolate",
+        "Haunting",
+        "Forsaken",
+        "Abandoned",
+        "Uninhabited",
+        "Decaying",
+        "Eerie",
+        "Macabre",
+        "Creepy",
+        "Ghostly",
+        "Mysterious",
+        "Unsolved"
+    ]
+}

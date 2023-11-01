@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Scientist",
+        "Researcher",
+        "Studious",
+        "Intelligent",
+        "White Coat",
+        "Laboratory",
+        "Experimentation",
+        "Data Analysis",
+        "Theory",
+        "Innovative",
+        "Precision",
+        "Technology",
+        "Advancement",
+        "Future-forward",
+        "Optimistic"
+    ],
+    "negative": [
+        "Irreverent",
+        "Unorthodox",
+        "Disorganized",
+        "Impulsive",
+        "Careless",
+        "Undisciplined",
+        "Speculation",
+        "Frivolous",
+        "Superficial",
+        "Backward-looking",
+        "Doubtful"
+    ]
+}

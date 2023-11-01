@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Mountain Climbing",
+        "Rugged Terrain",
+        "Challenge Accepted",
+        "Adventure Awaits",
+        "Nature Immersion",
+        "Peaceful Solitude",
+        "Bravery",
+        "Endurance",
+        "Determination",
+        "Spectacular Views",
+        "Achievement Unlocked",
+        "Empowerment",
+        "Overcoming Fear",
+        "Glorious Sunrise",
+        "Bonding Experience",
+        "Teamwork",
+        "Memorable Journey"
+    ],
+    "negative": [
+        "Dangerous Cliffs",
+        "Unpredictable Weather",
+        "Risky Adventure",
+        "Fatigue",
+        "Loneliness",
+        "Falling Rocks",
+        "Exhaustion",
+        "Hypothermia",
+        "Altitude Sickness",
+        "Steep Ascents",
+        "Rockslides",
+        "Isolated Location",
+        "Fear of Heights",
+        "Stormy Skies",
+        "Precarious Pathways",
+        "Perilous Passages"
+    ]
+}

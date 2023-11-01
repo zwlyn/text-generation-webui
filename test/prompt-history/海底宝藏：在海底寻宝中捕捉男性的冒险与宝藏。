@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Underwater Treasure",
+        "Marine Exploration",
+        "Diving Suit",
+        "Ocean Adventure",
+        "Sunken Ship",
+        "Hidden Gems",
+        "Treasure Chest",
+        "Wreck Diving",
+        "Nautical Style",
+        "Sea Legends",
+        "Mysterious Depths",
+        "Salvage Operation",
+        "Submarine Landscape"
+    ],
+    "negative": [
+        "Dangerous Depths",
+        "Crushing Pressure",
+        "Limited Oxygen",
+        "Uncharted Territory",
+        "Hidden Dangers",
+        "Marine Life Threats",
+        "Sunken Ship Graveyard",
+        "Navigational Challenges",
+        "Underwater Current",
+        "Isolation",
+        "Mysterious Creatures",
+        "Dark Waters",
+        "Submerged Obstacles",
+        "Loss of Equipment"
+    ]
+}

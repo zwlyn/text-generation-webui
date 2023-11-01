@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Adventure",
+        "Explorer",
+        "Daring",
+        "Challenge",
+        "Beautiful",
+        "Inspiring",
+        "Awe-inspiring",
+        "Nature",
+        "Serenity",
+        "Peaceful",
+        "Freedom",
+        "Empowering",
+        "Vastness",
+        "Majesty",
+        "Climbing",
+        "Hiking",
+        "Exploration"
+    ],
+    "negative": [
+        "Dangerous",
+        "Risky",
+        "Unstable",
+        "Slippery",
+        "Icy",
+        "Steep",
+        "Inaccessible",
+        "Limited",
+        "Enclosed",
+        "Confined",
+        "Fear",
+        "Anxiety",
+        "Vulnerability",
+        "Darkness",
+        "Shadows",
+        "Uncertainty"
+    ]
+}

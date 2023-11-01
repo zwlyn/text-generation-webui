@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Musical Expression",
+        "Rhythmic Movement",
+        "Gentle Melodies",
+        "Soulful Vibes",
+        "Harmonious Tones",
+        "Emotive Performance",
+        "Stage Presence",
+        "Engaging Audience",
+        "Passionate Playing",
+        "Inspiring Musician",
+        "Creative Genius",
+        "Artistic Excellence",
+        "Musical Connection",
+        "Crescendo",
+        "Dynamics",
+        "Poetic Lyricism"
+    ],
+    "negative": [
+        "Discordant Notes",
+        "Off-Key Melodies",
+        "Jarring Chords",
+        "Misaligned Rhythms",
+        "Tuneless Noise",
+        "Stage Fright",
+        "Unengaged Audience",
+        "Forced Performance",
+        "Lackluster Tunes",
+        "Musical Disconnect",
+        "Artistic Struggle",
+        "Creative Block",
+        "Disharmonious Vibes"
+    ]
+}

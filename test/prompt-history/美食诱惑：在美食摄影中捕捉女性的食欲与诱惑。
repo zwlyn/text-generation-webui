@@ -1,0 +1,43 @@
+{
+    "positive": [
+        "Sensual",
+        "Feminine Perspective",
+        "Alluring",
+        "Tempting Flavors",
+        "Visual Feast",
+        "Desserts",
+        "Culinary Masterpiece",
+        "Gastronomic Delights",
+        "Food Art",
+        "Presentation",
+        "Colorful",
+        "Playful",
+        "Whimsical",
+        "Soft Lighting",
+        "Inviting",
+        "Appetizing",
+        "Satisfying",
+        "Comfort Food",
+        "Guilty Pleasure"
+    ],
+    "negative": [
+        "Austerity",
+        "Drab Colors",
+        "Ugly Food",
+        "Overcooked",
+        "Lackluster Presentation",
+        "Bland Flavors",
+        "Grocery Store Offerings",
+        "Instant Ramen",
+        "Fast Food Chains",
+        "Mass Produced",
+        "Monotonous Textures",
+        "Uninspired Dishes",
+        "Harsh Lighting",
+        "Off-Putting",
+        "Unappetizing",
+        "Lack of Flavor",
+        "Discomfort Food",
+        "Guilty Regret"
+    ]
+}

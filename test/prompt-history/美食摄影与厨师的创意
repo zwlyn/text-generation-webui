@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Futuristic Kitchen",
+        "Innovative Cooking Techniques",
+        "Modern Culinary Tools",
+        "Colorful Ingredients",
+        "Molecular Gastronomy",
+        "High-Tech Appliances",
+        "Urban Kitchen",
+        "Natural Lighting",
+        "Creative Food Presentation",
+        "Bold Flavors",
+        "Healthy Cooking",
+        "Sustainable Practices",
+        "Interactive Dining Experience",
+        "Virtual Culinary Classes"
+    ],
+    "negative": [
+        "Outdated Equipment",
+        "Cluttered Workspace",
+        "Lack of Natural Light",
+        "Uninspired Ingredients",
+        "Traditional Cooking Methods",
+        "Inefficient Appliances",
+        "Dark Kitchen",
+        "Limited Culinary Tools",
+        "Bland Flavors",
+        "Unhealthy Cooking",
+        "Wasteful Practices",
+        "Sedentary Lifestyle",
+        "Passive Dining Experience",
+        "Lack of Culinary Creativity"
+    ]
+}

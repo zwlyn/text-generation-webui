@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Fierce",
+        "Mystical",
+        "Brave",
+        "Courageous",
+        "Adventurous",
+        "Daring",
+        "Empowering",
+        "Inspiring",
+        "Journey",
+        "Quest",
+        "Challenge",
+        "Victory"
+    ],
+    "negative": [
+        "Fearsome",
+        "Intimidating",
+        "Terrifying",
+        "Monstrous",
+        "Dangerous",
+        "Perilous",
+        "Threatening",
+        "Despair",
+        "Loss",
+        "Sorrow",
+        "Anxiety",
+        "Nightmare"
+    ]
+}

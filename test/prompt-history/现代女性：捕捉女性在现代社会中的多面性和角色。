@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Empowerment",
+        "Independence",
+        "Leadership",
+        "Female Entrepreneurs",
+        "STEM Fields",
+        "Work-Life Balance",
+        "Networking",
+        "Collaboration",
+        "Inclusivity",
+        "Diversity",
+        "Body Positivity",
+        "Confidence",
+        "Resilience",
+        "Mentorship",
+        "Role Models",
+        "Community Building"
+    ],
+    "negative": [
+        "Glass Ceiling",
+        "Unconscious Bias",
+        "Sexual Harassment",
+        "Pay Gap",
+        "Motherhood Penalty",
+        "Caregiver Burden",
+        "Objectification",
+        "Self-Doubt",
+        "Limited Opportunities",
+        "Exclusionary Practices",
+        "Unrealistic Expectations",
+        "Pressure to Conform",
+        "Discrimination",
+        "Victim Blaming",
+        "Stereotypes",
+        "Tokenism"
+    ]
+}

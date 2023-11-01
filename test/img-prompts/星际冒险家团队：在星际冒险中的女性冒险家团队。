@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Interstellar Travel",
+        "Adventure",
+        "Teamwork",
+        "Futuristic Fashion",
+        "Exploration",
+        "Alien Worlds",
+        "Innovative Technology",
+        "Pioneers",
+        "Risk Taking",
+        "Daring Missions",
+        "Stellar Discovery",
+        "New Horizons"
+    ],
+    "negative": [
+        "Isolation",
+        "Loneliness",
+        "Alien Threats",
+        "Hostile Environments",
+        "Emotional Turmoil",
+        "Cultural Challenges",
+        "Risky Decisions",
+        "Relationship Strains",
+        "Moral Dilemmas",
+        "Physical Dangers"
+    ]
+}

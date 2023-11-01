@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Urban",
+        "Futuristic",
+        "Innovative",
+        "Elegant",
+        "High-Tech",
+        "Neon Lights",
+        "Stylish",
+        "Dynamic",
+        "Cutting Edge",
+        "Sleek"
+    ],
+    "negative": [
+        "Dark",
+        "Gritty",
+        "Post-Apocalyptic",
+        "Decaying",
+        "Grimy",
+        "Broken Technology",
+        "Pollution",
+        "Crime",
+        "Desolation"
+    ]
+}

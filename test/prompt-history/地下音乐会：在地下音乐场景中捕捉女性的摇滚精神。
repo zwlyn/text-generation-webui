@@ -1,0 +1,27 @@
+{
+    "positive": [
+        "Underground",
+        "Rave",
+        "Neon Lights",
+        "Dancing",
+        "Nightlife",
+        "Futuristic Fashion",
+        "Glowing Accessories",
+        "Synth-Pop Music",
+        "Diverse Crowd",
+        "Inclusive",
+        "Expressive",
+        "Energetic"
+    ],
+    "negative": [
+        "Isolation",
+        "Loneliness",
+        "Exclusion",
+        "Intolerance",
+        "Confined Space",
+        "Overcrowded",
+        "Unpleasant Odors",
+        "Noise Pollution",
+        "Unsafe Environment"
+    ]
+}

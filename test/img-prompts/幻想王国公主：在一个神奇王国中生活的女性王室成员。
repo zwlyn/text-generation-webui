@@ -1,0 +1,42 @@
+{
+    "positive": [
+        "Magical",
+        "Fantastical",
+        "Mystical",
+        "Enchanted",
+        "Whimsical",
+        "Ethereal",
+        "Dreamy",
+        "Castle",
+        "Gardens",
+        "Forests",
+        "Waterfalls",
+        "Sunsets",
+        "Unicorns",
+        "Dragons",
+        "Fairies",
+        "Elves",
+        "Mermaids",
+        "Nymphs",
+        "Bridges",
+        "Lighthouses",
+        "Palaces",
+        "Towers"
+    ],
+    "negative": [
+        "Gloomy",
+        "Dark",
+        "Mysterious",
+        "Creepy",
+        "Eerie",
+        "Haunted",
+        "Spooky",
+        "Deserted",
+        "Abandoned",
+        "Decaying",
+        "Rotting",
+        "Forgotten",
+        "Isolated",
+        "Silent"
+    ]
+}

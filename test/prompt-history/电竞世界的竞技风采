@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Gaming",
+        "eSports",
+        "Online Gaming",
+        "Video Games",
+        "Competition",
+        "Achievement",
+        "Rivalry",
+        "Strategy",
+        "Skill",
+        "Teamwork",
+        "Victory",
+        "Passion",
+        "Dedication"
+    ],
+    "negative": [
+        "Addiction",
+        "Isolation",
+        "Obsession",
+        "Health Risks",
+        "Glitches",
+        "Lag",
+        "Cheating",
+        "Exploits",
+        "Toxicity",
+        "Harassment",
+        "Burnout",
+        "Loss"
+    ]
+}

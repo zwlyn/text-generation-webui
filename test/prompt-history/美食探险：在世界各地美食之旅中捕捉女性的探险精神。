@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Flavorful",
+        "Culinary Adventure",
+        "Exotic Fusion",
+        "International Cuisine",
+        "Colorful Dishes",
+        "Local Delights",
+        "Gourmet Experience",
+        "Savor The Moment",
+        "Passion For Food",
+        "Bold Flavors",
+        "Cultural Exchange",
+        "Foodie Paradise"
+    ],
+    "negative": [
+        "Overcooked",
+        "Lackluster Presentation",
+        "Monotonous Flavor",
+        "Fast Food Chains",
+        "Tourist Traps",
+        "Uneven Texture",
+        "Subpar Seasoning",
+        "Skippable Courses",
+        "Half-hearted Efforts",
+        "Overpriced Disappointment"
+    ]
+}

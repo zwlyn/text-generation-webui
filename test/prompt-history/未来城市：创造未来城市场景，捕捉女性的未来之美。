@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Futuristic Architecture",
+        "Sleek Designs",
+        "Advanced Technology",
+        "Holographic Displays",
+        "Robotic Assistants",
+        "Neon Streets",
+        "Urban Oasis",
+        "Glowing Landscapes",
+        "Experimental Fashion",
+        "Eco-Friendly Infrastructure",
+        "Virtual Reality Hubs",
+        "High-Tech Transportation",
+        "Multicultural Society",
+        "Inclusive Urban Planning"
+    ],
+    "negative": [
+        "Dystopian Atmosphere",
+        "Overpopulation",
+        "Pollution",
+        "Crumbling Infrastructure",
+        "Failed Technologies",
+        "Cybersecurity Threats",
+        "Social Inequality",
+        "Urban Congestion",
+        "Noise Pollution",
+        "Environmental Degradation",
+        "Resource Scarcity",
+        "Disconnected Community",
+        "Decaying Public Spaces"
+    ]
+}

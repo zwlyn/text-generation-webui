@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Athletic",
+        "Fitness",
+        "Sports",
+        "Endurance",
+        "Strength",
+        "Power",
+        "Stamina",
+        "Agility",
+        "Coordination",
+        "Focus",
+        "Determination",
+        "Competition",
+        "Victory",
+        "Teamwork",
+        "Training",
+        "Championship"
+    ],
+    "negative": [
+        "Injury",
+        "Exhaustion",
+        "Dehydration",
+        "Nerves",
+        "Pressure",
+        "Loss",
+        "Frustration",
+        "Fatigue",
+        "Overexertion",
+        "Failure",
+        "Disappointment",
+        "Burnout",
+        "Stress",
+        "Injuries"
+    ]
+}

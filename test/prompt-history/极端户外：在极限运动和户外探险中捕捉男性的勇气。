@@ -1,0 +1,27 @@
+{
+    "positive": [
+        "Extreme Sports",
+        "Outdoor Adventure",
+        "Masculine Aura",
+        "Adrenaline Rush",
+        "Rugged Terrain",
+        "Wild Nature",
+        "Survival Skills",
+        "Primitive Living",
+        "Fire Building",
+        "Hunting and Gathering",
+        "Wilderness Exploration"
+    ],
+    "negative": [
+        "Accidents",
+        "Injuries",
+        "Dangerous Weather",
+        "Environmental Threats",
+        "Unsafe Conditions",
+        "Physical Limitations",
+        "Emotional Stress",
+        "Fear of Failure",
+        "Isolation and Solitude",
+        "Unpredictable Nature"
+    ]
+}

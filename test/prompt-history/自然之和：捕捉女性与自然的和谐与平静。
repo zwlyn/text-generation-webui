@@ -1,0 +1,42 @@
+{
+    "positive": [
+        "Serene Nature",
+        "Peaceful Woodlands",
+        "Tranquil Meadows",
+        "Calm Lakeside",
+        "Quiet Garden",
+        "Nurturing Forest",
+        "Harmonious Fields",
+        "Rustic Charm",
+        "Soft Natural Lighting",
+        "Sunlit Pastures",
+        "Sheltered Grove",
+        "Meadow Blooms",
+        "Babbling Brook",
+        "Gentle Waterfall",
+        "Mountain Serenity",
+        "Coastal Calm",
+        "Ocean Tranquility",
+        "Sunset Silhouette",
+        "Nature's Embrace"
+    ],
+    "negative": [
+        "Urban Invasion",
+        "Polluted Skies",
+        "Deforested Landscapes",
+        "Barren Fields",
+        "Toxic Waters",
+        "Desecrated Forests",
+        "Chaotic Natural Patterns",
+        "Harsh Sun Glare",
+        "Invasive Plant Life",
+        "Swampy Marshlands",
+        "Damaged Ecosystems",
+        "Disrupted Habitats",
+        "Air Pollution Haze",
+        "Contaminated Soil",
+        "Melting Icebergs",
+        "Scorched Earth",
+        "Drought Stricken Areas"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Nature",
+        "Women",
+        "Beauty",
+        "Serenity",
+        "Harmony",
+        "Flowers",
+        "Botanical Garden",
+        "Park",
+        "Forest",
+        "River",
+        "Sunset",
+        "Landscape",
+        "Infinite Beauty of Nature",
+        "Nature's Elegance",
+        "Mother Earth",
+        "Gaia"
+    ],
+    "negative": [
+        "Urban Sprawl",
+        "Air Pollution",
+        "Deforestation",
+        "Illegal Mining",
+        "Water Pollution",
+        "Climate Change",
+        "Extinction of Species",
+        "Environmental Degradation",
+        "Oil Spill",
+        "Toxic Waste",
+        "Overfishing",
+        "Desertification",
+        "Melting Icebergs"
+    ]
+}

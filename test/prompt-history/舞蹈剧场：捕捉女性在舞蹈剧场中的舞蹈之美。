@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Elegant Moves",
+        "Graceful Poses",
+        "Expressive Faces",
+        "Dramatic Lighting",
+        "Striking Angles",
+        "Dynamic Leaps",
+        "Sweeping Arms",
+        "Fluent Motion",
+        "Choreography",
+        "Dancing Ensemble",
+        "Costume and Makeup",
+        "Stage Setting",
+        "Performance Space",
+        "Audience Engagement",
+        "Emotional Impact",
+        "Theatrical Atmosphere",
+        "Dance in Harmony"
+    ],
+    "negative": [
+        "Motion Blur",
+        "Out of Focus",
+        "Overexposed Lighting",
+        "Unbalanced Composition",
+        "Rigid Poses",
+        "Harsh Shadows",
+        "Discordant Movement",
+        "Incoherent Choreography",
+        "Lack of Expression",
+        "Isolated Performer",
+        "Untidy Backstage",
+        "Absent Audience",
+        "Flat Emotional Response",
+        "Cold Atmosphere",
+        "Disharmony"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "positive": [
+        "Water Ballet",
+        "Underwater Dance",
+        "Swimming Pool",
+        "Graceful Movements",
+        "Synchronized Swimmers",
+        "Flowing Motion",
+        "Reflective Surface",
+        "Dancing in Water",
+        "Aquatic Choreography",
+        "Elegant Poses",
+        "Waterdrops",
+        "Light Reflections",
+        "Calm Atmosphere",
+        "Artistic Photography",
+        "Captivating Scene",
+        "Solo Performance",
+        "Choreographed Dance",
+        "Dramatic Lighting"
+    ],
+    "negative": [
+        "Leaky Pool",
+        "Littered Water",
+        "Uncoordinated Movements",
+        "Disjointed Choreography",
+        "Confused Swimmers",
+        "Turbulent Waters",
+        "Obstructive Underwater Objects",
+        "Misaligned Poses",
+        "Disharmonious Dance",
+        "Water Spray",
+        "Harsh Lighting",
+        "Noisy Atmosphere",
+        "Unartistic Photography",
+        "Undeveloped Scene",
+        "Crowded Pool",
+        "Overwhelming Lighting",
+        "Insufficient Space",
+        "Messy Surroundings"
+    ]
+}

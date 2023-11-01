@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Magical",
+        "Enchanting",
+        "Charming",
+        "Mysterious",
+        "Whimsical",
+        "Fantasy World",
+        "Witchcraft",
+        "Sorcery",
+        "Spellbinding",
+        "Ethereal",
+        "Otherworldly",
+        "Dreamy",
+        "Supernatural",
+        "Occult",
+        "Secretive",
+        "Magic Lessons",
+        "Spell Practice",
+        "Rituals",
+        "Coven",
+        "Witches Circle",
+        "Elementals",
+        "Familiars",
+        "Astral Projection"
+    ],
+    "negative": [
+        "Mundane",
+        "Ordinary",
+        "Dull",
+        "Unmagical",
+        "Disenchanted",
+        "Prosaic",
+        "Banality",
+        "Drudgery",
+        "Humdrum",
+        "Quotidian",
+        "Pedestrian",
+        "Lackluster"
+    ]
+}

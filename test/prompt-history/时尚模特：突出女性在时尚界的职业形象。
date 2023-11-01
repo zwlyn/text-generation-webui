@@ -1,0 +1,17 @@
+{
+    "positive": [
+        "Elegant",
+        "Sophisticated",
+        "Stylish",
+        "Glamorous",
+        "Fashionable",
+        "Chic"
+    ],
+    "negative": [
+        "Harsh Lighting",
+        "Low Key Lighting",
+        "High Contrast",
+        "Overexposed",
+        "Underexposed"
+    ]
+}

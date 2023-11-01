@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Athletic",
+        "Confident",
+        "Competitive",
+        "Determined",
+        "Team Spirit",
+        "Goal Celebration",
+        "Sportsmanship",
+        "Respectful",
+        "Focus",
+        "Inspirational",
+        "Championship Rings",
+        "Trophies",
+        "Medals",
+        "Crowd Roar",
+        "Victory",
+        "Amazing Goals"
+    ],
+    "negative": [
+        "Losing",
+        "Frustration",
+        "Disappointment",
+        "Injury",
+        "Referee Controversy",
+        "Sore Loser",
+        "Unfair Play",
+        "Offside Call",
+        "Missed Opportunity",
+        "Celebration Overreaction",
+        "Overconfidence",
+        "Bad Sportsmanship",
+        "Foul Play",
+        "Rude Fans",
+        "Loss",
+        "Dejection"
+    ]
+}

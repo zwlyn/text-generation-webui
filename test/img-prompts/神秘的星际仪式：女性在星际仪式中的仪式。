@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Ethereal",
+        "Futuristic",
+        "Glamourous",
+        "Neon Glow",
+        "Sci-Fi Elegance",
+        "Night Sky",
+        "Celestial Bodies",
+        "Otherworldly",
+        "Transformative",
+        "Dreamy",
+        "Mysterious"
+    ],
+    "negative": [
+        "Isolation",
+        "Deserted",
+        "Haunting",
+        "Eerie",
+        "Chilling",
+        "Frightening",
+        "Lonely",
+        "Abandoned",
+        "Ghostly",
+        "Spooky",
+        "Unsettling"
+    ]
+}

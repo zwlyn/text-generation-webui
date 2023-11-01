@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Futuristic",
+        "High-Tech",
+        "Confident",
+        "Professional",
+        "Sleek",
+        "Modern",
+        "Urban Environment",
+        "Clean",
+        "Advanced Technology",
+        "Medical Equipment",
+        "Cyberpunk Style",
+        "Futuristic Fashion",
+        "Glowing Lights",
+        "Youthful",
+        "Vibrant Colors",
+        "Innovative Design",
+        "Optimistic"
+    ],
+    "negative": [
+        "Darkness",
+        "Decay",
+        "Abandoned",
+        "Broken",
+        "Outdated",
+        "Isolation",
+        "Gloominess",
+        "Corruption",
+        "Dangerous",
+        "Pollution",
+        "Overcrowded",
+        "Crime-Ridden",
+        "Neglected",
+        "Despair",
+        "Stagnation",
+        "Aging Infrastructure",
+        "Resistance",
+        "Decline"
+    ]
+}

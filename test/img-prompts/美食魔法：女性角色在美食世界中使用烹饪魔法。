@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Futuristic Kitchen",
+        "Cooking Spellbook",
+        "High-tech Ingredients",
+        "Glowing Utensils",
+        "Magical Recipes",
+        "Innovative Culinary Techniques",
+        "Sleek Appliances",
+        "Food Transformation",
+        "Colorful Dishes",
+        "Playful Plating",
+        "Scientific Cooking Methods"
+    ],
+    "negative": [
+        "Outdated Kitchenware",
+        "Burnt Food",
+        "Cluttered Workspace",
+        "Failed Recipes",
+        "Unflavorful Dishes",
+        "Messy Prep Area",
+        "Ingredient Overflow",
+        "Lack of Creativity",
+        "Inefficient Cooking Processes"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Sun-kissed",
+        "Coastal Scenery",
+        "Team Spirit",
+        "Athletic Bodies",
+        "Fitness Lifestyle",
+        "Competition",
+        "Victory Celebration",
+        "Beachside Atmosphere",
+        "Warm Sand",
+        "Sunset Backdrop",
+        "Energetic Crowd",
+        "Cheering Fans",
+        "Refreshing Drinks",
+        "Coastal Breeze",
+        "Vibrant Colors",
+        "Dynamic Movement",
+        "Golden Sunlight",
+        "Inspiring Moments"
+    ],
+    "negative": [
+        "Rainy Day",
+        "Windy Conditions",
+        "Low Tide",
+        "Deserted Beach",
+        "Lack of Motivation",
+        "Defeat",
+        "Discouragement",
+        "Gloomy Weather",
+        "Overcast Sky",
+        "Cold Sand",
+        "Missed Opportunities",
+        "Unfavorable Conditions",
+        "Empty Stands",
+        "Silent Audience",
+        "Harsh Criticism",
+        "Injury Setbacks"
+    ]
+}

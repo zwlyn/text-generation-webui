@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Fiery",
+        "Volcanic",
+        "Eruption",
+        "Lava",
+        "Dance of Fire",
+        "Magma",
+        "Scorched",
+        "Burning Passion",
+        "Red-hot",
+        "Intense Heat",
+        "Glowing Embers",
+        "Energetic",
+        "Heat Wave",
+        "Inferno",
+        "Flames",
+        "Raging Inferno"
+    ],
+    "negative": [
+        "Cooling Lava",
+        "Hardened Magma",
+        "Smoke-filled Air",
+        "Volcanic Ash",
+        "Desolate Landscape",
+        "Chilling Wind",
+        "Burnt Remains",
+        "Fire Extinguished",
+        "Frozen Magma",
+        "Cold Embers",
+        "Exhausted Dancer",
+        "Dampened Flames",
+        "Smoldering Embers",
+        "Eroded Rock"
+    ]
+}

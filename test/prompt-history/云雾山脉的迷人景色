@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Misty Mountains",
+        "Natural Beauty",
+        "Serene Scenery",
+        "Spectacular Views",
+        "Breathtaking Vistas",
+        "Lush Forests",
+        "Tranquil Rivers",
+        "Waterfalls",
+        "Bridges",
+        "Ancient Pathways",
+        "Mystical Atmosphere",
+        "Panoramic Landscapes",
+        "Inspiring Journeys",
+        "Timeless Elegance",
+        "Pristine Wilderness",
+        "Peaceful Solitude"
+    ],
+    "negative": [
+        "Urban Chaos",
+        "Industrial Blight",
+        "Air Pollution",
+        "Deforestation",
+        "Rapid Development",
+        "Overcrowding",
+        "Traffic Congestion",
+        "Noise Pollution",
+        "Garbage and Litter",
+        "Environmental Degradation"
+    ]
+}

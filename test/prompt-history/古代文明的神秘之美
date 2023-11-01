@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Ancient",
+        "Mystical",
+        "Timeless",
+        "Elegant",
+        "Artifacts",
+        "Architecture",
+        "Sacred",
+        "Rituals",
+        "Celestial",
+        "Reverence",
+        "Enigmatic",
+        "Ornate",
+        "Fossils",
+        "Relics",
+        "Mythology",
+        "Legends",
+        "Eternal",
+        "Hallowed"
+    ],
+    "negative": [
+        "Decayed",
+        "Desolate",
+        "Abandoned",
+        "Ominous",
+        "Forgotten",
+        "Deteriorated",
+        "Shadowy",
+        "Sinister",
+        "Haunted",
+        "Cursed",
+        "Eerie",
+        "Mysterious"
+    ]
+}

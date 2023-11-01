@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Colorful",
+        "Cultural Celebration",
+        "Diverse Traditions",
+        "Energetic Performances",
+        "Festive Atmosphere",
+        "Handmade Costumes",
+        "Local Customs",
+        "Rich Textiles",
+        "Symbolic Meanings",
+        "Traditional Arts",
+        "Vibrant Scenery"
+    ],
+    "negative": [
+        "Aging Practices",
+        "Endangered Traditions",
+        "Inaccessible Locations",
+        "Limited Participation",
+        "Overshadowed by Commercialism",
+        "Rapid Modernization",
+        "Resistance to Change",
+        "Vanishing Heritage",
+        "Youth Disinterest"
+    ]
+}

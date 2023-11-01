@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Female Agent",
+        "Covert Mission",
+        "Night Vision Goggles",
+        "Stealthy Approach",
+        "High-Tech Equipment",
+        "Sleek Outfit",
+        "Surveillance",
+        "Cybernetic Enhancements",
+        "Intelligence Gathering",
+        "Mysterious Encounter",
+        "Coded Message",
+        "Holographic Display",
+        "Advanced Weaponry",
+        "Navigating the Dark Web"
+    ],
+    "negative": [
+        "Interrogation Room",
+        "Imprisonment",
+        "Coercion",
+        "Betrayal",
+        "Loss of Identity",
+        "Memory Manipulation",
+        "Electric Shock",
+        "Threats",
+        "Dangerous Experimentation",
+        "Isolated Laboratory",
+        "Sinister Plot",
+        "Covert Observation"
+    ]
+}

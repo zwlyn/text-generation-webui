@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Minimalism",
+        "Simplicity",
+        "Clean Design",
+        "Elegance",
+        "Geometric Shapes",
+        "Monochrome Color Palette",
+        "Negative Space",
+        "Functional Aesthetic",
+        "Less Is More",
+        "Balance and Proportion",
+        "Smooth Textures",
+        "Soft Lighting",
+        "Warm Tones",
+        "Harmony"
+    ],
+    "negative": [
+        "Cluttered",
+        "Complicated",
+        "Messy Design",
+        "Excessive Ornamentation",
+        "Overwhelming Patterns",
+        "Garish Colors",
+        "Inconsistent Styles",
+        "Busy Layouts",
+        "Disjointed Elements",
+        "Unnecessary Details",
+        "Lack of Cohesion",
+        "Harsh Lighting",
+        "Cold Tones",
+        "Dissonance"
+    ]
+}

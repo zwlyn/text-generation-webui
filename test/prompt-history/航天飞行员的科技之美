@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Astronaut",
+        "Space Suit",
+        "High-tech Gadgets",
+        "Future Tech",
+        "Innovative Design",
+        "Sleek Lines",
+        "Advanced Materials",
+        "Futuristic Lighting",
+        "Holographic Interface",
+        "Robot Assistant",
+        "Zero Gravity Environment",
+        "Exploration",
+        "Interstellar Travel",
+        "Pioneering Spirit",
+        "Inspiring Vision",
+        "Cosmic Beauty"
+    ],
+    "negative": [
+        "Isolation",
+        "Loneliness",
+        "Dangerous Mission",
+        "Risk Taking",
+        "Technical Malfunction",
+        "Alien Worlds",
+        "Hostile Environments",
+        "Emotional Stress",
+        "Physical Challenges"
+    ]
+}

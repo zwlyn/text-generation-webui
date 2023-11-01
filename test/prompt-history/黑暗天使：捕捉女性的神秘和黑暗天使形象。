@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Mysterious",
+        "Ethereal",
+        "Sensual",
+        "Feminine Mystique",
+        "Captivating",
+        "Dark Allure",
+        "Enigmatic",
+        "Intriguing",
+        "Otherworldly",
+        "Alluring Gaze",
+        "Liquid Eyes",
+        "Sultry Smile",
+        "Elegant Silhouette",
+        "Voluptuous Curves",
+        "Glittering Accessories",
+        "Seductive Poise",
+        "Celestial Glow",
+        "Radiant Aura",
+        "Enticing Eyes"
+    ],
+    "negative": [
+        "Ominous",
+        "Forbidding",
+        "Threatening",
+        "Unsettling",
+        "Dark Intentions",
+        "Sinister Smile",
+        "Shadowy Presence",
+        "Haunting Gaze",
+        "Cold Stare",
+        "Chilling Aura",
+        "Malevolent Whisper",
+        "Frozen Grin",
+        "Gloomy Atmosphere",
+        "Unnerving Eyes",
+        "Somber Tone",
+        "Dark Desire"
+    ]
+}

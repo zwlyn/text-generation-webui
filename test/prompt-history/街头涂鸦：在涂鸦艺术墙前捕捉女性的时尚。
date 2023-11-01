@@ -1,0 +1,27 @@
+{
+    "positive": [
+        "Street Art",
+        "Graffiti",
+        "Urban Style",
+        "Fashionable",
+        "Colorful",
+        "Creative",
+        "Artistic Vision",
+        "Trendy",
+        "Innovative",
+        "Expressive",
+        "Personal Style"
+    ],
+    "negative": [
+        "Vandalism",
+        "Illegal",
+        "Unclean",
+        "Graffiti Removal",
+        "Urban Blight",
+        "Litter",
+        "Disrespectful",
+        "Vulgar",
+        "Annoying",
+        "Distracting"
+    ]
+}

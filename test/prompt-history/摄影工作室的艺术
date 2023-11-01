@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Photography Studio",
+        "Artistic Composition",
+        "Dramatic Lighting",
+        "High-Quality Equipment",
+        "Vintage Camera",
+        "Innovative Techniques",
+        "Captivating Subject",
+        "Timeless Style",
+        "Natural Light",
+        "Creative Angle"
+    ],
+    "negative": [
+        "Cluttered Workspace",
+        "Poorly Lit Scene",
+        "Outdated Equipment",
+        "Amateur Photographer",
+        "Dull Subject Matter",
+        "Overused Techniques",
+        "Uninspired Composition",
+        "Harsh Lighting",
+        "Lack of Creativity"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Historic Cityscape",
+        "Ancient Architecture",
+        "Male Fashion",
+        "Modern Design",
+        "Futuristic Elements",
+        "Urban Life",
+        "Stylish Appearance",
+        "Cultural Connection",
+        "Timeless Elegance",
+        "Nostalgia",
+        "Preservation",
+        "Innovative Interpretation",
+        "Gentlemanly Charm",
+        "Evolving Tradition",
+        "Sustainable Practices"
+    ],
+    "negative": [
+        "Abandoned Ruins",
+        "Decaying Walls",
+        "Crumbling Facades",
+        "Disrepair",
+        "Lack of Maintenance",
+        "Dilapidated Structures",
+        "Neglected History",
+        "Broken Windows",
+        "Graffiti",
+        "Urban Blight",
+        "Deserted Streets",
+        "Social Decline",
+        "Environmental Degradation",
+        "Overlooked Details",
+        "Forgotten Stories"
+    ]
+}

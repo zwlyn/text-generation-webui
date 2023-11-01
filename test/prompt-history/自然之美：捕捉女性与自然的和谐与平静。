@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Harmony",
+        "Serenity",
+        "Tranquility",
+        "Nature's Beauty",
+        "Peaceful Coexistence",
+        "Organic Shapes",
+        "Soft Lighting",
+        "Calming Colors",
+        "Gentle Textures",
+        "Simplicity",
+        "Balance"
+    ],
+    "negative": [
+        "Disharmony",
+        "Turmoil",
+        "Discord",
+        "Nature's Fury",
+        "Forced Coexistence",
+        "Geometric Shapes",
+        "Harsh Lighting",
+        "Jarring Colors",
+        "Rough Textures",
+        "Complexity",
+        "Imbalance"
+    ]
+}

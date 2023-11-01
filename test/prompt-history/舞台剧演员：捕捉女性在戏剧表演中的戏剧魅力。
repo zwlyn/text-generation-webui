@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Performance",
+        "Stage Presence",
+        "Acting Techniques",
+        "Charisma",
+        "Character Development",
+        "Emotional Connection",
+        "Storytelling",
+        "Dramatic Lighting",
+        "Theatrical Costumes",
+        "Makeup Artistry",
+        "Live Audience",
+        "Crowd Reaction",
+        "Backstage Preparation",
+        "Creative Collaboration"
+    ],
+    "negative": [
+        "Audience Disengagement",
+        "Poor Script Writing",
+        "Unconvincing Performance",
+        "Lack of Emotion",
+        "Inadequate Staging",
+        "Bad Lighting",
+        "Ill-fitting Costumes",
+        "Overdone Makeup",
+        "Sound Issues",
+        "Disinterested Audience",
+        "Performance Anxiety",
+        "Onstage Mistakes",
+        "Egotistical Behavior",
+        "Uncooperative Cast Members"
+    ]
+}

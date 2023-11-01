@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Military Uniform",
+        "Historical Conflict",
+        "Battlefield Bravery",
+        "War Heroes",
+        "Valor",
+        "Courageous Actions",
+        "Sacrifice",
+        "Leadership",
+        "Strategic Brilliance",
+        "Tactics",
+        "Weaponry",
+        "Victory",
+        "Camaraderie",
+        "Brotherhood",
+        "Military Innovation",
+        "Discipline"
+    ],
+    "negative": [
+        "Death",
+        "Destruction",
+        "Pain",
+        "Suffering",
+        "Fear",
+        "Despair",
+        "Failure",
+        "Retreat",
+        "Betrayal",
+        "Loss",
+        "War Crimes",
+        "Atrocities",
+        "Massacre",
+        "Human Suffering",
+        "Horrors of War"
+    ]
+}

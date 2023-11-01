@@ -1,0 +1,24 @@
+{
+    "positive": [
+        "Red",
+        "Passionate",
+        "Energetic",
+        "Vibrant",
+        "Dramatic Lighting",
+        "Dynamic Shadows",
+        "Powerful Emotions",
+        "Bold Colors",
+        "Striking Contrasts"
+    ],
+    "negative": [
+        "Gloomy",
+        "Sadness",
+        "Dark Corners",
+        "Faded Glory",
+        "Nostalgic",
+        "Subdued Tones",
+        "Soft Shadows",
+        "Calm Feelings",
+        "Pastel Colors"
+    ]
+}

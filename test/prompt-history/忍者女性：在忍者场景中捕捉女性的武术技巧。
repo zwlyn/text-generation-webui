@@ -1,0 +1,21 @@
+{
+    "positive": [
+        "Female ninja showcasing martial arts prowess",
+        "Stealthy female warrior in action",
+        "Women's strength and agility in a ninja setting",
+        "Graceful yet powerful moves by a female ninja",
+        "A woman mastering the art of ninjutsu",
+        "Female martial artist blending into the scenery",
+        "Mysterious female ninja lurking in shadows",
+        "Acrobatic feats performed by a female ninja"
+    ],
+    "negative": [
+        "Clumsy female ninja struggling with basic techniques",
+        "Woman attempting martial arts but lacking skill",
+        "Female warrior distracted and unable to focus",
+        "Injured woman ninja hindered by her wounds",
+        "Overconfident female ninja facing defeat",
+        "A woman's poorly executed ninja moves",
+        "Female martial artist exposed and vulnerable"
+    ]
+}

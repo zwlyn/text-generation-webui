@@ -1,0 +1,48 @@
+{
+    "positive": [
+        "Enchanted Forest",
+        "Fairy Tale",
+        "Magical Creatures",
+        "Whimsical Atmosphere",
+        "Mysterious Pathways",
+        "Lush Greenery",
+        "Colorful Florals",
+        "Soft Lighting",
+        "Dreamlike Quality",
+        "Charming Cottage",
+        "Fantastical Architecture",
+        "Mythical Beings",
+        "Nature Spirits",
+        "Glowing Orbs",
+        "Ethereal Mist",
+        "Sparkling Streams"
+    ],
+    "negative": [
+        "Barren Trees",
+        "Abandoned Hut",
+        "Unkempt Pathways",
+        "Thorny Underbrush",
+        "Dark Shadows",
+        "Ruined Castle Walls",
+        "Decaying Statues",
+        "Fallen Tree Trunks",
+        "Overgrown Vegetation",
+        "Desolate Clearings",
+        "Lost in the Woods",
+        "Broken Bridge",
+        "Swampy Marshlands",
+        "Haunted Grove",
+        "Unwelcoming Foliage"
+    ],
+    "neutral": [
+        "Moss-Covered Rocks",
+        "Peaceful Pond",
+        "Woodland Creatures",
+        "Delicate Flower Garlands",
+        "Soft Dappled Sunlight",
+        "Babbling Brook",
+        "Ancient Oak Tree",
+        "Twisted Vines",
+        "Honey Suckle Trellis"
+    ]
+}

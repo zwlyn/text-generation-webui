@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Goddess",
+        "Warrior",
+        "Mythology",
+        "Ancient",
+        "Powerful",
+        "Fierce",
+        "Battle-tested",
+        "Victorious",
+        "Legacy",
+        "Immortal",
+        "Epic",
+        "Heroic",
+        "Divine",
+        "Inspiring"
+    ],
+    "negative": [
+        "Weakness",
+        "Vulnerability",
+        "Fearsome",
+        "Dangerous",
+        "Unpredictable",
+        "Mysterious",
+        "Ominous",
+        "Forbidden",
+        "Terrifying",
+        "Haunting",
+        "Chaos"
+    ]
+}

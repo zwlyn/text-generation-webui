@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Volunteer",
+        "Nature Lover",
+        "Environmental Protection",
+        "Conservationist",
+        "Green Activism",
+        "Sustainable Living",
+        "Eco-Friendly",
+        "Recycling",
+        "Community Outreach",
+        "Clean Energy",
+        "Renewable Resources",
+        "Natural Beauty",
+        "Organic",
+        "Wildlife Preservation"
+    ],
+    "negative": [
+        "Exploitation",
+        "Deforestation",
+        "Pollution",
+        "Overfishing",
+        "Animal Cruelty",
+        "Resource Depletion",
+        "Waste Management",
+        "Chemical Contamination",
+        "Climate Change Denial",
+        "Environmental Neglect",
+        "Irresponsible Consumption",
+        "Industrial Pollution",
+        "Loss of Biodiversity"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Speed",
+        "Agility",
+        "Competition",
+        "Vehicles",
+        "Racing Lines",
+        "Sporty",
+        "Adrenaline",
+        "Winning",
+        "Determination",
+        "Focus",
+        "Endurance",
+        "Training",
+        "Teamwork",
+        "Goals",
+        "Achievement",
+        "Innovation",
+        "Design",
+        "Performance"
+    ],
+    "negative": [
+        "Accidents",
+        "Collisions",
+        "Crashes",
+        "Injuries",
+        "Fear",
+        "Risk",
+        "Loss",
+        "Frustration",
+        "Burnout",
+        "Neglect",
+        "Obstacles",
+        "Competition",
+        "Pressure",
+        "Stress",
+        "Setbacks",
+        "Doubt",
+        "Uncertainty"
+    ]
+}

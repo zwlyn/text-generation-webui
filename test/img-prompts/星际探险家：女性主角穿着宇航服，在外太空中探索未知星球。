@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Intergalactic Explorer",
+        "Astronaut",
+        "Futuristic Fashion",
+        "Space Suit",
+        "Planetary Exploration",
+        "Adventure",
+        "Innovative Design",
+        "Lunar Landscape",
+        "Moon Colony",
+        "Starship",
+        "Stellar Discovery",
+        "Celestial Wonders",
+        "Extraterrestrial Life",
+        "Galactic Pioneer"
+    ],
+    "negative": [
+        "Isolation",
+        "Dangerous Environment",
+        "Zero Gravity",
+        "Alien Threat",
+        "Limited Resources",
+        "Harsh Conditions",
+        "Subzero Temperatures",
+        "Radiation Exposure",
+        "Mental Stress",
+        "Extreme Loneliness",
+        "Epic Journey",
+        "Uncharted Territory",
+        "Remote Location"
+    ]
+}

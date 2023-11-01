@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Flower Fairy",
+        "Magical Flowers",
+        "Enchanted Forest",
+        "Whimsical",
+        "Nature Spirits",
+        "Petals",
+        "Blossoms",
+        "Glowing Aura",
+        "Charming Creatures",
+        "Sprites",
+        "Fantasy Landscape",
+        "Mystical",
+        "Dreamlike",
+        "Ethereal",
+        "Whimsy"
+    ],
+    "negative": [
+        "Barren Tree",
+        "Withered Petals",
+        "Creepy Forest",
+        "Gloomy",
+        "Sad Flowers",
+        "Shadowy Creatures",
+        "Faded Aura",
+        "Dark Fairies",
+        "Twisted Sprites",
+        "Ominous Landscape",
+        "Nightmarish",
+        "Eerie",
+        "Unsettling",
+        "Gloom"
+    ]
+}

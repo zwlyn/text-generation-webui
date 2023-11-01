@@ -1,0 +1,42 @@
+{
+    "positive": [
+        "Western",
+        "Cowboy Hats",
+        "Boots and Spurs",
+        "Leather Belts",
+        "Denim",
+        "Checkered Shirts",
+        "Bandanas",
+        "Rodeo",
+        "Saddles",
+        "Horses",
+        "Dusty Trails",
+        "Saloon Scenes",
+        "Country Music",
+        "Campfire Cooking",
+        "Wild West Shows",
+        "Cowgirls",
+        "Prairie Landscapes",
+        "Train Robberies",
+        "Gold Rush",
+        "Frontier Spirit"
+    ],
+    "negative": [
+        "Deserted Towns",
+        "Abandoned Mines",
+        "Tumbleweeds",
+        "Drought",
+        "Bank Robbers",
+        "Stagecoach Holdups",
+        "Outlaws",
+        "Shootouts",
+        "Lawlessness",
+        "Wanted Posters",
+        "Jail Cells",
+        "Vigilante Justice",
+        "Hardships",
+        "Pioneer Life",
+        "Indian Raids",
+        "Trail of Tears"
+    ]
+}

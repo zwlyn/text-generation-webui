@@ -1,0 +1,23 @@
+{
+    "positive": [
+        "Geisha",
+        "Kimono",
+        "Ornate Hairpins",
+        "Intricate Patterns",
+        "Traditional Architecture",
+        "Sakura Blossoms",
+        "Serene Gardens",
+        "Calligraphy",
+        "Meditative Practices",
+        "Chado Tea Ceremony"
+    ],
+    "negative": [
+        "Overcrowding",
+        "Pollution",
+        "Loud Noises",
+        "Disrespectful Behavior",
+        "Western Influence",
+        "Rapid Modernization",
+        "Cultural Erasure"
+    ]
+}

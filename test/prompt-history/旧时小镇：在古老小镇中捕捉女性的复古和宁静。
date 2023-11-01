@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Quiet",
+        "Serene",
+        "Charming",
+        "Vintage",
+        "Antique",
+        "Nostalgic",
+        "Peaceful",
+        "Tranquil",
+        "Old-fashioned",
+        "Leisurely",
+        "Slow Life",
+        "Historical",
+        "Heritage",
+        "Classic",
+        "Timeless",
+        "Atmospheric"
+    ],
+    "negative": [
+        "Noisy",
+        "Urgent",
+        "Fast-paced",
+        "Modern",
+        "Bustling",
+        "Crowded",
+        "Harried",
+        "Stressful",
+        "Impersonal",
+        "Temporary",
+        "Transient"
+    ]
+}

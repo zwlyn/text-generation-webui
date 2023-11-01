@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Nature",
+        "Wildlife",
+        "Dancing",
+        "Flowers",
+        "Greenery",
+        "Sunlight",
+        "Rivers",
+        "Oceans",
+        "Forests",
+        "Waterfalls",
+        "Birds",
+        "Animals",
+        "Insects",
+        "Sunrise",
+        "Sunset"
+    ],
+    "negative": [
+        "Urban",
+        "Pollution",
+        "Trash",
+        "Graffiti",
+        "Concrete",
+        "Traffic",
+        "Noise",
+        "Crowds",
+        "Tall Buildings",
+        "Factories",
+        "Smog",
+        "Litter"
+    ]
+}

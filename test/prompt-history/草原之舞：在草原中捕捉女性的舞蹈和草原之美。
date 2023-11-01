@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Dancing",
+        "Grazing Landscape",
+        "Sunset",
+        "Women's Dance Moves",
+        "Grasslands",
+        "Freedom",
+        "Nature",
+        "Elegance",
+        "Beauty",
+        "Movement",
+        "Expression",
+        "Rhythm",
+        "Harmony",
+        "Joy",
+        "Graceful",
+        "Flowing"
+    ],
+    "negative": [
+        "No Dancers",
+        "Lack of Movement",
+        "Dull Landscape",
+        "Static Poses",
+        "Urban Scenery",
+        "Confining Spaces",
+        "Artificiality",
+        "Discord",
+        "Sadness",
+        "Restriction",
+        "Rigidity"
+    ]
+}

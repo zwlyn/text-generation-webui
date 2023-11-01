@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Culinary Masterpiece",
+        "Artistic Plating",
+        "Exquisite Presentation",
+        "Fusion Cuisine",
+        "Colorful Ingredients",
+        "Innovative Techniques",
+        "Molecular Gastronomy",
+        "Bold Flavors",
+        "Unique Textures",
+        "Vibrant Desserts",
+        "Festive Atmosphere",
+        "Modern Kitchen",
+        "Sophisticated Dining",
+        "Elegant Table Setting",
+        "Healthy Options",
+        "Seasonal Ingredients",
+        "Locally Sourced Produce",
+        "Interactive Dining Experience"
+    ],
+    "negative": [
+        "Overcooked Meals",
+        "Lackluster Presentation",
+        "Mismatched Flavors",
+        "Bland Ingredients",
+        "Outdated Cooking Methods",
+        "Cold Desserts",
+        "Drab Decor",
+        "Unappealing Atmosphere",
+        "Cluttered Kitchen",
+        "Ordinary Dining Environment",
+        "Informal Table Setting",
+        "Unhealthy Choices",
+        "Out-of-season Ingredients",
+        "Imported Produce",
+        "Limited Menu Options"
+    ]
+}

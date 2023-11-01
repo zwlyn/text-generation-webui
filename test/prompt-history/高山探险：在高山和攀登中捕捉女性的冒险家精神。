@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Adventurous",
+        "Awe-Inspiring",
+        "Bravery",
+        "Challenge",
+        "Climbing Gear",
+        "Empowerment",
+        "Freedom",
+        "Incredible Views",
+        "Landscape Photography",
+        "Mountain Majesty",
+        "Nature's Beauty",
+        "Outdoor Sports",
+        "Peaceful Solitude",
+        "Rugged Terrain",
+        "Solo Journey",
+        "Stunning Vistas",
+        "Tenacity",
+        "Trailblazer",
+        "Wanderlust"
+    ],
+    "negative": [
+        "Dangerous Cliffs",
+        "Exhausting Ascent",
+        "Fear of Heights",
+        "Harsh Elements",
+        "Isolation Anxiety",
+        "Lack of Oxygen",
+        "Loose Rocks",
+        "Nature's Unpredictability",
+        "Physical Limits",
+        "Risky Adventure",
+        "Slippery Paths",
+        "Steep Drops",
+        "Thin Air"
+    ]
+}

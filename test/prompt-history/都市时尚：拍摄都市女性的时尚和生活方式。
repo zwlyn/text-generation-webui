@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Urban Chic",
+        "City Style",
+        "Street Fashion",
+        "Glamorous City Life",
+        "Futuristic Inspirations",
+        "Architectural Wonders",
+        "Modern Aesthetics",
+        "Sleek Designs",
+        "Dynamic Atmosphere",
+        "Vibrant Streets",
+        "Urban Glow",
+        "Nightlife Exploration",
+        "Futuristic Skyline",
+        "City Lights Panorama",
+        "Neon-Lit Alleys",
+        "Reflective Surfaces",
+        "Glistening Windows",
+        "Energetic Vibes"
+    ],
+    "negative": [
+        "Urban Chaos",
+        "Overcrowded Streets",
+        "Polluted Cityscapes",
+        "Traffic Congestion",
+        "Noise Pollution",
+        "Garish Lighting",
+        "Unpleasant Smells",
+        "Endless Concrete",
+        "Soulless Architecture",
+        "Mass Transit Madness",
+        "Rush Hour Bedlam",
+        "City Stress",
+        "Urban Deterioration",
+        "Graffiti Overload",
+        "Abandoned Construction Sites"
+    ]
+}

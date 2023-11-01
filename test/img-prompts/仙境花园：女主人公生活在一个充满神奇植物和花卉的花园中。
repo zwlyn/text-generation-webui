@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Magical Forest",
+        "Mystical Creatures",
+        "Enchanted Garden",
+        "Whimsical Atmosphere",
+        "Fantastical Flora and Fauna",
+        "Lush Greenery",
+        "Colorful Blossoms",
+        "Captivating Pathways",
+        "Spectacular Foliage",
+        "Majestic Trees",
+        "Dazzling Floral Displays",
+        "Charming Water Features",
+        "Peaceful Settings",
+        "Utopian Ambiance",
+        "Nature's Wonders",
+        "Idyllic Scenery",
+        "Fairy Tale Destination"
+    ],
+    "negative": [
+        "Barren Landscape",
+        "Desolate Atmosphere",
+        "Withered Flora",
+        "Lifeless Fauna",
+        "Disheveled Garden",
+        "Sparse Vegetation",
+        "Dull Blossoms",
+        "Overgrown Pathways",
+        "Faded Foliage",
+        "Stunted Trees",
+        "Forlorn Floral Displays",
+        "Plagued Water Features",
+        "Unsettling Settings",
+        "Dystopian Ambiance",
+        "Nature's Cruelty",
+        "Haunting Scenery",
+        "Grim Fairy Tale Destination"
+    ]
+}

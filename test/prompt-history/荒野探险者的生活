@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Adventurous",
+        "Daring",
+        "Exploration",
+        "Mysterious",
+        "Remote Locations",
+        "Wilderness",
+        "Discovery",
+        "Challenging",
+        "Rugged",
+        "Nature",
+        "Uncharted Territory"
+    ],
+    "negative": [
+        "Dangerous",
+        "Isolation",
+        "Harsh Conditions",
+        "Risky",
+        "Lack of Resources",
+        "Unpredictable",
+        "Hazardous",
+        "Remote",
+        "Vulnerability",
+        "Exposure",
+        "Extreme Environments"
+    ]
+}

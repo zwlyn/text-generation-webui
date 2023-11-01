@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Cosmopolitan Atmosphere",
+        "Elegant Glassware",
+        "Bartender's Skill",
+        "Intricate Cocktails",
+        "Dim Ambient Lighting",
+        "Soft Focus",
+        "High-End Liquors",
+        "Chic Patrons",
+        "Swanky Interior Design",
+        "Live Music",
+        "Classy Crowd",
+        "Stylish Outfits"
+    ],
+    "negative": [
+        "Smoky Haze",
+        "Cigarette Butts",
+        "Rowdy Drunks",
+        "Dirty Floors",
+        "Loud Noise Levels",
+        "Overcrowding",
+        "Cheap Booze",
+        "Unwashed Glasses",
+        "Harsh Lighting",
+        "Tacky Decor",
+        "Boring Drinks"
+    ]
+}

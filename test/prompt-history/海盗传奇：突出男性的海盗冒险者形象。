@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Pirate",
+        "Adventure",
+        "Treasure Hunt",
+        "Sailor",
+        "Crew",
+        "Shipwreck",
+        "Exotic Island",
+        "Secret Cove",
+        "Nautical Chart",
+        "Compass",
+        "Telescope",
+        "Mysterious Map",
+        "Hidden Treasure",
+        "Swashbuckling",
+        "Captain's Quarters",
+        "Salvaged Booty",
+        "Maritime History"
+    ],
+    "negative": [
+        "Stormy Seas",
+        "Shipwrecked",
+        "Lost At Sea",
+        "Cursed Treasure",
+        "Sunken Ships",
+        "Ghost Ship",
+        "Enraged Kraken",
+        "Beware the Sirens Song",
+        "Treacherous Reefs",
+        "Uncharted Peril",
+        "Whirlpool of Doom",
+        "Raging Sea Monster"
+    ]
+}

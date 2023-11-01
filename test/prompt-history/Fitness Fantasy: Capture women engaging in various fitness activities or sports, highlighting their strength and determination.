@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Strong Women",
+        "Determined Women",
+        "Athletic Bodies",
+        "Sports Activities",
+        "Fitness Goals",
+        "Healthy Lifestyle",
+        "Inspiring Images",
+        "Positive Energy",
+        "Motivational Moments",
+        "Women's Empowerment",
+        "Girl Power",
+        "Role Models",
+        "Body Confidence"
+    ],
+    "negative": [
+        "Weakness",
+        "Lack of Motivation",
+        "Unrelated Subjects",
+        "Poor Lifestyle Choices",
+        "Health Issues",
+        "Sedentary Behaviour",
+        "Negative Stereotypes",
+        "Self-doubt",
+        "Discouragement",
+        "Exercise Avoidance",
+        "Unhealthy Habits",
+        "Lack of Self-esteem",
+        "Fear of Judgment",
+        "Comparisons to Others"
+    ]
+}

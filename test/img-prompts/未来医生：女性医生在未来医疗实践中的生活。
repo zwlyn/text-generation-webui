@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Futuristic",
+        "Innovative",
+        "Advanced Technology",
+        "Cybernetic Enhancements",
+        "Sleek",
+        "Efficient",
+        "Minimalist Design",
+        "Digital Healthcare",
+        "Holistic Care",
+        "Personalized Treatment",
+        "Patient-Centered",
+        "Empathetic AI",
+        "Telemedicine Integration",
+        "Smart Hospital",
+        "Seamless Experience",
+        "Wellness Focus"
+    ],
+    "negative": [
+        "Overwhelming",
+        "Depersonalized",
+        "Technology-Driven",
+        "Data Breach",
+        "Inaccessible",
+        "Unequal Access",
+        "Digital Divide",
+        "Misdiagnosis",
+        "Disconnected Care",
+        "Emotionless AI",
+        "Biomedical Waste",
+        "Energy Consumption",
+        "Cybersecurity Threats"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "positive": [
+        "Intriguing Discoveries",
+        "Groundbreaking Research",
+        "Collaborative Learning",
+        "Advanced Technologies",
+        "Bio-inspired Designs",
+        "Sustainable Solutions",
+        "Nature's Secrets"
+    ],
+    "negative": [
+        "Overwhelming Challenges",
+        "Funding Issues",
+        "Ethical Dilemmas",
+        "Data Overload",
+        "Resistant Organisms",
+        "Public Misunderstanding",
+        "Competition"
+    ]
+}

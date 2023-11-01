@@ -1,0 +1,24 @@
+{
+    "positive": [
+        "European Landscape",
+        "Charming Town",
+        "Historic Monument",
+        "Beautiful Architecture",
+        "Natural Scenery",
+        "Vibrant Culture",
+        "Stunning Viewpoint",
+        "Romantic Atmosphere",
+        "Local Flavor"
+    ],
+    "negative": [
+        "Overcrowded Tourist Spots",
+        "Pollution",
+        "Graffiti",
+        "Urban Congestion",
+        "Littering",
+        "Noise Pollution",
+        "Tourism Impact",
+        "Infrastructure Strain",
+        "Vandalism"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "positive": [
+        "Sandy Dunes",
+        "Desert Adventure",
+        "Camel Caravan",
+        "Female Explorer",
+        "Oasis Encounter",
+        "Starlit Sky",
+        "Nomadic Life",
+        "Burning Sun",
+        "Cultural Exchange"
+    ],
+    "negative": [
+        "Barren Wasteland",
+        "Searing Heat",
+        "Dust Storm",
+        "Dehydration Danger",
+        "Desert Solitude",
+        "Exhausted Camels",
+        "Forgotten Oasis",
+        "Endless Sand"
+    ]
+}

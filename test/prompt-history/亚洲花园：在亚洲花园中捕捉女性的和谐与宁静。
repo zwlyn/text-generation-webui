@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Asian",
+        "Floral",
+        "Serene",
+        "Harmony",
+        "Botanical",
+        "Zen Garden",
+        "Ornamental",
+        "Elegant",
+        "Nature-Inspired",
+        "Oriental",
+        "Peaceful",
+        "Tranquil",
+        "Lush Greenery",
+        "Cherry Blossoms",
+        "Koi Ponds",
+        "Bamboo Groves",
+        "Sakura Trees",
+        "Exotic Birds"
+    ],
+    "negative": [
+        "Urban Chaos",
+        "Concrete Jungle",
+        "Traffic Congestion",
+        "Air Pollution",
+        "Noise Pollution",
+        "Overcrowded",
+        "Hectic Life",
+        "Polluted Waterways",
+        "Garbage Dumpsters"
+    ]
+}

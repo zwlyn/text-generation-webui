@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Futuristic Armor",
+        "Advanced Manufacturing",
+        "High-Tech Facility",
+        "Glowing Circuits",
+        "Robotic Creations",
+        "Sleek Designs",
+        "Innovative Techniques",
+        "Female Engineer",
+        "Cybernetic Enhancements",
+        "Neon Glow",
+        "Holographic Displays",
+        "Urban Futurism"
+    ],
+    "negative": [
+        "Dark Workshop",
+        "Abandoned Factory",
+        "Malfunctioning Robots",
+        "Failed Prototypes",
+        "Corroded Circuits",
+        "Bleak Future",
+        "Polluted Cityscape",
+        "Overcrowded Spaces",
+        "Cramped Workspace",
+        "Outdated Technology",
+        "Isolated Creator"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Mythical Creature Companion",
+        "Fantasy Adventure",
+        "Magical Journey",
+        "Legendary Partner",
+        "Epic Quest",
+        "Enchanted Forest",
+        "Dragon Rider",
+        "Elven Guide",
+        "Ancient Prophecy",
+        "Nature's Alliance",
+        "Wondrous Landscapes",
+        "Mysterious Realms",
+        "Celestial Creatures",
+        "Arcane Knowledge",
+        "Whimsical",
+        "Fabled Beasts",
+        "Timeless Tales"
+    ],
+    "negative": [
+        "Lonely Trekker",
+        "Deserted Pathways",
+        "Uninhabited Wilderness",
+        "Abandoned Quests",
+        "Bleak Forest",
+        "Lone Wolf",
+        "Ancient Curses",
+        "Dark Omens",
+        "Spectral Shadows",
+        "Frozen Tundra",
+        "Barren Landscapes",
+        "Haunted Realms",
+        "Forgotten Stories",
+        "Mundane Existence",
+        "Unbelievable Fables"
+    ]
+}

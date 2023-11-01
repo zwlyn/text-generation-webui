@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Futuristic Cityscape",
+        "High-Tech Gadgets",
+        "Robotic Assistants",
+        "Holographic Displays",
+        "Sleek Interior Design",
+        "Neon-Lit Streets",
+        "Urban Infrastructure",
+        "Metallic Accents",
+        "Glowing Lights",
+        "Experimental Fashion",
+        "Futuristic Transportation"
+    ],
+    "negative": [
+        "Abandoned Facilities",
+        "Decaying Technology",
+        "Dark Alleys",
+        "Polluted Skies",
+        "Overcrowded Spaces",
+        "Crumbling Infrastructure",
+        "Broken Gadgets",
+        "Ruined Cityscapes",
+        "Corroded Metals",
+        "Graffiti-Covered Walls",
+        "Desolate Urban Areas"
+    ]
+}

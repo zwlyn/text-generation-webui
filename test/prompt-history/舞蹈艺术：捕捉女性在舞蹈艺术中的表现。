@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Graceful",
+        "Elegant",
+        "Fluid Motion",
+        "Ballet",
+        "Poise",
+        "Feminine Beauty",
+        "Expressive",
+        "Artistic",
+        "Choreography",
+        "Dance Movement",
+        "Rhythm and Movement",
+        "Synchronized Dance",
+        "Performance Art",
+        "Costume Design",
+        "Stage Lighting"
+    ],
+    "negative": [
+        "Clumsy",
+        "Uncoordinated",
+        "Stiff",
+        "Disjointed Movement",
+        "Harsh Lighting",
+        "Ugly Costumes",
+        "Lack of Expression",
+        "Overacting",
+        "Amateurish Choreography",
+        "Ineffective Dance Moves",
+        "Mismatched Rhythms",
+        "Disorganized Performance",
+        "Poorly Designed Costumes",
+        "Bad Stage Lighting"
+    ]
+}

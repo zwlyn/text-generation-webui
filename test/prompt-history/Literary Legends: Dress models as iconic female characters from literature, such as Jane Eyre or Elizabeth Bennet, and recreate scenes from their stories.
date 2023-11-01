@@ -1,0 +1,21 @@
+{
+    "positive": [
+        "Literary Legends",
+        "Iconic Female Characters",
+        "Jane Eyre",
+        "Elizabeth Bennet",
+        "Story Scenes",
+        "Classic Literature",
+        "Period Costumes",
+        "Fictional Worlds"
+    ],
+    "negative": [
+        "Out of Context",
+        "Misinterpretation",
+        "Inaccurate Portrayal",
+        "Lacking Emotion",
+        "Superficial Appearance",
+        "Disjointed Narrative",
+        "Costume Malfunction"
+    ]
+}

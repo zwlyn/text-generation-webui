@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Peaceful",
+        "Harmony",
+        "Coexistence",
+        "Nature",
+        "Wildlife",
+        "Grasslands",
+        "Serenity",
+        "Sunset",
+        "Beautiful",
+        "Tranquil",
+        "African Culture",
+        "Traditional Dress",
+        "Ornate Jewelry",
+        "Vibrant Colors",
+        "Floral Patterns",
+        "Untouched Wilderness"
+    ],
+    "negative": [
+        "Invasion",
+        "Destruction",
+        "Human Encroachment",
+        "Pollution",
+        "Poaching",
+        "Deforestation",
+        "Desertification",
+        "Climate Change",
+        "Extinction",
+        "Loss of Biodiversity",
+        "Disrespect",
+        "Exploitation",
+        "Environmental Degradation",
+        "Unethical Tourism",
+        "Disconnection from Nature"
+    ]
+}

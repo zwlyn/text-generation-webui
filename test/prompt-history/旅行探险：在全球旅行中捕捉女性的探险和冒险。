@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Adventure",
+        "Exploration",
+        "Discovery",
+        "Travel Memories",
+        "Wanderlust",
+        "Nature Encounters",
+        "Urban Exploring",
+        "Local Culture Immersion",
+        "Solo Female Traveler",
+        "Courageous Journeys",
+        "Scenic Landscapes",
+        "Heart-Pumping Activities",
+        "Off the Beaten Path",
+        "Timeless Moments"
+    ],
+    "negative": [
+        "Danger",
+        "Loneliness",
+        "Culture Shock",
+        "Language Barriers",
+        "Uncertainty",
+        "Fear of the Unknown",
+        "Getting Lost",
+        "Overwhelming Experiences",
+        "Tiredness",
+        "Anxiety",
+        "Homesickness",
+        "Injuries",
+        "Weather Challenges",
+        "Travel Mishaps",
+        "Missing Out on Comforts"
+    ]
+}

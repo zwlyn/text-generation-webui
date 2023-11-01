@@ -1,0 +1,23 @@
+{
+    "positive": [
+        "Jewelry Design",
+        "Bold Statement Pieces",
+        "Unique Accessories",
+        "Creative Craftsmanship",
+        "Artisanal Jewelry",
+        "Customized Pieces",
+        "Innovative Materials",
+        "Sustainable Practices",
+        "Timeless Elegance"
+    ],
+    "negative": [
+        "Lack of Creativity",
+        "Mass-Produced Designs",
+        "Poor Craftsmanship",
+        "Overused Motifs",
+        "Uninspired Colors",
+        "Subpar Materials",
+        "Environmental Neglect",
+        "Limited Customization"
+    ]
+}

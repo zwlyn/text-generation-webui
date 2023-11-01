@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Geisha",
+        "Kimono",
+        "Chanoyu Tea Ceremony",
+        "Ikebana Flower Arrangement",
+        "Sakura Blossoms",
+        "Traditional Japanese Music",
+        "Calligraphy",
+        "Wabi-sabi Aesthetic",
+        "Moon Viewing Party",
+        "Tatami Mat",
+        "Ink Wash Painting",
+        "Bonsai Tree",
+        "Ornamental Gardens",
+        "Haiku Poetry"
+    ],
+    "negative": [
+        "Modern Influence",
+        "Westernization",
+        "Pop Culture",
+        "Kawaii Aesthetic",
+        "Neon Lights",
+        "Graffiti",
+        "Plastic Food Models",
+        "Tourist Traps"
+    ]
+}

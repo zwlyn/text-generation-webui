@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Frozen Kiss",
+        "Winter Wonderland",
+        "Snowy Embrace",
+        "Icy Affection",
+        "Cold Seduction",
+        "Glistening Snowflakes",
+        "Serene Landscape",
+        "Tranquil Moment",
+        "Frozen Beauty",
+        "Winter Romance",
+        "Snow Globe",
+        "Chilling Tenderness",
+        "Gentle Touch",
+        "Crystalized Love",
+        "Icy Heart",
+        "Ethereal Scene"
+    ],
+    "negative": [
+        "Frozen Torment",
+        "Winter's Wrath",
+        "Snowbound Isolation",
+        "Icebound Sorrow",
+        "Cold Indifference",
+        "Bitter Chill",
+        "Blinding Snowstorm",
+        "Desolate Landscape",
+        "Frozen Loneliness",
+        "Winter's Emptiness",
+        "Snow Drift Desolation",
+        "Icy Hostility",
+        "Cold Rejection",
+        "Chilling Despair"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Feminine Aesthetic",
+        "Artistic Expression",
+        "Creative Vision",
+        "Innovation",
+        "Colorful",
+        "Dreamy Atmosphere",
+        "Soft Focus",
+        "Symbolic Elements",
+        "Empowerment",
+        "Beauty",
+        "Whimsical",
+        "Organic Shapes",
+        "Nature Inspired",
+        "Textured Backgrounds"
+    ],
+    "negative": [
+        "Harsh Lighting",
+        "Aggressive Angles",
+        "Jarring Colors",
+        "Confining Spaces",
+        "Disjointed Composition",
+        "Dissonant Tones",
+        "Unfocused Blur",
+        "Overwhelming Detail",
+        "Stereotypes",
+        "Objectification",
+        "Rigid Symmetry"
+    ]
+}

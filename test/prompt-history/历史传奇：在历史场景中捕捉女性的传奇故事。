@@ -1,0 +1,27 @@
+{
+    "positive": [
+        "Historical",
+        "Legend",
+        "Female Lead",
+        "Inspiring",
+        "Empowering",
+        "Era-specific",
+        "Authentic",
+        "Timeless",
+        "Influential",
+        "Iconic",
+        "Dignified",
+        "Resilient",
+        "Visionary"
+    ],
+    "negative": [
+        "Misrepresented",
+        "Overlooked",
+        "Stereotyped",
+        "Marginalized",
+        "Oppressive",
+        "Restrictive",
+        "Patriarchal",
+        "Unfair"
+    ]
+}

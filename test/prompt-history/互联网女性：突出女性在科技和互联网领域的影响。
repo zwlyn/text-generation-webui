@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Women in Tech",
+        "Female Entrepreneurs",
+        "Innovative Startups",
+        "Science and Technology",
+        "Future Technologies",
+        "Digital Innovation",
+        "Virtual Reality",
+        "Artificial Intelligence",
+        "Cybersecurity",
+        "Internet of Things",
+        "E-Commerce",
+        "Social Media",
+        "Tech-Savvy Women"
+    ],
+    "negative": [
+        "Gender Inequality",
+        "Pay Gap Issues",
+        "Underrepresentation",
+        "Sexual Harassment",
+        "Cyberbullying",
+        "Online Trolling",
+        "Unconscious Bias",
+        "Lack of Mentorship",
+        "Work-Life Balance"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "positive": [
+        "Space Explorer",
+        "Astronaut",
+        "Adventurous",
+        "Celestial Bodies",
+        "Stellar Landscapes",
+        "Intergalactic Travel",
+        "Extraterrestrial Life",
+        "Planetary Exploration",
+        "Starship",
+        "Infinite Cosmos",
+        "Galactic Encounters"
+    ],
+    "negative": [
+        "Loneliness",
+        "Dangerous Asteroids",
+        "Cosmic Radiation",
+        "Solar Storms",
+        "Isolation",
+        "Cramped Quarters",
+        "Deep Space",
+        "Long Journeys",
+        "Hostile Environments",
+        "Communication Blackouts"
+    ]
+}

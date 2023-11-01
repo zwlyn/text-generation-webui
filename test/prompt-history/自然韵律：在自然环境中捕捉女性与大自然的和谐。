@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Nature",
+        "Harmony",
+        "Women",
+        "Natural Beauty",
+        "Calm",
+        "Tranquility",
+        "Serenity",
+        "Peaceful",
+        "Vibrant",
+        "Lush",
+        "Flourishing",
+        "Energizing",
+        "Rejuvenating",
+        "Inspiring",
+        "Balance"
+    ],
+    "negative": [
+        "Urban Chaos",
+        "Pollution",
+        "Noise",
+        "Disconnection",
+        "Stress",
+        "Anxiety",
+        "Unnatural",
+        "Disharmony",
+        "Decay",
+        "Desolation",
+        "Conflict"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Nature",
+        "Beauty",
+        "Wilderness",
+        "Serenity",
+        "Peaceful",
+        "Harmony",
+        "Mother Earth",
+        "Organic Textures",
+        "Sunlight",
+        "Shadows",
+        "Soft Colors",
+        "Rugged",
+        "Verdant Forests",
+        "Mountains",
+        "Flowing Water",
+        "Botanicals"
+    ],
+    "negative": [
+        "Urban Chaos",
+        "Industrial Pollution",
+        "Graffiti",
+        "Dark Corners",
+        "Crumbling Walls",
+        "Trash",
+        "Unnatural Textures",
+        "Harsh Lighting",
+        "Overcrowding",
+        "Disarray",
+        "Synthetic Materials"
+    ]
+}

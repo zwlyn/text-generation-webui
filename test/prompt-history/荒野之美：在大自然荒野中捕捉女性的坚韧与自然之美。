@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Nature's Beauty",
+        "Resilience",
+        "Wildlife",
+        "Vast Landscapes",
+        "Rugged Terrain",
+        "Serenity",
+        "Untamed Wilderness",
+        "Sunset",
+        "Natural Elements",
+        "Into the Wild",
+        "Adventure",
+        "Freedom"
+    ],
+    "negative": [
+        "Abandoned",
+        "Desolation",
+        "Loneliness",
+        "Danger",
+        "Harsh Conditions",
+        "Mysterious",
+        "Isolated",
+        "Uncharted Territory",
+        "Challenging",
+        "Vulnerable"
+    ]
+}

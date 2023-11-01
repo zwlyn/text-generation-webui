@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Astronaut",
+        "Space Exploration",
+        "Adventure",
+        "Innovation",
+        "Technology",
+        "Stars",
+        "Galaxy",
+        "Mission",
+        "Discovery",
+        "Future",
+        "Research",
+        "Science Fiction",
+        "Pioneer",
+        "Universe",
+        "Orbit",
+        "Aerospace"
+    ],
+    "negative": [
+        "Isolation",
+        "Loneliness",
+        "Danger",
+        "Fear",
+        "Vulnerability",
+        "Failure",
+        "Risk",
+        "Unknown",
+        "Challenge",
+        "Pressure",
+        "Setbacks",
+        "Unpredictable",
+        "Inhospitable",
+        "Hostile Environment"
+    ]
+}

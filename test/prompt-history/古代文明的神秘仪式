@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Ancient Rituals",
+        "Mystical Aura",
+        "Timeless Traditions",
+        "Ceremonial Attire",
+        "Natural Elements",
+        "Sacred Geometry",
+        "Spiritual Connection",
+        "Ethereal Lighting",
+        "Divine Energy",
+        "Harmony with Nature",
+        "Primal Power",
+        "Fertility Symbols",
+        "Tribal Markings"
+    ],
+    "negative": [
+        "Forbidden Knowledge",
+        "Dark Forces",
+        "Unholy Ceremony",
+        "Desecrated Sacred Grounds",
+        "Corrupted Rituals",
+        "Sinister Intentions",
+        "Twisted Traditions",
+        "Ominous Energy",
+        "Mystical Malevolence",
+        "Violent Confrontation",
+        "Cursed Artifacts",
+        "Evil Omens"
+    ]
+}

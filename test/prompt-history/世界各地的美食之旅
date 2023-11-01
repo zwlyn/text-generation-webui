@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Gourmet",
+        "Flavorful",
+        "Culinary",
+        "Delicious",
+        "International Cuisine",
+        "Exotic Flavors",
+        "Ethnic Foods",
+        "Local Delicacies",
+        "Street Food",
+        "Farmers Market",
+        "Sustainable Agriculture",
+        "Artisanal Produce",
+        "Cultural Experience",
+        "Food Tourism",
+        "Healthy Options",
+        "Vegan/Vegetarian"
+    ],
+    "negative": [
+        "Overcooked",
+        "Lack of Flavor",
+        "Bland Dishes",
+        "Inedible Ingredients",
+        "Unhealthy Choices",
+        "Processed Foods",
+        "Fast Food Chains",
+        "Indistinct Taste",
+        "Gastronomic Disappointment",
+        "Overpriced Meals",
+        "Lack of Variety",
+        "Missing Flavors",
+        "Unfavorable Texture",
+        "Poorly Presented",
+        "Food Wastage"
+    ]
+}

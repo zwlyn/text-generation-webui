@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Fantasy Aquarium",
+        "Magical Creatures",
+        "Underwater Adventure",
+        "Mystical Atmosphere",
+        "Colorful Fish",
+        "Spectacular Corals",
+        "Whimsical Architecture",
+        "Dreamy Lighting",
+        "Enchanted Landscape",
+        "Fantastical Creatures",
+        "Marine Life Encounters",
+        "Surreal Exploration",
+        "Wondrous Experience",
+        "Vibrant Colors",
+        "Unforgettable Moments",
+        "Imaginative Designs",
+        "Sense of Wonder"
+    ],
+    "negative": [
+        "Ordinary Aquarium",
+        "Common Sea Life",
+        "Boring Underwater Scenes",
+        "Monotonous Atmosphere",
+        "Dull Fish",
+        "Unimpressive Corals",
+        "Plain Architecture",
+        "Insufficient Lighting",
+        "Average Landscape",
+        "Lackluster Creatures",
+        "Mundane Marine Life Encounters",
+        "Routine Exploration",
+        "Dull Experience",
+        "Flat Colors",
+        "Forgettable Moments",
+        "Lack of Imagination",
+        "Missing Sense of Wonder"
+    ]
+}

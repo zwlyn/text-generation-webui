@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Futuristic",
+        "Female Protagonist",
+        "Empowering",
+        "Strong Character",
+        "Adventure",
+        "Mentorship",
+        "Teamwork",
+        "Bonding",
+        "Challenge",
+        "Growth",
+        "Self-Discovery",
+        "Supportive",
+        "Uplifting",
+        "Friendly",
+        "Inspiring",
+        "Encouragement"
+    ],
+    "negative": [
+        "Dark",
+        "Ominous",
+        "Intimidating",
+        "Fear",
+        "Uncertainty",
+        "Isolation",
+        "Loneliness",
+        "Danger",
+        "Threat",
+        "Self-Doubt",
+        "Discouragement",
+        "Overwhelming",
+        "Despair",
+        "Gloom"
+    ]
+}

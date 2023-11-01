@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Dancing",
+        "Performance",
+        "Expression",
+        "Drama",
+        "Theater",
+        "Costumes",
+        "Makeup",
+        "Lighting",
+        "Stage Presence",
+        "Charisma",
+        "Choreography",
+        "Artistry",
+        "Spectacle",
+        "Applause",
+        "Audience Reaction",
+        "Encore"
+    ],
+    "negative": [
+        "Off-Key",
+        "Mismatched Costumes",
+        "Bad Makeup",
+        "Wrong Lighting",
+        "Lack of Expression",
+        "Unpreparedness",
+        "Lackluster Performance",
+        "Disinterested Audience",
+        "No Applause",
+        "Empty Theater",
+        "Technical Difficulties"
+    ]
+}

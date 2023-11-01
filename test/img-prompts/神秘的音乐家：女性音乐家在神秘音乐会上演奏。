@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Musician",
+        "Female Musician",
+        "Piano",
+        "Violin",
+        "Cello",
+        "Opera Singer",
+        "Classical Music",
+        "Jazz",
+        "Blues",
+        "Rock and Roll",
+        "Electronic Music",
+        "Recording Studio",
+        "Concert Hall",
+        "Stage Lighting",
+        "Audience Applause",
+        "Sheet Music",
+        "Orchestra",
+        "Music Notes",
+        "Musical Instruments"
+    ],
+    "negative": [
+        "Silent Stage",
+        "Empty Concert Hall",
+        "Abandoned Recording Studio",
+        "Overturned Piano",
+        "Broken Violin String",
+        "Cracked Cello",
+        "Deserted Opera House",
+        "Graffiti-Covered Musical Instruments",
+        "Littered Sheet Music",
+        "Defaced Album Cover"
+    ]
+}

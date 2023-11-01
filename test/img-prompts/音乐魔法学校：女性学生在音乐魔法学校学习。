@@ -1,0 +1,42 @@
+{
+    "positive": [
+        "Magical Musician",
+        "Futuristic Piano",
+        "Neon Guitar",
+        "Sorcerer's Flute",
+        "Enchanted Violin",
+        "Ethereal Voice",
+        "Cybernetic Drummer",
+        "Holographic Band",
+        "Synthesizer Sorcery",
+        "Symphonic Spellbinding",
+        "Reality-Defying Rhythms",
+        "Celestial Choir",
+        "Sleek Musical Instruments",
+        "Dreamlike Duet",
+        "Urban Ensemble",
+        "Innovative Composer",
+        "Metallic Melodies",
+        "Glowing Harmony",
+        "Exotic Tunes",
+        "Ethereal Vocalist"
+    ],
+    "negative": [
+        "Desolate Concert Hall",
+        "Abandoned Stage",
+        "Broken Instruments",
+        "Forgotten Sheet Music",
+        "Dusty Score",
+        "Unplayable Keys",
+        "Cracked Drumheads",
+        "Rusty Strings",
+        "Silenced Speakers",
+        "Echoes of Despair",
+        "Shadows Cast by Memories",
+        "Lingering Melancholy",
+        "Chilling Whispers",
+        "Haunted Harmonies",
+        "Frozen Notes",
+        "Cacophony of Loneliness"
+    ]
+}

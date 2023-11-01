@@ -1,0 +1,24 @@
+{
+    "positive": [
+        "Greek Goddess",
+        "Mythological Creatures",
+        "Ancient Stories",
+        "Heroic Adventures",
+        "Legendary Characters",
+        "Epic Tales",
+        "Chiseled Features",
+        "Timeless Beauty",
+        "Classical Inspiration"
+    ],
+    "negative": [
+        "Modern World",
+        "Urban Life",
+        "Daily Routine",
+        "Mundane Tasks",
+        "Pollution",
+        "Traffic Congestion",
+        "Noise Pollution",
+        "Overcrowding",
+        "Congested Areas"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Vintage Mechanism",
+        "Intricate Gears",
+        "Timeless Elegance",
+        "Steampunk Aesthetic",
+        "Industrial Chic",
+        "Craftsmanship",
+        "Brass Accents",
+        "Smooth Operator",
+        "Gadget Enthusiast",
+        "Early Inventions",
+        "Precision Engineering",
+        "Women in STEM",
+        "Retro Futurism"
+    ],
+    "negative": [
+        "Abandoned Workshop",
+        "Rusty Gears",
+        "Dilapidated Factories",
+        "Discarded Technology",
+        "Decaying Structures",
+        "Neglected Innovations",
+        "Clockwork Chaos",
+        "Mechanical Malfunction",
+        "Outdated Equipment",
+        "Misplaced Values",
+        "Obsolete Ideologies"
+    ]
+}

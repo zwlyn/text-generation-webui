@@ -1,0 +1,22 @@
+{
+    "positive": [
+        "War Photographer",
+        "Bravery",
+        "Courageous",
+        "Combat Zone",
+        "Danger",
+        "Risk",
+        "Peril",
+        "Resilience",
+        "Heroism"
+    ],
+    "negative": [
+        "Fear",
+        "Panic",
+        "Trauma",
+        "Injury",
+        "Death",
+        "Violence",
+        "Suffering"
+    ]
+}

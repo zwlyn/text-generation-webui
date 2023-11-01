@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Marine Life Conservation",
+        "Ocean Protection",
+        "Beach Cleanup",
+        "Sea Turtle Rescue",
+        "Coral Reef Restoration",
+        "Environmental Activism",
+        "Sustainable Fishing",
+        "Eco-Friendly Boat Tour",
+        "Underwater Photography",
+        "Nature Appreciation",
+        "Coastal Preservation",
+        "Community Outreach",
+        "Wave Energy Harvesting",
+        "Solar Powered Technology",
+        "Biodegradable Materials",
+        "Recycling Initiatives",
+        "Alternative Energy Solutions"
+    ],
+    "negative": [
+        "Marine Pollution",
+        "Overfishing",
+        "Coral Bleaching",
+        "Ocean Acidification",
+        "Plastic Waste",
+        "Harmful Algal Blooms",
+        "Loss of Biodiversity",
+        "Unsustainable Tourism",
+        "Fishery Collapse",
+        "Pollution Runoff",
+        "Water Quality Degradation",
+        "Ecosystem Destruction",
+        "Invasive Species",
+        "Climate Change Impacts",
+        "Ocean Noise Pollution",
+        "Loss of Coastal Habitat"
+    ]
+}

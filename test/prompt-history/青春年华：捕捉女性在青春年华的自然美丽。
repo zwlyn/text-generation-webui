@@ -1,0 +1,43 @@
+{
+    "positive": [
+        "Cyberpunk Makeup",
+        "Futuristic Fashion Trends",
+        "Masculine Hair Styles",
+        "Neon Lights in Fashion",
+        "High-Tech Accessories",
+        "Urban Landscape Photography",
+        "Holographic Gadgets",
+        "Cybernetic Enhancements for Beauty",
+        "Sleek Design Concepts",
+        "Dystopian Cityscapes",
+        "Sci-Fi Chic Fashion",
+        "Virtual Reality Makeup",
+        "Futuristic Grooming Techniques",
+        "Metallic Hair Colors",
+        "Glowing Accessories",
+        "Exotic Locations for Photoshoots",
+        "Urban Explorer Outfits",
+        "Techno-Geek Style"
+    ],
+    "negative": [
+        "Gritty Urban Portraits",
+        "Post-Apocalyptic Fashion Trends",
+        "Dark Alley Photography",
+        "Urban Decay in Fashion",
+        "Grimy Cityscapes",
+        "Broken Technology Accessories",
+        "Pollution and its Effects on Beauty",
+        "Surveillance in the Future",
+        "Isolation in Urban Spaces",
+        "Desolation in Urban Areas",
+        "Cybercrime Impact on Society",
+        "System Failure in Futuristic World",
+        "Dystopian Future Cityscapes",
+        "Ruined Cityscape Photography",
+        "Corruption in High-Tech Societies",
+        "Hackers and their Influence",
+        "Underground Life in Dystopia",
+        "Chaos in Urban Environments",
+        "Resistance Movements"
+    ]
+}

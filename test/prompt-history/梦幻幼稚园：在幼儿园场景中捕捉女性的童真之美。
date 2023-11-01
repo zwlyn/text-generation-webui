@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Wonderland",
+        "Fairy Tale",
+        "Enchanted Forest",
+        "Magical Creatures",
+        "Charming Castle",
+        "Storybook Village",
+        "Dreamlike Atmosphere",
+        "Mystical Adventure",
+        "Whimsical Wardrobe",
+        "Ethereal Lighting",
+        "Playful Pets",
+        "Nurturing Nature",
+        "Captivating Countryside",
+        "Colorful Canopy",
+        "Idyllic Idyll",
+        "Mythical Meadow",
+        "Fanciful Foliage"
+    ],
+    "negative": [
+        "Abandoned Playground",
+        "Dilapidated School",
+        "Decaying Swings",
+        "Overgrown Garden",
+        "Deserted Sandbox",
+        "Forbidden Forest",
+        "Haunted Treehouse",
+        "Creepy Cottage",
+        "Shadowy Grove",
+        "Gloomy Glade",
+        "Mysterious Meadow",
+        "Spooky Stream",
+        "Eerie Echoes",
+        "Chilling Chamber",
+        "Sinister Shadows"
+    ]
+}

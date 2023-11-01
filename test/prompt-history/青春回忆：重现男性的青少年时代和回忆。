@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Youthful Energy",
+        "Innocent Smile",
+        "Carefree Attitude",
+        "Boyish Charm",
+        "Happiness",
+        "Fun Times",
+        "Playful Spirit",
+        "Silliness",
+        "Exuberance",
+        "Adventure",
+        "Friendship",
+        "Camaraderie",
+        "Youth Culture",
+        "First Love",
+        "Coming of Age"
+    ],
+    "negative": [
+        "Loss of Innocence",
+        "Regret",
+        "Mistakes",
+        "Unforgiving Memories",
+        "Growing Pains",
+        "Insecurities",
+        "First Heartache",
+        "Betrayal",
+        "Peer Pressure",
+        "Rejection",
+        "Loneliness"
+    ]
+}

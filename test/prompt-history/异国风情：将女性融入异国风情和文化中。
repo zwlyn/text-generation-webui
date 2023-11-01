@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Exotic",
+        "Foreign",
+        "Charming",
+        "Scenic",
+        "Culture",
+        "Beautiful",
+        "Mysterious",
+        "Colorful",
+        "Traditional",
+        "Elegant",
+        "Enchanting",
+        "History",
+        "Artistic",
+        "Festive",
+        "Nature",
+        "Friendly",
+        "Local Life"
+    ],
+    "negative": [
+        "Alienating",
+        "Language Barrier",
+        "Exclusionary",
+        "Unfamiliar",
+        "Hostile",
+        "Inaccessible",
+        "Intimidating",
+        "Disorienting",
+        "Dissonance",
+        "Prejudice",
+        "Xenophobia",
+        "Unease",
+        "Misunderstanding",
+        "Cultural Divide",
+        "Isolation"
+    ]
+}

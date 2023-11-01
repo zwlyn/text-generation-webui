@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Outdoor Concert",
+        "Nature Sounds",
+        "Acoustic Guitar",
+        "Campfire Singalong",
+        "Starry Night Sky",
+        "Serenade",
+        "Picnic Basket",
+        "Meadow Flowers",
+        "Woodwind Ensemble",
+        "String Quartet",
+        "Sunlit Trees",
+        "Tranquil Lake",
+        "Birdsong",
+        "Soft Wind",
+        "Rustic Charm"
+    ],
+    "negative": [
+        "Booming Speakers",
+        "Neon Lights Flashing",
+        "Urban Traffic Noise",
+        "Construction Zone",
+        "Polluted Air",
+        "Overcrowded Event",
+        "Amplifier Feedback",
+        "Trash on the Ground",
+        "Graffiti-Covered Wall",
+        "Vandalized Property",
+        "Noise Pollution",
+        "Loud Motorcycles",
+        "Shattered Glass",
+        "Aggravated Neighbors"
+    ]
+}

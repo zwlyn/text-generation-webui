@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Industrial",
+        "Masculine",
+        "Steampunk",
+        "Sci-Fi",
+        "Futuristic",
+        "Metallic Surfaces",
+        "Hardware",
+        "High-Tech Gadgets",
+        "Innovative Designs",
+        "Neon Lights",
+        "Urban Landscapes",
+        "Mechanical Parts",
+        "Glowing Elements",
+        "Experimental",
+        "Cyberpunk Fusion"
+    ],
+    "negative": [
+        "Darkness",
+        "Pollution",
+        "Corrosion",
+        "Abandoned Factories",
+        "Decaying Infrastructure",
+        "Broken Gadgets",
+        "Technological Disaster",
+        "Crime-Ridden Areas",
+        "Post-Apocalyptic Scenery",
+        "Desolation",
+        "Environmental Ruin",
+        "Overcrowded Cities",
+        "Chaos",
+        "Disorder"
+    ]
+}

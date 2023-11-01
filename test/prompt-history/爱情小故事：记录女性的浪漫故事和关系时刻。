@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Romantic",
+        "Love-Struck",
+        "Whimsical",
+        "Intimate",
+        "Cute Moment",
+        "Heartwarming",
+        "Cherished Memory",
+        "Sweet Kiss",
+        "Embracing Couple",
+        "Endearing Gaze",
+        "Playful Tease",
+        "Cozy Cuddle",
+        "Timeless Love",
+        "Wistful Smile",
+        "Tender Hug",
+        "Affectionate Touch",
+        "Fond Reminiscence"
+    ],
+    "negative": [
+        "Broken Heart",
+        "Lonely Soul",
+        "Unrequited Love",
+        "Heartache",
+        "Pained Expression",
+        "Sad Eyes",
+        "Rejected Advances",
+        "Discouragement",
+        "Shattered Dreams",
+        "Crushed Spirit",
+        "Betrayed Trust",
+        "Lost Hope",
+        "Abandoned Love",
+        "Mournful Goodbye",
+        "Tear-Stained Cheek",
+        "Cold Shoulder"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "European Architectural Gems",
+        "Charming Cobblestone Streets",
+        "Vintage European Cars",
+        "Elegant Old World Shops",
+        "Classic European Fashion",
+        "Timeless European Style",
+        "Beautifully Aged Buildings",
+        "Soft Natural Lighting",
+        "European Cultural Treasures",
+        "Sophisticated Elegance",
+        "Euopean City Parks",
+        "Charming European Cafes",
+        "Historic European Monuments",
+        "Stunning European Sculptures"
+    ],
+    "negative": [
+        "Abandoned European Streets",
+        "Decaying Historic Buildings",
+        "Dilapidated European Neighborhoods",
+        "Neglected Urban Spaces",
+        "Graffiti-Covered Walls",
+        "Derelict European Cars",
+        "Deserted City Squares",
+        "Peeling Paint and Rust",
+        "Overgrown Plant Life",
+        "Urban Decay in Europe"
+    ]
+}

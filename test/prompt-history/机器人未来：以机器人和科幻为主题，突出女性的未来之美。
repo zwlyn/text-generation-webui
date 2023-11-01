@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Futuristic",
+        "Robotics",
+        "AI-Powered",
+        "Advanced Technology",
+        "Gadgets and Gizmos",
+        "Innovative Design",
+        "Sleek Lines",
+        "Metallic Colors",
+        "Holographic Projections",
+        "Smart Materials",
+        "Urban Environment",
+        "Clean Lines",
+        "Minimalism",
+        "Futuristic Fashion",
+        "Sci-Fi Inspired",
+        "Cybernetic Integration",
+        "High-Tech Gadgets"
+    ],
+    "negative": [
+        "Dystopian Vision",
+        "Dehumanization",
+        "Technological Dependence",
+        "Automation Anxiety",
+        "Loss of Human Touch",
+        "Overreliance on Technology",
+        "Cold Aesthetic",
+        "Disconnection from Nature",
+        "Sterile Atmosphere",
+        "Excessive Consumerism",
+        "Cyberbullying",
+        "Online Harassment",
+        "Digital Divide",
+        "Surveillance State",
+        "Privacy Invasion",
+        "Artificial Superiority"
+    ]
+}

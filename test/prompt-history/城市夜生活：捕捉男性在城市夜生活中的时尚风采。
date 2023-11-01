@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Urban Chic",
+        "Neon Glow",
+        "Stylish Atmosphere",
+        "Futuristic Fashion",
+        "High-Tech Accessories",
+        "City Lights Reflection",
+        "Confidence",
+        "Cool",
+        "Sleek Haircuts",
+        "Edgy Makeup",
+        "Futuristic Styles",
+        "Holographic Elements",
+        "Cybernetic Enhancements",
+        "Glowing Accents",
+        "Exotic Locations",
+        "Night Explorer"
+    ],
+    "negative": [
+        "Dark Corners",
+        "Isolated Individuals",
+        "Urban Alienation",
+        "Broken Gadgets",
+        "Gloomy Atmosphere",
+        "Polluted Environment",
+        "Surveillance Cameras",
+        "Loneliness",
+        "Despair",
+        "Cyberbullying",
+        "Technology Failure",
+        "Dystopian Reality",
+        "Abandoned Spaces",
+        "Corruption Symbols",
+        "Hackers Threat",
+        "Underground World",
+        "Chaos Scene",
+        "Resistance Struggle"
+    ]
+}

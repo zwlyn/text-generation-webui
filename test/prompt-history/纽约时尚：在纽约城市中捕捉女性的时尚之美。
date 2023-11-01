@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Urban Chic",
+        "Stylish Women",
+        "Chic Outfits",
+        "Fashionable New Yorkers",
+        "Elegant Attire",
+        "Vibrant Streets",
+        "Bustling Sidewalks",
+        "Iconic Landmarks",
+        "Sophisticated Style",
+        "Times Square Glitz",
+        "Central Park Serenity",
+        "SoHo Charm",
+        "Fifth Avenue Glamour",
+        "Greenwich Village Vibe",
+        "Broadway Excitement",
+        "Cultural Diversity"
+    ],
+    "negative": [
+        "Pedestrian Congestion",
+        "Urban Chaos",
+        "Overwhelming City Life",
+        "Traffic Jams",
+        "Noise Pollution",
+        "Garish Advertisements",
+        "Crowded Public Spaces",
+        "Impatient New Yorkers",
+        "Rush Hour Madness"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Underwater Treasure",
+        "Sunken Shipwrecks",
+        "Lost City",
+        "Marine Life",
+        "Diving Suit",
+        "Exploration",
+        "Ocean Depths",
+        "Hidden Gems",
+        "Aquatic Adventure",
+        "Submerged Relics",
+        "Nautical Charm",
+        "Mysterious Artefacts",
+        "Treasures Of The Sea",
+        "Sunken Riches"
+    ],
+    "negative": [
+        "Dark Waters",
+        "Underwater Dangers",
+        "Pressure Cooker",
+        "Deep-Sea Creatures",
+        "Limited Oxygen",
+        "Claustrophobic",
+        "Lost In Depths",
+        "Gloomy Abyss",
+        "Ocean Mysteries",
+        "Diving Perils",
+        "Sunken Terrors",
+        "Hidden Menace",
+        "Haunted Waters",
+        "Maritime Horrors"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Female Musicians",
+        "Music Concerts",
+        "Performances",
+        "Expressive Faces",
+        "Enthusiastic Crowd",
+        "Dancing Audience Members",
+        "Band on Stage",
+        "Stage Lighting",
+        "Musical Instruments",
+        "Rock Star Attitude",
+        "Energetic Vibe",
+        "Festival Atmosphere",
+        "Outdoor Concerts",
+        "Sunset Backgrounds",
+        "City Skyline",
+        "Celebration"
+    ],
+    "negative": [
+        "Sound Equipment Failure",
+        "Poor Acoustics",
+        "Unengaged Audience",
+        "Lack of Energy",
+        "Bad Weather Conditions",
+        "Overcrowded Event",
+        "Late Start Time",
+        "Technical Difficulties",
+        "Confusing Stage Layout",
+        "Inadequate Lighting",
+        "Misleading Promotion Materials",
+        "Uncomfortable Seating Arrangements",
+        "Noise Complaints"
+    ]
+}

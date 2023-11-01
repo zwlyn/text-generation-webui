@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Mystical",
+        "Ancient",
+        "Futuristic",
+        "Surreal",
+        "Timeless",
+        "Sacred",
+        "Architecture",
+        "Monuments",
+        "Natural Wonders",
+        "Eternal",
+        "Legendary",
+        "Mythological",
+        "Enchanted",
+        "Golden Hour",
+        "Dramatic Sky",
+        "Vibrant Colors",
+        "Stylized"
+    ],
+    "negative": [
+        "Decaying",
+        "Abandoned",
+        "Forgotten",
+        "Haunted",
+        "Deserted",
+        "Neglected",
+        "Overgrown",
+        "Eerie Silence",
+        "Shadows",
+        "Mysterious",
+        "Chilling",
+        "Unsettling",
+        "Creepy",
+        "Gloomy",
+        "Dark Corners",
+        "Ominous",
+        "Sinister"
+    ]
+}

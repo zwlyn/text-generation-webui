@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Night Beauty",
+        "Mysterious Allure",
+        "Urban Glow",
+        "Futuristic Atmosphere",
+        "Neon Accents",
+        "Sleek Silhouette",
+        "Glimmering Highlights",
+        "Ethereal Aura",
+        "Captivating Gaze",
+        "City Lights Reflection",
+        "Radiant Smile",
+        "Dramatic Shadows"
+    ],
+    "negative": [
+        "Dark Corners",
+        "Hidden Flaws",
+        "Unsettling Glow",
+        "Ominous Tones",
+        "Sinister Glances",
+        "Shadowy Figures",
+        "Distorted Reflections",
+        "Ghostly Whispers"
+    ]
+}

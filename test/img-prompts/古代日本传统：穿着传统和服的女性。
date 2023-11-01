@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Ancient Traditions",
+        "Cultural Heritage",
+        "Geisha",
+        "Samurai",
+        "Kimono",
+        "Chanoyu Tea Ceremony",
+        "Calligraphy",
+        "Ikebana Flower Arrangement",
+        "Noh Theatre",
+        "Shrines and Temples",
+        "Traditional Music",
+        "Bonsai",
+        "Origami",
+        "Wagashi Japanese Confectionery",
+        "Kanzashi Hair Ornament",
+        "Tatami Mat",
+        "Japanese Garden",
+        "Sakura Cherry Blossoms"
+    ],
+    "negative": [
+        "Modern Influence",
+        "Westernization",
+        "Loss of Tradition",
+        "Cultural Erasure",
+        "Disrespecting Elders",
+        "Ignoring Ancestry",
+        "Assimilation",
+        "Gentrification",
+        "Exploitation of Culture"
+    ]
+}

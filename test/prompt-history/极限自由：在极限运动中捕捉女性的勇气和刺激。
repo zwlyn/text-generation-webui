@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Fearless",
+        "Adventurous",
+        "Empowered",
+        "Boundary-Pushing",
+        "Defiant",
+        "Daring",
+        "Innovative",
+        "Rebellious",
+        "Resilient",
+        "Confident",
+        "Determined",
+        "Fierce",
+        "Unapologetic"
+    ],
+    "negative": [
+        "Intimidating",
+        "Overwhelming",
+        "Dangerous",
+        "Reckless",
+        "Defiant",
+        "Chaotic",
+        "Disruptive",
+        "Volatile",
+        "Unpredictable"
+    ]
+}

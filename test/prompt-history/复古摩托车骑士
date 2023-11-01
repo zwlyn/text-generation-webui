@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Retro Motorcycle",
+        "Vintage Rider",
+        "Leather Jacket",
+        "Classic Helmet",
+        "Goggles",
+        "Chrome Detailing",
+        "Open Road",
+        "Sunset Background",
+        "Streamlined Design",
+        "Timeless Elegance",
+        "Romanticized Past",
+        "Adventure",
+        "Freedom",
+        "Liberation",
+        "Yesteryear"
+    ],
+    "negative": [
+        "Outdated Technology",
+        "Dangerous Road Conditions",
+        "Inclement Weather",
+        "Vintage Mechanical Failure",
+        "Inefficient Fuel Consumption",
+        "Pollution",
+        "Safety Concerns",
+        "Obsolete Safety Features",
+        "Limited Speed",
+        "Restrictive Societal Norms",
+        "Nostalgia Trap",
+        "Unreliable Transportation",
+        "Rigid Gender Roles"
+    ]
+}

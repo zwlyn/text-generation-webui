@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Urban",
+        "Stylish",
+        "Elegant",
+        "Trendy",
+        "Chic",
+        "Glamorous",
+        "Fashionable",
+        "High Fashion",
+        "Runway Ready",
+        "Iconic",
+        "Timeless",
+        "Classic",
+        "Sophisticated",
+        "Dashing",
+        "Captivating",
+        "Alluring"
+    ],
+    "negative": [
+        "Outdated",
+        "Unfashionable",
+        "Tacky",
+        "Drab",
+        "Mundane",
+        "Plain",
+        "Ordinary",
+        "Bland",
+        "Prosaic",
+        "Vintage",
+        "Shabby",
+        "Inexpensive"
+    ]
+}

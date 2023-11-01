@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Musical Notation",
+        "Female Musicians",
+        "Musical Instruments",
+        "Melody",
+        "Harmony",
+        "Rhythm",
+        "Composing Music",
+        "Performing Music",
+        "Emotional Expression",
+        "Creativity",
+        "Artistic",
+        "Flowing",
+        "Fluidity",
+        "Unity",
+        "Collaboration",
+        "Inspiration",
+        "Beauty in Simplicity"
+    ],
+    "negative": [
+        "Abandoned Musical Instruments",
+        "Unused Sheet Music",
+        "Silent Concert Hall",
+        "Broken Record Player",
+        "Forgotten Melodies",
+        "Lost Harmony",
+        "Static Noise Interference",
+        "Disharmonious Sounds",
+        "Creative Block",
+        "Artistic Struggle",
+        "Rigidity",
+        "Disconnection",
+        "Isolation",
+        "Lack of Inspiration"
+    ]
+}

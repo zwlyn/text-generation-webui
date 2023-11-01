@@ -1,0 +1,27 @@
+{
+    "positive": [
+        "Mystical",
+        "Enchanted",
+        "Magic",
+        "Fantastical",
+        "Whimsical",
+        "Wondrous",
+        "Ethereal",
+        "Dreamlike",
+        "Fairy-tale",
+        "Otherworldly"
+    ],
+    "negative": [
+        "Gloomy",
+        "Forbidding",
+        "Desolate",
+        "Mysterious",
+        "Haunted",
+        "Unsettling",
+        "Eerie",
+        "Creepy",
+        "Spooky",
+        "Dark",
+        "Shadowy"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "positive": [
+        "Rural Laborer",
+        "Hardworking",
+        "Sunrise on the Farm",
+        "Harvest Time",
+        "Farming Community",
+        "Agricultural Technology",
+        "Country Life",
+        "Family-owned Farm",
+        "Organic Produce"
+    ],
+    "negative": [
+        "Backbreaking Labor",
+        "Exhaustion",
+        "Poverty in Rural Areas",
+        "Unfair Land Distribution",
+        "Environmental Degradation",
+        "Chemical-laden Crops",
+        "Migrant Worker Exploitation"
+    ]
+}

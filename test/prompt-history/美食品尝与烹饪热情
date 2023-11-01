@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Delicious",
+        "Culinary Masterpiece",
+        "Cooking Passion",
+        "Food Artistry",
+        "Gourmet Experience",
+        "Savor the Moment",
+        "Exquisite Flavors",
+        "Visual Feast",
+        "Appetizing Aroma",
+        "Cultivating Taste Buds",
+        "Bon Appétit",
+        "Kitchen Wizardry",
+        "Creative Cuisine",
+        "Flavor Explosion",
+        "Palate Pleaser",
+        "Gastronomic Delight"
+    ],
+    "negative": [
+        "Tasteless",
+        "Overcooked",
+        "Bland Dish",
+        "Messy Kitchen",
+        "Lack of Creativity",
+        "Burnt Offering",
+        "Ingredient Confusion",
+        "Unappetizing Presentation",
+        "Flavor Fiasco",
+        "Dining Disaster",
+        "Cooking Catastrophe",
+        "Culinary Chaos",
+        "Taste Bud Tragedy"
+    ]
+}

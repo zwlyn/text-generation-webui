@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Female Chef",
+        "Culinary Creativity",
+        "Cooking Mastery",
+        "Innovative Recipes",
+        "Kitchen Artistry",
+        "Colorful Dishes",
+        "Exquisite Flavors",
+        "Healthy Cooking",
+        "Vibrant Ingredients",
+        "Farm-to-Table",
+        "Seasonal Produce",
+        "Locally Sourced",
+        "Nutritious Meals",
+        "Home Cooking",
+        "Family Recipes",
+        "Cultural Cuisine",
+        "Traditional Techniques",
+        "Modern Kitchen Gadgets"
+    ],
+    "negative": [
+        "Male-Dominated Profession",
+        "Kitchen Chaos",
+        "Burned Food",
+        "Messy Cooking Area",
+        "Unhealthy Choices",
+        "Limited Ingredients",
+        "Overcooked Dishes",
+        "Flavorless Meals"
+    ]
+}

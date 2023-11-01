@@ -1,0 +1,24 @@
+{
+    "positive": [
+        "Vintage Jazz",
+        "Swing Dancing",
+        "Sultry Vocals",
+        "Retro Fashion",
+        "Classy Atmosphere",
+        "Elegant Piano",
+        "Smooth Saxophone",
+        "Glamorous Gowns",
+        "Cigarette Girls",
+        "Prohibition Style"
+    ],
+    "negative": [
+        "Dark Alley",
+        "Urban Decay",
+        "Bleak Street Lights",
+        "Abandoned Buildings",
+        "Rainy Night",
+        "Lonely Sidewalk",
+        "Deserted Club",
+        "Broken Instruments"
+    ]
+}

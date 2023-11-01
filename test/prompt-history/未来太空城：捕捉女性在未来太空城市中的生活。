@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Futuristic Cityscape",
+        "Neon Streets",
+        "Sleek Architecture",
+        "Advanced Transportation",
+        "Holographic Advertisements",
+        "Smart Infrastructure",
+        "Glowing Gardens",
+        "Efficient Energy Systems",
+        "Urban Oasis",
+        "Futuristic Fashion",
+        "High-Tech Gadgets",
+        "Innovative Designs",
+        "Interconnected Society",
+        "Virtual Reality Hubs",
+        "Multicultural Community",
+        "Sustainable Living"
+    ],
+    "negative": [
+        "Overcrowded City",
+        "Polluted Atmosphere",
+        "Crumbling Infrastructure",
+        "Dystopian Society",
+        "Gang Activity",
+        "Insufficient Resources",
+        "Ineffective Governance",
+        "Technological Disparity",
+        "Cybercrime Epidemic",
+        "Congested Transportation",
+        "Fallen Heroes",
+        "Decaying Architecture",
+        "Dark Alleys",
+        "Alienated Citizens",
+        "Rampant Consumerism",
+        "Environmental Degradation"
+    ]
+}

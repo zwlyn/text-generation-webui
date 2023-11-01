@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Elegant",
+        "Refined",
+        "Artistic",
+        "Beautiful",
+        "Timeless",
+        "Classic",
+        "Harmony",
+        "Serene",
+        "Balanced",
+        "Graceful"
+    ],
+    "negative": [
+        "Harsh",
+        "Disjointed",
+        "Ugly",
+        "Tasteless",
+        "Chaotic",
+        "Dissonant",
+        "Unbalanced",
+        "Jarring",
+        "Noisy"
+    ]
+}

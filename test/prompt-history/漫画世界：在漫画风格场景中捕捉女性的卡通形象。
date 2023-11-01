@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Futuristic",
+        "Urban",
+        "High-tech",
+        "Sleek",
+        "Cyberpunk",
+        "Holographic",
+        "Exotic",
+        "Stylish",
+        "Neon Lights",
+        "Innovative",
+        "Creative",
+        "Colorful",
+        "Dynamic",
+        "Futuristic Fashion"
+    ],
+    "negative": [
+        "Post-apocalyptic",
+        "Dark",
+        "Gritty",
+        "Broken",
+        "Abandoned",
+        "Decaying",
+        "Desolate",
+        "Dystopian",
+        "Corrupted",
+        "Ruined"
+    ]
+}

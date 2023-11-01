@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Astronaut",
+        "Spacesuit",
+        "Zero-Gravity",
+        "Intergalactic Travel",
+        "Moon Base",
+        "Space Colony",
+        "Stellar Views",
+        "Planetary Exploration",
+        "Celestial Bodies",
+        "Extraterrestrial Life",
+        "Starship",
+        "Hyperspace",
+        "Futuristic Lifestyle"
+    ],
+    "negative": [
+        "Vacuum Of Space",
+        "Lifeless Planets",
+        "Hostile Environments",
+        "Asteroid Belt",
+        "Isolation",
+        "Deep Space",
+        "Radiation Exposure",
+        "Microgravity Environment",
+        "Cramped Quarters",
+        "Long-Duration Missions",
+        "Psychological Challenges",
+        "Dangerous Encounters"
+    ]
+}

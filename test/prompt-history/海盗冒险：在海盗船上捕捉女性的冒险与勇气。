@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Adventurous",
+        "Daring",
+        "Fearless",
+        "Courageous",
+        "Audacious",
+        "Innovative",
+        "Visionary",
+        "Boundary-Pushing",
+        "Risk-Taking",
+        "Exciting",
+        "Captivating",
+        "Alluring",
+        "Thrilling",
+        "Dramatic"
+    ],
+    "negative": [
+        "Unsafe",
+        "Perilous",
+        "High-Stakes",
+        "Dangerous",
+        "Hazardous",
+        "Risky",
+        "Unpredictable",
+        "Volatile",
+        "Turbulent",
+        "Challenging"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Feminine Aesthetics",
+        "Elegant Designs",
+        "Timeless Beauty",
+        "Intricate Patterns",
+        "Glimmering Gems",
+        "Sophisticated Styles",
+        "Romantic Atmosphere",
+        "Soft Lighting",
+        "Delicate Textures",
+        "Refined Luxury",
+        "Ethereal Ambiance",
+        "Feminine Allure"
+    ],
+    "negative": [
+        "Harsh Angles",
+        "Ugly Patterns",
+        "Jarring Colors",
+        "Crude Shapes",
+        "Overwhelming Details",
+        "Brash Lighting",
+        "Discordant Textures",
+        "Unrefined Luxury",
+        "Oppressive Atmosphere",
+        "Dissonant Harmony",
+        "Masculine Overtones"
+    ]
+}

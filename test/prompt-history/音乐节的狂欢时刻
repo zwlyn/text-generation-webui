@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Energetic",
+        "Fun",
+        "Excitement",
+        "Dancing",
+        "Lights",
+        "Music Festival",
+        "Party Atmosphere",
+        "Friendly Crowd",
+        "Performers",
+        "Celebration",
+        "Enjoying the Moment",
+        "Colors",
+        "Smiles",
+        "Good Vibes"
+    ],
+    "negative": [
+        "Overwhelming",
+        "Noise Pollution",
+        "Crowded",
+        "Uncomfortable Temperature",
+        "Long Queues",
+        "Inadequate Facilities",
+        "Unpleasant Odors",
+        "Safety Concerns",
+        "Tiredness",
+        "Negative Emotions",
+        "Conflicts",
+        "Disappointment"
+    ]
+}

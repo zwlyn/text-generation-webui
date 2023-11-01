@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Magical Shop",
+        "Female Protagonist",
+        "Helpful Spells",
+        "Enchanted Items",
+        "Innovative Gadgets",
+        "Whimsical Atmosphere",
+        "Colorful Potions",
+        "Mysterious Books",
+        "Customer Success",
+        "Friendly Service",
+        "Urban Oasis",
+        "Creative Solutions",
+        "Positive Vibes"
+    ],
+    "negative": [
+        "Abandoned Storefront",
+        "Dark Alley",
+        "Unhelpful Spells",
+        "Cursed Items",
+        "Broken Gadgets",
+        "Gloomy Atmosphere",
+        "Faded Potions",
+        "Forbidden Books",
+        "Failed Magic",
+        "Rude Service",
+        "Urban Blight",
+        "Lacking Solutions",
+        "Negative Vibes"
+    ]
+}

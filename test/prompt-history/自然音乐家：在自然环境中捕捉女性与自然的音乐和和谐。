@@ -1,0 +1,43 @@
+{
+    "positive": [
+        "Harmony",
+        "Nature",
+        "Peaceful",
+        "Serene",
+        "Calm",
+        "Tranquil",
+        "Soft",
+        "Woman",
+        "Feminine",
+        "Solo",
+        "Acoustic",
+        "Outdoor Concert",
+        "Organic",
+        "Greenery",
+        "Blossoms",
+        "Sunlight",
+        "Shadows",
+        "Harmonic Melodies",
+        "Natural Instruments",
+        "Forest Stage",
+        "Riverbank Performance"
+    ],
+    "negative": [
+        "Discordant",
+        "Noise Pollution",
+        "Unsettling",
+        "Jarring",
+        "Harsh",
+        "Aggressive",
+        "Urban Chaos",
+        "Traffic Congestion",
+        "Construction Site",
+        "Industrial Clutter",
+        "Synthetic Sounds",
+        "Auditory Overload",
+        "Discordant Chords",
+        "Artificial Instruments",
+        "Pavement Performance",
+        "Garbage-strewn Stage"
+    ]
+}

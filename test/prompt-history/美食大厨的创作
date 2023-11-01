@@ -1,0 +1,20 @@
+{
+    "positive": [
+        "Culinary Art",
+        "Gourmet Cooking",
+        "Creative Recipes",
+        "Innovative Techniques",
+        "Fine Dining",
+        "Exquisite Presentation",
+        "Delicious Flavors",
+        "Fusion Cuisine"
+    ],
+    "negative": [
+        "Bland Ingredients",
+        "Overcooked Food",
+        "Unimaginative Menu",
+        "Outdated Cooking Methods",
+        "Lack of Creativity",
+        "Mass-Produced Meals"
+    ]
+}

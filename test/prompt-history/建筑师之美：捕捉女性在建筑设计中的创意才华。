@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Feminine Perspective",
+        "Organic Shapes",
+        "Nature-Inspired Design",
+        "Sustainable Materials",
+        "Biophilic Architecture",
+        "Light and Airy Spaces",
+        "Curved Lines",
+        "Soft Textures",
+        "Ergonomic Layouts",
+        "Inclusive Spaces",
+        "Empowering Environments",
+        "Collaborative Workspaces",
+        "Vibrant Colors",
+        "Green Walls",
+        "Healing Gardens",
+        "Harmonious Spaces",
+        "User-Centric Design"
+    ],
+    "negative": [
+        "Masculine Dominance",
+        "Angular Lines",
+        "Rigid Structures",
+        "Unsustainable Practices",
+        "Dark Corners",
+        "Confining Spaces",
+        "Harsh Textures",
+        "Inefficient Layouts",
+        "Exclusionary Environments",
+        "Disempowering Designs",
+        "Competitive Workspaces",
+        "Depressing Colors",
+        "Barren Landscapes",
+        "Disharmonious Spaces",
+        "User-Unfriendly Design"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "positive": [
+        "Whimsical", "Nature-Inspired", "Enchanted Forest", "Mystical Creatures", 
+        "Fairy Tale", "Magical Atmosphere", "Vibrant Colors", "Flowers and Folliage", 
+        "Soft Lighting", "Captivating Scenery", "Dreamlike Quality", "Spellbinding"
+    ],
+    "negative": [
+        "Harsh Lighting", "Barren Landscape", "Urban Environment", "Mundane Atmosphere", 
+        "Lack of Imagination", "Uninspired Composition", "Flat Lighting", "Hard Angles", 
+        "Sparse Details", "Monotonous Colors", "Drab Scenery", "Disjointed Elements"
+    ]
+}

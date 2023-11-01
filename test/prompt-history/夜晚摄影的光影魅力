@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Nighttime",
+        "Cityscape",
+        "Neon Glow",
+        "Reflections",
+        "Architectural Details",
+        "Shadows",
+        "Motion Blur",
+        "Artistic Lighting",
+        "Glistening",
+        "Silhouettes",
+        "Illuminated Structures",
+        "Streets and Alleys",
+        "Nightlife",
+        "Urban Atmosphere"
+    ],
+    "negative": [
+        "Darkness",
+        "Abandoned Places",
+        "Deserted Streets",
+        "Loneliness",
+        "Unpleasant Shadows",
+        "Graffiti",
+        "Vandalism",
+        "Pollution",
+        "Urban Decay"
+    ]
+}

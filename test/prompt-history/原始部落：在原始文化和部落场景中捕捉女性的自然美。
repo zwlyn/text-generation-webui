@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Tribal Beauty",
+        "Natural Elements",
+        "Women's Strength",
+        "Female Empowerment",
+        "Cultural Pride",
+        "Ancestral Knowledge",
+        "Traditional Craftsmanship",
+        "Sustainable Lifestyle",
+        "Rituals and Ceremonies",
+        "Harmony with Nature"
+    ],
+    "negative": [
+        "Exploitation of Indigenous People",
+        "Loss of Traditions",
+        "Environmental Degradation",
+        "Marginalization of Women",
+        "Disrespecting Cultural Heritage",
+        "Commodification of Culture",
+        "Assimilation Pressure",
+        "Colonial Influence",
+        "Erasure of Identity"
+    ]
+}

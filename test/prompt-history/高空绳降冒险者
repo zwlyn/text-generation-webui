@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Adventurous",
+        "Aerial Acrobatics",
+        "Brave",
+        "Courageous",
+        "Daring",
+        "Fearless",
+        "High-Risk Activities",
+        "Extreme Sports",
+        "Outdoor Adventure",
+        "Thrill Seeker",
+        "Wire Walking"
+    ],
+    "negative": [
+        "Dangerous",
+        "Falling",
+        "Gravity",
+        "Height Phobia",
+        "High-Risk Injury",
+        "Loss of Control",
+        "Panic",
+        "Terror",
+        "Vertigo"
+    ]
+}

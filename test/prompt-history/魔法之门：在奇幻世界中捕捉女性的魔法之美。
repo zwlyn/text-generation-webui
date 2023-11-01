@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Mystical",
+        "Magic",
+        "Enchanting",
+        "Fantastical",
+        "Whimsical",
+        "Spellbinding",
+        "Charming",
+        "Otherworldly",
+        "Dreamlike",
+        "Wondrous",
+        "Glamour",
+        "Alluring",
+        "Captivating",
+        "Ethereal",
+        "Spectral",
+        "Supernatural"
+    ],
+    "negative": [
+        "Mundane",
+        "Ordinary",
+        "Realistic",
+        "Prosaic",
+        "Unfantastic",
+        "Disenchanting",
+        "Commonplace",
+        "Worldly",
+        "Dreary",
+        "Unwonderful",
+        "Grotesque",
+        "Repelling",
+        "Forbidding",
+        "Earthbound",
+        "Undeveloped"
+    ]
+}

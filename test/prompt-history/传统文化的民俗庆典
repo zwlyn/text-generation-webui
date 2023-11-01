@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Traditional",
+        "Cultural Celebration",
+        "Festive Atmosphere",
+        "Colorful Costumes",
+        "Dance Performances",
+        "Music Ensembles",
+        "Artisanship",
+        "Handicrafts",
+        "Storytelling Sessions",
+        "Community Gatherings",
+        "Ritual Practices",
+        "Sacred Spaces",
+        "Ceremonial Dress",
+        "Family Reunions",
+        "Regional Delicacies"
+    ],
+    "negative": [
+        "Abandoned Traditions",
+        "Lack of Participation",
+        "Decline in Cultural Heritage",
+        "Disinterest in Local Customs",
+        "Modern Influence Dilution",
+        "Commercialization of Festivals",
+        "Environmental Impact",
+        "Overcrowding",
+        "Noise Pollution",
+        "Loss of Traditional Skills",
+        "Urban Development Encroachment",
+        "Disrespect for Sacred Spaces"
+    ]
+}

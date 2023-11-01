@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Female Engineer",
+        "Industrial Innovation",
+        "Robotics Expert",
+        "Mechatronics Mastermind",
+        "Machinery Pioneer",
+        "Advanced Manufacturing",
+        "Sophisticated Assembly Line",
+        "High-Tech Workshop",
+        "Futuristic Factory",
+        "Wearable Tech Gadgets",
+        "Intelligent Automation",
+        "Smart Device Integration",
+        "Synthetic Sensors",
+        "Nanotechnology Applications",
+        "Advanced Materials Science"
+    ],
+    "negative": [
+        "Outdated Equipment",
+        "Dilapidated Facilities",
+        "Inefficient Processes",
+        "Labor-Intensive Tasks",
+        "Safety Hazards",
+        "Environmental Pollution",
+        "Energy Waste",
+        "Workforce Inequality",
+        "Gender Bias",
+        "Inadequate Training",
+        "Obsolete Technologies",
+        "Resistance to Change",
+        "Limited Resources",
+        "Urban Blight",
+        "Declining Industrial Centers"
+    ]
+}

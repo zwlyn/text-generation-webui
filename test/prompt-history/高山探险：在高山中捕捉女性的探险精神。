@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Adventurous",
+        "Breathtaking",
+        "Courageous",
+        "Exhilarating",
+        "Fearless",
+        "Freedom",
+        "Glorious",
+        "Inspiring",
+        "Journey",
+        "Liberating",
+        "Nature Lover",
+        "Optimistic",
+        "Peaceful",
+        "Powerful",
+        "Rebellious",
+        "Rejuvenating",
+        "Stunning Views",
+        "Thought-Provoking",
+        "Trailblazer",
+        "Uplifting",
+        "Victorious"
+    ],
+    "negative": [
+        "Dangerous",
+        "Desolate",
+        "Exhausting",
+        "Frightening",
+        "Hopeless",
+        "Isolated",
+        "Lonely",
+        "Overwhelming",
+        "Perilous",
+        "Shattered Dreams",
+        "Treacherous",
+        "Uninspiring"
+    ]
+}

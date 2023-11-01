@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Military Gear",
+        "Armor",
+        "Weaponry",
+        "Combat Ready",
+        "Soldier Portrait",
+        "War Hero",
+        "Battle Scars",
+        "Medals",
+        "Badges",
+        "Camouflage",
+        "Field Operations",
+        "Tactical Gear"
+    ],
+    "negative": [
+        "Abandoned Military Base",
+        "Damaged Equipment",
+        "War Zone",
+        "Devastation",
+        "Desolation",
+        "Soldier's Sorrow",
+        "Loneliness",
+        "Battle Fatigue",
+        "Injured Soldier",
+        "Fallen Comrade",
+        "Post-Conflict",
+        "Ruins"
+    ]
+}

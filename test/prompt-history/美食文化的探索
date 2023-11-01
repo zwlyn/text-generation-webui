@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Culinary Adventure",
+        "Fusion Cuisine",
+        "Local Delicacies",
+        "Street Food Tour",
+        "Cooking Classes",
+        "Culture Immersion",
+        "Savor The Flavor",
+        "Tasty Discoveries",
+        "Exotic Ingredients",
+        "Dining Experience",
+        "Traditional Techniques",
+        "Modern Twists",
+        "Health Conscious",
+        "Foodie Paradise"
+    ],
+    "negative": [
+        "Overeating",
+        "Unhealthy Options",
+        "Lack Of Variety",
+        "Flavorless Food",
+        "Ingredient Unavailability",
+        "Bland Dishes",
+        "Fad Diets",
+        "Harmful Additives",
+        "Nutritional Imbalance",
+        "Wasteful Practices",
+        "Gluttony",
+        "Eating Disorders",
+        "Over-Commercialization",
+        "Loss Of Tradition"
+    ]
+}

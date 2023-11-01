@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Renaissance",
+        "Baroque",
+        "Victorian",
+        "Art Deco",
+        "Retro Futurism",
+        "Futuristic Retro",
+        "Opulent Textures",
+        "Elegant Accessories",
+        "Glamorous Gowns",
+        "Stylish Suits",
+        "Intricate Patterns",
+        "Time-Traveler Chic",
+        "Clockwork Mechanisms",
+        "Steampunk Style",
+        "Adaptive Attire"
+    ],
+    "negative": [
+        "Post-Apocalyptic Wasteland",
+        "Desolate Cityscapes",
+        "Dilapidated Infrastructure",
+        "Decaying Architecture",
+        "Poverty Stricken Streets",
+        "Ruined Technologies",
+        "Scarce Resources",
+        "Environmental Devastation",
+        "Social Inequality",
+        "Abandoned Futures",
+        "Forgotten Time Travelers",
+        "Clockwork Chaos",
+        "Steampunk Dystopia"
+    ]
+}

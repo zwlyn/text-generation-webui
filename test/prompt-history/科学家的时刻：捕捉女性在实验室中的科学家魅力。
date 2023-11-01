@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Scientific",
+        "Experiment",
+        "Lab Coat",
+        "Goggles",
+        "Laboratory",
+        "Test Tubes",
+        "Beakers",
+        "Chemicals",
+        "Eye Protection",
+        "Microscope",
+        "Innovation",
+        "Research",
+        "Data Analysis",
+        " breakthrough",
+        "Discovery",
+        "Advancements"
+    ],
+    "negative": [
+        "Inefficiency",
+        "Outdated Methods",
+        "Cluttered Workspace",
+        "Unorganized Data",
+        "Lack of Resources",
+        "Equipment Failure",
+        "Frustration",
+        "Burnout",
+        "Resistance to Change"
+    ]
+}

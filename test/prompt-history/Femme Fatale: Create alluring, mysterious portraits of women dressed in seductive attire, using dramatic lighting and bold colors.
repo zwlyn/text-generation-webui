@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Elegant",
+        "Sophisticated",
+        "Glamorous",
+        "Mysterious",
+        "Sensual",
+        "Alluring",
+        "Confident",
+        "Dramatic Lighting",
+        "Bold Colors",
+        "Revealing",
+        "Exquisite Attire",
+        "Enigmatic Expression",
+        "Provocative Poses",
+        "Striking Makeup",
+        "Intricate Hairstyles",
+        "Eye-catching Accessories",
+        "Luxurious Setting"
+    ],
+    "negative": [
+        "Tacky",
+        "Overdone",
+        "Inappropriate",
+        "Vulgar",
+        "Unflattering",
+        "Harsh Lighting",
+        "Garish Colors",
+        "Poor Taste"
+    ]
+}

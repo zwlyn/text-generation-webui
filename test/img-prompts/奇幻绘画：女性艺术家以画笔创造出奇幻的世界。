@@ -1,0 +1,43 @@
+{
+    "positive": [
+        "Artist",
+        "Creative",
+        "Inspiration",
+        "Colorful",
+        "Whimsical",
+        "Magical",
+        "Dreamlike",
+        "Fantastical",
+        "Mysterious",
+        "Surreal",
+        "Imagination",
+        "Gentle",
+        "Beautiful",
+        "Delicate",
+        "Harmony",
+        "Serene",
+        "Playful",
+        "Optimistic",
+        "Innovative",
+        "Spiritual"
+    ],
+    "negative": [
+        "Struggling",
+        "Frustrated",
+        "Blocked",
+        "Discouraged",
+        "Doubt",
+        "Pressure",
+        "Overwhelmed",
+        "Uninspired",
+        "Lacking Confidence",
+        "Fear of Failure",
+        "Self-Conscious",
+        "Insecurity",
+        "Isolation",
+        "Restless",
+        "Anxious",
+        "Strained",
+        "Disappointment"
+    ]
+}

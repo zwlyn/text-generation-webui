@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Lush Greenery",
+        "Raindrops on Leaves",
+        "Bright Colors",
+        "Exotic Flora and Fauna",
+        "Tropical Foliage",
+        "Misty Forest",
+        "Moist Climate",
+        "Nature's Harmony",
+        "Vibrant Ecosystem",
+        "Canopy Walkways",
+        "Rainforest Trails",
+        "Jungle Exploration"
+    ],
+    "negative": [
+        "Dense Undergrowth",
+        "Murky Waters",
+        "Slippery Paths",
+        "Unstable Ground",
+        "Threatening Shadows",
+        "Limited Visibility",
+        "Rain-soaked Clothing",
+        "Swarming Insects",
+        "Dangerous Wildlife",
+        "Lost in the Woods",
+        "Treacherous Terrain"
+    ]
+}

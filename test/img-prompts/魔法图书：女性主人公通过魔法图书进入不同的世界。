@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Magical Book",
+        "Female Protagonist",
+        "Vibrant Worlds",
+        "Mysterious Library",
+        "Enchanted Forest",
+        "Dreamlike Cityscapes",
+        "Whimsical Creatures",
+        "Charming Characters",
+        "Inspiring Journeys",
+        "Uplifting Adventures",
+        "Colorful Landscapes",
+        "Fascinating Cultures",
+        "Friendly Faces",
+        "Tranquil Moments",
+        "Captivating Stories"
+    ],
+    "negative": [
+        "Abandoned Library",
+        "Desolate Forest",
+        "Dark Alley",
+        "Decaying Cityscape",
+        "Mysterious Shadows",
+        "Ominous Creatures",
+        "Lonely Protagonist",
+        "Haunted Places",
+        "Unsettling Adventures",
+        "Monochromatic Landscapes",
+        "Isolated Cultures",
+        "Unsympathetic Faces",
+        "Intimidating Stories"
+    ]
+}

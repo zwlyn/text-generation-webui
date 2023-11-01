@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Adventurous",
+        "Brave",
+        "Courageous",
+        "Curious",
+        "Daring",
+        "Explorer",
+        "Fearless",
+        "Inquisitive",
+        "Investigator",
+        "Pioneer",
+        "Resourceful",
+        "Searcher",
+        "Seeker",
+        "Sleuth",
+        "Valiant"
+    ],
+    "negative": [
+        "Cautious",
+        "Concerned",
+        "Doubtful",
+        "Frightened",
+        "Hesitant",
+        "Insecure",
+        "Lost",
+        "Nervous",
+        "Overwhelmed",
+        "Scared",
+        "Timid",
+        "Trepidation",
+        "Unsure",
+        "Wary"
+    ]
+}

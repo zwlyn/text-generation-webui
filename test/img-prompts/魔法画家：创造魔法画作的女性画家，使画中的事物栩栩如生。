@@ -1,0 +1,24 @@
+{
+    "positive": [
+        "Magical Painter",
+        "Fantasy Art",
+        "Vibrant Colors",
+        "Whimsical Creatures",
+        "Enchanted Landscapes",
+        "Mystical Atmosphere",
+        "Dreamlike Quality",
+        "Surreal Scenery",
+        "Imagination Unleashed"
+    ],
+    "negative": [
+        "Mundane Subjects",
+        "Lack of Imagination",
+        "Monotonous Color Schemes",
+        "Overused Tropes",
+        "Clichéd Themes",
+        "Uninspired Compositions",
+        "Lackluster Technique",
+        "Bland Execution",
+        "Missing Magic"
+    ]
+}

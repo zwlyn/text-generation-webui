@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Female Chef",
+        "Cooking Skills",
+        "Culinary Masterpiece",
+        "Gourmet Food",
+        "Kitchen Creativity",
+        "Innovative Recipes",
+        "Healthy Cooking",
+        "Vegan Cuisine",
+        "Baking Expertise",
+        "Farm-to-Table",
+        "Seasonal Ingredients",
+        "Nutritional Balance",
+        "Colorful Plate",
+        "Presentation Skills",
+        "Food Photography"
+    ],
+    "negative": [
+        "Male Domination",
+        "Culinary Stereotypes",
+        "Kitchen Chaos",
+        "Burned Food",
+        "Lack of Creativity",
+        "Unhealthy Choices",
+        "Overindulgence",
+        "Food Waste",
+        "Processed Ingredients"
+    ]
+}

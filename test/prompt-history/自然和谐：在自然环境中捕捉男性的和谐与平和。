@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Nature",
+        "Harmony",
+        "Serenity",
+        "Peaceful",
+        "Tranquility",
+        "Calm",
+        "Greenery",
+        "Waterfalls",
+        "Forests",
+        "Mountains",
+        "Rivers",
+        "Birds Singing",
+        "Sunlight",
+        "Soft Breeze"
+    ],
+    "negative": [
+        "Urban Chaos",
+        "Noise Pollution",
+        "Garbage",
+        "Vehicle Exhaust",
+        "Concrete Jungle",
+        "Overcrowded",
+        "Traffic Jam",
+        "Graffiti",
+        "Abandoned Lot",
+        "Construction Site",
+        "Loud Music",
+        "Air Pollution"
+    ]
+}

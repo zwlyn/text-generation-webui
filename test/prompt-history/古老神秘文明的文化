@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Ancient",
+        "Mysterious",
+        "Sacred",
+        "Rituals",
+        "Ceremony",
+        "Artifacts",
+        "Monoliths",
+        "Icons",
+        "Symbols",
+        "Wisdom",
+        "Enlightenment",
+        "Timeless"
+    ],
+    "negative": [
+        "Decaying",
+        "Forgotten",
+        "Abandoned",
+        "Ominous",
+        "Secrets",
+        "Dark Forces",
+        "Eerie",
+        "Haunted",
+        "Shadows",
+        "Revelations",
+        "Unraveling",
+        "Loss"
+    ]
+}

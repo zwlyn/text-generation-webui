@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Time Travel",
+        "Vintage Atmosphere",
+        "Historical Context",
+        "Elegant Attire",
+        "Steampunk Inspired",
+        "Antique Elements",
+        "Pristine Landscapes",
+        "Charming Cityscapes",
+        "Nostalgic Moments",
+        "Timeless Beauty",
+        "Classic Elegance",
+        "Old-World Charm"
+    ],
+    "negative": [
+        "Disorienting Time Shifts",
+        "Loss of Identity",
+        "Erratic Temporal Pocket",
+        "Isolated Moments in Time",
+        "Faded Glory",
+        "Forgotten Relics",
+        "Decayed Splendor",
+        "Shifting Realities",
+        "Uncertain Future",
+        "Temporal Dislocation"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Nature",
+        "Beautiful",
+        "Woman",
+        "Forest",
+        "Serene",
+        "Peaceful",
+        "Glowing",
+        "Sunlight",
+        "Greenery",
+        "Flower",
+        "Birdsong",
+        "Calm",
+        "Tranquil",
+        "Soft"
+    ],
+    "negative": [
+        "Urban",
+        "Pollution",
+        "Noise",
+        "Garbage",
+        "Traffic",
+        "Stress",
+        "Harsh Lighting",
+        "Concrete",
+        "Buildings",
+        "Crowds",
+        "Loud",
+        "Unpleasant"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "High Contrast",
+        "Dramatic Lighting",
+        "Iconic Monochrome",
+        "Timeless Aesthetic",
+        "Shadows and Highlights",
+        "Powerful Expression",
+        "Captivating Gaze",
+        "Confident Pose",
+        "Fine Art Photography",
+        "Grainy Texture",
+        "Vintage Vibe"
+    ],
+    "negative": [
+        "Lack of Contrast",
+        "Flat Lighting",
+        "Boring Monochrome",
+        "Dated Aesthetic",
+        "Uninteresting Shadows",
+        "Weak Expression",
+        "Distracting Gaze",
+        "Unsure Pose",
+        "Clichéd Composition",
+        "Oversharpened Texture",
+        "Modern Intrusion"
+    ]
+}

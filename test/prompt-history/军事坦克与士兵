@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Military Vehicles",
+        "Armored Tanks",
+        "Soldiers in Action",
+        "Battle Scenes",
+        "Camouflage Patterns",
+        "War Memorabilia",
+        "Honoring Veterans",
+        "Military Uniforms",
+        "Weapons Display",
+        "Victorious Soldiers"
+    ],
+    "negative": [
+        "Battlefield Carnage",
+        "Loss and Grief",
+        "Destruction of Infrastructure",
+        "Wounded Warriors",
+        "Chaos in the Battlefield",
+        "Deserted Military Bases",
+        "Abandoned Tanks",
+        "Forgotten Weapons",
+        "Haunting Memories"
+    ]
+}

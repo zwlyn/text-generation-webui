@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Classical Art",
+        "Antique Sculpture",
+        "Ancient Architecture",
+        "Mythological Creatures",
+        "Marble Statues",
+        "Roman Gods",
+        "Greek Heroes",
+        "Temple Ruins",
+        "Elegant Robe",
+        "Historic Landscapes",
+        "Timeless Beauty",
+        "Artistic Masters",
+        "Cultural Heritage",
+        "Eternal Themes",
+        "Ageless Wisdom",
+        "Sacred Spaces"
+    ],
+    "negative": [
+        "Forgotten Relics",
+        "Dilapidated Structures",
+        "Broken Artifacts",
+        "Neglected Sculptures",
+        "Overgrown Ruins",
+        "Abandoned Temples",
+        "Desolate Landscapes",
+        "Shadowy Figures",
+        "Forgotten Stories",
+        "Lost Knowledge",
+        "Cracked Marble",
+        "Eroding Statues",
+        "Mildew"
+    ]
+}

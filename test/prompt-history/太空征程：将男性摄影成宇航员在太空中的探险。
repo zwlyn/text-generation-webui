@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Outer Space",
+        "Astronaut",
+        "Exploration",
+        "Adventure",
+        "Starscape",
+        "Infinity",
+        "Mystery",
+        "Endless Universe",
+        "Galactic Journey",
+        "Cosmic Energy",
+        "Extraterrestrial Life",
+        "Spacesuit",
+        "Interstellar Travel",
+        "Tranquility",
+        "Boundless Horizons"
+    ],
+    "negative": [
+        "Loneliness",
+        "Isolation",
+        "Dangerous Environment",
+        "Zero Gravity",
+        "Radiation Exposure",
+        "Alien Creatures",
+        "Cramped Spaceship",
+        "Claustrophobia",
+        "Fear of Unknown",
+        "Inhospitable Planets",
+        "Eternal Night Sky",
+        "Vast Emptiness",
+        "Gravitational Forces"
+    ]
+}

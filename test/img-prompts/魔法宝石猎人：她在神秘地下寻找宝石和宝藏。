@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Magical Gems",
+        "Mysterious Cave",
+        "Treasure Hunt",
+        "Glowing Stones",
+        "Enchanted Forest",
+        "Shimmering Crystals",
+        "Ancient Relics",
+        "Hidden Chambers",
+        "Dazzling Jewels",
+        "Ethereal Light",
+        "Otherworldly Gems",
+        "Fantastical Creatures",
+        "Mesmerizing Patterns",
+        "Spectral Glow",
+        "Luminous Stones"
+    ],
+    "negative": [
+        "Abandoned Mine",
+        "Dark Tunnels",
+        "Forbidden Chamber",
+        "Cursed Gemstones",
+        "Forgotten Relics",
+        "Untouched Cave",
+        "Haunted Forest",
+        "Spooky Patterns",
+        "Eerie Light",
+        "Desolate Landscapes",
+        "Uninhabited Worlds",
+        "Ominous Shadows",
+        "Frightening Creatures",
+        "Gloomy Atmosphere",
+        "Dark Secrets"
+    ]
+}

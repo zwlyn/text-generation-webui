@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Elegant",
+        "Regal",
+        "Noble",
+        "Feminine",
+        "Opulent",
+        "Luxurious",
+        "Stately",
+        "Graceful",
+        "Refined",
+        "Royalty",
+        "Prestigious",
+        "Exclusive",
+        "Dignified",
+        "Decadent"
+    ],
+    "negative": [
+        "Shabby",
+        "Squalid",
+        "Dilapidated",
+        "Impoverished",
+        "Ragged",
+        "Tattered",
+        "Dirty",
+        "Scruffy",
+        "Disheveled",
+        "Distressed",
+        "Debauchery",
+        "Decaying",
+        "Depression",
+        "Despair"
+    ]
+}

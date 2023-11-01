@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Female Cartoonist",
+        "Comic Book World",
+        "Creative Journey",
+        "Graphic Novel Adventure",
+        "Colorful Scenes",
+        "Action-Packed Panels",
+        "Expressive Characters",
+        "Dynamic Perspectives",
+        "Inspiring Storylines",
+        "Illustrated Concepts",
+        "Visual Narratives",
+        "Captivating Artwork"
+    ],
+    "negative": [
+        "Mundane Studio",
+        "Artistic Limitations",
+        "Uninspired Ideas",
+        "Cliché Stories",
+        "Monotonous Panels",
+        "Lackluster Characters",
+        "Flat Perspectives",
+        "Overused Themes"
+    ]
+}

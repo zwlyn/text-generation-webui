@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Urban Oasis",
+        "Skyline Views",
+        "Architectural Marvels",
+        "Street Art",
+        "Green Spaces",
+        "Rooftop Gardens",
+        "Futuristic Infrastructure",
+        "Eco-Friendly Design",
+        "Urban Regeneration",
+        "Chic Cafes",
+        "Vibrant Nightlife",
+        "Fashionable Residents",
+        "Innovative Transportation",
+        "Sustainable Living",
+        "Digital Connectivity",
+        "Creative Industries"
+    ],
+    "negative": [
+        "Overcrowded City",
+        "Polluted Environment",
+        "Crumbling Infrastructure",
+        "Graffiti Overload",
+        "Traffic Congestion",
+        "Urban Noise Pollution",
+        "Abandoned Buildings",
+        "Unkempt Public Spaces",
+        "Litter-strewn Streets",
+        "Inaccessible Services",
+        "Dilapidated Housing",
+        "Crime Hotspots",
+        "Disconnected Community"
+    ]
+}

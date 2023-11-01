@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Magical School",
+        "Wizarding World",
+        "Fantastical Creatures",
+        "Enchanted Classrooms",
+        "Spellbinding Libraries",
+        "Whimsical Gardens",
+        "Mysterious Corridors",
+        "Charming Characters",
+        "Colorful Potions",
+        "Magic Wands",
+        "Celestial Beings",
+        "Inspiring Quests",
+        "Flight of Fancy",
+        "Arcane Knowledge",
+        "Ethereal Atmosphere",
+        "Wondrous Adventures"
+    ],
+    "negative": [
+        "Mundane Classrooms",
+        "Ordinary Libraries",
+        "Uninspiring Gardens",
+        "Prosaic Corridors",
+        "Dull Characters",
+        "Monotonous Potions",
+        "Plain Magic Wands",
+        "Trivial Celestial Beings",
+        "Banal Quests",
+        "Grounded Fantasy",
+        "Lackluster Atmosphere",
+        "Unmagical Adventures"
+    ]
+}

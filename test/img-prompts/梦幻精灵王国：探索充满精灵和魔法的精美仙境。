@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Fantasy",
+        "Mystical",
+        "Magic",
+        "Whimsical",
+        "Dreamlike",
+        "Enchanted Forest",
+        "Castle",
+        "Spellbinding",
+        "Supernatural",
+        "Wondrous Creatures",
+        "Incredible Landscapes",
+        "Fables",
+        "Legends",
+        "Myths",
+        "Ethereal",
+        "Surreal"
+    ],
+    "negative": [
+        "Gloomy",
+        "Ominous",
+        "Desolate",
+        "Dark Forces",
+        "Unsettling",
+        "Sinister",
+        "Haunted",
+        "Forbidden Knowledge",
+        "Cursed",
+        "Dangerous Creatures",
+        "Perilous Journey",
+        "Grim Portents",
+        "Lurking Shadows",
+        "Prohibited Realms"
+    ]
+}

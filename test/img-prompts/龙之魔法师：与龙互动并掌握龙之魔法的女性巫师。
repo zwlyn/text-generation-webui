@@ -1,0 +1,16 @@
+{
+    "positive": [
+        "Futuristic Fashion",
+        "Urban Landscape",
+        "Holographic",
+        "Cybernetic Enhancements",
+        "Sleek"
+    ],
+    "negative": [
+        "Gritty",
+        "Post-Apocalyptic",
+        "Dark Alley",
+        "Urban Decay",
+        "Grimy"
+    ]
+}

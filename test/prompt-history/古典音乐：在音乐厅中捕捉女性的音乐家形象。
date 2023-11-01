@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Elegant",
+        "Glamorous",
+        "Refined",
+        "Sophisticated",
+        "Chic",
+        "Vintage",
+        "Classical",
+        "Timeless",
+        "Stylish",
+        "Artful",
+        "Harmonious",
+        "Serene",
+        "Beautiful",
+        "Inspiring",
+        "Melodious"
+    ],
+    "negative": [
+        "Discordant",
+        "Unglamorous",
+        "Rough",
+        "Unsophisticated",
+        "Tasteless",
+        "Modern",
+        "Outdated",
+        "Noisy",
+        "Harsh",
+        "Jarring",
+        "Unharmonious"
+    ]
+}

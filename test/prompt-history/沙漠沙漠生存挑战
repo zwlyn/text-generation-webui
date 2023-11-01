@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Desert Oasis",
+        "Solar Power",
+        "Innovative Infrastructure",
+        "Efficient Irrigation",
+        "Reforestation Efforts",
+        "Sustainable Living",
+        "Wise Water Management",
+        "Recycling and Upcycling",
+        "Local Food Production",
+        "Renewable Energy Sources",
+        "Biodiversity Preservation"
+    ],
+    "negative": [
+        "Resource Depletion",
+        "Climate Change Impacts",
+        "Water Scarcity",
+        "Air Pollution",
+        "Desertification",
+        "Overpopulation Pressure",
+        "Energy Waste",
+        "Urban Sprawl",
+        "Loss of Biodiversity",
+        "Pollution of Water Sources",
+        "Insufficient Infrastructure"
+    ]
+}

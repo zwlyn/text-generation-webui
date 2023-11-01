@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Airplane Cockpit",
+        "Pilot's Viewpoint",
+        "Flight Controls",
+        "Navigational Equipment",
+        "Runway Approach",
+        "Sunrise Flight",
+        "High Altitude",
+        "Cloud Patterns",
+        "In-flight Meal",
+        "Pre-flight Checklist",
+        "Aeronautical Chart",
+        "Crew Communication",
+        "Flight Simulator",
+        "Air Traffic Control",
+        "Weather Radar",
+        "Autopilot Engaged"
+    ],
+    "negative": [
+        "Engine Failure",
+        "Turbulence",
+        "Thunderstorms",
+        "Severe Weather Warning",
+        "Emergency Landing",
+        "Crash Scene",
+        "Rescue Operation",
+        "Fuel Shortage",
+        "Lost Radio Contact",
+        "Missed Approach",
+        "Runway Incursion",
+        "Wake Turbulence"
+    ]
+}

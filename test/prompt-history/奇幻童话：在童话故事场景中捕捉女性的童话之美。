@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Fairy Tale",
+        "Enchanted Forest",
+        "Magical Creatures",
+        "Charming Castle",
+        "Whimsical Wardrobe",
+        "Graceful Gowns",
+        "Ethereal Environment",
+        "Dreamlike Atmosphere",
+        "Mysterious Mirror",
+        "Talking Animals",
+        "Spellbinding Spells",
+        "Mythical Landscapes"
+    ],
+    "negative": [
+        "Harsh Reality",
+        "Urban Chaos",
+        "Dark Secrets",
+        "Haunting Memories",
+        "Shadowy Figures",
+        "Ominous Intentions",
+        "Hidden Dangers",
+        "Lurking Threats",
+        "Twisted Fairy Tales",
+        "Cursed Items",
+        "Sinister Schemes",
+        "Dark Forces"
+    ]
+}

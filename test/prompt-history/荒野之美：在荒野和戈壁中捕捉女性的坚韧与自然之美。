@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Wild Beauty",
+        "Natural Elements",
+        "Deserted Places",
+        "Resilient",
+        "Raw Nature",
+        "Frozen Landscapes",
+        "Icy Terrain",
+        "Snowy Mountains",
+        "Harsh Conditions",
+        "Survival",
+        "Untamed Wilderness"
+    ],
+    "negative": [
+        "Abandoned",
+        "Barren",
+        "Inhospitable",
+        "Desolation",
+        "Loneliness",
+        "Frigid Cold",
+        "Bitter Wind",
+        "Isolated Existence",
+        "Exposed to Elements"
+    ]
+}

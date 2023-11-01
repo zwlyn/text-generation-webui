@@ -1,0 +1,43 @@
+{
+    "positive": [
+        "Advanced Technology",
+        "Cutting-Edge Fashion",
+        "Innovative Designs",
+        "Boundary Pushing",
+        "Athletic Performance",
+        "Aesthetics",
+        "Cybernetic Enhancements",
+        "Holographic Displays",
+        "Futuristic Atmosphere",
+        "Urban Landscapes",
+        "Sleek Designs",
+        "Metallic Aesthetics",
+        "Glowing Accents",
+        "Physical Prowess",
+        "Technological Advancements",
+        "Reality",
+        "Cool Style",
+        "Exotic Ambiance",
+        "Futuristic Chic"
+    ],
+    "negative": [
+        "Post-Apocalyptic",
+        "Dark Alley",
+        "Urban Decay",
+        "Grimy",
+        "Broken Technology",
+        "Pollution",
+        "Surveillance",
+        "Isolation",
+        "Desolation",
+        "Cybercrime",
+        "System Failure",
+        "Dystopian Future",
+        "Ruined Cityscape",
+        "Corruption",
+        "Hackers",
+        "Underground",
+        "Chaos",
+        "Resistance"
+    ]
+}

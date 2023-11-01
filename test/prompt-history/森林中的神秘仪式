@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Mystical Forest",
+        "Ancient Ritual",
+        "Nature Magic",
+        "Arcane Symbols",
+        "Enchanted Glade",
+        "Lunar Cycle",
+        "Celestial Bodies",
+        "Ethereal Glow",
+        "Sacred Grove",
+        "Elemental Forces",
+        "Primal Energy",
+        "Fae Folk",
+        "Mysterious Ceremony"
+    ],
+    "negative": [
+        "Urban Chaos",
+        "Disrupted Ritual",
+        "Desecrated Nature",
+        "Lost Traditions",
+        "Unseen Forces",
+        "Violent Disruption",
+        "Shadowy Influences",
+        "Ominous Presence",
+        "Forbidden Knowledge",
+        "Ancient Curse",
+        "Fractured Unity",
+        "Nature's Wrath",
+        "Spectral Invasion"
+    ]
+}

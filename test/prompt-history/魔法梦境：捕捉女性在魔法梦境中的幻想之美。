@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Magical Dreamland",
+        "Cyberpunk",
+        "Femininity",
+        "Advanced Technology",
+        "Futuristic Landscapes",
+        "Empowerment",
+        "Strength",
+        "Poise",
+        "Allure",
+        "Endless Possibilities"
+    ],
+    "negative": [
+        "Gritty",
+        "Dystopian",
+        "Urban Decay",
+        "Grimy",
+        "Broken Technology",
+        "Pollution",
+        "Surveillance",
+        "Isolation",
+        "Desolation",
+        "Cybercrime",
+        "System Failure",
+        "Dystopian Future",
+        "Ruined Cityscape",
+        "Corruption",
+        "Hackers",
+        "Underground",
+        "Chaos",
+        "Resistance"
+    ]
+}

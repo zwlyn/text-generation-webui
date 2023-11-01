@@ -1,0 +1,23 @@
+{
+    "positive": [
+        "Magical Forest",
+        "Enchanted Woods",
+        "Fairy Tale",
+        "Dreamlike",
+        "Mysterious Creatures",
+        "Whimsical",
+        "Nature Spirits",
+        "Forest Wonders",
+        "Secret Groves",
+        "Arcadian Beauty"
+    ],
+    "negative": [
+        "Harsh Reality",
+        "Urban Concrete",
+        "Dark Shadows",
+        "Mundane Life",
+        "Lack of Magic",
+        "Disenchanted World",
+        "Rational Explanations"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Martial Arts Mastery",
+        "Tradition",
+        "Discipline",
+        "Wisdom",
+        "Eastern Philosophy",
+        "High-Tech Gear",
+        "Futuristic Battlegrounds",
+        "Holographic Training",
+        "Cybernetic Enhancements",
+        "Mystical Energy",
+        "Sleek Design",
+        "Urban Warrior",
+        "Sci-Fi Elements",
+        "Virtual Reality",
+        "Advanced Techniques",
+        "Futuristic Fashion",
+        "Bold Statements",
+        "Innovative Accessories"
+    ],
+    "negative": [
+        "Abandoned Dojo",
+        "Lack of Discipline",
+        "Ignorance",
+        "Western Arrogance",
+        "Outdated Technology",
+        "Dilapidated Cityscape",
+        "Surveillance Drones",
+        "Overwhelming Odds",
+        "Corruption",
+        "Betrayal",
+        "Urban Decay",
+        "Broken Dreams",
+        "System Failure",
+        "Loss of Tradition",
+        "Environmental Pollution",
+        "Oppressive Regime",
+        "Hopelessness"
+    ]
+}

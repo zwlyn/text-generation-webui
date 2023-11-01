@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Wilderness",
+        "Survival Skills",
+        "Primitive Tools",
+        "Nature",
+        "Resourcefulness",
+        "Shelter Building",
+        "Fire Starting",
+        "Trapping",
+        "Edible Plants",
+        "Water Purification",
+        "Sunlight",
+        "Stealth",
+        "Tracking Animals"
+    ],
+    "negative": [
+        "Dangerous Wildlife",
+        "Inclement Weather",
+        "Starvation",
+        "Dehydration",
+        "Loneliness",
+        "Injury",
+        "Fatigue",
+        "Boredom",
+        "Unpredictable Environment"
+    ]
+}

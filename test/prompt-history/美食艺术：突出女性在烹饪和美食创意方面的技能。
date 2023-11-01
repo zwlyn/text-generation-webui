@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Feminine",
+        "Gourmet",
+        "Innovative",
+        "Creative",
+        "Colorful",
+        "Bold",
+        "Artistic",
+        "Elegant",
+        "Daring",
+        "Delicate",
+        "Stylish",
+        "Healthy",
+        "Sustainable",
+        "Vibrant",
+        "Playful",
+        "Exquisite",
+        "Handcrafted",
+        "Authentic"
+    ],
+    "negative": [
+        "Monotonous",
+        "Unimaginative",
+        "Overcooked",
+        "Bland",
+        "Dull",
+        "Artless",
+        "Crude",
+        "Heavy",
+        "Gluttonous",
+        "Greasy",
+        "Lifeless",
+        "Unsustainable",
+        "Faded",
+        "Sterile",
+        "Inaccessible",
+        "Rigid",
+        "Mass-produced"
+    ]
+}

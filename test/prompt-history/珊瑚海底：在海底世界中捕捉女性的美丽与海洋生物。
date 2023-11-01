@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Spectacular",
+        "Vibrant",
+        "Elegant",
+        "Mysterious",
+        "Colorful",
+        "Futuristic",
+        "Innovative",
+        "Exquisite",
+        "Captivating",
+        "Dreamy",
+        "Alluring",
+        "Imaginative",
+        "Striking",
+        "Creative",
+        "Otherworldly",
+        "Ethereal"
+    ],
+    "negative": [
+        "Gloomy",
+        "Desolate",
+        "Somber",
+        "Melancholic",
+        "Drab",
+        "Monotonous",
+        "Uninspired",
+        "Disenchanted",
+        "Lifeless",
+        "Bleak",
+        "Barren",
+        "Tenuous",
+        "Strained",
+        "Hollow",
+        "Gloomy",
+        "Sparse"
+    ]
+}

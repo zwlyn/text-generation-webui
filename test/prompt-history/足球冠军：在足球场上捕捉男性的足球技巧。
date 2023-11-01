@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Sports",
+        "Championship",
+        "Trophies",
+        "Winning Moment",
+        "Celebration",
+        "Goal Scoring",
+        "Skillful Play",
+        "Teamwork",
+        "Spectators",
+        "Inspiring",
+        "Determination",
+        "Passion for the Game",
+        "Perseverance",
+        "Leadership"
+    ],
+    "negative": [
+        "Losing Team",
+        "Disappointment",
+        "Mistakes",
+        "Poor Performance",
+        "Injuries",
+        "Offside",
+        "Referee's Bad Call",
+        "Missed Opportunities",
+        "Unfair Play",
+        "Rainy Day",
+        "Overcrowded Stadium",
+        "Player Conflicts"
+    ]
+}

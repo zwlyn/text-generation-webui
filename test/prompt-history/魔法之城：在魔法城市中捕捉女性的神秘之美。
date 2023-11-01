@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Magical Cityscape",
+        "Enchanted Streets",
+        "Mysterious Alleyways",
+        "Spellbinding Architecture",
+        "Fantastical Fashion Statements",
+        "Whimsical Atmosphere",
+        "Urban Spells",
+        "Charming Details",
+        "Ethereal Glow",
+        "Celestial Beings",
+        "Divine Guidance",
+        "Arcane Symbols",
+        "Mysterious Artifacts",
+        "Otherworldly Creatures",
+        "Fantastical Transportation",
+        "Dreamlike Perspectives",
+        "Spectral Illusions"
+    ],
+    "negative": [
+        "Abandoned City",
+        "Deserted Streets",
+        "Shadowy Corners",
+        "Derelict Architecture",
+        "Forgotten Relics",
+        "Uninhabited Zones",
+        "Urban Decay",
+        "Disenchanted Atmosphere",
+        "Dark Omens",
+        "Ominous Glow",
+        "Sinister Beings",
+        "Vanishing Acts",
+        "Cryptic Symbols",
+        "Lost Artifacts",
+        "Ghostly Creatures",
+        "Forsaken Transportation",
+        "Eerie Perspectives",
+        "Haunting Echoes"
+    ]
+}

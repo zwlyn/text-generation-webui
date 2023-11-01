@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Enchanted Forest",
+        "Magical Creatures",
+        "Fairy Tale",
+        "Mysterious Path",
+        "Whimsical Atmosphere",
+        "Glowing Orbs",
+        "Soft Light",
+        "Dreamlike Quality",
+        "Nature's Majesty",
+        "Captivating Gaze",
+        "Fantastical Wardrobe",
+        "Ethereal Makeup",
+        "Otherworldly Glow",
+        "Awe-Inspiring Scenery",
+        "Timeless Elegance",
+        "Mythical Adventure"
+    ],
+    "negative": [
+        "Abandoned Forest",
+        "Ominous Creatures",
+        "Dark Tale",
+        "Treacherous Path",
+        "Eerie Atmosphere",
+        "Flickering Shadows",
+        "Unsettling Quality",
+        "Nature's Wrath",
+        "Sinister Gaze",
+        "Ominous Wardrobe",
+        "Ghostly Makeup",
+        "Creeping Glow",
+        "Forbidden Scenery",
+        "Haunting Elegance",
+        "Tragic Adventure"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Female Sculptor",
+        "Artistic Creativity",
+        "Sculpting Process",
+        "Creative Workshop",
+        "Inspiring Environment",
+        "Craftsmanship",
+        "Skillful Hands",
+        "Shaping Clay",
+        "Stone Carving",
+        "Wood Sculpture",
+        "Bronze Casting",
+        "Marble Statue"
+    ],
+    "negative": [
+        "Isolated Artist",
+        "Creative Block",
+        "Uninspiring Space",
+        "Messy Workshop",
+        "Lack of Skills",
+        "Broken Tools",
+        "Failed Sculptures"
+    ]
+}

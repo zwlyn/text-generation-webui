@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Starry Sky",
+        "Galactic Beauty",
+        "Celestial Bodies",
+        "Planetary Rings",
+        "Comet Tails",
+        "Stellar Nurseries",
+        "Aurora Borealis",
+        "Nebular Glow",
+        "Interstellar Dust",
+        "Cosmic Radiance",
+        "Gravitational Lensing",
+        "Ethereal Atmosphere"
+    ],
+    "negative": [
+        "Deep Void",
+        "Dark Matter",
+        "Black Holes",
+        "Stellar Collisions",
+        "Wormholes",
+        "Massive Stars",
+        "Supernovae",
+        "Gaseous Clouds",
+        "Icy Rings",
+        "Red Giants",
+        "White Dwarfs",
+        "Cosmic Expansion",
+        "Dark Energy"
+    ]
+}

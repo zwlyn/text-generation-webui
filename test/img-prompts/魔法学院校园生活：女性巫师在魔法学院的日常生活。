@@ -1,0 +1,42 @@
+{
+    "positive": [
+        "Magical College Life",
+        "Enchanted Campus",
+        "Female Sorceress",
+        "Wizarding School Activities",
+        "Spellcasting Classroom",
+        "Ritual Practice",
+        "Mystic Laboratory",
+        "Magical Creatures",
+        "Friendly Spirits",
+        "Incantation Gardens",
+        "Sorceress Society",
+        "Celestial Conclave",
+        "Elemental Enclave",
+        "Arcane Architects",
+        "Spellbinding Structures",
+        "Enchanted Atmosphere",
+        "Divine Determination",
+        "Wise Witches"
+    ],
+    "negative": [
+        "Mundane Reality",
+        "Disenchantment",
+        "Lack of Magic",
+        "Uninspiring Campus",
+        "Boring Classroom",
+        "Undeveloped Psychic Abilities",
+        "Dull Laboratory",
+        "Ordinary Creatures",
+        "Unspectacular Spirits",
+        "Barren Gardens",
+        "Unmagical Society",
+        "Prosaic Conclave",
+        "Plain Enclave",
+        "Unimaginative Architects",
+        "Mundane Structures",
+        "Average Atmosphere",
+        "Feeble Fate",
+        "Common Witches"
+    ]
+}

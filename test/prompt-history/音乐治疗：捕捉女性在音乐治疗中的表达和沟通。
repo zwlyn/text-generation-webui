@@ -1,0 +1,23 @@
+{
+    "positive": [
+        "Therapeutic Music",
+        "Expressive Therapy",
+        "Healing Sounds",
+        "Musical Bonding",
+        "Emotional Connections",
+        "Cathartic Experience",
+        "Creative Expression",
+        "Inspirational Melodies",
+        "Harmonious Communication"
+    ],
+    "negative": [
+        "Overwhelming Emotion",
+        "Sonic Chaos",
+        "Discordant Notes",
+        "Emotional Turmoil",
+        "Communication Breakdown",
+        "Conflicting Rhythms",
+        "Dissonant Chords",
+        "Aural Discomfort"
+    ]
+}

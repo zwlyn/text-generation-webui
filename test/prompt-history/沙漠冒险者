@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Adventurous",
+        "Daring",
+        "Rugged",
+        "Sun-Kissed",
+        "Wanderlust",
+        "Desert Explorer",
+        "Treasure Hunter",
+        "Survivalist",
+        "Endurance",
+        "Resilience",
+        "Freedom",
+        "Independence"
+    ],
+    "negative": [
+        "Peril",
+        "Isolation",
+        "Thirsty",
+        "Exhausted",
+        "Lost",
+        "Dangerous Creatures",
+        "Harsh Terrain",
+        "Environmental Hazards",
+        "Disoriented",
+        "Desperate",
+        "Vulnerable",
+        "Hopelessness"
+    ]
+}

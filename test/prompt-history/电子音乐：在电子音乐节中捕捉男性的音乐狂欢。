@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Electronic Music Festival",
+        "Dancing Male",
+        "Headphones",
+        "Glow Sticks",
+        "Neon Signs",
+        "DJ Booth",
+        "Lights and Lasers",
+        "Colorful Atmosphere",
+        "Beats per Minute",
+        "Rave Culture",
+        "Clubbing Scene",
+        "EDM Genre",
+        "Party Vibes"
+    ],
+    "negative": [
+        "Noise Pollution",
+        "Crowded Venue",
+        "Uncomfortable Clothing",
+        "Long Queues",
+        "Expensive Drinks",
+        "Sound Distortion",
+        "Inadequate Ventilation",
+        "Overwhelming Stimuli",
+        "Lack of Personal Space",
+        "Temperature Extremes",
+        "Potential Injuries",
+        "Drug Related Incidents",
+        "Alcohol-Fueled Behavior"
+    ]
+}

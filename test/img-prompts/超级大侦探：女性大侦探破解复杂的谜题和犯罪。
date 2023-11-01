@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Female Detective",
+        "Mystery Solving",
+        "Intelligence",
+        "Teamwork",
+        "Investigation",
+        "Crime Scene",
+        "Evidence Gathering",
+        "Analysis",
+        "Case Cracking",
+        "Perseverance",
+        "Justice Served"
+    ],
+    "negative": [
+        "Unsolved Mystery",
+        "Cold Case",
+        "Lack of Evidence",
+        "False Leads",
+        "Dangerous Suspects",
+        "Crime Wave",
+        "Overwhelmed Police",
+        "Public Fear"
+    ]
+}

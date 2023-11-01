@@ -1,0 +1,21 @@
+{
+    "positive": [
+        "Intricate Bug Details",
+        "Vibrant Colors",
+        "Patterns in Nature",
+        "Fine Art Insect Photography",
+        "Macro Lens Close-ups",
+        "Surreal Scenes",
+        "Whimsical Atmosphere",
+        "Enchanting Lighting"
+    ],
+    "negative": [
+        "Creepy Crawly",
+        "Disgusting Bugs",
+        "Claustrophobic Tunnels",
+        "Dark and Dank Places",
+        "Uncomfortable Proximity to Insects",
+        "Fear of the Unknown",
+        "Loneliness in a Bug World"
+    ]
+}

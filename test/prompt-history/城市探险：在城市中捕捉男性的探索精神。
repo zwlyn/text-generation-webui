@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Urban Adventure",
+        "Modern Architecture",
+        "Futuristic Designs",
+        "City Lights",
+        "Stylish Attire",
+        "Sleek Vehicles",
+        "Tech-Infused Fashion",
+        "Holographic Displays",
+        "Smart Cities",
+        "Advanced Transportation",
+        "Virtual Reality Hubs",
+        "Glowing Neon Signs",
+        "Vibrant Nightlife",
+        "Urban Exploration",
+        "Tech-Savvy Individuals"
+    ],
+    "negative": [
+        "Dark Alleys",
+        "Abandoned Buildings",
+        "Graffiti-Covered Walls",
+        "Pollution",
+        "Crumbling Infrastructure",
+        "Broken Gadgets",
+        "Surveillance Cameras",
+        "Overcrowded Spaces",
+        "Social Inequality",
+        "Corruption",
+        "Hacker Havens",
+        "Underground Worlds",
+        "Chaotic Scenes",
+        "Resistance Movements"
+    ]
+}

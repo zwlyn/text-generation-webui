@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Extreme Adventure",
+        "Harsh Environment",
+        "Icy Landscape",
+        "Snowy Peaks",
+        "Frozen Lake",
+        "Glacial Crevasses",
+        "Arctic Wildlife",
+        "Northern Lights",
+        "Polar Exploration",
+        "Mountain Climbing",
+        "Cold Weather Gear",
+        "Extreme Sports",
+        "Survival Skills",
+        "Bravery",
+        "Determination",
+        "Adversity"
+    ],
+    "negative": [
+        "Dangerous Terrain",
+        "Unforgiving Elements",
+        "Hazardous Conditions",
+        "Isolation",
+        "Exposure",
+        "Dehydration",
+        "Starvation",
+        "Hypothermia",
+        "Frostbite",
+        "Avalanches",
+        "Crevasse Collapse",
+        "Animal Attacks",
+        "Altitude Sickness",
+        "Wind Chill"
+    ]
+}

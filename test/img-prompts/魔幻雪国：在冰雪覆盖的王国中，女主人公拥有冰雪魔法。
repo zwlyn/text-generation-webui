@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Winter Wonderland",
+        "Snow-Covered Landscape",
+        "Frozen Lake",
+        "Icicle Beard",
+        "Snowflake Pattern",
+        "Magic Staff",
+        "White Wolf Companion",
+        "Ethereal Forest",
+        "Glistening Ice Castle",
+        "Winter Solstice Celebration",
+        "Frozen Waterfall",
+        "Crystal-Clear Ice Sculptures",
+        "Snowshoe Adventurer"
+    ],
+    "negative": [
+        "Freezing Temperatures",
+        "Biting Wind Chill",
+        "Icy Conditions",
+        "Unstable Snowpack",
+        "Frozen Fingers and Toes",
+        "Hard to See",
+        "Cold to the Bone",
+        "Snowstorm Blizzard",
+        "Dangerous Icicles",
+        "Miserable Winter Commute",
+        "Abandoned in the Cold",
+        "Frigid Tundra",
+        "Isolated Existence"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "positive": [
+        "Elegant Indian dance pose",
+        "Graceful hand gestures",
+        "Colorful traditional attire",
+        "Intricate jewelry",
+        "Rich cultural background",
+        "Sacred rituals and ceremonies"
+    ],
+    "negative": [
+        "Out of focus",
+        "Bad lighting",
+        "Unattractive composition",
+        "Poor color coordination",
+        "Inappropriate attire",
+        "Lack of cultural context"
+    ]
+}

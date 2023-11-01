@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Exotic",
+        "Foreign",
+        "Charming",
+        "Beautiful",
+        "Vibrant Culture",
+        "Colorful Attire",
+        "Unique Customs",
+        "Alluring Traditions",
+        "Local Cuisine",
+        "Artistic Expressions",
+        "Lively Music",
+        "Dancing",
+        "Natural Wonders",
+        "Spectacular Landscapes",
+        "Exciting Activities"
+    ],
+    "negative": [
+        "Ordinary",
+        "Everyday Life",
+        "Mundane Tasks",
+        "Household Chores",
+        "Unremarkable Locations",
+        "Boring Conversations",
+        "Routine Behaviors",
+        "Monotonous Environment",
+        "Dull Atmosphere",
+        "Lackluster Scenery"
+    ]
+}

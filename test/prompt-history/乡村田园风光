@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Idyllic",
+        "Pastoral Scenery",
+        "Serene Atmosphere",
+        "Rural Beauty",
+        "Nature's Bounty",
+        "Fertile Landscapes",
+        "Sunlit Fields",
+        "Charming Village Life",
+        "Bustling Local Market",
+        "Family Farm",
+        "Organic Produce",
+        "Harvest Time",
+        "Country Traditions",
+        "Tranquil Moments",
+        "Peaceful Living"
+    ],
+    "negative": [
+        "Urban Sprawl",
+        "Environmental Degradation",
+        "Industrial Pollution",
+        "Loss of Biodiversity",
+        "Overdevelopment",
+        "Deforestation",
+        "Desertification",
+        "Soil Erosion",
+        "Chemical Fertilizers",
+        "Pesticides and Herbicides",
+        "Water Contamination"
+    ]
+}

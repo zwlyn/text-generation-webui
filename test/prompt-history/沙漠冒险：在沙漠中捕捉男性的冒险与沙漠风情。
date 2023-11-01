@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Adventurous",
+        "Desert Explorer",
+        "Masculine",
+        "Sandstorm",
+        "Wind-swept Hair",
+        "Shadow Play",
+        "Extreme Sports",
+        "Survival Skills",
+        "Rugged Individualism",
+        "Endurance",
+        "Resilience",
+        "Solitude",
+        "Mysterious Landscapes",
+        "Natural Beauty",
+        "Canyons",
+        "Sun-soaked Horizons",
+        "Dramatic Lighting"
+    ],
+    "negative": [
+        "Isolation",
+        "Harsh Conditions",
+        "Dehydration",
+        "Exhaustion",
+        "Loneliness",
+        "Starvation",
+        "Sandstorm Hazard",
+        "Desolate Wasteland",
+        "Extreme Heat",
+        "Thirsty Throats",
+        "Barren Terrain",
+        "Unforgiving Environment",
+        "Mirage Illusions"
+    ]
+}

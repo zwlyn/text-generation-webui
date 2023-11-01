@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Intricate Details",
+        "Microscopic Perspective",
+        "Macro Lens",
+        "Fascinating Creatures",
+        "Nature's Wonders",
+        "Rich Colors",
+        "Vivid Textures",
+        "Hidden Worlds",
+        "Life Under the Microscope",
+        "Ultra Close-up",
+        "Amazing Patterns",
+        "Symmetry and Balance"
+    ],
+    "negative": [
+        "Out of Focus",
+        "Blurred Backgrounds",
+        "Harsh Lighting",
+        "Unfocused Subject",
+        "Dark Shadows",
+        "Distracting Elements",
+        "Overexposed Highlights",
+        "Invasion of Privacy"
+    ]
+}

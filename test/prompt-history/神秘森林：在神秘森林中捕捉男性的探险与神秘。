@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Mysterious Forest",
+        "Adventurous",
+        "Explorer",
+        "Nature",
+        "Beautiful",
+        "Serene",
+        "Tranquil",
+        "Wisdom",
+        "Whimsical",
+        "Enchanted",
+        "Magic",
+        "Fantastical",
+        "Greenery",
+        "Mysterious Creatures",
+        "Hidden Paths",
+        "Forbidden Places",
+        "Secrets",
+        "Ancient Forest"
+    ],
+    "negative": [
+        "Dangerous",
+        "Threatening",
+        "Uncertainty",
+        "Fear",
+        "Loneliness",
+        "Isolation",
+        "Gloomy",
+        "Shadows",
+        "Hiding Places",
+        "Secluded",
+        "Suspenseful",
+        "Mysterious Dangers",
+        "Dark Forces",
+        "Hidden Traps",
+        "Creepy Creatures",
+        "Haunted Forest"
+    ]
+}

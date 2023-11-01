@@ -1,0 +1,19 @@
+{
+    "positive": [
+        "Equestrian Skills",
+        "Horse Riding Techniques",
+        "Athleticism",
+        "Graceful Movements",
+        "Dressage",
+        "Show Jumping",
+        "Eventing"
+    ],
+    "negative": [
+        "Industrial Decay",
+        "Abandoned Buildings",
+        "Deserted Streets",
+        "Urban Disaster",
+        "Broken Glass",
+        "Rusted Metal"
+    ]
+}

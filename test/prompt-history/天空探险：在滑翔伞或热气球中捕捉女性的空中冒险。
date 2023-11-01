@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Aerial Adventure",
+        "Flying Women",
+        "Sky Exploration",
+        "Courageous Female",
+        "Gliding Device",
+        "Thermal Balloon",
+        "Breathtaking Views",
+        "Inspiring Journey",
+        "Captivating Skies",
+        "Dreamlike Atmosphere",
+        "Fearless Dame",
+        "Grace in Flight",
+        "Airborne Pursuits"
+    ],
+    "negative": [
+        "Plummeting Panic",
+        "Turbulent Terrors",
+        "Altitude Anxiety",
+        "Falling Frights",
+        "Soaring Setbacks",
+        "Airborne Alarms",
+        "Dizzying Heights",
+        "Nervous Nelly",
+        "Vertigo Vicissitudes",
+        "Skyward Scares",
+        "Fear of Falling",
+        "Terrified Traveler"
+    ]
+}

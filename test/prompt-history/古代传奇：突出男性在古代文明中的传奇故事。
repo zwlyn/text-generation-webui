@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Ancient",
+        "Heroic",
+        "Mythical",
+        "Legendary",
+        "Warrior",
+        "Armored",
+        "Weaponry",
+        "Battle Scars",
+        "Victorious",
+        "Triumphant",
+        "Noble",
+        "Glorious",
+        "Epic",
+        "Historic",
+        "Chivalrous"
+    ],
+    "negative": [
+        "Fallen",
+        "Desolate",
+        "Abandoned",
+        "Decaying",
+        "Lost",
+        "Broken",
+        "Ruins",
+        "Overgrown",
+        "Shadows",
+        "Eerie",
+        "Haunted",
+        "Sadness",
+        "Darkness",
+        "Gloom",
+        "Despair",
+        "Forgotten"
+    ]
+}

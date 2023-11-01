@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Futuristic Cityscape",
+        "Advanced Technology",
+        "Space Station Maintenance",
+        "Neon Colors",
+        "Sleek Suit",
+        "Holographic Interface",
+        "Robotic Assistants",
+        "Innovative Design",
+        "Reality Augmentation",
+        "Crystal Clear Viewport",
+        "Urban Skyline",
+        "Floating Cities",
+        "Glowing Structures"
+    ],
+    "negative": [
+        "Dilapidated Infrastructure",
+        "Failed Technology",
+        "Abandoned Space Facilities",
+        "Muted Colors",
+        "Tattered Uniform",
+        "Broken Holograms",
+        "Decommissioned Robots",
+        "Outdated Equipment",
+        "Pollution Haze",
+        "Crumbling Architecture",
+        "Collapsed Structures",
+        "Decaying Urban Environment"
+    ]
+}

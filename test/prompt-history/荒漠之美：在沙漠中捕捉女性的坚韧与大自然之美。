@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Solar",
+        "Desert Oasis",
+        "Oasis",
+        "Prickly Pear Cactus",
+        "Beautiful",
+        "Fragrant",
+        "Resilient",
+        "Sun-Kissed",
+        "Golden Hour Lighting",
+        "Silhouette",
+        "Mesmerizing",
+        "Intricate Textures",
+        "Timeless Beauty",
+        "Geometric Shapes",
+        "Soft Shadows",
+        "Wisdom",
+        "Serene"
+    ],
+    "negative": [
+        "Barren",
+        "Desolate",
+        "Lifeless",
+        "Harsh Conditions",
+        "Dry",
+        "Inhospitable",
+        "Scorching Sun",
+        "Thorny Vegetation",
+        "Bleak Landscape",
+        "Monotonous Terrain",
+        "Merciless Elements",
+        "Cracked Earth",
+        "Futile Struggle",
+        "Despair",
+        "Brutal Heat"
+    ]
+}

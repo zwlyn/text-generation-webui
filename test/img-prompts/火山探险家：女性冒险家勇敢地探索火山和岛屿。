@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Volcanic Exploration",
+        "Adventurous",
+        "Brave",
+        "Masculine",
+        "Rugged Terrain",
+        "Lava Flow",
+        "Fire and Brimstone",
+        "Hardy Vegetation",
+        "Extreme Climate",
+        "Treacherous Paths",
+        "Geothermal Wonder",
+        "Into the Crater",
+        "Molten Core",
+        "Sulfuric Atmosphere",
+        "Thermal Energy",
+        "Primordial Forces"
+    ],
+    "negative": [
+        "Dangerous Eruptions",
+        "Toxic Gases",
+        "Lava Burns",
+        "Desolate Landscapes",
+        "Volcanic Ash",
+        "Scorched Earth",
+        "Evacuations",
+        "Property Loss",
+        "Environmental Destruction",
+        "Fear and Panic",
+        "Imminent Disaster",
+        "Loss of Life",
+        "Helplessness"
+    ]
+}

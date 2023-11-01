@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Skyward",
+        "Aerial Views",
+        "Cloud Nine",
+        "Gliding Gently",
+        "Ethereal Atmosphere",
+        "Weightlessness",
+        "Serenity",
+        "Majestic Skies",
+        "Floating Figures",
+        "Celestial Beauty",
+        "Captivating Horizons",
+        "Luminous Clouds",
+        "Bird's-eye Perspective",
+        "Aeronautic Elegance",
+        "Infinite Freedom",
+        "Dreamlike Ambiance",
+        "Mystical Atmospheres",
+        "Flight of Fancy"
+    ],
+    "negative": [
+        "Plummeting Downwards",
+        "Falling from Grace",
+        "Turbulent Skies",
+        "Earthbound Anxiety",
+        "Lost in the Clouds",
+        "Disoriented Vertigo",
+        "Dark Ominous Skies",
+        "Stormy Atmosphere",
+        "Descending Rapidly",
+        "Crashing to Earth",
+        "Chaotic Tumbling",
+        "Frightened Figures",
+        "Distorted Horizons",
+        "Pitch-Black Clouds",
+        "Nosedive Panic",
+        "Aerial Nightmares"
+    ]
+}

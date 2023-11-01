@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Cyberpunk",
+        "Futuristic",
+        "Urban Landscape",
+        "Holographic Technology",
+        "Neon Lights",
+        "Female Police Officer",
+        "Fashionable Uniform",
+        "Sleek Design",
+        "Advanced Equipment",
+        "Community Trust",
+        "Diversity in Law Enforcement"
+    ],
+    "negative": [
+        "Post-Apocalyptic",
+        "Crime-Ridden Streets",
+        "Broken City Infrastructure",
+        "Air Pollution",
+        "Failed Technology",
+        "Victim of Crime",
+        "Abandoned Urban Areas",
+        "Lack of Resources",
+        "Corruption in the System"
+    ]
+}

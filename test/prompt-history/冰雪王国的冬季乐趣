@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Icy Wonderland",
+        "Crystal Clear Skies",
+        "Frozen Waterfall",
+        "Winter Sports",
+        "Snowball Fight",
+        "Hot Chocolate",
+        "Cozy Fireplace",
+        "Holiday Decorations",
+        "Ice Sculptures",
+        "Winter Wonderland"
+    ],
+    "negative": [
+        "Frozen Pipes",
+        "Slippery Sidewalks",
+        "Bitter Cold Temperatures",
+        "Power Outages",
+        "Shoveling Snow",
+        "Traffic Accidents",
+        "Cabin Fever",
+        "Runny Noses",
+        "Chapped Lips",
+        "Frozen Toes"
+    ]
+}

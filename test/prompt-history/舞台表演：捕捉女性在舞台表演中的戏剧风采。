@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Theatrical",
+        "Dramatic Lighting",
+        "Expressive",
+        "Dynamic Movement",
+        "Emotional Performance",
+        "Colorful Costumes",
+        "Stage Makeup",
+        "Creative Set Design",
+        "Engaging Audience",
+        "Immersive Experience",
+        "Live Music",
+        "Energetic Choreography",
+        "Captivating Storyline"
+    ],
+    "negative": [
+        "Mundane Stage Setting",
+        "Monotonous Performance",
+        "Lack of Emotion",
+        "Uninspired Costumes",
+        "Overused Set Design",
+        "Disengaged Audience",
+        "Confusing Storyline",
+        "Amateurish Acting",
+        "Poor Lighting Techniques",
+        "Unimaginative Choreography",
+        "Lackluster Musical Accompaniment"
+    ]
+}

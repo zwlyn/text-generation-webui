@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Mountain Sledding",
+        "Skiing Speed",
+        "Gliding Smoothly",
+        "Rapid Descent",
+        "Downhill Exhilaration",
+        "Snowy Landscape",
+        "Fresh Powder",
+        "Crisp Air",
+        "Freedom of Movement",
+        "Adventure Seeker",
+        "Extreme Sportsman",
+        "Speed Enthusiast",
+        "Natural Rush",
+        "Winter Wonderland"
+    ],
+    "negative": [
+        "Accidents Waiting to Happen",
+        "Dangerous Terrain",
+        "Uncontrollable Speed",
+        "Slippery Slope",
+        "Risk-Taking Behavior",
+        "Injury Prone",
+        "Whiteout Conditions",
+        "Icy Surfaces",
+        "Steep Cliffs",
+        "Falling Ice",
+        "Hidden Obstacles",
+        "Nature's Wrath",
+        "Vulnerability",
+        "Life on the Edge"
+    ]
+}

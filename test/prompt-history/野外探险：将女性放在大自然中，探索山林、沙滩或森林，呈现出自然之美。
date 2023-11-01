@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Nature",
+        "Outdoor Adventure",
+        "Beautiful Scenery",
+        "Women Empowerment",
+        "Forest Exploration",
+        "Hiking Trails",
+        "Sunlit Clearings",
+        "Botanical Wonders",
+        "Mountain Vistas",
+        "Island Getaways",
+        "Crystal Blue Lakes",
+        "Rugged Terrain",
+        "Natural Geometry",
+        "Wildlife Encounters",
+        "Cascade Waterfalls",
+        "Sunset Horizons"
+    ],
+    "negative": [
+        "Urban Chaos",
+        "Industrial Pollution",
+        "Dark Alleyways",
+        "Abandoned Factories",
+        "Graffiti Covered Walls",
+        "Vehicle Congestion",
+        "Overcrowded Public Spaces",
+        "Trash-Littered Streets",
+        "Polluted Rivers",
+        "Deforestation",
+        "Illegal Mining Operations",
+        "Toxic Waste Dumps",
+        "Endangered Wildlife",
+        "Desertification",
+        "Overfishing"
+    ]
+}

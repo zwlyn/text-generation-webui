@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Vintage",
+        "Traveler",
+        "Luggage",
+        "Adventure",
+        "Retro Attire",
+        "Globe-trotter",
+        "Elegant",
+        "Timeless",
+        "Classic",
+        "Exploration",
+        "Unique",
+        "Nostalgia",
+        "Inspiring Journeys",
+        "Historical Fashion",
+        "Eclectic",
+        "Wanderlust"
+    ],
+    "negative": [
+        "Outdated",
+        "Old-fashioned",
+        "Overloaded",
+        "Disorganized",
+        "Uncomfortable",
+        "Impractical",
+        "Excessive",
+        "Dated",
+        "Mismatched",
+        "Restrictive",
+        "Cluttered",
+        "Obsolete",
+        "Inefficient",
+        "Outmoded",
+        "Discarded"
+    ]
+}

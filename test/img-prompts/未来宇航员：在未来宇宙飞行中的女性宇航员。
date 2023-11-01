@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Futuristic Space Suit",
+        "Cyberpunk Aesthetic",
+        "Advanced Technology",
+        "Neon Color Palette",
+        "Sleek Design",
+        "Urban Environment",
+        "Holographic Interface",
+        "Robotic Companion",
+        "Futuristic Transportation",
+        "Astronaut Teamwork",
+        "Mission Control",
+        "Innovative Gadgets",
+        "Sci-Fi Cityscape",
+        "Confident Pose",
+        "Exploration",
+        "Trailblazer"
+    ],
+    "negative": [
+        "Post-Apocalyptic Scene",
+        "Dark and Gritty Atmosphere",
+        "Destroyed Infrastructure",
+        "Broken Machinery",
+        "Abandoned Facilities",
+        "Toxic Waste",
+        "Surveillance Cameras",
+        "Loneliness",
+        "Desolate Landscape",
+        "Corrupted Data",
+        "System Malfunction",
+        "Dystopian Overtones",
+        "Crumbling Architecture",
+        "Oppressive Regime",
+        "Hacker Threat",
+        "Underground Bunker",
+        "Chaos and Disorder",
+        "Resistance Movement"
+    ]
+}

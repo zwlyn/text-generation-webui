@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Classical Beauty",
+        "Grecian Urn",
+        "Marble Statue",
+        "Sculpted Forms",
+        "Eternal Artistry",
+        "Timeless Elegance",
+        "Agoras and Forums",
+        "Architectural Marvels",
+        "Parthenon Proportions",
+        "Ancient Aura",
+        "Temple Pediments",
+        "Athena's Gaze",
+        "Godlike Posture",
+        "Heroic Stances",
+        "Columned Entrances",
+        "Elysium Ambiance"
+    ],
+    "negative": [
+        "Weathered Relics",
+        "Faded Glory",
+        "Deserted Ruins",
+        "Abandoned Treasures",
+        "Neglected Sculptures",
+        "Overgrown Gardens",
+        "Shadowy Colonnades",
+        "Peeling Marble",
+        "Cracks in Time",
+        "Eroding Details",
+        "Tarnished Gold",
+        "Moss-Covered Masterpieces",
+        "Forgotten Frescoes",
+        "Dusty Bas-Reliefs",
+        "Fractured Pediments"
+    ]
+}

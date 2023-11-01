@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Amazon Warrior",
+        "Bravery",
+        "Beauty",
+        "Nature",
+        "Forest",
+        "Empowerment",
+        "Strength",
+        "Confidence",
+        "Fierce",
+        "Protection"
+    ],
+    "negative": [
+        "Weakness",
+        "Vulnerability",
+        "Danger",
+        "Threat",
+        "Fear",
+        "Suspense",
+        "Uncertainty",
+        "Risk",
+        "Insecurity"
+    ]
+}

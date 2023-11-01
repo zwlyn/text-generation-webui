@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Warm",
+        "Inviting",
+        "Love-Filled",
+        "Embracing",
+        "Cozy",
+        "Family Bonds",
+        "Heartwarming",
+        "Nurturing",
+        "Happy Memories",
+        "Tranquil Moments",
+        "Joyful Celebrations",
+        "Cherished Traditions",
+        "Laughter-Filled"
+    ],
+    "negative": [
+        "Cold",
+        "Desolate",
+        "Sadness",
+        "Rejection",
+        "Disharmony",
+        "Unhappy Memories",
+        "Discord",
+        "Anguish",
+        "Broken Bonds",
+        "Painful Separation",
+        "Melancholy Reflections",
+        "Regret"
+    ]
+}

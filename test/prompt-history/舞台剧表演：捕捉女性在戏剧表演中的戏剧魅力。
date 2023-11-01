@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Elegant",
+        "Dramatic Lighting",
+        "Expressive Faces",
+        "Rich Colors",
+        "Theatrical Costumes",
+        "Stage Makeup",
+        "Emotional Performances",
+        "Dynamic Movement",
+        "Engaging Narrative",
+        "Innovative Staging",
+        "Captivating Energy",
+        "Audience Engagement"
+    ],
+    "negative": [
+        "Overacting",
+        "Flat Performance",
+        "Monochromatic Palette",
+        "Simple Costumes",
+        "Naturalistic Makeup",
+        "Static Poses",
+        "Lack of Emotion",
+        "Muted Tones",
+        "Confusing Plot",
+        "Unimaginative Staging",
+        "Disengaged Audience",
+        "Dull Energy"
+    ]
+}

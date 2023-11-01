@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Animal Welfare",
+        "Conservationist",
+        "Nature Lover",
+        "Environmental Protection",
+        "Wildlife Preservation",
+        "Eco-Friendly",
+        "Green Activism",
+        "Sustainability",
+        "Biodiversity",
+        "Harmony with Nature",
+        "Responsible Stewardship",
+        "Natural Beauty",
+        "Endangered Species",
+        "Wildlife Sanctuary",
+        "Climate Action",
+        "Earth-Conscious",
+        "Saving the Planet"
+    ],
+    "negative": [
+        "Animal Cruelty",
+        "Environmental Destruction",
+        "Pollution",
+        "Overexploitation",
+        "Deforestation",
+        "Climate Change Denial",
+        "Unsustainable Practices",
+        "Industrial Pollution",
+        "Animal Testing",
+        "Exploitative Businesses",
+        " habitat Loss",
+        "Extinction",
+        "Ignorance Towards Nature",
+        "Careless Consumerism",
+        "Misuse of Natural Resources"
+    ]
+}

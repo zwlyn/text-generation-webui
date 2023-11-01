@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Adventurous",
+        "Daring",
+        "Exploratory",
+        "Nature Lover",
+        "Rugged",
+        "Resilient",
+        "Wilderness",
+        "Remote Locations",
+        "Outdoor Sports",
+        "Camping",
+        "Hiking",
+        "Kayaking",
+        "Mountain Biking",
+        "Survival Skills"
+    ],
+    "negative": [
+        "Hazardous",
+        "Dangerous",
+        "Isolated",
+        "Untamed",
+        "Unpredictable",
+        "Risky",
+        "Extreme Weather",
+        "Remote Locations",
+        "Threatening Wildlife",
+        "Inaccessible Areas"
+    ]
+}

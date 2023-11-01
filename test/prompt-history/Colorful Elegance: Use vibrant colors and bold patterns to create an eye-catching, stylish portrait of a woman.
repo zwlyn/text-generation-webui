@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Colorful",
+        "Elegant",
+        "Vibrant Colors",
+        "Bold Patterns",
+        "Stylish",
+        "Portrait",
+        "Woman",
+        "Fashionable",
+        "Chic",
+        "Beautiful",
+        "Glamorous"
+    ],
+    "negative": [
+        "Drab",
+        "Muted",
+        "Monotonous",
+        "Boring",
+        "Unfashionable",
+        "Unglamorous",
+        "Plain",
+        "Dull",
+        "Lackluster",
+        "Ordinary",
+        "Insignificant"
+    ]
+}

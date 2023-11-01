@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Astronaut Daily Life",
+        "Space Station Activities",
+        "Zero-G Environment",
+        "Extravehicular Activity (EVA)",
+        "Microgravity Experiments",
+        "Cosmic Views",
+        "Innovative Technologies",
+        "Teamwork and Cooperation",
+        "Scientific Discovery",
+        "Preparing for Launch",
+        "Return to Earth",
+        "Adventurous Spirit"
+    ],
+    "negative": [
+        "Isolation",
+        "Limited Personal Space",
+        "Rigorous Training",
+        "Mental Stress",
+        "Long Work Hours",
+        "Physical Challenges",
+        "Unpredictable Schedule",
+        "Danger and Risk",
+        "Confined Spaces",
+        "Monotonous Tasks"
+    ]
+}

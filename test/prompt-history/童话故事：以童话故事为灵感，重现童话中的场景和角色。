@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Fairy Tale",
+        "Magical Forest",
+        "Princess",
+        "Castle",
+        "Kingdom",
+        "Enchanted",
+        "Mysterious Creatures",
+        "Charming",
+        "Whimsical",
+        "Adventure",
+        "Dragon",
+        "Magic Spell",
+        "Fantastical Landscapes",
+        "Legendary Heroes",
+        "Epic Journey",
+        "Quest for Knowledge",
+        "Mythological Beings",
+        "Wondrous Discoveries"
+    ],
+    "negative": [
+        "Gloomy Forest",
+        "Abandoned Castle",
+        "Forgotten Kingdom",
+        "Cursed",
+        "Ominous Creatures",
+        "Dreary",
+        "Unsettling Whimsy",
+        "Perilous Adventure",
+        "Terrible Dragon",
+        "Forbidden Magic",
+        "Desolate Landscapes",
+        "Fallen Heroes",
+        "Epic Failures",
+        "Doomed Journey",
+        "Ignorance",
+        "Buried Secrets",
+        "Unwanted Discoveries"
+    ]
+}

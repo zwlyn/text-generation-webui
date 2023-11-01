@@ -1,0 +1,27 @@
+{
+    "positive": [
+        "Confidence",
+        "Individuality",
+        "Empowerment",
+        "Elegance",
+        "Glamour",
+        "Artistic Expression",
+        "Feminine Mystique",
+        "Beauty",
+        "Sophistication",
+        "Aura",
+        "Charm",
+        "Radiance"
+    ],
+    "negative": [
+        "Insecurity",
+        "Vulnerability",
+        "Self-Doubt",
+        "Bashfulness",
+        "Uncertainty",
+        "Apprehension",
+        "Submission",
+        "Shyness",
+        "Wavering"
+    ]
+}

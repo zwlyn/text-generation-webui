@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Cowboy",
+        "Western",
+        "Frontier",
+        "Gunfighter",
+        "Ranch",
+        "Wild West",
+        "Saddlebags",
+        "Stetson",
+        "Spurs",
+        "Lasso",
+        "Colt",
+        "Winchester",
+        "Prairie",
+        "Dusty Trail",
+        "Train Robbery",
+        "Gold Rush",
+        "Cattle Drive"
+    ],
+    "negative": [
+        "Deserted",
+        "Abandoned",
+        "Bleak",
+        "Barren",
+        "Ruins",
+        "Scarred",
+        "Devastated",
+        "Forsaken",
+        "Lonesome",
+        "Ghost Town",
+        "Tumbleweeds",
+        "Dry Gultch",
+        "Withered",
+        "Mirage",
+        "Thirsty",
+        "Buried",
+        "Erased",
+        "Haunted"
+    ]
+}

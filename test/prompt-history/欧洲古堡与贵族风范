@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Elegant",
+        "Refined",
+        "Noble",
+        "Prestigious",
+        "Regal",
+        "Glamorous",
+        "Magnificent",
+        "Stately",
+        "Architectural Grandeur",
+        "Historical Significance",
+        "Cultured",
+        "Classic Elegance",
+        "Timeless Beauty",
+        "Sophisticated",
+        "Grandiose"
+    ],
+    "negative": [
+        "Decaying",
+        "Dilapidated",
+        "Forgotten",
+        "Abandoned",
+        "Neglected",
+        "Overgrown",
+        "Cracked",
+        "Peeling Paint",
+        "Broken Windows",
+        "Crumbling Facade",
+        "Derelict",
+        "Deserted",
+        "Urban Decay",
+        "Decrepit"
+    ]
+}

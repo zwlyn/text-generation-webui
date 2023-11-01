@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Urban Culture",
+        "Street Art",
+        "Graffiti",
+        "Artistic Expression",
+        "Fashionable",
+        "Eclectic",
+        "Diverse",
+        "Vibrant",
+        "Colorful",
+        "Empowering",
+        "Confident",
+        "Independent"
+    ],
+    "negative": [
+        "Poverty",
+        "Homelessness",
+        "Crime",
+        "Gang Activity",
+        "Urban Stress",
+        "Overcrowding",
+        "Loneliness",
+        "Discrimination",
+        "Inequality",
+        "Violence",
+        "Drugs",
+        "Alcoholism"
+    ]
+}

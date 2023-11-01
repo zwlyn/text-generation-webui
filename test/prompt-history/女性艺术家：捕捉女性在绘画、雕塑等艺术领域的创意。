@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Female Artist",
+        "Creative Expression",
+        "Innovative Designs",
+        "Colorful Palette",
+        "Imaginative Compositions",
+        "Bold Textures",
+        "Mixed Media",
+        "Found Objects",
+        "Recycled Materials",
+        "Sculptural Forms",
+        "Artistic Vision",
+        "Inspirational Themes"
+    ],
+    "negative": [
+        "Lack of Imagination",
+        "Boring Subject Matter",
+        "Monotonous Color Scheme",
+        "Uninspired Compositions",
+        "Flat Textures",
+        "Single-Media Focus",
+        "Overused Materials",
+        "Limited Techniques",
+        "Simple Forms",
+        "Lack of Vision",
+        "Cliched Themes"
+    ]
+}

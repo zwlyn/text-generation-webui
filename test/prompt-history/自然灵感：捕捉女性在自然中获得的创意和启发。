@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Organic shapes",
+        "Nature-inspired textures",
+        "Vibrant colors",
+        "Floral patterns",
+        "Wildlife motifs",
+        "Forest canopies",
+        "Sunlight filtering through leaves",
+        "Rippling water",
+        "Mountain vistas",
+        "Blooming flowers",
+        "Dancing foliage",
+        "Soft pastels",
+        "Natural tones",
+        "Seashore serenity",
+        "Sunset hues",
+        "Cascading waterfalls",
+        "Rolling hills",
+        "Babbling brooks"
+    ],
+    "negative": [
+        "Urban chaos",
+        "Concrete jungle",
+        "Traffic congestion",
+        "Pollution haze",
+        "Overcrowded spaces",
+        "Graffiti-covered walls",
+        "Abandoned structures",
+        "Dark alleyways",
+        "Trash-filled streets",
+        "Rusted metal",
+        "Broken glass",
+        "Vandalized property",
+        "Loud noise pollution",
+        "Deserted industrial zones",
+        "Decaying infrastructure"
+    ]
+}

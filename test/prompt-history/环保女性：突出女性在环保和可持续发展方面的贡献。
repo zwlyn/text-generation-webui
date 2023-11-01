@@ -1,0 +1,24 @@
+{
+    "positive": [
+        "Eco-Warrior",
+        "Sustainable Fashion",
+        "Nature Lover",
+        "Green Innovation",
+        "Organic Living",
+        "Climate Activist",
+        "Renewable Energy Advocate",
+        "Recycling Pioneer",
+        "Environmental Entrepreneur"
+    ],
+    "negative": [
+        "Pollution",
+        "Deforestation",
+        "Overconsumption",
+        "Wasteful Lifestyle",
+        "Carbon Footprint",
+        "Resource Depletion",
+        "Habitat Destruction",
+        "Climate Change Denial",
+        "Energy Waste"
+    ]
+}

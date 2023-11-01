@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Sheep herder",
+        "Grazing animals",
+        "Rural life",
+        "Pastoral scene",
+        "Idyllic landscape",
+        "Nature-loving",
+        "Country living",
+        "Serene environment",
+        "Sustainable lifestyle",
+        "Peaceful existence",
+        "Family-oriented",
+        "Community bonds",
+        "Traditional practices",
+        "Handmade crafts",
+        "Healthy diet",
+        "Self-sufficiency",
+        "Green pastures"
+    ],
+    "negative": [
+        "Harsh conditions",
+        "Isolation and solitude",
+        "Limited resources",
+        "Unpredictable weather",
+        "Dangerous animals",
+        "Physically demanding work",
+        "Long hours",
+        "Existential challenges",
+        "Financial struggles",
+        "Technological limitations",
+        "Remote location",
+        "Boring routine",
+        "Poverty-stricken",
+        "Lack of modern conveniences"
+    ]
+}

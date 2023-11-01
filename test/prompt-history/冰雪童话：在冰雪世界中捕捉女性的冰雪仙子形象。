@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Magical",
+        "Enchanting",
+        "Whimsical",
+        "Frozen",
+        "Icicle",
+        "Snowflake",
+        "Winter Wonderland",
+        "Crystal Clear",
+        "Ethereal",
+        "Silvery",
+        "Dreamy",
+        "Glistening",
+        "Mysterious",
+        "Shimmering"
+    ],
+    "negative": [
+        "Melting",
+        "Thawing",
+        "Warmth",
+        "Summer",
+        "Sunlight",
+        "Fading",
+        "Transient",
+        "Evanescent",
+        "Unstable",
+        "Vanishing",
+        "Temporary",
+        "Illusory"
+    ]
+}

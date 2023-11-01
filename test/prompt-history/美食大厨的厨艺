@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Culinary Masterpiece",
+        "Gourmet Kitchen",
+        "Cooking Techniques",
+        "Flavorful Creations",
+        "Sophisticated Plating",
+        "Innovative Presentations",
+        "Healthy Cooking",
+        "Bold Flavors",
+        "Exotic Ingredients",
+        "Vibrant Dishes"
+    ],
+    "negative": [
+        "Burned Food",
+        "Messy Kitchen",
+        "Overcooked Meals",
+        "Lack of Flavor",
+        "Unappealing Presentation",
+        "Culinary Disaster",
+        "Uneven Cooking",
+        "Food Waste",
+        "Mismatched Ingredients",
+        "Inedible Dishes"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "positive": [
+        "Elegant",
+        "Sophisticated",
+        "Classic",
+        "Timeless",
+        "Charming",
+        "Confident",
+        "Refined",
+        "Stylish",
+        "Dignified",
+        "Distinguished",
+        "Gentlemanly",
+        "Poised",
+        "Regal",
+        "Stately",
+        "Noble",
+        "Honorable",
+        "Magnificent",
+        "Impressive"
+    ],
+    "negative": [
+        "Disheveled",
+        "Unkempt",
+        "Scruffy",
+        "Boorish",
+        "Crass",
+        "Loud",
+        "Tasteless",
+        "Brash",
+        "Vulgar",
+        "Rude",
+        "Uncouth",
+        "Rowdy",
+        "Careless",
+        "Clumsy",
+        "Inelegant",
+        "Ungentlemanly",
+        "Unrefined",
+        "Inappropriate"
+    ]
+}

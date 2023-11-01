@@ -1,0 +1,18 @@
+{
+    "positive": [
+        "Gourmet",
+        "Culinary Artistry",
+        "Masterful Cooking",
+        "Exquisite Flavors",
+        "Delightful Presentation",
+        "Skillful Techniques"
+    ],
+    "negative": [
+        "Overindulgence",
+        "Gluttony",
+        "Unhealthy Options",
+        "Excessive Sweets",
+        "Poor Nutrition",
+        "Lack of Balance"
+    ]
+}

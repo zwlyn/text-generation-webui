@@ -1,0 +1,24 @@
+{
+    "positive": [
+        "Mysterious Planet",
+        "Female Adventurer",
+        "Brave Explorer",
+        "Interstellar Travel",
+        "Alien Landscape",
+        "Unknown Species",
+        "Cutting-Edge Technology",
+        "Intelligent Lifeforms",
+        "Extraordinary Discoveries"
+    ],
+    "negative": [
+        "Loneliness",
+        "Dangerous Creatures",
+        "Harsh Climate",
+        "Remote Location",
+        "Language Barrier",
+        "Alienation",
+        "Uncharted Territory",
+        "Isolated Incident",
+        "Hostile Environment"
+    ]
+}

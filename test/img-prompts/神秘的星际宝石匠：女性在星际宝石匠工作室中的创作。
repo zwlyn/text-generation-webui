@@ -1,0 +1,22 @@
+{
+    "positive": [
+        "Futuristic",
+        "Masculine",
+        "Neon Lights",
+        "Sleek",
+        "Urban Landscape",
+        "Holographic",
+        "Cybernetic Enhancements",
+        "Cool",
+        "Metallic",
+        "Glowing",
+        "Exotic"
+    ],
+    "negative": [
+        "Dark Alley",
+        "Grimy",
+        "Broken Technology",
+        "Pollution",
+        "Surveillance"
+    ]
+}

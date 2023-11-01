@@ -1,0 +1,27 @@
+{
+    "positive": [
+        "Graceful Movements",
+        "Strength",
+        "Flexibility",
+        "Fluidity",
+        "Balance",
+        "Coordination",
+        "Rhythm",
+        "Power",
+        "Emotion",
+        "Storytelling",
+        "Expressive Face",
+        "Dramatic Lighting"
+    ],
+    "negative": [
+        "Stumbling",
+        "Clumsy Movements",
+        "Tension",
+        "Rigidity",
+        "Lack of Coordination",
+        "Unbalanced Posture",
+        "Missed Beats",
+        "Expressionless Face",
+        "Flat Lighting"
+    ]
+}

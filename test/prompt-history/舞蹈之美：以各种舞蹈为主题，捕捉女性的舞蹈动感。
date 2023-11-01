@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Elegant",
+        "Graceful",
+        "Feminine",
+        "Flowing",
+        "Dance Moves",
+        "Choreography",
+        "Ballet",
+        "Jazz",
+        "Tap Dance",
+        "Contemporary",
+        "Ballroom",
+        "Salsa",
+        "Hip-hop"
+    ],
+    "negative": [
+        "Clumsy",
+        "Uncoordinated",
+        "Falling",
+        "Stumbling",
+        "Out of Rhythm",
+        "Disjointed Moves",
+        "Mismatched Dance Steps",
+        "Confused Choreography",
+        "Injured Dancer",
+        "Failed Dance Attempts",
+        "Audience Booing"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "positive": [
+        "Rainforest",
+        "Lush Greenery",
+        "Exotic Flora and Fauna",
+        "Steamy Atmosphere",
+        "Bright Colors",
+        "Tropical Wildlife",
+        "Verdant Canopy",
+        "Mysterious Trails",
+        "Ancient Ruins",
+        "Primeval Sounds"
+    ],
+    "negative": [
+        "Dense Mist",
+        "Slippery Paths",
+        "Poisonous Plants",
+        "Swarming Insects",
+        "Thick Undergrowth",
+        "Treacherous Terrain",
+        "Hidden Dangers",
+        "Uncharted Territory"
+    ]
+}

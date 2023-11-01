@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Performance",
+        "Theater Actor",
+        "Expressive",
+        "Dramatic Lighting",
+        "Emotion",
+        "Engaging",
+        "Storytelling",
+        "Characters",
+        "Costumes",
+        "Makeup",
+        "Stage Presence",
+        "Live Performance",
+        "Audience Interaction"
+    ],
+    "negative": [
+        "Amateurish",
+        "Off-Putting",
+        "Confusing",
+        "Overacting",
+        "Disjointed",
+        "Misplaced Emphasis",
+        "Unconvincing",
+        "Lack of Focus",
+        "Incoherent Plot"
+    ]
+}

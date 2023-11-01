@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Rhythmic",
+        "Harmonic",
+        "Melodic",
+        "Synchronized",
+        "Dynamic",
+        "Vibrant",
+        "Energetic",
+        "Resonating",
+        "Symphonic",
+        "Harmonious",
+        "In sync",
+        "Fluent",
+        "Flowing",
+        "Crescendo",
+        "Decrescendo",
+        "Orchestral",
+        "Choral",
+        "Soloist"
+    ],
+    "negative": [
+        "Discordant",
+        "Off-Key",
+        "Cacophonous",
+        "Asynchronous",
+        "Static",
+        "Monotonous",
+        "Lacking Energy",
+        "Dissonant",
+        "Fragmented",
+        "Atonal",
+        "Mismatched",
+        "Disjointed",
+        "Hesitant",
+        "Unbalanced",
+        "Decrescendo",
+        "Anticlimactic"
+    ]
+}

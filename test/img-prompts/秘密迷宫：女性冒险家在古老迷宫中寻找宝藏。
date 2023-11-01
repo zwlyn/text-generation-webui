@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Ancient",
+        "Mysterious",
+        "Female Explorer",
+        "Treasure Hunt",
+        "Crypts",
+        "Labyrinth",
+        "Enchanted",
+        "Hidden Corridors",
+        "Secret Chambers",
+        "Artifacts",
+        "Relics",
+        "Magic"
+    ],
+    "negative": [
+        "Dangerous Traps",
+        "Haunted Halls",
+        "Eerie Sounds",
+        "Flickering Shadows",
+        "Creeping Vines",
+        "Crumbling Walls",
+        "Unstable Structures",
+        "Rotting Furniture"
+    ]
+}

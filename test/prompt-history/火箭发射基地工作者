@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Sci-Fi",
+        "Futuristic",
+        "High-Tech",
+        "Modern",
+        "Innovative",
+        "Efficient",
+        "Advanced",
+        "Clean",
+        "Neon Lights",
+        "Robotics",
+        "AI Assistants",
+        "Smart Devices",
+        "Sleek Designs"
+    ],
+    "negative": [
+        "Dilapidated",
+        "Outdated",
+        "Inefficient",
+        "Disorganized",
+        "Polluted",
+        "Overcrowded",
+        "Dangerous",
+        "Risky Experimentation",
+        "Uncontrolled Growth",
+        "Corruption",
+        "Neglected Infrastructure"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Culinary Expertise",
+        "Flavorful Cooking",
+        "Gourmet Foodie",
+        "Cooking Mastery",
+        "Delicious Creations",
+        "Kitchen Wizardry",
+        "Savory Fare",
+        "Tasty Delights",
+        "Palate Pleaser",
+        "Bon Appetit",
+        "Culinary Artistry",
+        "Food Porn",
+        "Edible Elegance",
+        "Gastronomic Genius",
+        "Mouthwatering Meals",
+        "Haute Cuisine",
+        "Sensual Flavors"
+    ],
+    "negative": [
+        "Burnt Food",
+        "Unappetizing Dish",
+        "Bad Cook",
+        "Messy Kitchen",
+        "Overcooked Meal",
+        "Tasteless Meals",
+        "Hungry Chef",
+        "Empty Plate",
+        "Failed Recipe",
+        "Food Poisoning",
+        "Kitchen Chaos",
+        "Cooking Disaster",
+        "Bland Flavors",
+        "Culinary Calamity",
+        "Unsavory Cuisine",
+        "Rejected Meal",
+        "Hungry Patrons",
+        "Unimpressive Cook"
+    ]
+}

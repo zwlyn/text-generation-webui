@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Female Chef",
+        "Urban Kitchen",
+        "Cooking Skills",
+        "Gourmet Food",
+        "Modern Cookware",
+        "Stylish Recipes",
+        "Sleek Appliances",
+        "Innovative Techniques",
+        "Colorful Ingredients",
+        "Healthy Meals",
+        "Fusion Cuisine",
+        "Elegant Presentation",
+        "Artistic Plating",
+        "Seasonal Produce",
+        "Locally Sourced",
+        "Sustainable Practices"
+    ],
+    "negative": [
+        "Messy Kitchen",
+        "Burned Food",
+        "Failed Recipes",
+        "Outdated Appliances",
+        "Unhealthy Meals",
+        "Overcooked Dishes",
+        "Lack of Creativity",
+        "Monotonous Ingredients",
+        "Crowded Dining Area",
+        "Unfashionable Cookware",
+        "Inefficient Techniques",
+        "Bland Flavors"
+    ]
+}

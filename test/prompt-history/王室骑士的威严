@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Regal",
+        "Masculine",
+        "Authoritative",
+        "Noble",
+        "Elegant",
+        "Graceful",
+        "Honorable",
+        "Confident",
+        "Prestigious",
+        "Powerful",
+        "Dignified",
+        "Distinguished",
+        "Imposing",
+        "Refined",
+        "Leader"
+    ],
+    "negative": [
+        "Inferiority Complex",
+        "Weak",
+        "Unconfident",
+        "Undeserving",
+        "Snobbish",
+        "Arrogant",
+        "Overbearing",
+        "Pretentious",
+        "Disrespectful",
+        "Tyrannical",
+        "Oppressive",
+        "Elitist",
+        "Cold-Hearted",
+        "Haughty",
+        "Dictatorial"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Cyberpunk",
+        "Futuristic Design",
+        "Cutting-Edge Technology",
+        "Neon Lights",
+        "Holographic Displays",
+        "Urban Landscape",
+        "Sleek Shapes",
+        "Dystopian Cityscapes",
+        "Sci-Fi Elements",
+        "Virtual Reality Environments",
+        "High-Tech Gadgets",
+        "Futuristic Fashion Trends",
+        "Cybernetic Integration",
+        "Metallic Accents",
+        "Glowing Details",
+        "Exotic Materials",
+        "Urban Exploration"
+    ],
+    "negative": [
+        "Post-Apocalyptic Feel",
+        "Dark Ambiance",
+        "Retrofuturism",
+        "Abandoned Technology",
+        "Shadowy Corners",
+        "Polluted Atmosphere",
+        "Surveillance Cameras",
+        "Deserted Streets",
+        "Isolated Individuals",
+        "Eerie Silence",
+        "Technological Malfunction",
+        "Dystopian Dystopia",
+        "Ruined Urban Spaces",
+        "Corporate Oppression",
+        "Hackers and Crackers",
+        "Underground Worlds",
+        "Chaotic Scenes",
+        "Resistance Movements"
+    ]
+}

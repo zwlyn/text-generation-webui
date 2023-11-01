@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Aries Constellation",
+        "Taurus Constellation",
+        "Gemini Constellation",
+        "Cancer Constellation",
+        "Leo Constellation",
+        "Virgo Constellation",
+        "Libra Constellation",
+        "Scorpio Constellation",
+        "Sagittarius Constellation",
+        "Capricorn Constellation",
+        "Aquarius Constellation",
+        "Pisces Constellation"
+    ],
+    "negative": [
+        "Dark Sky",
+        "Hidden Stars",
+        "Cloudy Night",
+        "Urban Light Pollution",
+        "Obscured View",
+        "Far Away",
+        "Invisible",
+        "Unreachable"
+    ]
+}

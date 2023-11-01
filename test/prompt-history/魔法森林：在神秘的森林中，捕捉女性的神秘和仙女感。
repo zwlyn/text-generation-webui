@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Enchanted",
+        "Magical",
+        "Mysterious",
+        "Whimsical",
+        "Charming",
+        "Fantastical",
+        "Forest",
+        "Nature",
+        "Spells",
+        "Sorcery",
+        "Creatures",
+        "Fairy Tale",
+        "Lore",
+        "Legends"
+    ],
+    "negative": [
+        "Darkness",
+        "Gloom",
+        "Shadows",
+        "Unseen Dangers",
+        "Haunted",
+        "Unexplained",
+        "Isolation",
+        "Despair",
+        "Secrets",
+        "Hidden Threats",
+        "Fear",
+        "Apprehension",
+        "Suspense"
+    ]
+}

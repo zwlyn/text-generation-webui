@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Aquatic Ambiance",
+        "Marine Life",
+        "Underwater World",
+        "Futuristic Aquarium",
+        "Ocean Creatures",
+        "Spectacular Fish",
+        "Vibrant Corals",
+        "Innovative Technology",
+        "Immersive Experience",
+        "Dreamlike Atmosphere",
+        "Neon Glow",
+        "Enchanted Lighting",
+        "Magical Touch",
+        "Breathtaking Views",
+        "Spectacular Vistas",
+        "Mesmerizing Scenes",
+        "Captivating Details"
+    ],
+    "negative": [
+        "Abandoned Aquarium",
+        "Forgotten Exhibits",
+        "Dark Waters",
+        "Lifeless Creatures",
+        "Broken Tanks",
+        "Rusty Pipes",
+        "Decaying Structure",
+        "Murky Water",
+        "Desolate Atmosphere",
+        "Faded Neon Signs",
+        "Dimly Lit Corridors",
+        "Neglected Technology",
+        "Dreary Experience",
+        "Gloomy Views",
+        "Somber Vistas",
+        "Depressing Scenes",
+        "Melancholy Details"
+    ]
+}

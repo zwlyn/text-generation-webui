@@ -1,0 +1,27 @@
+{
+    "positive": [
+        "Historical Reenactment",
+        "Female Empowerment",
+        "Period Costumes",
+        "Authentic Props",
+        "Classic Scenes",
+        "Dramatic Lighting",
+        "Storytelling",
+        "Important Moments",
+        "Inspirational Women",
+        "Education",
+        "Glamour Shots"
+    ],
+    "negative": [
+        "Cultural Misrepresentation",
+        "Stereotyping",
+        "Inaccurate Portrayal",
+        "Lack of Context",
+        "Superficial Depiction",
+        "Exploitation",
+        "Oversimplification",
+        "Misinterpretation",
+        "Biased Perspective",
+        "Overdramatization"
+    ]
+}

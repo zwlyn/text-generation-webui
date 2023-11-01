@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Western",
+        "Cowboy Hats",
+        "Boots",
+        "Spurs",
+        "Ranchers",
+        "Wild West",
+        "Saddles",
+        "Lassos",
+        "Horses",
+        "Dusty Trails",
+        "Saloon Brawls",
+        "Gunfights",
+        "Poker Games"
+    ],
+    "negative": [
+        "Modern Life",
+        "Skyscrapers",
+        "Traffic Jams",
+        "Smartphones",
+        "Fast Food",
+        "Gang Violence",
+        "Crime Rate"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Rustic",
+        "Idyllic",
+        "Feminine",
+        "Natural Light",
+        "Organic Textures",
+        "Soft Focus",
+        "Pastel Colors",
+        "Seasonal Elements",
+        "Vintage Atmosphere",
+        "Slow Shutter Speed"
+    ],
+    "negative": [
+        "Urban",
+        "Harsh Lighting",
+        "Angular Lines",
+        "Concrete Texture",
+        "High Contrast",
+        "Monochromatic Palette",
+        "Hard Focus",
+        "Modern Architecture",
+        "Fast Shutter Speed"
+    ]
+}

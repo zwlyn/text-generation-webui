@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Sailing Adventure",
+        "Ocean Beauty",
+        "Feminine Elegance",
+        "Maritime Chic",
+        "Seaside Glamour",
+        "Nautical Inspired",
+        "Wave Patterns",
+        "Beach Vibes",
+        "Sun-Kissed Skin",
+        "Coral Hues",
+        "Shipwreck Stories",
+        "Treasure Hunts"
+    ],
+    "negative": [
+        "Sea Sickness",
+        "Stormy Waters",
+        "Rough Seas",
+        "Salty Spray",
+        "Navigational Challenges",
+        "Sunburns",
+        "Beach Trash",
+        "Overcrowded Shores",
+        "Expensive Yacht Clubs",
+        "Sea Pollution",
+        "Coral Bleaching"
+    ]
+}

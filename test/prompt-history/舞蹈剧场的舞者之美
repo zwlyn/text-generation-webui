@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Graceful",
+        "Elegant",
+        "Artistic",
+        "Dance Performance",
+        "Ballet",
+        "Contemporary Dance",
+        "Jazz Dance",
+        "Urban Dance",
+        "Dynamic Movement",
+        "Expressive Emotions",
+        "Choreography",
+        "Stage Lighting",
+        "Costumes and Accessories",
+        "Theatre Atmosphere",
+        "Dramatic Perspective",
+        "Captivating"
+    ],
+    "negative": [
+        "Out of Rhythm",
+        "Clumsy Moves",
+        "Uncoordinated",
+        "Off-Balance",
+        "Disjointed Choreography",
+        "Overacting",
+        "Inappropriate Costumes",
+        "Excessive Stage Makeup",
+        "Harsh Lighting",
+        "Bad Acoustics",
+        "Confusing Set Design"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Airborne Adventure",
+        "Female Daredevil",
+        "Thermal Balloon",
+        "Glider",
+        "Cloudscape",
+        "Skyward Journey",
+        "Bucket List Moment",
+        "Serenity",
+        "Breathtaking Views",
+        "Awe-Inspiring",
+        "Freedom",
+        "Graceful Flight",
+        "Adventurous Spirit",
+        "Nature's Wonders",
+        "Majestic Skies"
+    ],
+    "negative": [
+        "Falling",
+        "Terrified Screams",
+        "Wind Turbulence",
+        "Altitude Sickness",
+        "Crash Landing",
+        "Glider Malfunction",
+        "Thermal Balloon Accident",
+        "Rough Skies",
+        "Fear of Heights",
+        "Lost in the Clouds",
+        "Vomit Comet",
+        "Air Pocket",
+        "Stuck in Turbulence"
+    ]
+}

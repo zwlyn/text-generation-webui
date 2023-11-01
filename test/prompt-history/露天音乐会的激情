@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Outdoor Concert",
+        "Stage Performance",
+        "Urban",
+        "Futuristic Style",
+        "Neon Lights",
+        "High-Tech Equipment",
+        "Vibrant Atmosphere",
+        "Dancer and Model",
+        "Emotional Energy",
+        "Expressive Fashion",
+        "Dramatic Lighting",
+        "Excitement",
+        "Engaging Performances",
+        "Inspiring Setting"
+    ],
+    "negative": [
+        "Bad Weather",
+        "Lack of Crowd Engagement",
+        "Unprepared Stage",
+        "Low-Tech Equipment",
+        "Dull Atmosphere",
+        "Ineffective Lighting",
+        "Inadequate Sound Quality",
+        "Disengaged Performers",
+        "Boring Fashion",
+        "Lack of Emotion",
+        "Uninspired Setting"
+    ]
+}

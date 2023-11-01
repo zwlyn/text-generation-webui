@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Frozen",
+        "Icicles",
+        "Snowflakes",
+        "Winter Wonderland",
+        "Crystal Clear",
+        "Chilling",
+        "Ethereal",
+        "Mystical",
+        "Magical",
+        "Glistening",
+        "Dazzling",
+        "Shimmering",
+        "Enchanting",
+        "Silhouette",
+        "Frosty",
+        "Breathtaking",
+        "Captivating",
+        "Arctic Beauty"
+    ],
+    "negative": [
+        "Biting Cold",
+        "Frozen Solid",
+        "Slippery Ice",
+        "Blizzard Conditions",
+        "Chilling Wind",
+        "Icy Glare",
+        "Cold Shoulder",
+        "Stone-Cold Heart",
+        "Frigid Embrace",
+        "Frostbite",
+        "Brrrr",
+        "Shivering",
+        "Numb Fingers",
+        "Toes Like Popsicles"
+    ]
+}

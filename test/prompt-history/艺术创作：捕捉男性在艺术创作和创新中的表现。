@@ -1,0 +1,24 @@
+{
+    "positive": [
+        "Creative Genius",
+        "Inspirational Visionary",
+        "Masterful Technique",
+        "Colorful Expression",
+        "Emotional Depth",
+        "Artistic Synergy",
+        "Bold Experimentation",
+        "Driven Passion",
+        "Timeless Appeal"
+    ],
+    "negative": [
+        "Creative Block",
+        "Uninspired Drought",
+        "Technical Hurdles",
+        "Artistic Disconnect",
+        "Critical Doubt",
+        "Lacking Originality",
+        "Overwhelming Pressure",
+        "Self-Doubt",
+        "Fading Inspiration"
+    ]
+}

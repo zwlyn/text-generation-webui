@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Electric Guitar",
+        "Music Instrument",
+        "Drum Set",
+        "Guitar Amplifier",
+        "Stage Lighting",
+        "Musical Notes",
+        "Vocal Microphone",
+        "Recording Studio",
+        "Headphones",
+        "Turntables",
+        "DJ Booth",
+        "Bass Guitar",
+        "Saxophone",
+        "Trumpet",
+        "Piano",
+        "Keyboard"
+    ],
+    "negative": [
+        "Abandoned Concert Hall",
+        "Unused Instruments",
+        "Broken Amplifier",
+        "Peeling Poster",
+        "Empty Stage",
+        "Silent Orchestra Pit",
+        "Rusty Metronome",
+        "Dusty Sheet Music",
+        "Closed Venue",
+        "Locked Rehearsal Space",
+        "Deserted Jazz Club",
+        "Vandalized Graffiti"
+    ]
+}

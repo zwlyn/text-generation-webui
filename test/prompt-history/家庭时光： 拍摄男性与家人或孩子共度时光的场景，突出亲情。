@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Family Time",
+        "Love",
+        "Caring",
+        "Nurturing",
+        "Bonding Moments",
+        "Quality Time",
+        "Togetherness",
+        "Memories",
+        "Happiness",
+        "Joyful Times",
+        "Emotional Connection",
+        "Sharing Experiences",
+        "Precious Moments",
+        "Playful Interactions",
+        "Fun Activities",
+        "Laughter"
+    ],
+    "negative": [
+        "Abandonment",
+        "Loneliness",
+        "Sadness",
+        "Longing",
+        "Separation Anxiety",
+        "Disconnection",
+        "Emotional Distance"
+    ]
+}

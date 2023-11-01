@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Elegant",
+        "Artistic",
+        "Gallery",
+        "Exhibition",
+        "Museum",
+        "Refined",
+        "Creative",
+        "Innovative",
+        "Aesthetic",
+        "Curated",
+        "Immersive",
+        "Interactive",
+        "Engaging",
+        "Stimulating",
+        "Contemporary",
+        "Dynamic"
+    ],
+    "negative": [
+        "Dark",
+        "Somber",
+        "Gloomy",
+        "Cluttered",
+        "Claustrophobic",
+        "Disorganized",
+        "Uninspiring",
+        "Monotonous",
+        "Confining",
+        "Stale",
+        "Apathetic",
+        "Mundane"
+    ]
+}

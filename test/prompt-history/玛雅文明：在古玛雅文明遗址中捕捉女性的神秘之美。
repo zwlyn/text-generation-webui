@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Ancient Maya",
+        "Mysterious Aura",
+        "Timeless Beauty",
+        "Crystal Skulls",
+        "Lush Jungles",
+        "Sacred Temples",
+        "Maya Script",
+        "Aztec Influence",
+        "Shamanic Rituals",
+        "Solar Calendar",
+        "Tikal National Park",
+        "Chichen Itza",
+        "Uxmal",
+        "Palenque",
+        "Copan"
+    ],
+    "negative": [
+        "Deforestation",
+        "Archeological Destruction",
+        "Looting of Artifacts",
+        "Exploitation of Local People",
+        "Unsustainable Tourism",
+        "Disrespectful Behavior",
+        "Cultural Misappropriation",
+        "Graffiti on Ancient Walls"
+    ]
+}

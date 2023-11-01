@@ -1,0 +1,43 @@
+{
+    "positive": [
+        "Urban Futurism",
+        "Sleek Designs",
+        "Advanced Technologies",
+        "Futuristic Attire",
+        "Neon Atmosphere",
+        "High-Tech Equipment",
+        "Modern Infrastructure",
+        "Digital Holograms",
+        "Cybernetic Integration",
+        "Efficient Workspace",
+        "Innovative Solutions",
+        "Sci-Fi Aesthetics",
+        "Immersive Virtuality",
+        "Advanced Grooming",
+        "Metallic Accents",
+        "Glowing Ambiance",
+        "Exotic Textures",
+        "Urban Exploration",
+        "Tech-Savvy"
+    ],
+    "negative": [
+        "Dark Alleys",
+        "Crumbling Facades",
+        "Malfunctioning Gadgets",
+        "Air Pollution",
+        "Overcrowded Spaces",
+        "Corroded Metal",
+        "Abandoned Laboratories",
+        "Surveillance Cameras",
+        "Isolated Workers",
+        "Deserted Corridors",
+        "Cyber Espionage",
+        "System Malfunction",
+        "Dystopian Reality",
+        "Ruined Urban Landscape",
+        "Graffiti Stained Walls",
+        "Urban Decay",
+        "Resistance Movement",
+        "Chaos and Disorder"
+    ]
+}

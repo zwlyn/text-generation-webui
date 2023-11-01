@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Military Precision",
+        "Strength in Unity",
+        "Courageous Leadership",
+        "Innovative Warfare",
+        "Resilient Defense",
+        "Teamwork Spirit",
+        "Victorious Moments",
+        "Honor and Dignity",
+        "Comradeship",
+        "Advanced Weaponry",
+        "Tactical Brilliance",
+        "Fearless Confidence",
+        "Strategic Planning",
+        "Adaptability",
+        "Loyalty"
+    ],
+    "negative": [
+        "Warfare Destruction",
+        "Loss and Sorrow",
+        "Desperate Battles",
+        "Disastrous Consequences",
+        "Collateral Damage",
+        "Morale Breakers",
+        "Deception and Betrayal",
+        "Unjust Aggression",
+        "Chaotic Engagements",
+        "Erroneous Strategies",
+        "Fear and Panic",
+        "Inevitable Defeat",
+        "Bloodshed",
+        "Trauma",
+        "Hopelessness"
+    ]
+}

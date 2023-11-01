@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Futuristic",
+        "Masculine",
+        "Magical",
+        "School Life",
+        "Friendly",
+        "Inspiring",
+        "Colorful",
+        "Whimsical",
+        "Adventure",
+        "Positive Energy",
+        "Encouraging",
+        "Supportive",
+        "Teamwork",
+        "Success",
+        "Confidence",
+        "Creative",
+        "Harmony"
+    ],
+    "negative": [
+        "Dystopian",
+        "Gloomy",
+        "Despair",
+        "Isolation",
+        "Loneliness",
+        "Oppressive",
+        "Somber",
+        "Monochromatic",
+        "Discouraging",
+        "Negative Energy",
+        "Pessimistic",
+        "Unfriendly",
+        "Indifferent",
+        "Anxiety",
+        "Struggle",
+        "Hardship",
+        "Dark"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Elegant",
+        "Stylish",
+        "Glamorous",
+        "Sophisticated",
+        "Chic",
+        "Urban Equestrian",
+        "Refined",
+        "Classy",
+        "Upbeat",
+        "Youthful",
+        "Horses",
+        "Riding Boots",
+        "Tailored Suits",
+        "Fashionable Hats",
+        "Jodhpurs",
+        "Polo Shirts",
+        "English Saddles"
+    ],
+    "negative": [
+        "Gritty",
+        "Dirty",
+        "Dark Alley",
+        "Unkept Stables",
+        "Urban Decay",
+        "Abandoned Riding Gear",
+        "Sloppy Appearance",
+        "Disheveled Hair",
+        "Unkempt Beard",
+        "Worn-Out Clothes",
+        "Faded Logos",
+        "Tattered Saddles",
+        "Broken Bridles",
+        "Cracked Boots",
+        "Rusty Spurs",
+        "Dull Blades"
+    ]
+}

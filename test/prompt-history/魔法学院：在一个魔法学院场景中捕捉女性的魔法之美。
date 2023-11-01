@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Magical Academy",
+        "Spellbinding",
+        "Enchanting",
+        "Witchcraft",
+        "Mysterious",
+        "Sorcery",
+        "Supernatural",
+        "Fantastical",
+        "Charming",
+        "Whimsical",
+        "Celestial",
+        "Ethereal",
+        "Elemental",
+        "Otherworldly",
+        "Arcane",
+        "Mesmerizing"
+    ],
+    "negative": [
+        "Mundane",
+        "Prosaic",
+        "Pedestrian",
+        "Unmagical",
+        "Ordinary",
+        "Dull",
+        "Commonplace",
+        "Banal",
+        "Quotidian",
+        "Insomniac",
+        "Lackluster",
+        "Trivial",
+        "Pedantic",
+        "Uninspired",
+        "Vulgar"
+    ]
+}

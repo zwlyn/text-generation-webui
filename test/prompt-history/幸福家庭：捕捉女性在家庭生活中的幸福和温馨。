@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Women",
+        "Happiness",
+        "Family Life",
+        "Love",
+        "Togetherness",
+        "Comfort",
+        "Home",
+        "Relationships",
+        "Nurturing",
+        "Positivity",
+        "Joy",
+        "Celebration",
+        "Supportive",
+        "Inspiring",
+        "Harmony",
+        "Heartwarming",
+        "Precious Moments"
+    ],
+    "negative": [
+        "Sadness",
+        "Loneliness",
+        "Disharmony",
+        "Disappointment",
+        "Stress",
+        "Anger",
+        "Fear",
+        "Abandonment",
+        "Regret",
+        "Hopelessness",
+        "Anxiety",
+        "Melancholy",
+        "Sorrow",
+        "Unhappy",
+        "Grief",
+        "Despair"
+    ]
+}

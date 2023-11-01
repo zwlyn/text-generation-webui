@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Abandoned City",
+        "Deserted Streets",
+        "Female Explorer",
+        "Urban Adventure",
+        "Mysterious Atmosphere",
+        "Dilapidated Architecture",
+        "Hidden Gems",
+        "Nostalgic Ambiance",
+        "Brave New World",
+        "Retro-Futuristic",
+        "Enigmatic Encounters",
+        "Memory Lane",
+        "Posthuman Perspectives"
+    ],
+    "negative": [
+        "Derelict Infrastructure",
+        "Creeping Vines",
+        "Peeling Paint",
+        "Rusting Metal",
+        "Shattered Glass",
+        "Decaying Facades",
+        "Eerie Silence",
+        "Forgotten Relics",
+        "Nature Reclaims",
+        "Ghostly Images",
+        "Haunting Melodies",
+        "Deteriorating Dreams",
+        "Urban Regeneration",
+        "Revitalization Efforts"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Sunlit Blooms",
+        "Botanical Beauty",
+        "Vibrant Colors",
+        "Fragrant Flowers",
+        "Garden Serenity",
+        "Nature's Elegance",
+        "Outdoor Oasis",
+        "Lush Greenery",
+        "Warm Sunshine",
+        "Cottage Garden",
+        "English Country Estate",
+        "Summer Breeze",
+        "Blossoming Wonderland"
+    ],
+    "negative": [
+        "Overgrown Gardens",
+        "Fallen Petals",
+        "Wilting Blooms",
+        "Unkempt Hedges",
+        "Dried Up Streams",
+        "Abandoned Greenhouses",
+        "Shadowy Groves",
+        "Thorny Bushes",
+        "Barren Trees",
+        "Desolate Orchards",
+        "Nature's Wrath",
+        "Urban Concrete Jungle",
+        "Fading Foliage",
+        "Gloomy Gardens"
+    ]
+}

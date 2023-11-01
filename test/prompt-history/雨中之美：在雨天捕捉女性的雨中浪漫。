@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Rainy Romance",
+        "Charming Rain",
+        "Elegant Drench",
+        "Refined Umbrella",
+        "Enchanting Puddle",
+        "Soft Glow",
+        "Dreamy Lighting",
+        "Cozy Shelter",
+        "Wet Hair Allure",
+        "Raindrops on Roses",
+        "Whimsical Showers"
+    ],
+    "negative": [
+        "Gloomy Downpour",
+        "Umbrella Mess",
+        "Soggy Discomfort",
+        "Cold Shivers",
+        "Muddy Struggle",
+        "Wet Dog Smell",
+        "Pedestrian Pools",
+        "Traffic Chaos",
+        "Forgotten Umbrella",
+        "Drenched Clothing",
+        "Slippery Sidewalks"
+    ]
+}

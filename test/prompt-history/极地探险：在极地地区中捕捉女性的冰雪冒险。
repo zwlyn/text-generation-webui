@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Adventurous",
+        "Fearless",
+        "Exploratory",
+        "Daring",
+        "Empowered",
+        "Resilient",
+        "Innovative",
+        "Awe-inspiring",
+        "Icy Beauty",
+        "Glacial Grandeur",
+        "Polar Oasis",
+        "Natural Wonder",
+        "Spectacular Scenery"
+    ],
+    "negative": [
+        "Perilous",
+        "Dangerous",
+        "Frigid",
+        "Hostile Environment",
+        "Remote Location",
+        "Isolated Existence",
+        "Harsh Conditions",
+        "Extreme Weather",
+        "Chilling Challenges",
+        "Threatening Terrain"
+    ]
+}

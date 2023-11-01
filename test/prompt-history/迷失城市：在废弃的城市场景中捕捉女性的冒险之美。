@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Futuristic Cityscape",
+        "Neon Glow",
+        "Advanced Technology",
+        "Sleek Fashion",
+        "Urban Exploration",
+        "Mysterious Atmosphere",
+        "Innovative Design",
+        "Vibrant Nightlife",
+        "Futuristic Transportation",
+        "Holographic Advertisements",
+        "Sci-Fi Inspired",
+        "Urban Renewal",
+        "Cutting-Edge Architecture"
+    ],
+    "negative": [
+        "Abandoned Districts",
+        "Decaying Infrastructure",
+        "Dark Alleys",
+        "Air Pollution",
+        "Broken Gadgets",
+        "Collapsed Buildings",
+        "Deserted Streets",
+        "Eerie Silence",
+        "Graffiti Covered Walls",
+        "Shadowy Figures",
+        "Urban Decay",
+        "Venturing Alone"
+    ]
+}

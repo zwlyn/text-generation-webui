@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Enchanted Garden",
+        "Magical Flora",
+        "Whimsical Creatures",
+        "Dreamy Atmosphere",
+        "Mystical Lighting",
+        "Ethereal Textures",
+        "Soft Focus",
+        "Fairytale-like",
+        "Nature's Beauty",
+        "Spectral Colors",
+        "Fantastical Flora",
+        "Whimsical Wildlife",
+        "Glowing Ambiance",
+        "Intricate Patterns",
+        "Ethereal Glow"
+    ],
+    "negative": [
+        "Barren Landscape",
+        "Deceitful Creatures",
+        "Nightmarish Atmosphere",
+        "Dark Shadows",
+        "Ominous Lighting",
+        "Intrusive Textures",
+        "Harsh Focus",
+        "Grim Reality",
+        "Unnatural Beauty",
+        "Somber Colors",
+        "Twisted Flora",
+        "Menacing Wildlife",
+        "Eerie Ambiance",
+        "Disrupted Patterns",
+        "Fading Glow"
+    ]
+}

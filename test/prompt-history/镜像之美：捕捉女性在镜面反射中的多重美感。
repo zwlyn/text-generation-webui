@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Glamorous",
+        "Elegant",
+        "Classy",
+        "Feminine",
+        "Chic",
+        "Stylish",
+        "Refined",
+        "Beautiful",
+        "Sophisticated",
+        "Artistic",
+        "Creative",
+        "Innovative",
+        "Dynamic",
+        "Radiant",
+        "Alluring",
+        "Ethereal",
+        "Captivating",
+        "Mysterious"
+    ],
+    "negative": [
+        "Harsh",
+        "Disharmonious",
+        "Disjointed",
+        "Unrefined",
+        "Unglamorous",
+        "Incongruous",
+        "Jarring",
+        "Awkward",
+        "Unsophisticated",
+        "Lacking Imagination",
+        "Boring",
+        "Monotonous",
+        "Stale"
+    ]
+}

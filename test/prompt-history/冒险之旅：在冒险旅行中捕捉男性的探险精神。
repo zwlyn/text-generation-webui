@@ -1,0 +1,42 @@
+{
+    "positive": [
+        "Adventurous",
+        "Exploration",
+        "Daring",
+        "Wanderlust",
+        "Challenges",
+        "Discovery",
+        "Nature",
+        "Outdoors",
+        "Venturesome",
+        "Scenic",
+        "Alluring",
+        "Spectacular",
+        "Awe-inspiring",
+        "Thrilling",
+        "Enigmatic",
+        "Captivating",
+        "Mysterious",
+        "Remarkable"
+    ],
+    "negative": [
+        "Perilous",
+        "Danger",
+        "Uncertainty",
+        "Hardships",
+        "Setbacks",
+        "Fear",
+        "Isolation",
+        "Loneliness",
+        "Desolation",
+        "Intimidating",
+        "Threats",
+        "Treacherous",
+        "Forbidding",
+        "Gloom",
+        "Suspense",
+        "Anxiety",
+        "Inhospitable",
+        "Ominous"
+    ]
+}

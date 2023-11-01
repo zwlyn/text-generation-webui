@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Bravery",
+        "Valor",
+        "Courageous",
+        "Fearless",
+        "Heroic",
+        "Aviator Goggles",
+        "WWI Aviation",
+        "WWII Aviation",
+        "Vintage Airplane",
+        "Propeller Plane",
+        "Open Cockpit",
+        "Daredevil",
+        "Acrobatics",
+        "Skilled Pilot",
+        "Adventurous Flight",
+        "Military Uniform",
+        "Aviator Cap",
+        "Goggles And Scarf"
+    ],
+    "negative": [
+        "Fearful",
+        "Cowardly",
+        "Panic",
+        "Terrified",
+        "Unstable Aircraft",
+        "Crash Landing",
+        "Broken Wing",
+        "Fire On Board",
+        "Plummeting",
+        "Lost In Fog",
+        "Runway Collision"
+    ]
+}

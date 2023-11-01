@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Dancing",
+        "Sand",
+        "Desert",
+        "Graceful",
+        "Elegance",
+        "Freedom",
+        "Flowing",
+        "Silhouette",
+        "Natural Light",
+        "Dunes",
+        "Wind",
+        "Cultural Dance",
+        "Tradition",
+        "Expression",
+        "Sunset",
+        "Dramatic Sky"
+    ],
+    "negative": [
+        "Harsh",
+        "Barren",
+        "Desolate",
+        "Stormy",
+        "Limited Movement",
+        "Restricted",
+        "Forbidding",
+        "Inhospitable",
+        "Fatigue",
+        "Dehydration",
+        "Isolation",
+        "Danger",
+        "Exhaustion",
+        "Starvation",
+        "Hardship",
+        "Threatening"
+    ]
+}

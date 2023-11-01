@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Rural Life",
+        "Family Farming",
+        "Hardworking Women",
+        "Dedication",
+        "Sustainable Agriculture",
+        "Green Landscape",
+        "Community Spirit",
+        "Traditional Methods",
+        "Natural Light",
+        "Idyllic Scenery",
+        "Bond with Nature",
+        "Caring for the Earth",
+        "Seasonal Activities",
+        "Healthy Living",
+        "Wholesome Environment"
+    ],
+    "negative": [
+        "Urban Sprawl",
+        "Pollution",
+        "Deforestation",
+        "Overworking Women",
+        "Unfair Labor Division",
+        "Declining Agriculture",
+        "Barren Landscape",
+        "Loss of Tradition",
+        "Invasive Technology",
+        "Neglect for the Earth",
+        "Stressful Living",
+        "Unhealthy Environment"
+    ]
+}

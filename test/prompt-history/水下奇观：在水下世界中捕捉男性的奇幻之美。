@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Underwater Fantasy",
+        "Mystical Atmosphere",
+        "Magical Creatures",
+        "Vibrant Colors",
+        "Spectral Lighting",
+        "Whimsical Fashion",
+        "Surreal Hair and Makeup",
+        "Dreamlike Textures",
+        "Floating Illusions",
+        "Futuristic Gadgets",
+        "Utopian Scenarios",
+        "Playful Expressions"
+    ],
+    "negative": [
+        "Gloomy Atmosphere",
+        "Muted Colors",
+        "Dark Shadows",
+        "Limited Visibility",
+        "Cold Temperatures",
+        "Pressure Build-up",
+        "Claustrophobic Spaces",
+        "Isolated Feelings",
+        "Deserted Locations",
+        "Oppressive Technologies",
+        "Dystopian Societies",
+        "Restrictive Rules"
+    ]
+}

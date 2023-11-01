@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Underwater",
+        "Marine Life",
+        "Diving Suit",
+        "Ocean Exploration",
+        "Aquatic Beauty",
+        "Snorkeling",
+        "Scuba Diving",
+        "Sea Creatures",
+        "Submerged Ruins",
+        "Shipwrecks",
+        "Reefs",
+        "Underwater Photography"
+    ],
+    "negative": [
+        "Dark Depths",
+        "Claustrophobic",
+        "Limited Visibility",
+        "Deep Pressure",
+        "Sea Monsters",
+        "Marine Predators",
+        "Sunken Ships",
+        "Ocean Pollution",
+        "Gloomy Underwater",
+        "Dangerous Currents",
+        "Rough Seas",
+        "Loss of Equipment"
+    ]
+}

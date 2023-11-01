@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Dancing",
+        "Enjoying",
+        "Smiling",
+        "Happiness",
+        "Good Vibes",
+        "Friendship",
+        "Love",
+        "Unity",
+        "Freedom",
+        "Expression",
+        "Energy",
+        "Creativity",
+        "Celebration"
+    ],
+    "negative": [
+        "Sadness",
+        "Loneliness",
+        "Negative Energy",
+        "Separation",
+        "Darkness",
+        "Discouragement"
+    ]
+}

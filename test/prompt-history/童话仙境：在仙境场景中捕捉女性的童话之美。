@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Enchanted",
+        "Magical",
+        "Mysterious",
+        "Whimsical",
+        "Fantastical",
+        "Charming",
+        "Wondrous",
+        "Ethereal",
+        "Dreamlike",
+        "Sprite",
+        "Nymph",
+        "Fairy",
+        "Elf",
+        "Goblin",
+        "Pixie",
+        "Tiny",
+        "Luminous"
+    ],
+    "negative": [
+        "Forbidden",
+        "Haunted",
+        "Eerie",
+        "Spooky",
+        "Unsettling",
+        "Dark",
+        "Shadowy",
+        "Hidden",
+        "Secretive",
+        "Creepy",
+        "Gloomy",
+        "Desolate",
+        "Lonely",
+        "Silent",
+        "Abandoned",
+        "Forgotten"
+    ]
+}

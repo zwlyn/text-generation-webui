@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Retro-futuristic",
+        "Vintage-inspired",
+        "Classic elegance",
+        "Art Deco",
+        "Streamline Moderne",
+        "Neon accents",
+        "Glamorous",
+        "Iconic architecture",
+        "Historical fashion",
+        "Crystal chandeliers",
+        "Elegant gowns",
+        "Charming gentlemen",
+        "Vintage vehicles",
+        "Mysterious allure",
+        "Bygone eras",
+        "Timeless glamour",
+        "Hollywood Regency",
+        "Era-defining"
+    ],
+    "negative": [
+        "Outdated technology",
+        "Fading grandeur",
+        "Nostalgic decay",
+        "Vintage clutter",
+        "Forgotten relics",
+        "Dusty artifacts",
+        "Cracked mirrors",
+        "Abandoned spaces",
+        "Faded memories",
+        "Antiquated systems",
+        "Forgotten places",
+        "Muted colors",
+        "Yesteryear's fashion",
+        "Rusted metal",
+        "Tarnished glamour"
+    ]
+}

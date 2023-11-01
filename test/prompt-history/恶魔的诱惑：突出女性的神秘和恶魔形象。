@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Femme Fatale",
+        "Seductive",
+        "Mysterious",
+        "Alluring",
+        "Elegant",
+        "Enigmatic",
+        "Glamorous",
+        "Dramatic Makeup",
+        "Voluptuous",
+        "Captivating",
+        "Intriguing",
+        "Confident",
+        "Powerful",
+        "Sensual",
+        "Temptress",
+        "Charismatic",
+        "Ethereal"
+    ],
+    "negative": [
+        "Dark Aura",
+        "Ominous",
+        "Malevolent",
+        "Forbidden",
+        "Macabre",
+        "Unsettling",
+        "Creepy",
+        "Sinister Smile",
+        "Ghoulish",
+        "Haunting",
+        "Eerie",
+        "Frightening",
+        "Chilling",
+        "Dangerous",
+        "Twisted",
+        "Lurking"
+    ]
+}

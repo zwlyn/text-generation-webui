@@ -1,0 +1,18 @@
+{
+    "positive": [
+        "Futuristic Cityscape",
+        "Sleek Technology",
+        "Neon Streets",
+        "Advanced Urban Infrastructure",
+        "Fashionable Cyberpunk Attire",
+        "Stylish Architectural Designs"
+    ],
+    "negative": [
+        "Dilapidated Buildings",
+        "Abandoned Urban Spaces",
+        "Decaying Neighborhoods",
+        "Crumbling Futuristic Structures",
+        "Polluted Streets",
+        "Discarded Technological Devices"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Cosmic",
+        "Galactic",
+        "Interstellar",
+        "Adventurous",
+        "Daring",
+        "Exploration",
+        "Infinite",
+        "Mysterious",
+        "Futuristic Fashion",
+        "High-Tech",
+        "Astronaut",
+        "Sleek",
+        "Heroic",
+        "Neon Lights",
+        "Cyberpunk",
+        "Virtual Reality",
+        "Optimistic"
+    ],
+    "negative": [
+        "Lost",
+        "Abandoned",
+        "Isolated",
+        "Dangerous",
+        "Desolate",
+        "Vast Emptiness",
+        "Fear",
+        "Uncharted Territory",
+        "Colonization",
+        "Exploitation",
+        "Pioneer",
+        "Alien Worlds",
+        "Hostile Environment",
+        "Solo Mission",
+        "Inhospitable"
+    ]
+}

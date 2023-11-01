@@ -1,0 +1,14 @@
+{
+    "positive": [
+        "Underwater Exploration",
+        "Marine Life",
+        "Corals",
+        "Sunlight Filtering"
+    ],
+    "negative": [
+        "Dark Waters",
+        "Limited Visibility",
+        "Dangerous Creatures",
+        "Currents"
+    ]
+}

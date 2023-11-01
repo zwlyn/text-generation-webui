@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Literary",
+        "Classic Characters",
+        "Nostalgia",
+        "Imagination",
+        "Timeless Style",
+        "Elegant",
+        "Bookworm",
+        "Intellectual",
+        "Wise",
+        "Intriguing",
+        "Mysterious",
+        "Enigmatic",
+        "Cultured",
+        "Refined",
+        "Artistic",
+        "Creative"
+    ],
+    "negative": [
+        "Outdated",
+        "Obsolete",
+        "Dated",
+        "Forgotten Characters",
+        "Irrelevant",
+        "Uninteresting",
+        "Boring",
+        "Old-fashioned",
+        "Lack of Appeal",
+        "Uninspiring"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Vibrant Color Contrast",
+        "Bold Hues",
+        "Eye-catching Backgrounds",
+        "High-contrast Makeup",
+        "Striking Eyes",
+        "Dramatic Lips",
+        "Color Blocking",
+        "Saturated Shades",
+        "Juxtaposition",
+        "Neon Accents"
+    ],
+    "negative": [
+        "Muted Tones",
+        "Subtle Color Palette",
+        "Low-contrast Backgrounds",
+        "Natural Makeup",
+        "Understated Eyes",
+        "Soft Lips",
+        "Monochromatic Look",
+        "Flat Colors",
+        "Color Coordination",
+        "Harmonious Palette"
+    ]
+}

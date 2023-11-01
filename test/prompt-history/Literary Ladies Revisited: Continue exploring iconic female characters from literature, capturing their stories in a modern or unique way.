@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Modern",
+        "Feminist",
+        "Empowered",
+        "Confident",
+        "Independent",
+        "Strong Character",
+        "Romantic",
+        "Dramatic",
+        "Colorful",
+        "Stylish",
+        "Elegant",
+        "Sensual",
+        "Mysterious",
+        "Intriguing",
+        "Dynamic"
+    ],
+    "negative": [
+        "Outdated",
+        "Patriarchal",
+        "Victimized",
+        "Submissive",
+        "Dependent",
+        "Weak Character",
+        "Dull",
+        "Monochromatic",
+        "Plain",
+        "Lacking Confidence"
+    ]
+}

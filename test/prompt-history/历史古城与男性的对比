@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Historic",
+        "Ancient",
+        "Masculine",
+        "Strength",
+        "Powerful",
+        "Architecture",
+        "Stone Walls",
+        "Castle",
+        "Cobblestone Streets",
+        "Vintage",
+        "Timeless",
+        "Chivalry",
+        "Noble",
+        "Legacy",
+        "Tradition"
+    ],
+    "negative": [
+        "Fallen",
+        "Abandoned",
+        "Ruins",
+        "Decaying",
+        "Overgrown",
+        "Desolation",
+        "Neglected",
+        "Collapse",
+        "Eroded",
+        "Lost Glory",
+        "Forgotten",
+        "Shadows",
+        "Darkness",
+        "Sadness",
+        "Melancholy"
+    ]
+}

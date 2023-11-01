@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Futuristic Cityscape",
+        "Neon Streets",
+        "High-Tech Fashion",
+        "Holographic Displays",
+        "Cybernetic Enhancements",
+        "Sleek Urban Design",
+        "Dystopian Atmosphere",
+        "Sci-Fi Inspired",
+        "Virtual Reality Experiences",
+        "Futuristic Grooming Routine",
+        "Metallic Accents",
+        "Glowing Light Installations",
+        "Exotic Futuristic Transportation",
+        "Urban Exploration"
+    ],
+    "negative": [
+        "Dark Alleyways",
+        "Urban Decay",
+        "Grimy Urban Environment",
+        "Broken High-Tech Equipment",
+        "Pollution in the City",
+        "Surveillance Cameras Everywhere",
+        "Isolation and Loneliness",
+        "Desolation in the City",
+        "Cybercrime Happening",
+        "System Failure in the City",
+        "Dystopian Future Scenario",
+        "Ruined Cityscape After a Disaster",
+        "Corruption in the System",
+        "Hackers Infiltrating Systems",
+        "Underground World",
+        "Chaos in the Streets",
+        "Resistance Against Oppressive Authorities"
+    ]
+}

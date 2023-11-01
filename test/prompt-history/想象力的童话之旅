@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Futuristic Cityscape",
+        "Advanced Technology",
+        "Stylish Apparel",
+        "Neon Glow",
+        "Holographic Displays",
+        "Enhanced Reality",
+        "Sleek Vehicles",
+        "Robotic Companions",
+        "Diverse Culture",
+        "Utopian Society",
+        "Mixed Media",
+        "Augmented Identity",
+        "Efficient Infrastructure",
+        "Natural-Artificial Harmony",
+        "Sustainable Living",
+        "Techno-Organic Integration"
+    ],
+    "negative": [
+        "Post-Apocalyptic Scenario",
+        "Environmental Degradation",
+        "Oppressive Regime",
+        "Overcrowded Spaces",
+        "Crumbling Infrastructure",
+        "Cyberterrorism",
+        "Resource Scarcity",
+        "Alienated Individuals",
+        "Collapsed Economy",
+        "Dystopian Reality",
+        "Social Unrest",
+        "Decaying Urban Areas",
+        "Surveillance State",
+        "Technology Run Amok",
+        "Cultural Disintegration",
+        "Inequitable Distribution"
+    ]
+}

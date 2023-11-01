@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Fantasy",
+        "Magical",
+        "Whimsical",
+        "Surreal",
+        "Colorful",
+        "Mysterious",
+        "Enchanted",
+        "Dreamlike",
+        "Ethereal",
+        "Otherworldly",
+        "Spectral",
+        "Illusory",
+        "Supernatural",
+        "Infinite",
+        "Boundless"
+    ],
+    "negative": [
+        "Gloomy",
+        "Haunting",
+        "Spooky",
+        "Mysterious",
+        "Eerie",
+        "Dark",
+        "Creepy",
+        "Unsettling",
+        "Chilling",
+        "Ominous",
+        "Threatening",
+        "Macabre",
+        "Ghostly",
+        "Frightening",
+        "Sinister"
+    ]
+}

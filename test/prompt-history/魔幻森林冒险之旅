@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Enchanted Forest",
+        "Fantastical Creatures",
+        "Magic Spells",
+        "Mysterious Pathways",
+        "Luminous Flora and Fauna",
+        "Otherworldly Atmosphere",
+        "Whimsical Architecture",
+        "Dreamlike Ambiance",
+        "Nature's Wonders",
+        "Ethereal Lighting",
+        "Spellbinding Scenery",
+        "Fairytale Adventure"
+    ],
+    "negative": [
+        "Abandoned Forest",
+        "Desolate Pathways",
+        "Uninhabited Wildlife",
+        "Bleak Atmosphere",
+        "Decaying Architecture",
+        "Lifeless Flora and Fauna",
+        "Dark Shadows",
+        "Ominous Presence",
+        "Haunting Memories",
+        "Forgotten Folklore",
+        "Shadowy Figures",
+        "Eerie Silence",
+        "Nature's Wrath"
+    ]
+}

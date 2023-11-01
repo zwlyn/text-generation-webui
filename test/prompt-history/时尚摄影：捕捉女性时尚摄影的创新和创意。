@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Feminine Aesthetic",
+        "Elegant",
+        "Chic",
+        "Glamorous",
+        "Bold Statements",
+        "Unique Accessories",
+        "Layered Looks",
+        "Flattering Angles",
+        "Vibrant Colors",
+        "Playful Prints",
+        "Artistic Backgrounds",
+        "Dramatic Lighting"
+    ],
+    "negative": [
+        "Overly Simple",
+        "Monotonous Color Palette",
+        "Unflattering Angles",
+        "Harsh Lighting",
+        "Confusing Backgrounds",
+        "Lack of Creativity",
+        "Cliché Themes"
+    ]
+}

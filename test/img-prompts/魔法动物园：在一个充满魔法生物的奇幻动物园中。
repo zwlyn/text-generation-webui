@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Magical Creatures",
+        "Enchanted Forest",
+        "Whimsical",
+        "Mystical",
+        "Fantastical",
+        "Charming",
+        "Playful",
+        "Vibrant",
+        "Colorful",
+        "Imagination",
+        "Dreamlike",
+        "Nature",
+        "Serene",
+        "Peaceful",
+        "Wonder",
+        "Awe-Inspiring",
+        "Surreal",
+        "Tranquil",
+        "Fairy Tale"
+    ],
+    "negative": [
+        "Mundane",
+        "Ordinary",
+        "Unremarkable",
+        "Prosaic",
+        "Banal",
+        "Dreary",
+        "Monotonous",
+        "Gloomy",
+        "Sad",
+        "Lifeless",
+        "Dull",
+        "Uninteresting",
+        "Ho-hum",
+        "Insignificant",
+        "Plain",
+        "Utterly Boring"
+    ]
+}

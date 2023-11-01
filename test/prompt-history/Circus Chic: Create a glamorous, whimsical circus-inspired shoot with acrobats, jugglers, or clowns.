@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Glamorous",
+        "Whimsical",
+        "Acrobats",
+        "Jugglers",
+        "Clowns",
+        "Colorful",
+        "Eccentric",
+        "Costumes",
+        "Makeup",
+        "Hair Styles",
+        "Big Top",
+        "Circus Tents",
+        "Fun",
+        "Laughter",
+        "Entertainment"
+    ],
+    "negative": [
+        "Drab",
+        "Somber",
+        "Mundane",
+        "Ordinary",
+        "Realistic",
+        "Uninspired",
+        "Boring",
+        "Monotonous",
+        "Grey",
+        "Dull"
+    ]
+}

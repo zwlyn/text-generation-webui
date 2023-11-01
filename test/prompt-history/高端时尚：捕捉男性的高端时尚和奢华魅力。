@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Elegant",
+        "Sophisticated",
+        "Glamorous",
+        "Chic",
+        "Stylish",
+        "Luxurious",
+        "Exclusive",
+        "High Society",
+        "Refined",
+        "Classic",
+        "Timeless",
+        "Upscale",
+        "Elite",
+        "Opulent",
+        "Trendy",
+        "Fashion-Forward"
+    ],
+    "negative": [
+        "Tacky",
+        "Over-the-Top",
+        "Flashy",
+        "Vulgar",
+        "Gaudy",
+        "Tasteless",
+        "Bling-Laden",
+        "Inappropriate",
+        "Overdone",
+        "Cringe-Worthy",
+        "Excessive",
+        "Extravagant"
+    ]
+}

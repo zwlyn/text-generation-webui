@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Artistic",
+        "Creative",
+        "Female Artist",
+        "Imagination",
+        "Colorful",
+        "Dreamlike",
+        "Whimsical",
+        "Surreal",
+        "Mysterious",
+        "Inspiring",
+        "Tranquil",
+        "Serene",
+        "Harmony",
+        "Vibrant",
+        "Ethereal",
+        "Enchanting",
+        "Captivating"
+    ],
+    "negative": [
+        "Mundane",
+        "Ordinary",
+        "Unglamorous",
+        "Monotonous",
+        "Drab",
+        "Prosaic",
+        "Uninspiring",
+        "Disjointed",
+        "Jarring",
+        "Conflicting",
+        "Discordant",
+        "Tension",
+        "Stifling",
+        "Bleak",
+        "Sparse",
+        "Desolate",
+        "Lackluster"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Adventurous",
+        "Aerial View",
+        "Breathtaking",
+        "Confidence",
+        "Courage",
+        "Exhilarating",
+        "Fearless",
+        "Freedom",
+        "Inspiring",
+        "Panoramic",
+        "Skydiving",
+        "Spontaneous",
+        "Thrilling",
+        "Wind in Face"
+    ],
+    "negative": [
+        "Dangerous",
+        "Falling",
+        "Heights Phobia",
+        "Parachute Malfunction",
+        "Risky",
+        "Vulnerable",
+        "Unpredictable",
+        "Accidents",
+        "Emergency Landing",
+        "Turbulence",
+        "Crash Landing",
+        "Altitude Sickness"
+    ]
+}

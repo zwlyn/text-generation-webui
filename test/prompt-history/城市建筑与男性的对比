@@ -1,0 +1,18 @@
+{
+    "positive": [
+        "Sleek Skyscrapers",
+        "Modern Architecture",
+        "Urban Innovation",
+        "Futuristic Cityscapes",
+        "Technological Advancements",
+        "Vibrant Metropolis"
+    ],
+    "negative": [
+        "Crumbling Facades",
+        "Decaying Infrastructure",
+        "Abandoned Projects",
+        "Urban Decline",
+        "Environmental Degradation",
+        "Overdevelopment"
+    ]
+}

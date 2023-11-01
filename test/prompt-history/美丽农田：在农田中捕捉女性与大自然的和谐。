@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Rustic",
+        "Idyllic",
+        "Feminine",
+        "Nature",
+        "Organic",
+        "Soft",
+        "Vibrant",
+        "Serene",
+        "Harmony",
+        "Sunlit",
+        "Lush",
+        "Bountiful",
+        "Tranquil",
+        "Inspiring",
+        "Rural",
+        "Earthy"
+    ],
+    "negative": [
+        "Barren",
+        "Desolate",
+        "Harsh",
+        "Dry",
+        "Decaying",
+        "Forsaken",
+        "Bleak",
+        "Discordant",
+        "Overgrown",
+        "Stormy",
+        "Gloomy",
+        "Withered",
+        "Scattered",
+        "Unkempt",
+        "Sparse"
+    ]
+}

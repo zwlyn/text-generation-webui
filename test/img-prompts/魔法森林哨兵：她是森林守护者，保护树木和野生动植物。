@@ -1,0 +1,18 @@
+{
+    "positive": [
+        "Magical Forest Ranger",
+        "Nature Protector",
+        "Mystical Creatures",
+        "Whimsical Woods",
+        "Enchanted Flora and Fauna",
+        "Arcane Tools",
+        "Fantastical Fashion"
+    ],
+    "negative": [
+        "Abandoned Magic School",
+        "Dark Spells",
+        "Cursed Forest",
+        "Uncontrolled Magical Forces",
+        "Broken Wands"
+    ]
+}

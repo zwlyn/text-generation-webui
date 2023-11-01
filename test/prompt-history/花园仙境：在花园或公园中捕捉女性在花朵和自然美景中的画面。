@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Ethereal",
+        "Whimsical",
+        "Magical",
+        "Dreamy",
+        "Mystical",
+        "Enchanted",
+        "Fantastical",
+        "Serene",
+        "Peaceful",
+        "Tranquil",
+        "Idyllic",
+        "Nature-filled",
+        "Botanical",
+        "Lush",
+        "Greenery",
+        "Blissful",
+        "Calm",
+        "Inspiring"
+    ],
+    "negative": [
+        "Gloomy",
+        "Somber",
+        "Desolate",
+        "Barren",
+        "Withered",
+        "Disheveled",
+        "Unkempt",
+        "Neglected",
+        "Overgrown",
+        "Tattered",
+        "Decaying",
+        "Forsaken",
+        "Abandoned",
+        "Deteriorating",
+        "Deserted"
+    ]
+}

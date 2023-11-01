@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Culinary Artistry",
+        "Gourmet Delights",
+        "Flavor Exploration",
+        "Sensory Feast",
+        "Innovative Cooking Techniques",
+        "Elegant Presentation",
+        "Delectable Dishes",
+        "Cultural Fusion Cuisine",
+        "Healthy Food Choices",
+        "Vibrant Ingredients",
+        "Seasonal Produce",
+        "Artisanal Creations",
+        "Taste Sensation"
+    ],
+    "negative": [
+        "Overcooked Meals",
+        "Unappetizing Presentation",
+        "Food Wastage",
+        "Processed Foods",
+        "Lack of Nutrition",
+        "Overindulgence",
+        "Junk Food Craving",
+        "Flavorless Meals",
+        "Bland Dishes",
+        "Unhealthy Options"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Western Style",
+        "Cowboy Hat",
+        "Boots",
+        "Leather Jacket",
+        "Rugged",
+        "Outdoor",
+        "Wide Open Spaces",
+        "Sunset",
+        "Landscape",
+        "Horses",
+        "Ranch",
+        "Dusty Road",
+        "Cactus",
+        "Old West"
+    ],
+    "negative": [
+        "City Life",
+        "Urban Chaos",
+        "Traffic Jam",
+        "Overcrowded",
+        "Pollution",
+        "Graffiti",
+        "Crime Scene",
+        "Abandoned Building",
+        "Dark Alley",
+        "Loneliness",
+        "Deserted Street"
+    ]
+}

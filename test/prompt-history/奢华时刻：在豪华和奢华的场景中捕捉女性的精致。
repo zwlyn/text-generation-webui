@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Elegant",
+        "Luxurious",
+        "Refined",
+        "Glamorous",
+        "Chic",
+        "Sophisticated",
+        "Classy",
+        "Stylish",
+        "Opulent",
+        "Expensive",
+        "Exclusive",
+        "High Society",
+        "Couture",
+        "Fashionable",
+        "Upscale",
+        "Premium",
+        "Elite"
+    ],
+    "negative": [
+        "Shabby",
+        "Tattered",
+        "Dilapidated",
+        "Squalor",
+        "Makeshift",
+        "Threadbare",
+        "Bargain Basement",
+        "Cheap",
+        "Tacky",
+        "Garish",
+        "Tasteless",
+        "Kitsch",
+        "Vulgar",
+        "Downmarket",
+        "Discount",
+        "Budget",
+        "Inexpensive"
+    ]
+}

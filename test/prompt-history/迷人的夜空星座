@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Starry Night Sky",
+        "Night Time Photography",
+        "Astrophotography",
+        "Stars in the City",
+        "Galaxy Background",
+        "Nightscapes",
+        "Urban Star Gazing",
+        "Neon Lights and Stars",
+        "City Lights and Stars",
+        "Illuminated Skies"
+    ],
+    "negative": [
+        "Pitch Black Night",
+        "Starless Sky",
+        "Overcast Nights",
+        "Light Pollution",
+        "Streetlights Glare",
+        "Urban Light Dome",
+        "Obscured Stars",
+        "Hiding Stars",
+        "Invisible Celestial Bodies"
+    ]
+}

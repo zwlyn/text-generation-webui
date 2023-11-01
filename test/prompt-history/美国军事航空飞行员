@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Fighter Pilot",
+        "Aviator Glasses",
+        "High-Altitude Flight",
+        "Flight Suit",
+        "Cockpit View",
+        "Takeoff",
+        "Landing",
+        "In-flight Refueling",
+        "Mid-air Formation",
+        "Military Aircraft",
+        "Stealth Technology",
+        "Patriotic",
+        "Honor",
+        "Duty",
+        "Air Superiority",
+        "National Pride"
+    ],
+    "negative": [
+        "Crash Landing",
+        "Fuel Leak",
+        "Emergency Bailout",
+        "Lost Comms",
+        "Engines Failure",
+        "In-flight Fire",
+        "Turbulence",
+        "Ice on the Wing",
+        "Runway Incursion",
+        "Bird Strike",
+        "Pilot Fatigue",
+        "Air Traffic Control Chaos"
+    ]
+}

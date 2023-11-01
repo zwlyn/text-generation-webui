@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Opulent",
+        "Regal",
+        "Elegant",
+        "Lavish",
+        "Richly Decorated",
+        "Majestic Arches",
+        "Intricate Carvings",
+        "Colorful Mosaics",
+        "Splendid Hallways",
+        "Marble Floors",
+        "Gilded Ceilings"
+    ],
+    "negative": [
+        "Dark Corners",
+        "Abandoned Spaces",
+        "Forgotten Areas",
+        "Untouched For Decades",
+        "Cobwebs Everywhere",
+        "Broken Furniture",
+        "Peeling Paint",
+        "Littered Hallways",
+        "Eerie Atmosphere"
+    ]
+}

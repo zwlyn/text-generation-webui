@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Feminine Futurism",
+        "High-Tech Elegance",
+        "Neon Hues",
+        "Holographic Prints",
+        "Sleek Silhouettes",
+        "Urban Oasis",
+        "Microverse Fusion",
+        "Glowing Accents",
+        "Experimental Designs",
+        "Virtual Aesthetics",
+        "Futuristic Fabrics",
+        "Metallic Innovation",
+        "Optical Illusions",
+        "Subtle Sophistication",
+        "Urban Explorer",
+        "Tech-Infused Style"
+    ],
+    "negative": [
+        "Dystopian Dresses",
+        "Decaying Aesthetics",
+        "Broken Glamour",
+        "Polluted Prints",
+        "Gritty Geometrics",
+        "Urban Disintegration",
+        "Corroded Colors",
+        "Dark Fusion",
+        "Hardware Malfunction",
+        "Systematic Chaos",
+        "Fractured Patterns",
+        "Desolate Designs",
+        "Shadowy Silhouettes"
+    ]
+}

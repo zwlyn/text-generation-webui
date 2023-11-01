@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Outdoor",
+        "Sunshine",
+        "Freedom",
+        "Liberation",
+        "Fitness",
+        "Healthy Lifestyle",
+        "Nature",
+        "Adventure",
+        "Exploration",
+        "Empowerment",
+        "Strength",
+        "Endurance",
+        "Perseverance",
+        "Grace",
+        "Elegance",
+        "Beautiful",
+        "Inspiring"
+    ],
+    "negative": [
+        "Dangerous",
+        "Risk",
+        "Uncertainty",
+        "Fear",
+        "Vulnerability",
+        "Limitation",
+        "Weakness",
+        "Exhaustion",
+        "Frustration",
+        "Restriction",
+        "Imbalance",
+        "Hardship",
+        "Despair",
+        "Discouragement",
+        "Doubt",
+        "Inferiority"
+    ]
+}

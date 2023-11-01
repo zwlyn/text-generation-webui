@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Comic Book Heroes",
+        "Superheroines",
+        "Female Empowerment",
+        "Strength and Beauty",
+        "Dynamic Poses",
+        "Colorful Costumes",
+        "Action-Packed Scenes",
+        "Iconic Moments",
+        "Epic Battles",
+        "Villain Defeat",
+        "Inspirational Messages",
+        "Girl Power"
+    ],
+    "negative": [
+        "Weakness and Vulnerability",
+        "Fear and Anxiety",
+        "Negative Stereotypes",
+        "Disempowerment",
+        "Submissive Roles",
+        "Dark and Gloomy Scenes",
+        "Sad Endings",
+        "Loss and Grief"
+    ]
+}

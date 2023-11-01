@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Ice Cream",
+        "Summer Joy",
+        "Sweet Treat",
+        "Delightful Smiles",
+        "Cold Relief",
+        "Colorful Swirls",
+        "Family Time",
+        "Outdoor Fun",
+        "Happiness",
+        "Yummy Flavors",
+        "Soft Serve",
+        "Chilled Delights"
+    ],
+    "negative": [
+        "Sugar Overload",
+        "Weight Gain",
+        "Dietary Restrictions",
+        "Messy Faces",
+        "Allergies",
+        "Long Queues",
+        "Heat Wave",
+        "Sticky Situations",
+        "Melting Ice Cream",
+        "Unhealthy Choices"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Futuristic Cityscape",
+        "Urban Oasis",
+        "Glowing Neon Signs",
+        "Sleek Architectural Design",
+        "Advanced Technology Integration",
+        "Stylish Futurism",
+        "Innovative Public Spaces",
+        "Eco-Friendly Urban Planning",
+        "Futuristic Transportation Hubs",
+        "Holographic Advertisements",
+        "Sustainable Urban Living",
+        "Vibrant Nightlife Scenes",
+        "Futuristic Fitness Centers",
+        "Cutting-Edge Retail Experiences",
+        "Cybernetically Enhanced Landscapes",
+        "Urban Garden Paradise",
+        "Immersive Virtual Reality Spaces"
+    ],
+    "negative": [
+        "Post-Apocalyptic Ruins",
+        "Dark, Desolate Streets",
+        "Air Pollution and Smog",
+        "Crumbling Infrastructure",
+        "Broken Technology Devices",
+        "Overcrowded Urban Spaces",
+        "Surveillance Drones in the Sky",
+        "Environmental Decay",
+        "Corrupted Political System",
+        "Graffiti-Covered Walls",
+        "Polluted Waterways and Coastlines",
+        "Dystopian Urban Warfare",
+        "Abandoned Futuristic Projects",
+        "Lights Overshadowing Nature"
+    ]
+}

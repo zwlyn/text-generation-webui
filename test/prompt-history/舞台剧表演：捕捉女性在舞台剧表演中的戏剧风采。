@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Theatrical",
+        "Dramatic Lighting",
+        "Emotional Performances",
+        "Colorful Costumes",
+        "Expressionist Makeup",
+        "Energetic Choreography",
+        "Striking Poses",
+        "Dynamic Scenery",
+        "Innovative Stagecraft",
+        "Engaging Narratives"
+    ],
+    "negative": [
+        "Mundane Audience Reaction",
+        "Uninspired Set Design",
+        "Monotonous Dialogue",
+        "Lackluster Performances",
+        "Dull Costumes",
+        "Flat Lighting",
+        "Static Choreography",
+        "Disjointed Scenes",
+        "Ineffective Stagecraft",
+        "Confusing Plot"
+    ]
+}

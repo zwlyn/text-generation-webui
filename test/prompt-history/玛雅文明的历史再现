@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Elegant",
+        "Refined",
+        "History",
+        "Revival",
+        "Glamour",
+        "Timeless",
+        "Classic",
+        "Decadence",
+        "Sophisticated",
+        "Royalty",
+        "Luxury",
+        "Stylish",
+        "Aristocracy",
+        "Charm",
+        "Etiquette",
+        "Courtly Love",
+        "Manners"
+    ],
+    "negative": [
+        "Degradation",
+        "Downfall",
+        "Oppression",
+        "Decline",
+        "Despair",
+        "Anarchy",
+        "Ruin",
+        "Squalor",
+        "Disgrace",
+        "Shame",
+        "Scandal",
+        "Corruption",
+        "Violence",
+        "Injustice",
+        "Poverty",
+        "Disorder",
+        "Unrest"
+    ]
+}

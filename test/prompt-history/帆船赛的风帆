@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Wind Sculpted Waves",
+        "Ocean Swells",
+        "Maritime Art",
+        "Nautical Adventure",
+        "Sailing Excursion",
+        "Sea Spray",
+        "Stormy Skies",
+        "Sailboat Dynamics",
+        "Wave Crests",
+        "Ocean Racing",
+        "Saline Atmosphere",
+        "Navigational Challenges",
+        "Yacht Club Culture",
+        "Maritime Traditions"
+    ],
+    "negative": [
+        "Shipwrecked",
+        "Stormy Seas",
+        "Sinking Ships",
+        "Sea Sickness",
+        "Abandoned Vessels",
+        "Rough Waters",
+        "Capsized Boats",
+        "Waterlogged Decks",
+        "Tropical Storms",
+        "Gale-Force Winds",
+        "Hurricane Aftermath",
+        "Floodwaters",
+        "Submerged Cities"
+    ]
+}

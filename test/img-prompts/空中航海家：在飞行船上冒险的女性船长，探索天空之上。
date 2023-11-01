@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Aviation",
+        "Pilot",
+        "Flight Deck",
+        "Cockpit Views",
+        "Cloudscapes",
+        "Skyline",
+        "Vast Horizons",
+        "Panoramic Vistas",
+        "Futuristic Design",
+        "Advanced Technology",
+        "Sleek Aircraft",
+        "Runway Approach",
+        "Takeoff",
+        "Landing",
+        "Inspiring Skies"
+    ],
+    "negative": [
+        "Turbulence",
+        "Engine Failure",
+        "Bad Weather",
+        "Grounded Flights",
+        "Air Traffic Control Delays",
+        "Cramped Cabin",
+        "Loud Engines",
+        "Claustrophobic",
+        "Uncomfortable Seats",
+        "Long Haul Flights",
+        "Delays and Cancellations"
+    ]
+}

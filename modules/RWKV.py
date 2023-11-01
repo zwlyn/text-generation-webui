@@ -9,7 +9,6 @@ from pathlib import Path
 
 import numpy as np
 from tokenizers import Tokenizer
-from transformers import is_torch_xpu_available
 
 import modules.shared as shared
 from modules.callbacks import Iteratorize
@@ -28,7 +27,7 @@ class RWKVModel:
         pass
 
     @classmethod
-    def from_pretrained(self, path, dtype="bf16" if is_torch_xpu_available() else "fp16", device="xpu" if is_torch_xpu_available() else "cuda"):
+    def from_pretrained(self, path, dtype="fp16", device="cuda"):
         tokenizer_path = Path(f"{path.parent}/20B_tokenizer.json")
         if shared.args.rwkv_strategy is None:
             model = RWKV(model=str(path), strategy=f'{device} {dtype}')

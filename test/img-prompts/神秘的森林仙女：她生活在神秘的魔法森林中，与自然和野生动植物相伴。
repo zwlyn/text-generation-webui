@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Enchanted Forest",
+        "Magical Creatures",
+        "Fairy Tales",
+        "Mysterious Pathway",
+        "Nature's Beauty",
+        "Whimsical",
+        "Woodland Nymph",
+        "Forest Spirits",
+        "Glimmering Light",
+        "Organic Textures",
+        "Ethereal Atmosphere",
+        "Dreamlike Quality",
+        "Soft Focus",
+        "Fantastical Creatures",
+        "Charming",
+        "Secret Hideaway",
+        "Nature's Wonders",
+        "Peaceful Solitude"
+    ],
+    "negative": [
+        "Urban Sprawl",
+        "Deforestation",
+        "Pollution",
+        "Desecration of Nature",
+        "Destruction of Habitat",
+        "Invasive Species",
+        "Logging",
+        "Mining",
+        "Climate Change",
+        "Ancient Forest",
+        "Disappearing Flora and Fauna"
+    ]
+}

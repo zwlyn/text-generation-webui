@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Supernatural",
+        "Mystical",
+        "Magic",
+        "Enchanted",
+        "Otherworldly",
+        "Fantastical",
+        "Whimsical",
+        "Surreal",
+        "Ethereal",
+        "Dreamlike",
+        "Illusory",
+        "Intriguing",
+        "Alluring"
+    ],
+    "negative": [
+        "Mundane",
+        "Ordinary",
+        "Realistic",
+        "Grounded",
+        "Plain",
+        "Unimaginative",
+        "Prosaic",
+        "Quotidian",
+        "Dull",
+        "Insipid",
+        "Banal",
+        "Humdrum",
+        "Everyday"
+    ]
+}

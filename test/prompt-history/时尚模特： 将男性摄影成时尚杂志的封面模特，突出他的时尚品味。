@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Futuristic",
+        "Stylish",
+        "Elegant",
+        "Urban",
+        "Holographic",
+        "High-tech",
+        "Sleek",
+        "Dystopian",
+        "Sci-fi",
+        "Virtual Reality",
+        "Cybernetic Enhancements",
+        "Masculine",
+        "Glowing",
+        "Exotic",
+        "Techno-Geek"
+    ],
+    "negative": [
+        "Post-apocalyptic",
+        "Grimy",
+        "Dark Alley",
+        "Urban Decay",
+        "Broken Technology",
+        "Pollution",
+        "Surveillance",
+        "Isolation",
+        "Desolation",
+        "Cybercrime",
+        "System Failure",
+        "Corruption",
+        "Hackers",
+        "Underground",
+        "Chaos",
+        "Resistance"
+    ]
+}

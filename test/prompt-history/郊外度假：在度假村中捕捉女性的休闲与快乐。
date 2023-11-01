@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Relaxing by the pool",
+        "Girls' night out",
+        "Spa treatments",
+        "Laughter around a bonfire",
+        "Wine tasting adventures",
+        "Dancing under the stars",
+        "Scenic hikes",
+        "Artistic workshops",
+        "Gourmet dining experiences",
+        "Sunset yoga sessions",
+        "Champagne toasts",
+        "Cultural immersion",
+        "Adventurous excursions",
+        "Pampering massages",
+        "Making new friends",
+        "Fashionable resort wear",
+        "Indulgent desserts",
+        "Romantic evenings",
+        "Bright, vibrant colors"
+    ],
+    "negative": [
+        "Forced social interactions",
+        "Limited personal space",
+        "Unwanted photography",
+        "Noise pollution",
+        "Overcrowded activities",
+        "Insufficient privacy",
+        "Disruptive partying",
+        "Dissatisfactory dining options",
+        "Inadequate relaxation areas",
+        "Lack of cultural appreciation",
+        "Inaccessible excursions",
+        "Subpar spa services",
+        "Untidy or cluttered environments",
+        "Uncomfortable accommodations",
+        "Dull, monochromatic colors",
+        "Ineffective sun protection"
+    ]
+}

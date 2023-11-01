@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Music Festival Atmosphere",
+        "Dancing Women",
+        "Enthusiastic Crowd",
+        "Festive Mood",
+        "Live Music Performance",
+        "Colorful Stage Lighting",
+        "Expressive Faces",
+        "Joy and Energy",
+        "Fun Costumes",
+        "Musical Instruments",
+        "Artistic Audience Reactions",
+        "Diverse Backgrounds",
+        "Inspiring Moments"
+    ],
+    "negative": [
+        "Uncomfortable Crowd",
+        "Annoyed Expressions",
+        "Confusion",
+        "Disjointed Imagery",
+        "Harsh Lighting",
+        "Sad or Tired Faces",
+        "Motion Blur",
+        "Loud Noise",
+        "Overcrowding",
+        "Unpleasant Smells",
+        "Garbage and Litter",
+        "Intrusive Photography",
+        "Arguments or Conflicts"
+    ]
+}

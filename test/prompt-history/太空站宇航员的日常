@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Space Station",
+        "Astronauts",
+        "Daily Life",
+        "Colonial",
+        "Frontier",
+        "Innovation",
+        "Exploration",
+        "Research",
+        "Sustainability",
+        "Harmony",
+        "Advancements",
+        "Pioneering",
+        "Peaceful Coexistence"
+    ],
+    "negative": [
+        "Isolation",
+        "Loneliness",
+        "Confined Space",
+        "Claustrophobia",
+        "Monotonous Routine",
+        "Gravity Impacts",
+        "Mental Health Challenges",
+        "Remote Location",
+        "Dangers",
+        "Setbacks",
+        "Unpredictable Environment"
+    ]
+}

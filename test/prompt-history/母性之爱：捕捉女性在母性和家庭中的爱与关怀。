@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Warmth",
+        "Care",
+        "Love",
+        "Compassion",
+        "Nurturing",
+        "Embracing",
+        "Tender",
+        "Hugging",
+        "Kissing",
+        "Sharing",
+        "Supportive",
+        "Affectionate",
+        "Sojourn",
+        "Gathering",
+        "Community",
+        "Celebration",
+        "Inclusion",
+        "Unity"
+    ],
+    "negative": [
+        "Abandonment",
+        "Rejection",
+        "Loneliness",
+        "Isolation",
+        "Despair",
+        "Sadness",
+        "Grief",
+        "Pain",
+        "Stress",
+        "Anxiety",
+        "Anguish",
+        "Separation",
+        "Division",
+        "Exclusion",
+        "Disunity"
+    ]
+}

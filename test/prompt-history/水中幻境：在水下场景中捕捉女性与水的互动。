@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Underwater Oasis",
+        "Siren's Song",
+        "Aquatic Fantasy",
+        "Liquid Illusion",
+        "Marine Magic",
+        "Watery Whimsy",
+        "Fishbowl Fashion",
+        "Neptune's Neighborhood",
+        "Nautical Nuances",
+        "Sea Spell",
+        "Aqueous Allure",
+        "Oceanic Optics",
+        "Submerged Style",
+        "Liquid Elegance",
+        "Wave Wonderland",
+        "Marine Mystique",
+        "Reef Radiance"
+    ],
+    "negative": [
+        "Sunken Shipwreck",
+        "Drowned Dreams",
+        "Submerged Sorrow",
+        "Seaweed Entanglement",
+        "Abyssal Anguish",
+        "Fathomless Fear",
+        "Briny Bewilderment",
+        "Oceanic Obscurity",
+        "Maritime Melancholy",
+        "Watery Woe",
+        "Coral Cataclysm",
+        "Saltwater Struggle",
+        "Subaqueous Scorn",
+        "Tidal Turmoil",
+        "Ocean's Oppression"
+    ]
+}

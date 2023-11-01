@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Futuristic Cityscape",
+        "Neon Glow",
+        "Advanced Technology",
+        "Multicultural Society",
+        "Vibrant Streets",
+        "Architectural Marvels",
+        "Holographic Displays",
+        "Robotic Assistants",
+        "Sustainable Living",
+        "Innovative Transportation",
+        "Utopian Vision",
+        "Synthetic Biology"
+    ],
+    "negative": [
+        "Abandoned Districts",
+        "Dark Alleys",
+        "Graffiti",
+        "Pollution",
+        "Crumbling Infrastructure",
+        "Cyber Attacks",
+        "Overcrowding",
+        "Social Inequality",
+        "Rampant Crime",
+        "Decaying Urban Areas"
+    ]
+}

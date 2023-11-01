@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Vibrant",
+        "Colorful",
+        "Youthful",
+        "Energetic",
+        "Future",
+        "Trendy",
+        "Cool",
+        "Fashionable",
+        "Stylish",
+        "Urban",
+        "Creative",
+        "Innovative",
+        "High-tech",
+        "Exciting",
+        "Progressive"
+    ],
+    "negative": [
+        "Gloomy",
+        "Dark",
+        "Somber",
+        "Tired",
+        "Aged",
+        "Outdated",
+        "Boring",
+        "Unfashionable",
+        "Dull",
+        "Depressing",
+        "Backwards",
+        "Old-fashioned",
+        "Lackluster",
+        "Conservative",
+        "Stagnant"
+    ]
+}

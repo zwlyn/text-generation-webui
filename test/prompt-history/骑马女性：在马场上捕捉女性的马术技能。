@@ -1,0 +1,27 @@
+{
+    "positive": [
+        "Equine Confidence",
+        "Stable Determination",
+        "Saddling Skills",
+        "Bridle Beauty",
+        "Crop Mastery",
+        "Tack Talent",
+        "Reining Radiance",
+        "Cantering Grace",
+        "Galloping Glamour",
+        "Jumping Joy",
+        "Dressage Dynamo"
+    ],
+    "negative": [
+        "Stable Fear",
+        "Bridle Woe",
+        "Saddling Struggle",
+        "Crop Clumsiness",
+        "Tack Terror",
+        "Reining Rejection",
+        "Cantering Catastrophe",
+        "Galloping Grief",
+        "Jumping Jitters",
+        "Dressage Disaster"
+    ]
+}

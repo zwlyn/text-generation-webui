@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Military",
+        "Navy",
+        "Maritime",
+        "Ocean",
+        "Strength",
+        "Honor",
+        "Dignity",
+        "Tradition",
+        "Respect",
+        "Discipline",
+        "Bravery",
+        "Teamwork",
+        "Leadership",
+        "Loyalty",
+        "Pride",
+        "Sovereignty",
+        "Freedom",
+        "Victory"
+    ],
+    "negative": [
+        "Warfare",
+        "Battleship",
+        "Destruction",
+        "Casualties",
+        "Loss",
+        "Despair",
+        "Anxiety",
+        "Fear",
+        "Conflict",
+        "Danger",
+        "Sacrifice",
+        "Trauma",
+        "Death",
+        "Hardship",
+        "Mourning",
+        "Tragedy"
+    ]
+}

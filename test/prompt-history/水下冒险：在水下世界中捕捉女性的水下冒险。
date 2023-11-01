@@ -1,0 +1,21 @@
+{
+    "positive": [
+        "Underwater Exploration",
+        "Diving Adventures",
+        "Ocean Depths",
+        "Marine Life",
+        "Sunlit Surface",
+        "Sea Creatures",
+        "Neon Glow",
+        "Aquatic Wonders"
+    ],
+    "negative": [
+        "Dark Depths",
+        "Shadowy Crevices",
+        "Lost Divers",
+        "Ocean Current",
+        "Submerged Wreckage",
+        "Deep Sea Pressure",
+        "Claustrophobic Spaces"
+    ]
+}

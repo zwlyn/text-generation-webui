@@ -1,0 +1,23 @@
+{
+    "positive": [
+        "athlete",
+        "teamwork",
+        "determination",
+        "goals",
+        "victory",
+        "celebration",
+        "field",
+        "stadium",
+        "cheering crowd",
+        "inspirational"
+    ],
+    "negative": [
+        "injury",
+        "loss",
+        "defeat",
+        "sadness",
+        "disappointment",
+        "empty stands",
+        "solitude"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Female Engineer",
+        "Technology Advanced",
+        "Innovative Design",
+        "Modern Equipment",
+        "Cutting-Edge Research",
+        "Sleek Workspace",
+        "Collaboration",
+        "State-of-the-Art Facility",
+        "Robotics Expertise",
+        "Precision Engineering",
+        "Efficient Systems",
+        "Advanced Materials",
+        "Clean Energy Solutions",
+        "Future Manufacturing"
+    ],
+    "negative": [
+        "Outdated Equipment",
+        "Dark Workshop",
+        "Abandoned Lab",
+        "Neglected Facilities",
+        "Inefficient Processes",
+        "Hazardous Waste",
+        "Overcrowded Workspace",
+        "Research Setbacks",
+        "Insufficient Funding",
+        "Budget Cuts",
+        "Environmental Pollution",
+        "Worker Safety Concerns"
+    ]
+}

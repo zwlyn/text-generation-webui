@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Female Artist",
+        "Creative Vision",
+        "Innovation",
+        "Artistic Expression",
+        "Colorful Palette",
+        "Bold Brushstrokes",
+        "Sculpted Detail",
+        "Architectural Marvels",
+        "Captivating Performances",
+        "Musical Masterpieces",
+        "Poetic Inspiration",
+        "Whimsical Designs"
+    ],
+    "negative": [
+        "Patriarchal Restrictions",
+        "Gender Bias",
+        "Limited Opportunities",
+        "Suppressed Talent",
+        "Unrecognized Genius",
+        "Cultural Barriers",
+        "Social Pressure"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "positive": [
+        "Futuristic Cityscape",
+        "Advanced Technology",
+        "Sleek Design",
+        "Urban Innovation",
+        "Neon Accents",
+        "Clean Lines",
+        "Sharp Angles",
+        "Holographic Interface",
+        "Robotic Assistants",
+        "Futuristic Vehicles",
+        "Smooth Textures",
+        "Efficient Energy Sources",
+        "Motion Blur",
+        "High-Speed Transportation",
+        "Vibrant Colors",
+        "Natural Lighting",
+        "Futuristic Wardrobe",
+        "Cutting-Edge Materials",
+        "Urban Oasis"
+    ],
+    "negative": [
+        "Dark Urban Setting",
+        "Decaying Infrastructure",
+        "Polluted Environment",
+        "Crumbling Architecture",
+        "Abandoned Technology",
+        "Graffiti-Covered Walls",
+        "Littered Streets",
+        "Dilapidated Buildings",
+        "Overgrown Vegetation",
+        "Pitch Black Alleyways",
+        "Flickering Lights",
+        "Rusty Metal Surfaces",
+        "Mysterious Shadows",
+        "Discarded Machinery",
+        "Dilapidated Factories",
+        "Deserted Public Spaces",
+        "Urban Decay"
+    ]
+}

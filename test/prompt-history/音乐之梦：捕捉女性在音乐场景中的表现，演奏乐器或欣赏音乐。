@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Musical Dream",
+        "Female Musician",
+        "Playing Instruments",
+        "Enjoying Music",
+        "Band Performance",
+        "Stage Lighting",
+        "Audience Engagement",
+        "Expressive Emotion",
+        "Crescendo",
+        "Dynamics",
+        "Harmony",
+        "Rhythm Section",
+        "Symphony Orchestra",
+        "Jazz Ensemble",
+        "Acoustic Guitar",
+        "Piano Melody"
+    ],
+    "negative": [
+        "Discordant Notes",
+        "Off Key",
+        "Out of Tune",
+        "Misplaced Accent",
+        "Sour Note",
+        "Broken String",
+        "Stage Fright",
+        "Audience Disengagement",
+        "Lacking Emotion",
+        "Flat Pitch",
+        "Dull Dynamics",
+        "Uneven Rhythm",
+        "Disjointed Melody"
+    ]
+}

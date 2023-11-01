@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Whimsical",
+        "Flowy",
+        "Lush",
+        "Magical",
+        "Enchanted",
+        "Garden Setting",
+        "Nature",
+        "Fantasy",
+        "Dreamlike",
+        "Fairytale",
+        "Mystical",
+        "Ethereal",
+        "Woodland",
+        "Botanical",
+        "Organic",
+        "Soft Lighting",
+        "Pastel Colors"
+    ],
+    "negative": [
+        "Barren",
+        "Deserted",
+        "Urban Jungle",
+        "Concrete",
+        "Graffiti",
+        "Abandoned",
+        "Decaying",
+        "Hard Edges",
+        "Smoke",
+        "Harsh Shadows",
+        "Industrial",
+        "Metallic",
+        "Monochromatic",
+        "Asphalt",
+        "Synthetic Materials",
+        "Neon Signs"
+    ]
+}

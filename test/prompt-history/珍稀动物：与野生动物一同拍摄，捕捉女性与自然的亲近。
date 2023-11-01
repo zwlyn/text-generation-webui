@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Wildlife Encounter",
+        "Nature Photography",
+        "Flora and Fauna",
+        "Ecosystem Preservation",
+        "Biodiversity",
+        "Animal Behavior",
+        "Habitat Conservation",
+        "Endangered Species",
+        "Wildlife Sanctuary",
+        "Natural Ecosystems",
+        "Conservation Awareness",
+        "Sustainable Practices",
+        "Environmental Stewardship"
+    ],
+    "negative": [
+        "Hunting and Poaching",
+        "Deforestation",
+        "Pollution of Natural Habitats",
+        "Invasive Species",
+        "Climate Change Effects",
+        "Overexploitation of Resources",
+        "Loss of Biodiversity",
+        "Environmental Degradation",
+        "Urban Sprawl",
+        "Wildlife Trafficking",
+        "Disregard for Nature",
+        "Unsustainable Practices",
+        "Man-Made Disasters"
+    ]
+}

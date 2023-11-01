@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Traditional",
+        "Culture",
+        "Ceremony",
+        "Feminine",
+        "Customs",
+        "Heritage",
+        "Beautiful",
+        "Intricate Patterns",
+        "Vibrant Colors",
+        "Ancestral Knowledge",
+        "Elegance",
+        "Respectful",
+        "Timeless Beauty",
+        "Family Bonds",
+        "Rituals",
+        "Community Celebration",
+        "Traditional Arts"
+    ],
+    "negative": [
+        "Abandoned Traditions",
+        "Lost Heritage",
+        "Disregard for Customs",
+        "Forgotten Practices",
+        "Eroded Culture",
+        "Neglected Ceremonies",
+        "Dishonored Ancestors",
+        "Broken Ties",
+        "Decaying Tradition",
+        "Ignorance of Roots",
+        "Relinquished Skills"
+    ]
+}

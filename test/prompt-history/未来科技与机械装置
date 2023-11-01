@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Futuristic",
+        "High-tech",
+        "Sleek",
+        "Innovative",
+        "Advanced Technology",
+        "Holographic",
+        "Robotics",
+        "Cybernetic Enhancements",
+        "AI Integration",
+        "Sci-fi Inspired",
+        "Virtual Reality",
+        "Nanotechnology",
+        "Eco-friendly",
+        "Urban Landscape",
+        "Futuristic Fashion",
+        "Smart Devices",
+        "Neon Lights"
+    ],
+    "negative": [
+        "Dystopian",
+        "Decaying",
+        "Outdated Technology",
+        "Disrupted Systems",
+        "Corroded",
+        "Abandoned Projects",
+        "Cyber Attacks",
+        "Technological Disaster",
+        "Overcrowded Cities",
+        "Environmental Degradation",
+        "Post-apocalyptic",
+        "Urban Chaos",
+        "Dark Alleyways",
+        "Broken Infrastructure"
+    ]
+}

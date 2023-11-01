@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Handmade",
+        "Artisanal",
+        "Creative",
+        "Innovative",
+        "Sustainable",
+        "Unique",
+        "Bold",
+        "Colorful",
+        "Organic",
+        "Nature-Inspired",
+        "Reclaimed Materials",
+        "Upcycled",
+        "Eco-Friendly"
+    ],
+    "negative": [
+        "Mass Produced",
+        "Industrial",
+        "Sterile",
+        "Uninspired",
+        "Conventional",
+        "Monotonous",
+        "Bland",
+        "Synthetic",
+        "Over-Processed",
+        "Wasteful",
+        "Environmentally Harmful"
+    ]
+}

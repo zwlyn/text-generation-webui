@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Celebrity",
+        "Glamour",
+        "Hollywood",
+        "Red Carpet",
+        "Chic",
+        "Elegant",
+        "Sophisticated",
+        "Classy",
+        "Confident",
+        "Charismatic",
+        "Striking A Pose",
+        "Alluring",
+        "Magnetizing",
+        "Enigmatic",
+        "Dazzling",
+        "Mysterious",
+        "Captivating",
+        "Glamorous Lighting",
+        "Fashionable"
+    ],
+    "negative": [
+        "Ordinary",
+        "Average",
+        "Unremarkable",
+        "Hesitant",
+        "Shy",
+        "Self-Conscious",
+        "Unglamorous",
+        "Modest",
+        "Inconspicuous",
+        "Dull",
+        "Mundane",
+        "Plain"
+    ]
+}

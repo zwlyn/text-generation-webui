@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Beach Soccer",
+        "Sunlit Scenario",
+        "Teamwork",
+        "Coastal Backdrop",
+        "Casual Attire",
+        "Ocean Breeze",
+        "Sand Playing Field",
+        "Laughing Teammates",
+        "Vibrant Colors",
+        "Relaxed Atmosphere",
+        "Endless Sky",
+        "Framed By Palm Trees",
+        "Sunlit Faces",
+        "Warm Tones",
+        "Candid Moments",
+        "Cheering Crowd",
+        "Beachside Refreshments"
+    ],
+    "negative": [
+        "Rainy Weather",
+        "Muddy Pitch",
+        "Disorganized Gameplay",
+        "Overcast Skies",
+        "Wet and Miserable",
+        "Abandoned Beach Gear",
+        "Deserted Shoreline",
+        "Gloomy Atmosphere",
+        "Threatening Clouds",
+        "Unruly Spectators",
+        "Littered Surroundings",
+        "Bleak Landscape",
+        "Forsaken Equipment",
+        "Damp Clothing"
+    ]
+}

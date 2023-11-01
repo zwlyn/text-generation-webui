@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Urban Nightlife",
+        "Neon Lights",
+        "Stylish Outfit",
+        "Confidence",
+        "Attractive Male",
+        "Glamorous Cityscape",
+        "Reflection",
+        "Night Skyline",
+        "Futuristic Atmosphere",
+        "Sophisticated Gentleman",
+        "Mysterious Expression",
+        "Charming Smile",
+        "Captivating Gaze",
+        "Cool and Collected",
+        "Alluring Lighting",
+        "Elegant Posture",
+        "Dashing Male",
+        "City Vibrancy"
+    ],
+    "negative": [
+        "Abandoned City",
+        "Loneliness",
+        "Dark Corners",
+        "Shadows",
+        "Fearful Expression",
+        "Urban Chaos",
+        "Pollution",
+        "Desolation",
+        "Crime-Ridden Area",
+        "Vandalism",
+        "Gloominess",
+        "Unpleasant Atmosphere",
+        "Suspicious Individuals",
+        "Dangerous Encounter",
+        "Overwhelming Crowd",
+        "Traffic Congestion",
+        "Loud Noises"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Feminine touch",
+        "Sensual cooking",
+        "Intriguing aroma",
+        "Tantalizing textures",
+        "Elegant presentation",
+        "Soft lighting",
+        "Inviting ambiance",
+        "Intimate dining experience",
+        "Fine dining meets sensual pleasure"
+    ],
+    "negative": [
+        "Overcooked meal",
+        "Lack of flavor",
+        "Cold dish",
+        "Messy presentation",
+        "Harsh lighting",
+        "Uncomfortable atmosphere",
+        "Rushed service",
+        "Inattentive staff",
+        "Noisy environment",
+        "Fast food ambiance"
+    ]
+}

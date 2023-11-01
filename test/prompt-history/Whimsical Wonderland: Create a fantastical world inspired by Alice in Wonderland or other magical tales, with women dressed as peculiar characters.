@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Alice in Wonderland",
+        "Magical Characters",
+        "Wonderland Inspired",
+        "Peculiar Women",
+        "Fantastical Scenery",
+        "Enchanted Forest",
+        "Colorful Costumes",
+        "Whimsical Atmosphere",
+        "Cheshire Cat Grin",
+        "Mad Hatter Tea Party"
+    ],
+    "negative": [
+        "Dull Colors",
+        "No Imagination",
+        "Ordinary Characters",
+        "Realistic Scenery",
+        "Sad Atmosphere",
+        "Gloomy Forest",
+        "Boring Costumes",
+        "Uninspired Styles",
+        "Dull Lighting",
+        "Lack of Creativity"
+    ]
+}

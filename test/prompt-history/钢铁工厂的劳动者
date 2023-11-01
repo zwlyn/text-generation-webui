@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Industrial Worker",
+        "Factory Scene",
+        "Heavy Machinery",
+        "Steampunk Aesthetic",
+        "Gears and Cogs",
+        "Innovative Technology",
+        "Manual Labor",
+        "Working Class Hero",
+        "Oil Rig",
+        "Power Plant",
+        "Mining Equipment",
+        "Hard Hat",
+        "Safety Glasses",
+        "Tough Conditions",
+        "Skilled Laborer"
+    ],
+    "negative": [
+        "Dangerous Workplace",
+        "Heavy Pollution",
+        "Unsafe Working Conditions",
+        "Exploited Labor",
+        "Outdated Facilities",
+        "Mechanical Failure",
+        "Injuries on the Job",
+        "Lack of Safety Procedures",
+        "Exhausting Labor",
+        "Workplace Accidents",
+        "Discrimination",
+        "Unfair Wages",
+        "Child Labor",
+        "Sweatshop Conditions",
+        "Overworked Employees"
+    ]
+}

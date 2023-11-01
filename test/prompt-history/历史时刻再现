@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Futuristic Architecture",
+        "Advanced Technology",
+        "Holographic Displays",
+        "Sleek Vehicles",
+        "Robotic Assistants",
+        "Urban Innovation",
+        "Neon-Lit Streets",
+        "High-Tech Gadgets",
+        "Sustainable Living",
+        "Cybernetic Enhancements",
+        "Futuristic Fashion Trends",
+        "Artificial Intelligence",
+        "Augmented Reality Applications",
+        "Smart City Features",
+        "Urban Green Spaces",
+        "Efficient Transportation Systems"
+    ],
+    "negative": [
+        "Overcrowded Cities",
+        "Pollution and Smog",
+        "Traffic Congestion",
+        "Crime and Violence",
+        "Income Inequality",
+        "Homelessness and Poverty",
+        "Cybersecurity Threats",
+        "Rising Cost of Living",
+        "Gentrification and Displacement",
+        "Urban Sprawl",
+        "Health Issues",
+        "Social Unrest",
+        "Divided Society",
+        "Ineffective Governance",
+        "Natural Disasters",
+        "Climate Change Impacts"
+    ]
+}

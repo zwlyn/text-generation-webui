@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Theater",
+        "Stage Lighting",
+        "Dramatic Poses",
+        "Expressive Faces",
+        "Costume Design",
+        "Performance Art",
+        "Choreography",
+        "Body Language",
+        "Emotion",
+        "Storytelling",
+        "Sets and Scenery",
+        "Makeup Magic",
+        "Projection Mapping",
+        "Avant-Garde Staging",
+        "Interactive Theater",
+        "Immersive Experience"
+    ],
+    "negative": [
+        "Amateurish",
+        "Off-Key Voice",
+        "Incoherent Plot",
+        "Unimaginative Set Design",
+        "Subpar Costumes",
+        "Flat Acting",
+        "Lack of Emotion",
+        "Disjointed Choreography",
+        "Confusing Lighting",
+        "Mismatched Color Schemes",
+        "Poor Makeup Application",
+        "Overused Props",
+        "Static Staging",
+        "Boring Monologues"
+    ]
+}

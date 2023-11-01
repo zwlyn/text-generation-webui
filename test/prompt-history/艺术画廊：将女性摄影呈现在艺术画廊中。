@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Elegant",
+        "Classy",
+        "Feminine",
+        "Artistic",
+        "Creative",
+        "Gallery Atmosphere",
+        "Chic",
+        "Stylish",
+        "Beautiful",
+        "Alluring",
+        "Captivating",
+        "Intriguing",
+        "Mysterious",
+        "Dramatic Lighting",
+        "Ethereal",
+        "Enigmatic",
+        "Timeless",
+        "Serene",
+        "Refined"
+    ],
+    "negative": [
+        "Disjointed",
+        "Disorganized",
+        "Unappealing",
+        "Harsh",
+        "Sloppy",
+        "Messy",
+        "Confusing",
+        "Annoying",
+        "Jarring",
+        "Noisy",
+        "Ungraceful",
+        "Tacky",
+        "Overwhelming",
+        "Frantic",
+        "Unsophisticated",
+        "Discordant"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Futuristic",
+        "Cyberpunk",
+        "Urban Exploration",
+        "Sleek Designs",
+        "Advanced Technology",
+        "Neon Lights",
+        "Holographic Displays",
+        "Fashionable",
+        "Innovative Architecture",
+        "Revolutionary Transportation",
+        "Metallic Surfaces",
+        "Glowing Elements",
+        "Exotic Environments",
+        "Cool Tones",
+        "Engineer",
+        "Sci-Fi Chic"
+    ],
+    "negative": [
+        "Post-Apocalyptic",
+        "Dark Environment",
+        "Urban Decay",
+        "Grimy Detail",
+        "Broken Technology",
+        "Pollution",
+        "Surveillance Society",
+        "Isolation",
+        "Desolation",
+        "Cybercrime",
+        "System Failure",
+        "Dystopian Future",
+        "Ruined Cityscape",
+        "Corruption",
+        "Hackers",
+        "Underground World",
+        "Chaos",
+        "Resistance"
+    ]
+}

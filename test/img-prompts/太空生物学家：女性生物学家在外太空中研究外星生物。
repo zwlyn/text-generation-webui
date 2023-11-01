@@ -1,0 +1,21 @@
+{
+    "positive": [
+        "Space Exploration",
+        "Extraterrestrial Life",
+        "Futuristic Laboratory",
+        "Advanced Technology",
+        "Diverse Ecosystems",
+        "Astrobiology Research",
+        "Pioneering Scientist",
+        "Inspiring Discoveries"
+    ],
+    "negative": [
+        "Isolation",
+        "Loneliness",
+        "Dangerous Environment",
+        "Cutting-edge Technology Risks",
+        "Uncharted Territory Challenges",
+        "Alien Species Threats",
+        "Extraterrestrial Contamination"
+    ]
+}

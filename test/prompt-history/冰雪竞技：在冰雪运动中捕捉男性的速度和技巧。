@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Ice",
+        "Snow",
+        "Winter Sports",
+        "Speed",
+        "Agility",
+        "Freestyle",
+        "Graceful",
+        "Athleticism",
+        "Endurance",
+        "Determination",
+        "Team Spirit",
+        "Competition",
+        "Outdoor Adventure",
+        "Landscape",
+        "Nature",
+        "Motion Blur"
+    ],
+    "negative": [
+        "Icy Conditions",
+        "Slippery Surfaces",
+        "Injury",
+        "Unfavorable Weather",
+        "Poor Visibility",
+        "Accidents",
+        "Risk of Falling",
+        "Cold Temperatures",
+        "Physical Strain",
+        "Mental Fatigue"
+    ]
+}

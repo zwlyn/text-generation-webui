@@ -1,0 +1,23 @@
+{
+    "positive": [
+        "Desert Exploration",
+        "Sunset Silhouette",
+        "Survival Skills",
+        "Navigating Dunes",
+        "Endurance and Perseverance",
+        "Camel Riding",
+        "Starry Sky",
+        "Oasis Discovery",
+        "Ancient Ruins"
+    ],
+    "negative": [
+        "Dehydration Risks",
+        "Sandstorm Hazards",
+        "Limited Resources",
+        "Harsh Environment",
+        "Solitude and Isolation",
+        "Navigation Challenges",
+        "Extreme Temperatures",
+        "Desert Dangers"
+    ]
+}

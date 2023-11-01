@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Eco-Friendly",
+        "Sustainable Living",
+        "Community Engagement",
+        "Environmental Activism",
+        "Green Initiatives",
+        "Nature Conservation",
+        "Climate Action",
+        "Recycling Programs",
+        "Renewable Energy",
+        "Waste Reduction",
+        "Green Spaces",
+        "Urban Gardening",
+        "Sustainable Fashion"
+    ],
+    "negative": [
+        "Pollution",
+        "Environmental Degradation",
+        "Resource Depletion",
+        "Climate Change Denial",
+        "Inefficient Technologies",
+        "Waste Disposal Problems",
+        "Deforestation",
+        "Overfishing",
+        "Species Extinction",
+        "Air Pollution",
+        "Water Pollution",
+        "Noise Pollution"
+    ]
+}

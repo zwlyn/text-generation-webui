@@ -1,0 +1,23 @@
+{
+    "positive": [
+        "Ancient Secrets",
+        "Mysterious Relics",
+        "Hidden Knowledge",
+        "Sacred Artifacts",
+        "Enigmatic Rituals",
+        "Forgotten Wisdom",
+        "Cryptic Symbols",
+        "Timeless Legends",
+        "Hallowed Ground"
+    ],
+    "negative": [
+        "Lost History",
+        "Forbidden Knowledge",
+        "Shadowy Forces",
+        "Dark Secrets",
+        "Vanishing Cultures",
+        "Unraveling Mysteries",
+        "Eternal Shadows",
+        "Forgotten Tales"
+    ]
+}

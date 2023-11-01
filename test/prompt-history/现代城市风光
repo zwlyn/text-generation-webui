@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Futuristic Skyline",
+        "Neon Streets at Night",
+        "High-Tech Cityscape",
+        "Sleek Architectural Designs",
+        "Urban Oasis",
+        "Innovative Infrastructure",
+        "Holographic Advertisements",
+        "Eco-Friendly Urban Living",
+        "Public Art Installations",
+        "Dynamic Transportation Systems",
+        "Virtual Reality Experiences",
+        "Sci-Fi Inspired Fashion Trends",
+        "High-Tech Smart City Features"
+    ],
+    "negative": [
+        "Abandoned Urban Spaces",
+        "Post-Apocalyptic Cityscapes",
+        "Graffiti-Covered Walls",
+        "Crumbling Infrastructure",
+        "Polluted Skies",
+        "Overcrowded Public Spaces",
+        "Broken Traffic Signals",
+        "Litter-Filled Streets",
+        "Gang Territories",
+        "Dilapidated Housing Projects",
+        "Corrupt Political Systems",
+        "Ruined Theme Parks",
+        "Urban Blight"
+    ]
+}

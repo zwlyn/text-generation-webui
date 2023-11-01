@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Nature-Inspired",
+        "Botanical Elements",
+        "Floral Patterns",
+        "Greenery",
+        "Lush Landscapes",
+        "Sustainable Style",
+        "Organic Materials",
+        "Biophilic Design",
+        "Geometric Shapes",
+        "Structural Plants",
+        "Textured Walls",
+        "Verdant Atmosphere",
+        "Nature-Inspired Grooming",
+        "Eco-Friendly",
+        "Urban Jungle",
+        "Living Wall",
+        "Sustainable Living",
+        "Botanical Prints"
+    ],
+    "negative": [
+        "Barren Landscape",
+        "Deserted Garden",
+        "Wilted Flowers",
+        "Dry Leaves",
+        "Unkempt Greenery",
+        "Decaying Nature",
+        "Geometric Shapes",
+        "Structural Plants",
+        "Textured Walls",
+        "Verdant Atmosphere",
+        "Nature-Inspired Grooming",
+        "Eco-Friendly"
+    ]
+}

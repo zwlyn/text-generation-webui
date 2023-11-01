@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Eastern Aesthetics",
+        "Ornate Architecture",
+        "Traditional Artifacts",
+        "Beautiful Landscapes",
+        "Serene Gardens",
+        "Harmonious Design",
+        "Rich Textiles",
+        "Intricate Patterns",
+        "Delicate Embroidery",
+        "Soft Lighting",
+        "Gentle Color Palette",
+        "Refined Elegance"
+    ],
+    "negative": [
+        "Urban Chaos",
+        "Pollution",
+        "Overcrowding",
+        "Noise",
+        "Disrupted Harmony",
+        "Rude Behavior",
+        "Loud Colors",
+        "Harsh Lighting",
+        "Intrusive Patterns",
+        "Crass Materialism",
+        "Unrefined Design"
+    ]
+}

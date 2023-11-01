@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Dream Vacation",
+        "Exotic Adventure",
+        "Travel Fantasy",
+        "Glamorous Getaway",
+        "Ultimate Escape",
+        "Spectacular Scenery",
+        "Cultural Exploration",
+        "Natural Wonders",
+        "Architectural Marvels",
+        "Foodie's Paradise",
+        "Wellness Retreat",
+        "Extreme Sports",
+        "Luxurious Accommodations",
+        "Arts and Entertainment"
+    ],
+    "negative": [
+        "Tourist Trap",
+        "Overcrowded Attractions",
+        "Language Barrier",
+        "Cultural Misunderstandings",
+        "Inconvenient Transportation",
+        "Unhygienic Conditions",
+        "Pseudo-Culture Experience",
+        "Tour Group Nightmare",
+        "Souvenir Shop Madness",
+        "Gimmicky Activities",
+        "Boring City Tours",
+        "Disappointing Meals",
+        "Insufficient Information",
+        "Missed Opportunities"
+    ]
+}

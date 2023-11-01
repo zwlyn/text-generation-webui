@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Colorful",
+        "Vibrant",
+        "Chromatic",
+        "Spectrum",
+        "Harmonious",
+        "Rainbow Hues",
+        "Infinite Shades",
+        "Multicolored",
+        "Dazzling",
+        "Radiant",
+        "Lush",
+        "Bold",
+        "Rich",
+        "Glowing"
+    ],
+    "negative": [
+        "Muted",
+        "Faded",
+        "Desaturated",
+        "Monochromatic",
+        "Dull",
+        "Neutral",
+        "Subtle",
+        "Understated",
+        "Pale",
+        "Washed Out",
+        "Bland",
+        "Flat"
+    ]
+}

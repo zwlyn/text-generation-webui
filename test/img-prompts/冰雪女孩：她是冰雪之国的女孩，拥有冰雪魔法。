@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Ice",
+        "Snow",
+        "Magic",
+        "Female",
+        "Girl",
+        "Winter Wonderland",
+        "Crystal Clear",
+        "Frozen",
+        "Chilling",
+        "Enchanted Forest",
+        "Mystical Creatures",
+        "Whiteout Conditions",
+        "Serene Beauty",
+        "Sparkling Ice Sculptures",
+        "Glistening Snowflakes",
+        "Dazzling Light Show",
+        "Arctic Ambiance",
+        "Polar Opposites"
+    ],
+    "negative": [
+        "Burning Heatwave",
+        "Desert Desolation",
+        "Scorching Sun",
+        "Drought Stricken",
+        "Fiery Inferno",
+        "Melting Ice Caps",
+        "Global Warming",
+        "Sweltering Conditions",
+        "Cracked Earth",
+        "Bleached Coral Reefs",
+        "Dry Riverbeds",
+        "Withered Vegetation",
+        "Searing Sandstorms",
+        "Parched Landscapes",
+        "Thirsty Animals"
+    ]
+}

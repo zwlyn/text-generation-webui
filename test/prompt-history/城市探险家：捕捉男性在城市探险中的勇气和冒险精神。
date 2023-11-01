@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Adventurous",
+        "Brave",
+        "Courageous",
+        "Daring",
+        "Determined",
+        "Explorer",
+        "Fearless",
+        "Gutsy",
+        "Intrepid",
+        "Investigator",
+        "Masculine",
+        "Persevering",
+        "Resolute",
+        "Rugged",
+        "Strong",
+        "Tenacity",
+        "Urban Jungle"
+    ],
+    "negative": [
+        "Abandoned",
+        "Dangerous",
+        "Desolate",
+        "Forsaken",
+        "Gloomy",
+        "Haunted",
+        "Hazardous",
+        "Isolated",
+        "Lonely",
+        "Mysterious",
+        "Ominous",
+        "Overgrown",
+        "Perilous",
+        "Seedy",
+        "Shadowy",
+        "Spooky",
+        "Unsafe"
+    ]
+}

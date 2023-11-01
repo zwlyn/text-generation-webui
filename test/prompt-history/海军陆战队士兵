@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Military Uniform",
+        "Ocean Views",
+        "Disciplined Stance",
+        "Saluting Soldier",
+        "Proud Moment",
+        "Warship in Background",
+        "Naval Base",
+        "Insignia",
+        "Ceremonial Dress",
+        "Marching Band",
+        "Flag Ceremony",
+        "Honor Guard",
+        "Parade",
+        "Military Drill",
+        "Camouflage Gear",
+        "Training Exercise"
+    ],
+    "negative": [
+        "Abandoned Bunker",
+        "Deserted Beach",
+        "Scavenged Equipment",
+        "Lost Morale",
+        "War-Torn Landscape",
+        "Ruined Structure",
+        "Forlorn Soldier",
+        "Forgotten Weaponry",
+        "Battle Scars",
+        "Graffiti on Walls",
+        "Broken Windows",
+        "Vandalized Vehicle",
+        "Desecrated Memorial",
+        "Littered Ground",
+        "Discarded Rations"
+    ]
+}

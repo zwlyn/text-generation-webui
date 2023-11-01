@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Ancient Traditions",
+        "Cultural Heritage",
+        "Timeless Elegance",
+        "Historical Architecture",
+        "Sacred Rituals",
+        "Mystic Symbols",
+        "Artisanal Craftsmanship",
+        "Nostalgic Atmosphere",
+        "Folk Customs",
+        "Rural Life",
+        "Family Bonds",
+        "Community Spirit",
+        "Storytelling",
+        "Elders' Wisdom"
+    ],
+    "negative": [
+        "Modern Invasion",
+        "Cultural Disintegration",
+        "Architectural Decay",
+        "Abandoned Rituals",
+        "Lost Symbols",
+        "Factory Farms",
+        "Urban Sprawl",
+        "Erasing History",
+        "Disconnection",
+        "Generation Gap",
+        "Environmental Destruction",
+        "Family Breakdown",
+        "Ignoring Roots",
+        "Anonymity"
+    ]
+}

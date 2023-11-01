@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Urban Chic",
+        "Street Style",
+        "Vibrant Colors",
+        "Dynamic Shapes",
+        "Futuristic Fashion",
+        "Sleek Haircuts",
+        "High-Tech Accessories",
+        "Retro-Futurism",
+        "Cool Neon Tones",
+        "Holographic Makeup",
+        "Cyborg Aesthetics"
+    ],
+    "negative": [
+        "Gloomy Streets",
+        "Dark Corners",
+        "Abandoned Architecture",
+        "Polluted Atmosphere",
+        "Dull Colors",
+        "Unkempt Appearance",
+        "Outdated Technology",
+        "Grim Expressions",
+        "Isolated Figures",
+        "Desolate Scenes",
+        "Digital Dystopia",
+        "Oppressive Atmosphere"
+    ]
+}

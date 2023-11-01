@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Ancient Greek",
+        "Mythological Creatures",
+        "Legendary Beauty",
+        "Gods and Goddesses",
+        "Epic Adventures",
+        "Heroic Deeds",
+        "Sacred Sites",
+        "Timeless Tales",
+        "Celestial Beings",
+        "Divine Powers",
+        "Immortal Stories",
+        "Chthonic Forces",
+        "Fabled Landscapes",
+        "Elysian Fields",
+        "Mystic Realms"
+    ],
+    "negative": [
+        "Lost Civilization",
+        "Sacrilege",
+        "Ancient Curses",
+        "Ominous Omens",
+        "Wrathful Deities",
+        "Fallen Heroes",
+        "Desecrated Shrines",
+        "Shadowy Forces"
+    ]
+}

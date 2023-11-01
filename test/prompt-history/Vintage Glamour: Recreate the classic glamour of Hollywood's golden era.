@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Glamorous",
+        "Elegant",
+        "Classy",
+        "Vintage",
+        "Hollywood Golden Era Glamour",
+        "Iconic Beauty",
+        "Red Lips",
+        "Cigarette Holder",
+        "Fur Stole",
+        "Champagne Glass",
+        "Diamonds",
+        "Silk Dress",
+        "Oscars Glitz"
+    ],
+    "negative": [
+        "Tacky",
+        "Cheap Imitation",
+        "Overdone Makeup",
+        "Bad Wigs",
+        "Outdated Styles",
+        "Kitsch",
+        "Garish Colors",
+        "Bling Overload",
+        "Fake Tan",
+        "Plastic Surgery Disasters",
+        "Cringe-Worthy Poses",
+        "Vulgar Display of Wealth"
+    ]
+}

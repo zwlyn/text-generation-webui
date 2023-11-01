@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Elegant Minimalism",
+        "Simplicity",
+        "Less is More",
+        "Clean Lines",
+        "Neutral Colors",
+        "Minimalist Fashion",
+        "Natural Lighting",
+        "Solid Backgrounds",
+        "Geometric Shapes",
+        "Balance",
+        "Asymmetry",
+        "Zen Aesthetic",
+        "Wabi Sabi",
+        "Serene Atmosphere",
+        "Uncluttered Space",
+        "Functional Design",
+        "Timeless Appeal"
+    ],
+    "negative": [
+        "Cluttered",
+        "Overwhelming Details",
+        "Intricate Patterns",
+        "Bright Colors",
+        "Fussy Accessories",
+        "Harsh Lighting",
+        "Busy Backgrounds",
+        "Unsymmetrical Composition",
+        "Disrupted Harmony",
+        " chaotic Atmosphere",
+        "Crowded Scenes"
+    ]
+}

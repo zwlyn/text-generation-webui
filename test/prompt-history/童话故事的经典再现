@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Fairy Tale",
+        "Enchanted Forest",
+        "Magical Creatures",
+        "Whimsical Atmosphere",
+        "Charming",
+        "Mysterious Technologies",
+        "Futuristic Gadgets",
+        "Wondrous Inventions",
+        "Playful Robots",
+        "Celestial Bodies",
+        "Glowing Orbs",
+        "Dreamy Landscapes",
+        "Lush Greenery",
+        "Soft Textures"
+    ],
+    "negative": [
+        "Industrial Decay",
+        "Abandoned Technology",
+        "Broken Magic",
+        "Forgotten Tales",
+        "Deserted Forest",
+        "Neglected Inventions",
+        "Dark Corners",
+        "Hidden Machinery",
+        "Somber Atmosphere",
+        "Shadowy Creatures",
+        "Ominous Gadgets",
+        "Hiding Robots",
+        "Eerie Landscapes",
+        "Scattered Debris"
+    ]
+}

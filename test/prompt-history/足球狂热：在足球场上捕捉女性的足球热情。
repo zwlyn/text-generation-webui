@@ -1,0 +1,17 @@
+{
+    "positive": [
+        "Teamwork",
+        "Camaraderie",
+        "Skill Demonstration",
+        "Goal Celebrations",
+        "Sportsmanship",
+        "Resilience",
+        "Passion for the Game"
+    ],
+    "negative": [
+        "Injuries",
+        "Conflicts",
+        "Poor Performance",
+        "Adverse Weather Conditions"
+    ]
+}

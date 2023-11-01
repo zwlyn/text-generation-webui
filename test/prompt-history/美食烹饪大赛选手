@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Chef Competition",
+        "Cooking Skills",
+        "Culinary Arts",
+        "Gourmet Dishes",
+        "Kitchen Mastery",
+        "Food Presentation",
+        "Creative Recipes",
+        "Innovative Techniques",
+        "Savory Flavors",
+        "Delightful Tastes",
+        "Menu Creation",
+        "Victorious Chef"
+    ],
+    "negative": [
+        "Cooking Disaster",
+        "Burnt Desserts",
+        "Mismatched Flavors",
+        "Failed Recipes",
+        "Unappetizing Meals",
+        "Kitchen Chaos",
+        "Messy Kitchens",
+        "Recipe Failure",
+        "Tasteless Meals",
+        "Menu Catastrophe"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "positive": [
+        "Seafaring",
+        "Adventure",
+        "Pirates",
+        "Treasure Island",
+        "Sunset",
+        "Beach",
+        "Paradise",
+        "Relaxation",
+        "Freedom"
+    ],
+    "negative": [
+        "Shipwrecked",
+        "Stormy Seas",
+        "Lost at Sea",
+        "Deserted Island",
+        "Pirate Attack",
+        "Sunken Treasure",
+        "Death",
+        "Capture"
+    ]
+}

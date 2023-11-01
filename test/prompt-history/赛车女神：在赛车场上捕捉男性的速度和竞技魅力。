@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Speed",
+        "Acceleration",
+        "Agility",
+        "Competition",
+        "Performance",
+        "Adrenaline Rush",
+        "Winning",
+        "Thrilling",
+        "Skillful Driving",
+        "Racing Line",
+        "Gear Shift",
+        "Pedal Control",
+        "Aerodynamics",
+        "Car Tuning",
+        "Victory",
+        "Excitement"
+    ],
+    "negative": [
+        "Crashes",
+        "Collisions",
+        "Reckless Driving",
+        "Car Damage",
+        "Injuries",
+        "Fatalities",
+        "Traffic Congestion",
+        "Road Rage",
+        "Pollution",
+        "Noise Pollution",
+        "Unsafe Conditions",
+        "Loss of Control",
+        "Mechanical Failure",
+        "Dangerous Curves",
+        "Slippery Surfaces"
+    ]
+}

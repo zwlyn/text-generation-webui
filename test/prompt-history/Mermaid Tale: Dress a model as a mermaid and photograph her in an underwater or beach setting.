@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Magical Mermaid",
+        "Underwater Fantasy",
+        "Sea Creatures",
+        "Sirens of the Sea",
+        "Beach Paradise",
+        "Ocean Magic",
+        "Marine Life",
+        "Coral Reefs",
+        "Waves Crashing",
+        "Submerged Treasure",
+        "Fish-Tail",
+        "Glittering Scale",
+        "Mystical Underwater World",
+        "Sunlit Depths",
+        "Seaweed",
+        "Nautilus Shell",
+        "Underwater Garden"
+    ],
+    "negative": [
+        "Loneliness",
+        "Dangerous Depths",
+        "Sea Monsters",
+        "Shipwrecks",
+        "Lost at Sea",
+        "Pirates",
+        "Cursed Treasure",
+        "Drowning",
+        "Crushing Pressure",
+        "Fear of the Deep",
+        "Sunken City",
+        "Haunted Waters",
+        "Stormy Seas",
+        "Ghost Ships",
+        "Whirlpools",
+        "Tidal Waves",
+        "Briny Water"
+    ]
+}

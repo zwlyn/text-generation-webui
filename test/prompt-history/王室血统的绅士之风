@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Regal",
+        "Elegant",
+        "Noble",
+        "Glamorous",
+        "Sophisticated",
+        "Royal Court",
+        "Crown Jewels",
+        "Palace Ball",
+        "Monarch",
+        "Aristocrat",
+        "Prestige",
+        "Luxury",
+        "Opulence",
+        "Majestic"
+    ],
+    "negative": [
+        "Rebellion",
+        "Revolution",
+        "Uprising",
+        "Protest",
+        "Civil Unrest",
+        "Bloodshed",
+        "Strife",
+        "Conflict",
+        "Discord",
+        "Anarchy",
+        "Inequality",
+        "Oppression",
+        "Tyranny",
+        "Class Struggle"
+    ]
+}

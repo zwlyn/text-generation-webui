@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Electronic Music",
+        "Dance Club",
+        "Neon Lights",
+        "Glow Sticks",
+        "Beats",
+        "Techno Rhythm",
+        "High Energy",
+        "Vibrant Atmosphere",
+        "Synthesizer",
+        "EDM Festival",
+        "Dancing Queens",
+        "Euphoria",
+        "Rave Wear",
+        "Club Culture"
+    ],
+    "negative": [
+        "Noise Pollution",
+        "Overcrowded",
+        "Sweaty Dancers",
+        "Loud Music",
+        "Headache",
+        "Dehydration",
+        "Tired Dancers",
+        "Bad Acid Trip",
+        "Rudeness",
+        "Fighting",
+        "Drugs",
+        "Theft",
+        "Unwanted Advances",
+        "Stalkers",
+        "Lack of Empathy"
+    ]
+}

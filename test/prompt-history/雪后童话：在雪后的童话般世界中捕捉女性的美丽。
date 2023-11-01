@@ -1,0 +1,27 @@
+{
+    "positive": [
+        "Mystical",
+        "Fantastical",
+        "Whimsical",
+        "Enchanted",
+        "Magical Creatures",
+        "Snow Queen",
+        "Icicle",
+        "Winter Wonderland",
+        "Crystal Clear",
+        "Glistening",
+        "Dreamy"
+    ],
+    "negative": [
+        "Abandoned",
+        "Desolate",
+        "Frozen",
+        "Isolated",
+        "Lonely",
+        "Forgotten",
+        "Chilling",
+        "Harsh Conditions",
+        "Snowdrifts",
+        "Ice Sculptures"
+    ]
+}

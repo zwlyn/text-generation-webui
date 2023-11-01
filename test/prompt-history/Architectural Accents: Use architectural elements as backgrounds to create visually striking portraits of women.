@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Sleek Lines",
+        "Modern Design",
+        "Geometric Shapes",
+        "Futuristic Glamour",
+        "Elegant Architecture",
+        "Innovative Materials",
+        "Urban Oasis",
+        "Reflective Surfaces",
+        "Bold Colors",
+        "Stylish Details",
+        "Dynamic Angles",
+        "Organic Forms",
+        "Contemporary Flair",
+        "Luxurious Finishes"
+    ],
+    "negative": [
+        "Cacophonous Layouts",
+        "Disjointed Designs",
+        "Overwhelming Complexity",
+        "Dystopian Atmosphere",
+        "Somber Tones",
+        "Intrusive Structures",
+        "Uninviting Spaces",
+        "Monotonous Textures",
+        "Faded Colors",
+        "Unelegant Features",
+        "Jarring Juxtapositions",
+        "Disorganized Composition"
+    ]
+}

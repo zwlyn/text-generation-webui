@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Mountain Views",
+        "Adventurous Spirit",
+        "Nature Exploration",
+        "Crystal Clear Skies",
+        "Challenge Accepted",
+        "Glorious Sunrise",
+        "Awe-Inspiring Peaks",
+        "Wildflower Meadows",
+        "Babbling Brooks",
+        "Rugged Trails",
+        "Reconnect With Nature",
+        "Freedom",
+        "Serenity",
+        "Timeless Beauty",
+        "Majestic Scenery"
+    ],
+    "negative": [
+        "Steep Cliffs",
+        "Unpredictable Weather",
+        "Dangerous Terrain",
+        "Exhausting Ascent",
+        "Threatening Clouds",
+        "Lonely Journey",
+        "Risky Pathways",
+        "Slippery Rocks",
+        "Treacherous Footholds",
+        "Fear of Heights",
+        "Harsh Conditions",
+        "Isolated Location",
+        "Unstable Ground",
+        "Hazardous Obstacles"
+    ]
+}

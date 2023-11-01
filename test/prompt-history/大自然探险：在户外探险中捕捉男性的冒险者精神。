@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Adventure",
+        "Wilderness",
+        "Exploration",
+        "Nature Lovers",
+        "Hiking Gear",
+        "Backpacking",
+        "Campfire",
+        "Scenic Views",
+        "Rugged Terrain",
+        "Outdoor Sports",
+        "Sunrise",
+        "Sunset",
+        "Mountains",
+        "Forests",
+        "Rivers",
+        "Lakes"
+    ],
+    "negative": [
+        "Dangerous Wildlife",
+        "Inclement Weather",
+        "Terrain Hazards",
+        "Insect Bites",
+        "Dehydration",
+        "Hypothermia",
+        "Fatigue",
+        "Bushwhacking",
+        "GPS Malfunction",
+        "Lost",
+        "Ultraviolet Radiation Exposure",
+        "Thirst",
+        "Exhaustion"
+    ]
+}

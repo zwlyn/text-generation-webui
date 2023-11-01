@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Enchanted",
+        "Magical",
+        "Whimsical",
+        "Dreamlike",
+        "Mystical",
+        "Charming",
+        "Fantastical",
+        "Ethereal",
+        "Otherworldly",
+        "Sparkling",
+        "Nymph-like",
+        "Arcadian",
+        "Idyllic",
+        "Lush",
+        "Radiant",
+        "Wondrous",
+        "Spellbinding"
+    ],
+    "negative": [
+        "Gloomy",
+        "Desolate",
+        "Dark Magic",
+        "Unsettling",
+        "Ominous",
+        "Forbidden Knowledge",
+        "Mysterious Creatures",
+        "Hidden Dangers",
+        "Cursed",
+        "Frightening",
+        "Sinister",
+        "Unexplained Events",
+        "Chilling",
+        "Eerie",
+        "Haunted",
+        "Apprehensive",
+        "Shadowy"
+    ]
+}

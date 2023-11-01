@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Elegant",
+        "Refined",
+        "Gentlemanly",
+        "Fine Dining",
+        "Artistic",
+        "Aesthetic",
+        "Cultured",
+        "Charming",
+        "Sophisticated",
+        "Timeless",
+        "Classic",
+        "Traditional"
+    ],
+    "negative": [
+        "Informal",
+        "Disorderly",
+        "Uncouth",
+        "Messy",
+        "Overdone",
+        "Tacky",
+        "Vulgar",
+        "Loud",
+        "Brash",
+        "Modern",
+        "Faddish",
+        "Garish"
+    ]
+}

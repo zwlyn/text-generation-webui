@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Wilderness",
+        "Adventure",
+        "Courageous Women",
+        "Female Empowerment",
+        "Exploration",
+        "Discovery",
+        "Nature",
+        "Beautiful Landscapes",
+        "Challenges Conquered",
+        "Inspirational Journeys",
+        "Rugged Terrain",
+        "Spectacular Views",
+        "Glamping",
+        "Women's Adventures",
+        "Outdoor Activities",
+        "Campsite Scenes",
+        "Hiking Trails"
+    ],
+    "negative": [
+        "Dangerous Animals",
+        "Remote Locations",
+        "Inclement Weather",
+        "Isolated Campsites",
+        "Risky Situations",
+        "Treacherous Terrain",
+        "Limited Resources",
+        "Exhaustion",
+        "Fear of the Unknown",
+        "Unpredictable Nature",
+        "Hazardous Conditions",
+        "Roughing It",
+        "Wildlife Threats",
+        "Unexplored Territory",
+        "Extreme Challenges"
+    ]
+}

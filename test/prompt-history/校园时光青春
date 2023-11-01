@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Innocent",
+        "Youthful",
+        "Campus Life",
+        "Friendship",
+        "Love",
+        "Memories",
+        "Happiness",
+        "Dreams Come True",
+        "Pure Hearts",
+        "Optimism",
+        "Endless Possibilities",
+        "Bright Future",
+        "Growing Up"
+    ],
+    "negative": [
+        "Loneliness",
+        "Peer Pressure",
+        "Unrequited Love",
+        "Regret",
+        "Broken Friendships",
+        "Farewells",
+        "Nostalgia",
+        "Failed Dreams",
+        "Loss of Innocence",
+        "Heartache",
+        "Growing Pains"
+    ]
+}

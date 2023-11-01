@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Futuristic",
+        "Urban",
+        "Nightlife",
+        "Illuminated",
+        "Sleek",
+        "Tech-savvy",
+        "Confident",
+        "Stylish",
+        "Chic",
+        "Glamorous",
+        "Neon",
+        "Lively",
+        "Dynamic"
+    ],
+    "negative": [
+        "Darkness",
+        "Shadows",
+        "Desolation",
+        "Isolation",
+        "Abandoned",
+        "Crime",
+        "Urban Decay",
+        "Pollution",
+        "Graffiti",
+        "Danger",
+        "Fear",
+        "Loneliness"
+    ]
+}

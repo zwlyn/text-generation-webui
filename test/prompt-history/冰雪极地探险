@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Ice Cave",
+        "Snowy Cliffs",
+        "Frozen Waterfall",
+        "Glacial Lake",
+        "Mountain Peak",
+        "Winter Wonderland",
+        "Northern Lights",
+        "Igloo Village",
+        "Arctic Tundra",
+        "Crystal Ice Formations",
+        "Polar Bear Encounter",
+        "Snowmobile Adventure",
+        "Dog Sled Expedition",
+        "Ice Fishing",
+        "Winter Sports"
+    ],
+    "negative": [
+        "Blizzard Conditions",
+        "Frostbite Risk",
+        "Avalanche Danger",
+        "Hypothermia Threat",
+        "Limited Oxygen Supply",
+        "Extreme Cold",
+        "Isolated Location",
+        "Unpredictable Weather",
+        "Whiteout Conditions",
+        "Permafrost Hazards",
+        "Thin Ice Risks",
+        "Starvation Concerns"
+    ]
+}

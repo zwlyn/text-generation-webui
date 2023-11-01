@@ -1,0 +1,27 @@
+{
+    "positive": [
+        "Eastern Aesthetic",
+        "Mysterious Orient",
+        "Ancient Traditions",
+        "Cultural Heritage",
+        "Ornate Details",
+        "Intricate Patterns",
+        "Delicate Textures",
+        "Rich Colors",
+        "Timeless Elegance",
+        "Far Eastern Allure",
+        "Exquisite Craftsmanship",
+        "Sacred Symbols",
+        "Harmonious Balance"
+    ],
+    "negative": [
+        "Overwhelming Complexity",
+        "Cultural Misconception",
+        "Superficial Appearance",
+        "Inaccessible Meaning",
+        "Exploitative Exotification",
+        "Oversimplified Stereotypes",
+        "Loss of Identity",
+        "Commercialized Culture"
+    ]
+}

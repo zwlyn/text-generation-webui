@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Serene",
+        "Peaceful",
+        "Meditative",
+        "Balanced",
+        "Calm",
+        "Focused",
+        "Harmony",
+        "Quiet",
+        "Tranquil",
+        "Inner Strength",
+        "Gentle",
+        "Zen-like",
+        "Poise",
+        "Stability",
+        "Composed",
+        "Centered"
+    ],
+    "negative": [
+        "Chaos",
+        "Disorder",
+        "Unstable",
+        "Agitated",
+        "Frantic",
+        "Restless",
+        "Anxious",
+        "Frenetic",
+        "Turmoil",
+        "Panic",
+        "Stress",
+        "Unease",
+        "Unbalanced",
+        "Jittery",
+        "Disruptive"
+    ]
+}

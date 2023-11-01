@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "US Navy",
+        "Military Uniforms",
+        "Masculine Aesthetic",
+        "Naval Bases",
+        "Warships",
+        "Sailors",
+        "American Flags",
+        "Sea Operations",
+        "Drills",
+        "Training Exercises",
+        "Coastal Scenery",
+        "Ocean Depths",
+        "Surface Vessels",
+        "Submarines",
+        "Aircraft Carriers",
+        "Fleet Reviews"
+    ],
+    "negative": [
+        "Abandoned Ships",
+        "Decaying Dockyards",
+        "Deserted Naval Bases",
+        "Dilapidated Warships",
+        "Uniform Disarray",
+        "Naval Accidents",
+        "Shipwrecks",
+        "Military Defeats",
+        "Maritime Disasters",
+        "Piracy",
+        "Sea Battles",
+        "Cursed Treasures"
+    ]
+}

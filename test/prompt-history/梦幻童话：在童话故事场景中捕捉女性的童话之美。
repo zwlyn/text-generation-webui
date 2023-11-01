@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Magical",
+        "Whimsical",
+        "Dreamy",
+        "Fantastical",
+        "Mystical",
+        "Enchanted",
+        "Storybook",
+        "Charming",
+        "Wonderland",
+        "Fairytale",
+        "Mythical Creatures",
+        "Narnia",
+        "Alice in Wonderland",
+        "Oz",
+        "Legend"
+    ],
+    "negative": [
+        "Gritty",
+        "Dark",
+        "Haunting",
+        "Eerie",
+        "Spooky",
+        "Desolate",
+        "Abandoned",
+        "Creepy",
+        "Mysterious",
+        "Ominous",
+        "Shadows",
+        "Twilight",
+        "Unsettling",
+        "Ghostly",
+        "Forgotten",
+        "Eerie"
+    ]
+}

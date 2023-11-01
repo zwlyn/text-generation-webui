@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Military Rider",
+        "Desert Camouflage",
+        "Sandstorm Adventure",
+        "Stealthy Approach",
+        "All-Terrain Vehicle",
+        "Battle-Ready Gear",
+        "Camel Troops",
+        "Fortress Desert Base",
+        "Windswept Landscape",
+        "Mirage Illusion",
+        "Endurance Test",
+        "Survival Skills",
+        "Desert Warfare Tactics"
+    ],
+    "negative": [
+        "Sandstorm Hazard",
+        "Vehicle Malfunction",
+        "Dehydration Risks",
+        "Isolation and Solitude",
+        "Exhaustion and Fatigue",
+        "Navigation Challenges",
+        "Temperature Extremes",
+        "Sun Glare Distraction",
+        "Hostile Environment",
+        "Supply Line Difficulties"
+    ]
+}

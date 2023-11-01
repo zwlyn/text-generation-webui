@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Youthful Energy",
+        "First Love",
+        "Innocence",
+        "Adventure",
+        "Friendship",
+        "Coming of Age",
+        "Self-Discovery",
+        "Hope",
+        "Dreams",
+        "Futuristic Fashion",
+        "High-Tech",
+        "Urban Landscape",
+        "Neon Lights",
+        "Cyberpunk",
+        "Masculine"
+    ],
+    "negative": [
+        "Loss of Innocence",
+        "Regret",
+        "Unrequited Love",
+        "Broken Friendships",
+        "Fear",
+        "Angst",
+        "Peer Pressure",
+        "Bullying",
+        "Identity Crisis",
+        "Dystopian Cityscape",
+        "Post-Apocalyptic World",
+        "Alienation",
+        "Surveillance Society",
+        "Cyberbullying",
+        "Violence"
+    ]
+}

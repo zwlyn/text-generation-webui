@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Creative",
+        "Innovative",
+        "Visionary",
+        "Imaginative",
+        "Ingenious",
+        "Original",
+        "Stylish",
+        "Artistic",
+        "Aesthetic",
+        "Unconventional",
+        "Groundbreaking",
+        "Surprising",
+        "Inspirational"
+    ],
+    "negative": [
+        "Mundane",
+        "Boring",
+        "Conservative",
+        "Predictable",
+        "Overused",
+        "Cliché",
+        "Lacking Creativity",
+        "Tired Ideas",
+        "Uninspiring"
+    ]
+}

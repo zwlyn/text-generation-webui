@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Futuristic",
+        "Cyberpunk",
+        "Elegant",
+        "Sleek",
+        "Urban",
+        "Neon Lights",
+        "Holographic",
+        "Magical",
+        "Innovative",
+        "Chic",
+        "Reality",
+        "Cool",
+        "Metallic",
+        "Glowing",
+        "Exotic"
+    ],
+    "negative": [
+        "Dystopian",
+        "Post-Apocalyptic",
+        "Broken",
+        "Grimy",
+        "Polluted",
+        "Surveillance",
+        "Isolated",
+        "Desolate",
+        "Cybercrime",
+        "System Failure",
+        "Corruption"
+    ]
+}

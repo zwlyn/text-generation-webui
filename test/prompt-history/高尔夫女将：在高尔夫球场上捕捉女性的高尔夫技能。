@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Graceful Swing",
+        "Sunlit Green",
+        "Feminine Elegance",
+        "Classic Style",
+        "Soft Light",
+        "Calm Atmosphere",
+        "Confident Smile",
+        "Proud Stance",
+        "Golf Club Artistry",
+        "Champion Pose",
+        "Lush Landscape",
+        "Shining Trophy",
+        "Victorious Moment",
+        "Sportsmanship",
+        "Inspiring Coach"
+    ],
+    "negative": [
+        "Overcast Day",
+        "Missed Shot",
+        "Tense Frown",
+        "Discarded Clubs",
+        "Harsh Lighting",
+        "Angry Spectators",
+        "Lost in Thought",
+        "Fatigued Expression",
+        "Failed Attempt",
+        "Desolate Course",
+        "Broken Golf Cart",
+        "Ball Out of Bounds",
+        "Rainy Match",
+        "Wrong Swing Timing"
+    ]
+}

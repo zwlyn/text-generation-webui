@@ -1,0 +1,24 @@
+{
+    "positive": [
+        "Scientist Focus",
+        "Women in Lab",
+        "Lab Coats",
+        "Glasses",
+        "Intense Concentration",
+        "Studying Samples",
+        "Experimenting",
+        "High-Tech Equipment",
+        "Chemical Reactions",
+        "Scientific Discovery"
+    ],
+    "negative": [
+        "Distracted Scientist",
+        "Messy Laboratory",
+        "Late Night Work",
+        "Stress and Pressure",
+        "Failed Experiments",
+        "Burnout",
+        "Isolation",
+        "Long Hours"
+    ]
+}

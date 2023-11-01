@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Adventurous",
+        "Daring",
+        "Courageous",
+        "Persevering",
+        "Exploratory",
+        "Navigating",
+        "Innovative",
+        "Adaptive",
+        "Resilient",
+        "Visionary",
+        "Expedition",
+        "Discovery",
+        "Challenging",
+        "Undaunted"
+    ],
+    "negative": [
+        "Fearful",
+        "Apprehensive",
+        "Cautious",
+        "Anxious",
+        "Unsure",
+        "Hesitant",
+        "Tentative",
+        "Timid"
+    ]
+}

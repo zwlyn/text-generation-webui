@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Female Scientist",
+        "Experimentation",
+        "Innovative",
+        "High Tech Equipment",
+        "Science Lab",
+        "Optimistic Future",
+        "Visionary",
+        "Bold Colors",
+        "Cutting Edge Research",
+        "Advanced Technology",
+        "Collaboration",
+        "Precise",
+        "Eureka Moment",
+        "Breakthrough",
+        "Genius",
+        "Inspirational",
+        "Empowering",
+        "Trailblazer"
+    ],
+    "negative": [
+        "Isolated",
+        "Dark Corners",
+        "Uncontrolled Experiments",
+        "Cluttered Workspace",
+        "Outdated Equipment",
+        "Gloomy Atmosphere",
+        "Neglected Research",
+        "Lack of Resources",
+        "Disorganized Lab",
+        "Skepticism",
+        "Doubtful Future",
+        "Hesitant",
+        "Muted Colors",
+        "Resistance to Change",
+        "Complicated Equipment",
+        "Uncooperative",
+        "Inefficient"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Heroic",
+        "Brave",
+        "Rescue Mission",
+        "Adrenaline",
+        "Fearless",
+        "Teamwork",
+        "Valiant",
+        "Gallant",
+        "Firefighter",
+        "Rescuer",
+        "Aid",
+        "Savior",
+        "Daring",
+        "Courageous",
+        "Bold",
+        "Life-saving",
+        "Extinguish",
+        "Protective"
+    ],
+    "negative": [
+        "Despair",
+        "Victim",
+        "Peril",
+        "Panic",
+        "Smoke",
+        "Darkness",
+        "Trapped",
+        "Helpless",
+        "Rubble",
+        "Destruction",
+        "Collapse",
+        "Ashes"
+    ]
+}

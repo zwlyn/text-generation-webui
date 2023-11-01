@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Urban Beauty",
+        "Architectural Wonders",
+        "Stunning Views",
+        "City Skyline",
+        "Modern Marvels",
+        "Innovative Designs",
+        "Illuminated Structures",
+        "Futuristic Cityscapes",
+        "Artistic Angles",
+        "Dramatic Perspectives",
+        "Reflective Surfaces",
+        "Geometric Patterns",
+        "Vibrant Colors",
+        "Harmonious Symmetry"
+    ],
+    "negative": [
+        "Urban Chaos",
+        "Building Decay",
+        "Polluted Atmosphere",
+        "Construction Clutter",
+        "Overcrowded Spaces",
+        "Traffic Congestion",
+        "Graffiti Overload",
+        "Dilapidated Infrastructure",
+        "Crumbling Facades",
+        "Noise Pollution",
+        "Dirty Streets",
+        "Disjointed Layouts",
+        "Structural Disarray"
+    ]
+}

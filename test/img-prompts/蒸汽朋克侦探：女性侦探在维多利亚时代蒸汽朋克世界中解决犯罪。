@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Futuristic",
+        "Cyberpunk",
+        "Neon Lights",
+        "Sleek",
+        "Holographic",
+        "Urban Landscape",
+        "Metallic",
+        "Glowing",
+        "Exotic",
+        "Cool"
+    ],
+    "negative": [
+        "Post-Apocalyptic",
+        "Dark Alley",
+        "Grimy",
+        "Broken Technology",
+        "Pollution",
+        "Surveillance",
+        "Isolation",
+        "Desolation",
+        "Cybercrime"
+    ]
+}

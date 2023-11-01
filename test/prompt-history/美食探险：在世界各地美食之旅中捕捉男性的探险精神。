@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Futuristic Cuisine",
+        "Culinary Innovation",
+        "Experimental Cooking",
+        "Molecular Gastronomy",
+        "High-tech Kitchenware",
+        "Sustainable Ingredients",
+        "Urban Gardens",
+        "Vertical Farming",
+        "Local Produce",
+        "Farm-to-Table",
+        "Artisanal Production",
+        "Cultural Fusion",
+        "Global Flavors"
+    ],
+    "negative": [
+        "Overprocessed Foods",
+        "Genetically Modified Organisms",
+        "Unhealthy Diet",
+        "Factory Farming",
+        "Wasteful Practices",
+        "Environmental Pollution",
+        "Loss of Traditional Skills"
+    ]
+}

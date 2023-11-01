@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Ethereal",
+        "Dreamlike",
+        "Fantastical",
+        "Mysterious",
+        "Whimsical",
+        "Surreal",
+        "Enchanting",
+        "Magical",
+        "Glimmering",
+        "Captivating",
+        "Otherworldly",
+        "Serene",
+        "Luminous",
+        "Tranquil",
+        "Spectral",
+        "Effervescent",
+        "Chimeric"
+    ],
+    "negative": [
+        "Harsh Lighting",
+        "Murky Water",
+        "Distorted Reflections",
+        "Unnatural Colors",
+        "Disjointed Composition",
+        "Fragmented Forms",
+        "Dissonant Textures",
+        "Conflicting Elements",
+        "Jarring Contrasts",
+        "Disorienting Perspectives",
+        "Fractured Narrative"
+    ]
+}

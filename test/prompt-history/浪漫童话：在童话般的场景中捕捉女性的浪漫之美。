@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Dreamlike",
+        "Surrealistic",
+        "Fantastical",
+        "Wonderland-esque",
+        "Alice-inspired",
+        "Mind-bending",
+        "Optical Illusion",
+        "Illusory Perspectives",
+        "Magic Realism",
+        "Uncanny Valley",
+        "Ethereal",
+        "Enigmatic",
+        "Curious",
+        "Whimsical",
+        "Dali's Universe"
+    ],
+    "negative": [
+        "Gritty",
+        "Realistic",
+        "Boring",
+        "Lacking Imagination",
+        "Overly Simple",
+        "Conventional",
+        "Mundane",
+        "Prosaic",
+        "Plain",
+        "Dull",
+        "Uninspired",
+        "Ordinary",
+        "Monotonous",
+        "Ho-hum"
+    ]
+}

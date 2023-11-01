@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Miniature",
+        "Adorable",
+        "Chibi",
+        "Cute",
+        "Whimsical",
+        "Fantasy World",
+        "Enchanting",
+        "Magical",
+        "Imagination",
+        "Playful",
+        "Nostalgic",
+        "Storybook"
+    ],
+    "negative": [
+        "Gloomy",
+        "Darkness",
+        "Loneliness",
+        "Desolation",
+        "Sadness",
+        "Abandoned",
+        "Uninhabited",
+        "Melancholy",
+        "Monotonous",
+        "Bleak",
+        "Depressing",
+        "Isolation"
+    ]
+}

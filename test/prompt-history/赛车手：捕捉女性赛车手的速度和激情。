@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Racing",
+        "Speed",
+        "Passion",
+        "Competition",
+        "Adrenaline",
+        "Determination",
+        "Victory",
+        "Fast Cars",
+        "Motion Blur",
+        "Focus",
+        "Thrilling",
+        "Excitement",
+        "Achievement",
+        "Confidence",
+        "Grace under pressure",
+        "Aggressive driving",
+        "Sportsmanship",
+        "Celebration"
+    ],
+    "negative": [
+        "Accident",
+        "Crash",
+        "Injury",
+        "Danger",
+        "Fear",
+        "Caution",
+        "Loss",
+        "Dejection",
+        "Disappointment",
+        "Risk",
+        "Anxiety",
+        "Uncertainty",
+        "Pressure",
+        "Frustration",
+        "Failure",
+        "Neglect",
+        "Stagnation"
+    ]
+}

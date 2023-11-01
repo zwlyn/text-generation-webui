@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Fast Cars",
+        "Speed Queens",
+        "Women Racing Drivers",
+        "Motor Sports",
+        "Adrenaline Rush",
+        "Girl Power",
+        "Car Pride",
+        "Sports Cars",
+        "Racing Track",
+        "Driving Skills",
+        "Victory",
+        "Fast Lane",
+        "Engine Roar",
+        "Tire Squeal",
+        "Checkered Flag"
+    ],
+    "negative": [
+        "Accidents Waiting to Happen",
+        "Car Crashes",
+        "Injuries",
+        "Racing Risks",
+        "Dangerous Curves",
+        "High-Speed Collisions",
+        "Mechanical Failures",
+        "Oil Spills",
+        "Noise Pollution",
+        "Safety Concerns"
+    ]
+}

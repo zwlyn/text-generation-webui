@@ -1,0 +1,27 @@
+{
+    "positive": [
+        "underwater photography",
+        "scuba diving adventure",
+        "aquatic life",
+        "vibrant colors",
+        "sunlight filtering",
+        "diving equipment",
+        "blue hues",
+        "ocean floor",
+        "reef",
+        "coral",
+        "marine creatures",
+        "crystal clear waters",
+        "diver's perspective"
+    ],
+    "negative": [
+        "murky water",
+        "limited visibility",
+        "dangerous marine life",
+        "depth pressure",
+        "cramped spaces",
+        "low light conditions",
+        "dark environment",
+        "potential hazards"
+    ]
+}

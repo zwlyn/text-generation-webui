@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Adventurous",
+        "Mysterious",
+        "Snowy Mountain Peaks",
+        "Ancient Temple Ruins",
+        "Icy Terrain",
+        "Crystal Caves",
+        "Intricate Carvings",
+        "Sacred Shrines",
+        "Reverent Atmosphere",
+        "Spiritual Quest",
+        "Nature's Wonders",
+        "Mesmerizing Artifacts",
+        "Frozen Waterfalls",
+        "Serene Landscapes",
+        "Quiet Reflection"
+    ],
+    "negative": [
+        "Dangerous Terrain",
+        "Isolated Exploration",
+        "Abandoned Shrines",
+        "Eerie Silence",
+        "Unstable Ice Formations",
+        "Hidden Dangers",
+        "Forgotten History",
+        "Ominous Atmosphere",
+        "Lost Civilization",
+        "Cold Desolation",
+        "Untouched Wilderness",
+        "Snowstorm Peril"
+    ]
+}

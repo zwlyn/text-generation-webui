@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Exotic Landscape",
+        "Adventurous Spirit",
+        "Cultural Exchange",
+        "Fearless",
+        "Mysterious Architecture",
+        "Spectacular Views",
+        "Remote Locations",
+        "Breathtaking Scenery",
+        "Intriguing Customs",
+        "Natural Wonders",
+        "Enigmatic Traditions",
+        "Uncharted Territory",
+        "Daring Exploration"
+    ],
+    "negative": [
+        "Lost in Translation",
+        "Language Barrier",
+        "Cultural Misunderstandings",
+        "Alienation",
+        "Overwhelming Stimuli",
+        "Risky Situations",
+        "Remote Locations",
+        "Unfamiliar Surroundings",
+        "Fear of the Unknown",
+        "Strange Foods",
+        "Disorienting Culture Shock",
+        "Mysterious Dangers",
+        "Challenging Conditions"
+    ]
+}

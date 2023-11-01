@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Runners",
+        "Endurance",
+        "Strength",
+        "Perseverance",
+        "Determination",
+        "Fitness",
+        "Athletic Build",
+        "Sporty",
+        "Healthy Lifestyle",
+        "Motivation",
+        "Goal Oriented",
+        "Competitive Spirit",
+        "Training Regimen",
+        "Positive Attitude",
+        "Success",
+        "Inspirational"
+    ],
+    "negative": [
+        "Exhaustion",
+        "Fatigue",
+        "Injury",
+        "Pain",
+        "Soreness",
+        "Struggle",
+        "Dehydration",
+        "Overexertion",
+        "Failure",
+        "Giving Up",
+        "Self-Doubt",
+        "Discouragement",
+        "Lack of Motivation",
+        "Quitting",
+        "Negative Energy"
+    ]
+}

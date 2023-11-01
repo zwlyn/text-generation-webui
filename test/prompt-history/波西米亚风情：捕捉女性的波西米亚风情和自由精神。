@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Chic",
+        "Feminine",
+        "Glamour",
+        "Elegance",
+        "Artistic Freedom",
+        "Independence",
+        "Creativity",
+        "Colorful",
+        "Stylish",
+        "Dynamic",
+        "Captivating",
+        "Confidence",
+        "Charisma",
+        "Sophistication",
+        "Allure"
+    ],
+    "negative": [
+        "Suppression",
+        "Oppression",
+        "Limited Freedom",
+        "Conformity",
+        "Restriction",
+        "Controlled",
+        "Drab",
+        "Monotonous",
+        "Uninspiring",
+        "Stifling",
+        "Subdued",
+        "Stern",
+        "Hinderance",
+        "Gloomy"
+    ]
+}

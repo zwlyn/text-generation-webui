@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Youthful",
+        "Vibrant",
+        "Exuberant",
+        "Playful",
+        "Optimistic",
+        "Innovative",
+        "Futuristic",
+        "Colorful",
+        "Imaginative",
+        "Adventurous",
+        "Boundless",
+        "Illuminated",
+        "Dynamic"
+    ],
+    "negative": [
+        "Gloomy",
+        "Desolate",
+        "Melancholic",
+        "Dreary",
+        "Monotonous",
+        "Somber",
+        "Uninspiring",
+        "Faded",
+        "Pessimistic",
+        "Limited",
+        "Confined",
+        "Static"
+    ]
+}

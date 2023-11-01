@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Ancient Ruins",
+        "Female Explorer",
+        "Archaeological Site",
+        "Historical Artifacts",
+        "Cultural Treasures",
+        "Mysterious Landscapes",
+        "Timeless Wisdom",
+        "Sacred Sites",
+        "Temple of Knowledge",
+        "Ancient Secrets",
+        "Female Scholar",
+        "Antiquity Unveiled"
+    ],
+    "negative": [
+        "Modern Intrusion",
+        "Lost Heritage",
+        "Urban Encroachment",
+        "Desecration",
+        "Disrespectful Behavior",
+        "Ignorance of History",
+        "Sensationalism",
+        "Archaic Superstitions"
+    ]
+}

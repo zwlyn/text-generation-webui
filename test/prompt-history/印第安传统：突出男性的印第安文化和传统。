@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Traditional",
+        "Ancient",
+        "Heritage",
+        "Harmony",
+        "Culture",
+        "Respectful",
+        "Elegant",
+        "Refined",
+        "Kimonos",
+        "Geisha",
+        "Tea Ceremony",
+        "Calligraphy",
+        "Ikebana",
+        "Samurai",
+        "Bonsai",
+        "Zen Gardens"
+    ],
+    "negative": [
+        "Modern",
+        "Futuristic",
+        "Disrespectful",
+        "Noise",
+        "Crowded",
+        "Urban Chaos",
+        "Graffiti",
+        "Loud Music",
+        "Trash",
+        "Vandalism",
+        "Crime",
+        "Disharmony"
+    ]
+}

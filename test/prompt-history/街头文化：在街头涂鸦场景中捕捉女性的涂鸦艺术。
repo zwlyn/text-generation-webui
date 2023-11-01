@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Graffiti Art",
+        "Street Culture",
+        "Colorful Mural",
+        "Female Graffiti Artist",
+        "Urban Creativity",
+        "Expressive Painting",
+        "Spray Can Technique",
+        "Bold Statement",
+        "Neighborhood Transformation",
+        "Community Engagement",
+        "Social Commentary",
+        "Empowerment",
+        "Artistic Vision",
+        "Cultural Exchange"
+    ],
+    "negative": [
+        "Vandalism",
+        "Gang Territory",
+        "Illegal Activity",
+        "Property Damage",
+        "Unwanted Graffiti",
+        "Lack of Respect",
+        "Anarchy Symbols",
+        "Defacement",
+        "Urban Blight",
+        "Social Unrest",
+        "Protest Art",
+        "Anti-Establishment"
+    ]
+}

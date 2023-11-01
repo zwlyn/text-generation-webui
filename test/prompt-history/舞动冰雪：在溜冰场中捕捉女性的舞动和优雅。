@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Graceful",
+        "Elegant",
+        "Feminine",
+        "Ballet",
+        "Dancing",
+        "Ice Skating",
+        "Winter Wonderland",
+        "Snowflakes",
+        "Chilly Atmosphere",
+        "Crystal Clear",
+        "Glistening Ice",
+        "Shimmering",
+        "Gliding Motion",
+        "Frozen Beauty",
+        "Serene",
+        "Peaceful",
+        "Innocent",
+        "Whimsical"
+    ],
+    "negative": [
+        "Clumsy",
+        "Falling",
+        "Accident Prone",
+        "Uncoordinated",
+        "Disastrous",
+        "Icy Reception",
+        "Slippery Slope",
+        "Frustration",
+        "Anxious",
+        "Hesitant",
+        "Fear of Falling",
+        "Cold Shoulder"
+    ]
+}

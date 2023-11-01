@@ -1,0 +1,23 @@
+{
+    "positive": [
+        "Female Pianist",
+        "Musical Talent",
+        "Elegant Posture",
+        "Emotive Performance",
+        "Beautiful Melody",
+        "Classical Music",
+        "Contemporary Style",
+        "Inspiring Creativity",
+        "Dramatic Lighting"
+    ],
+    "negative": [
+        "Mute Instrument",
+        "Lack of Passion",
+        "Uninspired Composition",
+        "Discordant Chords",
+        "Sloppy Technique",
+        "Bored Audience",
+        "Irreverent Interpretation",
+        "Noise Pollution"
+    ]
+}

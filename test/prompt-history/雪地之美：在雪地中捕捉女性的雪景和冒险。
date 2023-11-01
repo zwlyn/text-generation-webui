@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Snowy Landscape",
+        "Frozen Lake",
+        "Icicles",
+        "Crystal Clear Skies",
+        "Glistening Snowflakes",
+        "Winter Adventure",
+        "Skiing",
+        "Snowboarding",
+        "Igloo",
+        "Northern Lights",
+        "Winter Wonderland"
+    ],
+    "negative": [
+        "Blizzard Conditions",
+        "Frozen Fingers and Toes",
+        "Hypothermia",
+        "Slippery Roads",
+        "Car Accidents in Snowy Conditions",
+        "Inaccessible Areas Due to Heavy Snowfall"
+    ],
+    "related": [
+        "Winter Sports Gear",
+        "Cozy Winter Clothing",
+        "Hot Cocoa",
+        "Warm Fireplace",
+        "Snowman Building",
+        "Ice Skating",
+        "Sledding",
+        "Holiday Cheer"
+    ]
+}

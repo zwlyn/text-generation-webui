@@ -1,0 +1,23 @@
+{
+    "positive": [
+        "Angular",
+        "Geometric",
+        "Modern",
+        "Sleek",
+        "Sharp",
+        "Futuristic",
+        "Symmetrical",
+        "Reflective",
+        "Monochromatic",
+        "Minimalist",
+        "Striking"
+    ],
+    "negative": [
+        "Rusty",
+        "Dilapidated",
+        "Askew",
+        "Disjointed",
+        "Incomplete",
+        "Unfinished"
+    ]
+}

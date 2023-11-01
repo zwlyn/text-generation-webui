@@ -1,0 +1,43 @@
+{
+    "positive": [
+        "Elegant Interactions",
+        "Art and Aesthetics",
+        "Graceful Encounters",
+        "Timeless Beauty",
+        "Cultural Exchange",
+        "Sophisticated Ambiance",
+        "Masterpiece Moments",
+        "Reverence and Appreciation",
+        "Serene Experience",
+        "Beauty in Details",
+        "Captivating Gazes",
+        "Shared Admiration",
+        "Inspiring Connections",
+        "Artistic Atmosphere",
+        "Harmonious Unity",
+        "Refined Surroundings",
+        "Enriching Encounters",
+        "Elevated Experience",
+        "Transcendent Moments"
+    ],
+    "negative": [
+        "Uneasy Glares",
+        "Disrespectful Behavior",
+        "Intrusive Photography",
+        "Overcrowded Spaces",
+        "Lack of Appreciation",
+        "Noise Pollution",
+        "Unwanted Attention",
+        "Rude Interactions",
+        "Discordant Tones",
+        "Unsettling Atmosphere",
+        "Art Misunderstood",
+        "Distracting Backgrounds",
+        "Forced Smiles",
+        "Inauthentic Connections",
+        "Superficial Admiration",
+        "Sensory Overload",
+        "Jarring Experience",
+        "Uncomfortable Encounters"
+    ]
+}

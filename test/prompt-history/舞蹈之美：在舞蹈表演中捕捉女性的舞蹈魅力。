@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Graceful",
+        "Elegant",
+        "Feminine",
+        "Fluid Motion",
+        "Sensual",
+        "Artistic",
+        "Expression",
+        "Rhythm",
+        "Harmony",
+        "Ballet",
+        "Jazz",
+        "Tap Dance",
+        "Acrobatics",
+        "Contortionist",
+        "Pointe Shoes",
+        "Silk Ribbons"
+    ],
+    "negative": [
+        "Clumsy",
+        "Disjointed",
+        "Ungraceful",
+        "Stiff",
+        "Rigid",
+        "Forced",
+        "Expressionless",
+        "Discordant",
+        "Dissonance",
+        "Injury",
+        "Accident",
+        "Failed Performance",
+        "Stage Fright",
+        "Audience Rejection"
+    ]
+}

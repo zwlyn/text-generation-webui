@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Theater",
+        "Performance",
+        "Stage",
+        "Glamour",
+        "Elegance",
+        "Dramatic Lighting",
+        "Futuristic Costumes",
+        "Abstract Backgrounds",
+        "Sleek Design",
+        "Positive Emotion",
+        "Urban Environment",
+        "Advanced Technology",
+        "Holographic Projections",
+        "Choreography"
+    ],
+    "negative": [
+        "Abandoned Theater",
+        "Empty Stage",
+        "Lack of Audience",
+        "Dark Atmosphere",
+        "Uninviting Setting",
+        "Fallen Lighting Equipment",
+        "Disheveled Costumes",
+        "Jumbled Backgrounds",
+        "Cluttered Design",
+        "Negative Emotion",
+        "Desolate Urban Area",
+        "Malfunctioning Technology",
+        "Insufficient Rehearsal",
+        "Lack of Holographic Projections",
+        "Disjointed Choreography"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "positive": [
+        "Street Art",
+        "Creative Expression",
+        "Vibrant Colors",
+        "Urban Canvas",
+        "Innovative Techniques",
+        "Public Engagement",
+        "Social Commentary"
+    ],
+    "negative": [
+        "Graffiti Vandalism",
+        "Property Damage",
+        "Illegal Activity",
+        "Anti-Establishment Messages",
+        "Lack of Respect for Property",
+        "Criminal Behavior"
+    ]
+}

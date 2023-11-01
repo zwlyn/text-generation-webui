@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Futuristic Architecture",
+        "Underwater Cityscape",
+        "Ocean Creatures",
+        "Liquid Optics",
+        "Advanced Materials",
+        "Glowing Bioluminescence",
+        "Innovative Design",
+        "Marine Life Interaction",
+        "Breathtaking Views",
+        "Dreamlike Atmosphere",
+        "Urban Aquatic Park",
+        "Technological Marvel",
+        "Cutting-Edge Technology",
+        "Fantastical Landscaping",
+        "Spectacular Lighting",
+        "Immersive Experience"
+    ],
+    "negative": [
+        "Abandoned City Ruins",
+        "Toxic Waste",
+        "Pollution in Water",
+        "Decaying Infrastructure",
+        "Crumbling Facades",
+        "Dilapidated Technology",
+        "Environmental Neglect",
+        "Marine Life Struggle",
+        "Deserted Urban Spaces",
+        "Sadness",
+        "Urban Decline",
+        "Discarded Machinery",
+        "Loneliness",
+        "Post-Apocalyptic Vibe",
+        "Decay and Rot",
+        "Murky Water",
+        "Neglected Aquatic Life"
+    ]
+}

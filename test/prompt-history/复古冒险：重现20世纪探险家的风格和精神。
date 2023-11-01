@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Retro-futuristic",
+        "Vintage Adventure",
+        "Brave Explorers",
+        "Classic Automobiles",
+        "Sophisticated Attire",
+        "Elegant Accessories",
+        "Antique Instruments",
+        "Timeless Elegance",
+        "Historical Ambiance",
+        "Glamorous Gatherings",
+        "Revered Icons",
+        "Legendary Quests"
+    ],
+    "negative": [
+        "Forgotten Relics",
+        "Abandoned Ruins",
+        "Dilapidated Structures",
+        "Rusting Machinery",
+        "Forgotten Inventions",
+        "Decaying Artifacts",
+        "Neglected Treasures",
+        "Faded Glory",
+        "Shadowy Mysteries",
+        "Vanishing Worlds",
+        "Obscure Tales",
+        "Hidden Secrets"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Underwater Treasure",
+        "Sunken Galleon",
+        "Ocean Exploration",
+        "Marine Archaeology",
+        "Diving Suit",
+        "Ancient Coins",
+        "Submerged Relics",
+        "Sea Creatures",
+        "Nautical Charm",
+        "Mysterious Depths"
+    ],
+    "negative": [
+        "Sinking Ship",
+        "Flooding Cabin",
+        "Drowning Victim",
+        "Lost Treasure",
+        "Ghost Ship",
+        "Dark Waters",
+        "Sea Monsters",
+        "Cursed Relics",
+        "Underwater Peril"
+    ]
+}

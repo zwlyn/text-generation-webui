@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Nature",
+        "Harmony",
+        "Peaceful",
+        "Serenity",
+        "Calm",
+        "Tranquility",
+        "Woman",
+        "Feminine",
+        "Landscape",
+        "Sunset",
+        "Sunrise",
+        "Mountains",
+        "Forest",
+        "River",
+        "Bridge",
+        "Flowers",
+        "Animals",
+        "Birds",
+        "Insects",
+        "Natural Lighting",
+        "Soft Focus",
+        "Pastel Colors"
+    ],
+    "negative": [
+        "Urbanization",
+        "Deforestation",
+        "Pollution",
+        "Noise Pollution",
+        "Traffic Congestion",
+        "Overcrowding",
+        "Stress",
+        "Anxiety",
+        "Fast-paced Life",
+        "Disconnection from Nature"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Mysterious",
+        "Fantastical",
+        "Adventurous",
+        "Whimsical",
+        "Dreamlike",
+        "Enchanted Forest",
+        "Magical Creatures",
+        "Lost City",
+        "Ancient Secrets",
+        "Narnia-esque",
+        "Alice in Wonderland",
+        "Puzzling",
+        "Time Travelers",
+        "Goblin King",
+        "Mystical Landscapes"
+    ],
+    "negative": [
+        "Harsh Reality",
+        "Drab Colors",
+        "Boring Subjects",
+        "Confining Spaces",
+        "Lack of Imagination",
+        "No Magic",
+        "Ordinary Settings",
+        "Everyday Life",
+        "Uninspired",
+        "Devoid of Wonder",
+        "Mundane Tasks",
+        "Routine Activities",
+        "Prosaic Details"
+    ]
+}

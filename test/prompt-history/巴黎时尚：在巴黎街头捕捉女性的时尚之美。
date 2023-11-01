@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Chic",
+        "Stylish",
+        "Elegant",
+        "Urban Charm",
+        "Architectural Details",
+        "Fashionable",
+        "Sophisticated",
+        "Timeless",
+        "Classic",
+        "Bold Statements",
+        "Trendy",
+        "Refined",
+        "Glamorous",
+        "Artistic",
+        "Creative"
+    ],
+    "negative": [
+        "Overexposed",
+        "Cliché",
+        "Touristy",
+        "Stereotypical",
+        "Ordinary",
+        "Mundane",
+        "Dull",
+        "Uninspired",
+        "Boring",
+        "Lacking Creativity"
+    ]
+}

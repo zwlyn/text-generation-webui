@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Ancient Greece",
+        "Roman Empire",
+        "Olympic Games",
+        "Gladiatorial Contests",
+        "Forum Debates",
+        "Philosophy",
+        "Sculpture",
+        "Architecture",
+        "Dramatic Performances",
+        "Pottery",
+        "Mosaics",
+        "Textiles",
+        "Cultural Exchange"
+    ],
+    "negative": [
+        "Barbarian Invasions",
+        "Collapse of Civilization",
+        "Slavery",
+        "Suppression of Knowledge",
+        "Destruction of Artifacts",
+        "Decline of Learning",
+        "Social Unrest",
+        "Environmental Degradation",
+        "Desecration of Sacred Sites",
+        "Loss of Cultural Heritage"
+    ]
+}

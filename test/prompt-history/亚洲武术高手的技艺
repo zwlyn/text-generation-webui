@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Martial Arts",
+        "Asian Culture",
+        "High Tech Gadgets",
+        "Neon Lights",
+        "Sleek Designs",
+        "Futuristic Fashion",
+        "Advanced Weapons",
+        "Cybernetic Enhancements",
+        "Urban Environment",
+        "Holographic Displays",
+        "Sci-Fi Inspired",
+        "Energetic Movement",
+        "Vibrant Colors"
+    ],
+    "negative": [
+        "Abandoned Facility",
+        "Post-Apocalyptic Scenario",
+        "Dark Alleys",
+        "Decaying Infrastructure",
+        "Polluted Cityscape",
+        "Broken Technology",
+        "Surveillance Cameras",
+        "Crowded Spaces",
+        "Graffiti",
+        "Corrupted System",
+        "Neglected Urban Areas",
+        "Cyber Attacks",
+        "Dystopian Atmosphere"
+    ]
+}

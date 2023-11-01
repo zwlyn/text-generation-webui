@@ -1,0 +1,21 @@
+{
+    "positive": [
+        "Elegant Ballet Moves",
+        "Graceful Dance Poses",
+        "Poised Ballerina",
+        "Fine Art of Dance",
+        "Fluid Motion",
+        "Beautiful Dance Forms",
+        "Classical Dance Techniques",
+        "Timeless Choreography"
+    ],
+    "negative": [
+        "Clumsy Dance Steps",
+        "Ungraceful Poses",
+        "Rough Ballerina",
+        "Crude Dance Approach",
+        "Jerky Motion",
+        "Inappropriate Dance Moves",
+        "Disrupted Choreography"
+    ]
+}

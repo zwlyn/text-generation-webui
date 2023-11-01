@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Korean Fashion",
+        "Trendy",
+        "Stylish",
+        "Urban Chic",
+        "Futuristic",
+        "Neon Lights",
+        "High-Tech",
+        "Sleek Hair",
+        "Glowing Skin",
+        "Bold Makeup",
+        "Colorful Accessories",
+        "Holographic Elements",
+        "Cybernetic Enhancements",
+        "Futuristic Fashion",
+        "Minimalist Aesthetic",
+        "Innovative Designs"
+    ],
+    "negative": [
+        "Outdated Style",
+        "Dated Hairdo",
+        "Plain Makeup",
+        "Monotonous Colors",
+        "Inexperienced Stylist",
+        "Lack of Creativity",
+        "Boring Fashion",
+        "Old-Fashioned"
+    ]
+}

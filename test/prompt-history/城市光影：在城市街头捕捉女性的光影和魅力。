@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Urban Glamour",
+        "Street Chic",
+        "Nighttime Adventures",
+        "City Nights",
+        "Late Night Explorations",
+        "Glowing Streets",
+        "Neon Illuminated Faces",
+        "Reflections in Glass Surfaces",
+        "Subway Encounters",
+        "Traffic Light Portraits",
+        "Architectural Backdrops"
+    ],
+    "negative": [
+        "Abandoned Cityscapes",
+        "Dark Alleys",
+        "Late-Night Shadows",
+        "Urban Isolation",
+        "Gritty Urban Life",
+        "Desolate Streets",
+        "Cracks in the Pavement",
+        "Grime and Dirt",
+        "Dangerous Intersections"
+    ]
+}

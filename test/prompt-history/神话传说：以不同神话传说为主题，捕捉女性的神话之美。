@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Greek Mythology",
+        "Norse Mythology",
+        "Egyptian Mythology",
+        "Celtic Mythology",
+        "Asian Mythology",
+        "Inuit Mythology",
+        "Aztec Mythology",
+        "Mayan Mythology",
+        "Maori Mythology",
+        "Polynesian Mythology",
+        "Native American Mythology",
+        "Russian Folklore",
+        "Slavic Folklore",
+        "Balkan Folklore",
+        "Medieval Legends",
+        "Renaissance Fair",
+        "Fantasy Worlds",
+        "Magical Creatures"
+    ],
+    "negative": [
+        "Gruesome Deaths",
+        "Tragic Stories",
+        "Vengeful Gods",
+        "Dark Omens",
+        "Mysterious Prophecies",
+        "Cursed Items",
+        "Haunted Places",
+        "Supernatural Forces",
+        "Sacrificial Rituals",
+        "Forbidden Knowledge",
+        "Doomed Love",
+        "Twisted Fates"
+    ]
+}

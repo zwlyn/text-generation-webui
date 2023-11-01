@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Everyday Life",
+        "Authenticity",
+        "Emotions",
+        "Genuine Expression",
+        "Candid Shots",
+        "Human Connection",
+        "Real Moments",
+        "Natural Lighting",
+        "Soft Focus",
+        "Warm Tones",
+        "Captivating Gaze",
+        "Unfiltered Beauty",
+        "Vulnerability"
+    ],
+    "negative": [
+        "Staged Scenes",
+        "Forced Expressions",
+        "Overly Retouched",
+        "Harsh Lighting",
+        "Inauthentic Moments",
+        "Cold Tones",
+        "Hard Edges",
+        "Sterile Atmosphere",
+        "Disconnected Subject"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Ancient",
+        "Heroic",
+        "Strong",
+        "Warrior",
+        "Battle-tested",
+        "Mythological",
+        "Greek God",
+        "Roman Emperor",
+        "Noble",
+        "Victorious",
+        "Triumphant",
+        "Legendary",
+        "Epic",
+        "Historic",
+        "Cultural Icons"
+    ],
+    "negative": [
+        "Fallen",
+        "Lost Glory",
+        "Shadow of the Past",
+        "Abandoned",
+        "Neglected",
+        "Forgotten",
+        "Myths and Legends",
+        "Ancient Ruins",
+        "Dilapidated",
+        "Collapsed",
+        "Desolate"
+    ]
+}

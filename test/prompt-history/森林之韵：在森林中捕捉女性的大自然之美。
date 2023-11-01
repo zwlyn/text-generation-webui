@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Nature",
+        "Forest",
+        "Woman",
+        "Beauty",
+        "Serenity",
+        "Calm",
+        "Soft Lighting",
+        "Foliage",
+        "Sunlight",
+        "Moss",
+        "Greenery",
+        "Botanical",
+        "Flora",
+        "Fauna"
+    ],
+    "negative": [
+        "Urban",
+        "Concrete",
+        "Graffiti",
+        "Trash",
+        "Litter",
+        "Pollution",
+        "Noise",
+        "Traffic",
+        "Crowds",
+        "Hustle and Bustle",
+        "Gritty",
+        "Dark Alley",
+        "Agitation"
+    ]
+}

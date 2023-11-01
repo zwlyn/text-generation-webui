@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Astronaut",
+        "Cosmonaut",
+        "Space Traveler",
+        "Moon Landing",
+        "Starship",
+        "Orbit",
+        "Zero Gravity",
+        "Planetary Exploration",
+        "Galactic Adventure",
+        "Interstellar Journey",
+        "Stellar Achievement",
+        "Solar System",
+        "Extraterrestrial Life",
+        "Space Walk",
+        "Orbital Station",
+        "Manned Mission",
+        "Red Planet"
+    ],
+    "negative": [
+        "Lifeless Moon",
+        "Isolation",
+        "Dangerous Radiation",
+        "Cold Vacuum",
+        "Inhospitable Atmosphere",
+        "Crash Landing",
+        "Malfunctioning Equipment",
+        "Running Out of Oxygen",
+        "Endless Night Sky",
+        "Lost in Space",
+        "Eerie Silence"
+    ]
+}

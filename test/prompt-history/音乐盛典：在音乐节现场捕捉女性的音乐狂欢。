@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Futuristic",
+        "Neon Lights",
+        "Music Festival",
+        "Women",
+        "Dancing",
+        "Celebration",
+        "Creative Costumes",
+        "High-Tech Instruments",
+        "Urban Concert Venue",
+        "Holographic Performers",
+        "Cybernetic Enhancements",
+        "Sleek Designs",
+        "Dystopian Elements"
+    ],
+    "negative": [
+        "Gritty",
+        "Post-Apocalyptic",
+        "Dark Alley",
+        "Urban Decay",
+        "Grimy",
+        "Broken Technology",
+        "Pollution",
+        "Surveillance",
+        "Isolation",
+        "Desolation",
+        "Cybercrime",
+        "System Failure",
+        "Dystopian Future",
+        "Ruined Cityscape",
+        "Corruption",
+        "Hackers",
+        "Underground"
+    ]
+}

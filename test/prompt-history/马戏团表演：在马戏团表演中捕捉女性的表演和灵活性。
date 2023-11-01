@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Elegant",
+        "Glamorous",
+        "Theatrical",
+        "Colorful",
+        "Costumes",
+        "Stage Lighting",
+        "Expressive",
+        "Charismatic",
+        "Acrobats",
+        "Dance Routines",
+        "Musicians",
+        "Choreography"
+    ],
+    "negative": [
+        "Tired",
+        "Mundane",
+        "Amateurish",
+        "Monotonous",
+        "Unimaginative",
+        "Lackluster",
+        "Poorly Lit",
+        "Dull Colors",
+        "Uninspired Costumes",
+        "Static Poses",
+        "Out of Tune"
+    ]
+}

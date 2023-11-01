@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Female Agent",
+        "Savvy",
+        "Confident",
+        "Mission Successful",
+        "High-Tech Gadgets",
+        "Stealth",
+        "Infiltration",
+        "Cybernetic Enhancements",
+        "Advanced Weaponry",
+        "Surveillance",
+        "Data Retrieval",
+        "Evasive Maneuvers",
+        "Hacking Skills",
+        "Master of Disguise",
+        "Urban Environment"
+    ],
+    "negative": [
+        "Mysterious Figure",
+        "Shadows",
+        "Lurking Danger",
+        "Unforeseen Obstacles",
+        "Cutting-Edge Technology",
+        "Malicious Attacks",
+        "Hidden Threats",
+        "Corrupted Systems",
+        "Time Running Out",
+        "Traps and Pitfalls",
+        "Suspenseful Atmosphere",
+        "Nerve-Wracking",
+        "Tension",
+        "Unsuspecting Targets"
+    ]
+}

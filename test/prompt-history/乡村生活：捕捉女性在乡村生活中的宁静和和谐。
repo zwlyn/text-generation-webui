@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Idyllic",
+        "Pastoral",
+        "Serene",
+        "Rustic Charm",
+        "Nature Surroundings",
+        "Sunlit Meadows",
+        "Quiet Streams",
+        "Birdsongs",
+        "Fresh Air",
+        "Tranquil Living",
+        "Country Walks",
+        "Gardens and Orchards",
+        "Handmade Crafts",
+        "Local Markets",
+        "Sustainable Lifestyle",
+        "Community Spirit"
+    ],
+    "negative": [
+        "Urban Sprawl",
+        "Industrial Noise",
+        "Traffic Congestion",
+        "Pollution",
+        "Overcrowding",
+        "Lack of Green Space",
+        "Crime and Danger",
+        "Stressful Living",
+        "Long Commutes",
+        "Unhealthy Lifestyle",
+        "Anonymity",
+        "Disconnection"
+    ]
+}

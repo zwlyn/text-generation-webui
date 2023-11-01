@@ -1,0 +1,24 @@
+{
+    "positive": [
+        "Masculine",
+        "Innovative",
+        "Tech-savvy",
+        "Futuristic",
+        "Advanced Technology",
+        "Clean Environment",
+        "High Quality",
+        "Sleek Design",
+        "Collaboration",
+        "Problem Solving",
+        "Efficiency"
+    ],
+    "negative": [
+        "Stress",
+        "Pressure",
+        "Deadlines",
+        "Budget Constraints",
+        "Inefficient Processes",
+        "Outdated Equipment",
+        "Workplace Hazards"
+    ]
+}

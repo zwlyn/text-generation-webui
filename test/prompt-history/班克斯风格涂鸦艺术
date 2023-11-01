@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Suits",
+        "Bankers",
+        "Corporate Culture",
+        "Graffiti Art",
+        "Wall Murals",
+        "Urban Canvas",
+        "Street Style",
+        "Financial District",
+        "Concrete Jungle",
+        "Colorful",
+        "Abstract Patterns",
+        "Dynamic Lines",
+        "Sharpie markers",
+        "Spray Paint",
+        "Marker Pen",
+        "Pastel Colors",
+        "Neon Highlights"
+    ],
+    "negative": [
+        "Boring Office Life",
+        "Soul-Crushing Routine",
+        "Cubicle Hell",
+        "Lack of Creativity",
+        "Rigid Dress Code",
+        "Dull Colors",
+        "Monotonous Patterns",
+        "Uninspired Design",
+        "Mundane Tasks",
+        "Drone-Like Workers",
+        "Sterile Environment",
+        "Depressing Atmosphere"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "positive": [
+        "Theater Stage",
+        "Performance Artistry",
+        "Dramatic Lighting",
+        "Expressive Emotions",
+        "Colorful Costumes",
+        "Dynamic Scenes"
+    ],
+    "negative": [
+        "Off-Stage",
+        "Behind The Curtains",
+        "Intimate Moments",
+        "Quiet Reflections",
+        "Simple Settings",
+        "Natural Lighting"
+    ]
+}

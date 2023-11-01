@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Magical",
+        "Enchanted",
+        "Whimsical",
+        "Mystical",
+        "Fantastical",
+        "Dreamy",
+        "Otherworldly",
+        "Ethereal",
+        "Charming",
+        "Spellbinding",
+        "Glittering",
+        "Spectral",
+        "Luminescent",
+        "Arcane",
+        "Quaint"
+    ],
+    "negative": [
+        "Mundane",
+        "Ordinary",
+        "Prosaic",
+        "Uninspired",
+        "Drab",
+        "Pedestrian",
+        "Monotonous",
+        "Unmagical",
+        "Disenchanted",
+        "Grounded"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Ancient Royalty",
+        "Regal Elegance",
+        "Queenly Grace",
+        "Crown Jewels",
+        "Opulent Throne",
+        "Silk Robes",
+        "Antique Tapestry",
+        "Marble Palace",
+        "Royal Garden",
+        "Sacred Altar",
+        "Noble Pursuits",
+        "Cultured Knowledge",
+        "Cherished Heirloom",
+        "Fine China",
+        "Elegant Scrolls",
+        "Ornate Quill"
+    ],
+    "negative": [
+        "Downtrodden Subjects",
+        "Miserable Serfs",
+        "Deserted Castle",
+        "Rotten Crops",
+        "Empty Throne",
+        "Tattered Robes",
+        "Cracked Marble",
+        "Overgrown Garden",
+        "Abandoned Altar",
+        "Ignored Knowledge",
+        "Shattered Heirloom",
+        "Chipped China",
+        "Unrolled Scrolls",
+        "Stained Quill"
+    ]
+}

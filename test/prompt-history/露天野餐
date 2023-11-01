@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Outdoor Dining",
+        "Nature Surroundings",
+        "Campfire Cooking",
+        "Starry Sky",
+        "Forest Setting",
+        "Serene Atmosphere",
+        "Gourmet Cuisine",
+        "Wildlife Encounters",
+        "Bushcraft Skills",
+        "Organic Ingredients",
+        "Solar-Powered Kitchen",
+        "Untamed Wilderness",
+        "Adventurous Flavors"
+    ],
+    "negative": [
+        "Rainy Weather",
+        "Insect Infestation",
+        "Limited Cooking Tools",
+        "Food Spoilage",
+        "Uncomfortable Temperatures",
+        "Dangerous Wildlife Encounters",
+        "Inadequate Shelter",
+        "Difficult Terrain",
+        "Limited Food Supply",
+        "Untreated Water Sources",
+        "Isolated Location",
+        "Extreme Weather Conditions",
+        "Risky Situations"
+    ]
+}

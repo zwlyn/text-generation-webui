@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Golf Swing",
+        "Driver",
+        "Iron Shot",
+        "Pitch Shot",
+        "Chip Shot",
+        "Putting",
+        "Sunny Day",
+        "Green Grass",
+        "Beautiful Scenery",
+        "Golf Course",
+        "Prestige",
+        "Tradition",
+        "Elegance",
+        "Social Event",
+        "Relaxation",
+        "Focus",
+        "Competition"
+    ],
+    "negative": [
+        "Rainy Weather",
+        "Muddy Fields",
+        "Overcast Skies",
+        "Windy Conditions",
+        "Unfavorable Terrain",
+        "Insufficient Practice",
+        "Lack of Focus",
+        "Golf Cart Jam",
+        "Slow Players",
+        "Annoying Spectators",
+        "Bad Luck",
+        "Poor Swing Technique",
+        "High Stakes Pressure",
+        "Embarrassment",
+        "Frustration",
+        "Performance Anxiety"
+    ]
+}

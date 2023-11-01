@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Whimsical",
+        "Enchanted",
+        "Fairy Tale",
+        "Mysterious",
+        "Romantic",
+        "Magical",
+        "Dreamy",
+        "Ethereal",
+        "Timeless",
+        "Sparkling",
+        "Glimmering",
+        "Intricate",
+        "Delicate",
+        "Captivating",
+        "Wistful",
+        "Charming",
+        "Alluring",
+        "Otherworldly"
+    ],
+    "negative": [
+        "Mundane",
+        "Prosaic",
+        "Ordinary",
+        "Unfantastic",
+        "Plain",
+        "Dull",
+        "Banal",
+        "Monotonous",
+        "Vapid",
+        "Humdrum",
+        "Insipid"
+    ]
+}

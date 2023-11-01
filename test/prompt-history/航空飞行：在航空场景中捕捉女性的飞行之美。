@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Aviation",
+        "Flight Attendant",
+        "Sleek Plane",
+        "Clouds",
+        "Windows Seat",
+        "Blue Skies",
+        "In-flight Service",
+        "Runway View",
+        "Takeoff",
+        "Landing",
+        "Panoramic Window",
+        "Sunlit Cabin",
+        "Turbulence Free"
+    ],
+    "negative": [
+        "Cramped Seats",
+        "Delayed Flight",
+        "Luggage Chaos",
+        "Airplane Food",
+        "Crying Baby",
+        "Reclining Passenger",
+        "Long Haul Flight",
+        "Turbulence",
+        "Missing Luggage",
+        "Flight Cancellation",
+        "Airport Crowds",
+        "Late Night Arrival"
+    ]
+}

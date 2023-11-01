@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Underwater Treasure",
+        "Sunken Ship",
+        "Diving Exploration",
+        "Marine Life",
+        "Hidden Gems",
+        "Ocean Floor",
+        "Submerged Relics",
+        "Pristine Corals",
+        "Colorful Fish",
+        "Nautical Charts",
+        "Lost City",
+        "Sunlit Depths",
+        "Vibrant Reefs",
+        "Underwater Photography",
+        "Abyssal Adventure"
+    ],
+    "negative": [
+        "Dark Waters",
+        "Ocean's Fury",
+        "Shipwreck Graveyard",
+        "Gloomy Depths",
+        "Lost Treasure",
+        "Coral Bleaching",
+        "Marine Debris",
+        "Sunken Hazards",
+        "Forsaken Relics",
+        "Murky Ocean",
+        "Desolate Seabed",
+        "Claustrophobic Caverns",
+        "Dangerous Depths",
+        "Ocean's Mysteries",
+        "Submerged Peril"
+    ]
+}

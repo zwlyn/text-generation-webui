@@ -1,0 +1,27 @@
+{
+    "positive": [
+        "Scientific Discovery",
+        "Lab Equipment",
+        "Innovative Research",
+        "Advanced Technologies",
+        "Futuristic Design",
+        "Clean Environment",
+        "Efficient Workspace",
+        "Collaboration",
+        "Empowered Women",
+        "Precision Instruments",
+        "Data Analysis",
+        "Scientific Achievements"
+    ],
+    "negative": [
+        "Inefficiency",
+        "Cluttered Workspace",
+        "Outdated Equipment",
+        "Dark Corners",
+        "Unorganized Laboratory",
+        "Poor Lighting",
+        "Lack of Resources",
+        "Isolated Worker",
+        "Obsolete Methods"
+    ]
+}

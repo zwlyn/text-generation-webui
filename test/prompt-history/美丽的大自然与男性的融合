@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Nature-Inspired Fashion",
+        "Organic Textures",
+        "Vibrant Flora and Fauna",
+        "Sunlit Landscapes",
+        "Forest Adventure",
+        "Mountain Exploration",
+        "Ocean Oasis",
+        "Wildlife Encounters",
+        "Nature's Harmony",
+        "Seasonal Beauty"
+    ],
+    "negative": [
+        "Urban Sprawl",
+        "Pollution and Littering",
+        "Deforestation",
+        "Climate Change Effects",
+        "Animal Habitat Destruction",
+        "Overfishing",
+        "Resource Depletion",
+        "Toxic Waste",
+        "Air and Water Pollution",
+        "Nature-Invasive Species"
+    ]
+}

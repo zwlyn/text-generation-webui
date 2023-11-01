@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Martial Arts",
+        "Mixed Martial Arts",
+        "Asian Culture",
+        "Warrior Spirit",
+        "Traditional Training",
+        "Honor",
+        "Respect",
+        "Discipline",
+        "Strength",
+        "Power",
+        "Balance",
+        "Graceful Moves",
+        "Mastery",
+        "Sensei",
+        "Dojo",
+        "Kung Fu"
+    ],
+    "negative": [
+        "Violence",
+        "Bloodshed",
+        "Injury",
+        "Brutality",
+        "Rage",
+        "Aggression",
+        "Disrespectful",
+        "Dishonorable",
+        "Uncontrolled Power",
+        "Arrogance",
+        "Overconfidence",
+        "Broken Spirit",
+        "Lack of Focus",
+        "Neglected Training"
+    ]
+}

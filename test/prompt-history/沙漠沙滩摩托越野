@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Sand Dunes",
+        "Beach",
+        "Motorcycle",
+        "Adventure",
+        "Sunset",
+        "Dirt Biking",
+        "Extreme Sports",
+        "All Terrain Vehicle",
+        "Desert Exploration",
+        "Freedom",
+        "Endurance",
+        "Vast Landscape",
+        "Outdoor Activities",
+        "Sandboarding",
+        "Dune Buggies",
+        "Off-Roading",
+        "Rugged Terrain"
+    ],
+    "negative": [
+        "Accident",
+        "Injury",
+        "Vehicle Malfunction",
+        "Dehydration",
+        "Sunstroke",
+        "Lost in the Desert",
+        "Exhaustion",
+        "Burns from Engine Exhaust",
+        "Broken Bones",
+        "Despair",
+        "Thirst",
+        "Hunger",
+        "Fatigue",
+        "Sandstorm",
+        "Getting Stuck in the Sand",
+        "Racing Accident",
+        "Overturned Vehicle"
+    ]
+}

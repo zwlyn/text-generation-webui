@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Victorian Elegance",
+        "Art Deco Charm",
+        "Regency Glamour",
+        "Roaring Twenties Style",
+        "Swinging Sixties Vibe",
+        "Disco Diva Glow",
+        "Punk Rock Attitude",
+        "Futuristic Fashion",
+        "Cyberpunk Aesthetic",
+        "Masculine Edge",
+        "Minimalist Design",
+        "Urban Oasis",
+        "Retro-Futuristic",
+        "Elegant Traveler"
+    ],
+    "negative": [
+        "Poverty Stricken",
+        "War Torn Ruins",
+        "Dilapidated Infrastructure",
+        "Overcrowded Cityscape",
+        "Air Pollution",
+        "Noise Pollution",
+        "Crumbling Architecture",
+        "Gang Activity",
+        "Urban Blight",
+        "Historical Destruction",
+        "Social Inequality",
+        "Rampant Crime",
+        "Environmental Decay",
+        "Deteriorating Public Services"
+    ]
+}

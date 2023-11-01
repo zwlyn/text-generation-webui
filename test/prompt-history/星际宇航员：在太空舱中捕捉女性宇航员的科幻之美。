@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Space Odyssey",
+        "Intergalactic Traveler",
+        "Mysterious Beauty",
+        "Alien Landscape",
+        "Exploration",
+        "Wanderlust",
+        "Futuristic Fashion",
+        "Adventure",
+        "Intrigue",
+        "Stunning Views",
+        "Sci-Fi Chic",
+        "Galactic Glamour"
+    ],
+    "negative": [
+        "Lost in Space",
+        "Isolation",
+        "Dangerous Encounters",
+        "Hostile Environment",
+        "Alien Threat",
+        "Conflict",
+        "Chaos",
+        "Desolation",
+        "Survival",
+        "Fear",
+        "Uncharted Territory"
+    ]
+}

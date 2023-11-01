@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Innovative",
+        "Creative",
+        "Visionary",
+        "Precision",
+        "Tinkerer",
+        "Experimental",
+        "Skilled Hands",
+        "Mechanical Marvels",
+        "Constructive Thinking",
+        "Eureka Moment",
+        "Groundbreaking",
+        "Ingenious Design",
+        "Future-forward"
+    ],
+    "negative": [
+        "Ineptitude",
+        "Clumsy",
+        "Uncreative",
+        "Shortsighted",
+        "Clockwatcher",
+        "Indolent",
+        "Mundane Tasks",
+        "Boring Procedures",
+        "Lacking Imagination",
+        "Failed Experiment",
+        "Outdated Techniques",
+        "Inferior Design",
+        "Stuck in the Past"
+    ]
+}

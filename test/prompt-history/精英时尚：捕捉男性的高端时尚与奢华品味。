@@ -1,0 +1,43 @@
+{
+    "positive": [
+        "High-Fashion",
+        "Urban Chic",
+        "Glamorous",
+        "Sophisticated",
+        "Elegant",
+        "Stylish",
+        "Confident",
+        "Powerful",
+        "Captivating",
+        "Charming",
+        "Alluring",
+        "Mysterious",
+        "Elusive",
+        "Intriguing",
+        "Enigmatic",
+        "Refined",
+        "Classic",
+        "Timeless"
+    ],
+    "negative": [
+        "Shabby",
+        "Disheveled",
+        "Unkempt",
+        "Haggard",
+        "Downtrodden",
+        "Squalid",
+        "Ragged",
+        "Despondent",
+        "Melancholy",
+        "Gloomy",
+        "Forlorn",
+        "Morose",
+        "Woeful",
+        "Tattered",
+        "Threadbare",
+        "Dilapidated",
+        "Sordid",
+        "Depressed",
+        "Disconsolate"
+    ]
+}

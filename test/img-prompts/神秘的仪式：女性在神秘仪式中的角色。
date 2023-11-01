@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Mysterious Ritual",
+        "Ancient Secrets",
+        "Female Initiate",
+        "Sacred Geometry",
+        "Ceremony",
+        "Esoteric Knowledge",
+        "Arcane Symbols",
+        "Eternal Wisdom",
+        "Timeless Tradition",
+        "Divine Feminine",
+        "Enlightenment"
+    ],
+    "negative": [
+        "Superstition",
+        "Dark Magic",
+        "Forbidden Rites",
+        "Occult Practices",
+        "Unholy Alliance",
+        "Sacrilege",
+        "Profanity",
+        "Heretical Teachings",
+        "Desecration",
+        "Cursed Artifacts",
+        "Evil Omens",
+        "Witchcraft",
+        "Blasphemy",
+        "Black Magick"
+    ]
+}

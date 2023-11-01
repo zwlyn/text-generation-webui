@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Aviation",
+        "Elegant",
+        "Charming",
+        "Smiling",
+        "Graceful",
+        "Uniform",
+        "Airplane Cabin",
+        "In-Flight Service",
+        "Sky",
+        "Clouds",
+        "Travel",
+        "Journey",
+        "Soaring",
+        "Celestial"
+    ],
+    "negative": [
+        "Turbulence",
+        "Late Night",
+        "Jet Lag",
+        "Long Layovers",
+        "Irritable Passengers",
+        "Cramped Space",
+        "Stress",
+        "Exhaustion",
+        "Airport Delays",
+        "Bad Weather",
+        "Canceled Flights"
+    ]
+}

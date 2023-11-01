@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Magical",
+        "Mysterious",
+        "Whimsical",
+        "Dreamy",
+        "Enchanted",
+        "Fantastical",
+        "Surreal",
+        "Ethereal",
+        "Otherworldly",
+        "Glamorous",
+        "Charming",
+        "Spectral",
+        "Radiant",
+        "Luminous",
+        "Mesmerizing",
+        "Elegant",
+        "Captivating"
+    ],
+    "negative": [
+        "Grotesque",
+        "Nightmarish",
+        "Creepy",
+        "Unsettling",
+        "Sinister",
+        "Macabre",
+        "Ominous",
+        "Dark",
+        "Twisted",
+        "Haunting",
+        "Eerie",
+        "Chilling",
+        "Frightening",
+        "Ghostly",
+        "Spooky",
+        "Morbid"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Astronaut",
+        "Training",
+        "Cutting-edge Technology",
+        "Science Fiction",
+        "Innovative",
+        "Space Exploration",
+        "Hardware",
+        "Advanced Suit",
+        "Motion Capture",
+        "Simulation",
+        "Physical Preparedness",
+        "Futuristic Design",
+        "High-tech Gadgets"
+    ],
+    "negative": [
+        "Isolation",
+        "Loneliness",
+        "Dangerous Conditions",
+        "Risk",
+        "Unpredictable Environment",
+        "Extreme Situations",
+        "C claustrophobic Spaces",
+        "Challenging Tasks",
+        "Stress",
+        "Inhospitable Planets",
+        "Life-threatening Scenarios",
+        "Darkness",
+        "Remote Locations"
+    ]
+}

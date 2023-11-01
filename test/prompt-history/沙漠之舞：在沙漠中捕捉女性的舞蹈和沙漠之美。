@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Graceful dancer",
+        "Sand dance",
+        "Elegant movement",
+        "Desert scenery",
+        "Beautiful costume",
+        "Natural lighting",
+        "Shadows and silhouettes",
+        "Oasis",
+        "Vibrant colors",
+        "Cultural fusion"
+    ],
+    "negative": [
+        "Lack of motion",
+        "Inappropriate attire",
+        "Harsh sunlight",
+        "Barren landscape",
+        "Overly elaborate costumes",
+        "Unnatural lighting",
+        "Overcast skies",
+        "Flood lights",
+        "Monotonous colors"
+    ]
+}

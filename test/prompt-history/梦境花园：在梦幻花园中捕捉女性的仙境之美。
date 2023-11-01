@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Enchanted",
+        "Magical",
+        "Whimsical",
+        "Dreamy",
+        "Fantastical",
+        "Surreal",
+        "Mystical",
+        "Ethereal",
+        "Charming",
+        "Serene",
+        "Majestic",
+        "Opulent",
+        "Spectacular",
+        "Vibrant",
+        "Lush",
+        "Radiant",
+        "Otherworldly"
+    ],
+    "negative": [
+        "Gloomy",
+        "Dreary",
+        "Disenchanted",
+        "Mundane",
+        "Prosaic",
+        "Uninspiring",
+        "Sad",
+        "Tired",
+        "Faded",
+        "Decaying",
+        "Desolate"
+    ]
+}

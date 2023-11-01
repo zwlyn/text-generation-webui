@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Idyllic Countryside",
+        "Serene Landscapes",
+        "Natural Beauty",
+        "Soft Lighting",
+        "Fresh Air",
+        "Charming Villages",
+        "Sunlit Meadows",
+        "Rustic Charm",
+        "Babbling Brooks",
+        "Lush Forests",
+        "Picturesque Scenery",
+        "Quiet Trails",
+        "Peaceful Solitude",
+        "Nature's Wonders"
+    ],
+    "negative": [
+        "Harsh Terrain",
+        "Inhospitable Weather",
+        "Dense Undergrowth",
+        "Unforgiving Cliffs",
+        "Murky Swamps",
+        "Threatening Wildlife",
+        "Unexplored Woods",
+        "Desolate Valleys",
+        "Isolated Cabins",
+        "Dilapidated Barns",
+        "Abandoned Mines",
+        "Ominous Caves",
+        "Perilous River Crossings"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Wilderness Survival",
+        "Primitive Tools",
+        "Nature Adaptation",
+        "Shelter Construction",
+        "Bushcraft Skills",
+        "Edible Plants",
+        "Water Purification",
+        "Animal Tracking",
+        "Fire-Making",
+        "Hunting Techniques",
+        "Trapping Methods",
+        "Sustainable Living",
+        "Indigenous Knowledge",
+        "Urban Survival"
+    ],
+    "negative": [
+        "Starvation",
+        "Dehydration",
+        "Injury",
+        "Harsh Weather",
+        "Loneliness",
+        "Dangerous Animals",
+        "Environmental Dangers",
+        "Boredom",
+        "Fear",
+        "Despair",
+        "Unpredictable Events",
+        "Chance Encounters"
+    ]
+}

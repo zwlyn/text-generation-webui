@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Summer Sunshine",
+        "Vibrant Color Palette",
+        "Feminine Energy",
+        "Glowing Skin Tones",
+        "Sunlit Details",
+        "Bold Prints",
+        "Cotton Candy Hues",
+        "Effervescent Atmosphere",
+        "Lively Shadows",
+        "Soft Glare",
+        "Radiant Textures"
+    ],
+    "negative": [
+        "Overcast Day",
+        "Muted Color Scheme",
+        "Dull Atmosphere",
+        "Flat Lighting",
+        "Pale Complexion",
+        "Subdued Patterns",
+        "Washed-Out Tones",
+        "Shadowy Details",
+        "Harsh Contrast",
+        "Dry Skin",
+        "Glare Reduction"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Creative",
+        "Inspired",
+        "Passionate",
+        "Harmony",
+        "Notes",
+        "Melody",
+        "Rhythm",
+        "Expression",
+        "Performance",
+        "Talent",
+        "Composition",
+        "Musical Instruments",
+        "Piano Player",
+        "Guitarist",
+        "Violinist",
+        "Singer-songwriter",
+        "Drummer",
+        "Orchestra Conductor"
+    ],
+    "negative": [
+        "Discordant",
+        "Cacophony",
+        "Uninspired",
+        "Dissonance",
+        "Off-key",
+        "Muted",
+        "Out of tune",
+        "Awkward",
+        "Clumsy",
+        "Lacking skill",
+        "Amateurish",
+        "Noise pollution",
+        "Irritating",
+        "Jarring",
+        "Discordant orchestra"
+    ]
+}

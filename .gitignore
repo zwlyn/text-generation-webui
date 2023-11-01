@@ -39,3 +39,5 @@ package.json
 package-lock.json
 Thumbs.db
 wandb
+
+*.png

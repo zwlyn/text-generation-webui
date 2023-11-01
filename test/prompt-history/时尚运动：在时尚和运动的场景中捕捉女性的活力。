@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Fashionable",
+        "Stylish",
+        "Elegant",
+        "Chic",
+        "Glamorous",
+        "Futuristic",
+        "Innovative",
+        "Urban",
+        "Sleek",
+        "High-tech",
+        "Neon Lights",
+        "Holographic",
+        "Cybernetic Enhancements",
+        "Healthy",
+        "Vitality",
+        "Confidence",
+        "Empowerment"
+    ],
+    "negative": [
+        "Outdated",
+        "Dated",
+        "Frumpy",
+        "Unfashionable",
+        "Gloomy",
+        "Somber",
+        "Drab",
+        "Mundane",
+        "Isolation",
+        "Loneliness",
+        "Insecurity",
+        "Neglect"
+    ]
+}

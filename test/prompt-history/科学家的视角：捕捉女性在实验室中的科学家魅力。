@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Female Scientist",
+        "Lab Coat",
+        "Glasses",
+        "Focus",
+        "Experiment",
+        "Innovation",
+        "Laboratory Equipment",
+        "Research",
+        "Data Analysis",
+        "Science Diagram",
+        "Technology",
+        "Diligence",
+        "Success",
+        "Discovery",
+        "Collaboration",
+        "Breakthrough"
+    ],
+    "negative": [
+        "Outdated Equipment",
+        "Messy Laboratory",
+        "Inefficient Procedures",
+        "Lack of Funding",
+        "Frustration",
+        "Failed Experiment",
+        "Insufficient Training",
+        "Sexism in STEM",
+        "Gender Inequality",
+        "Resistance to Change",
+        "Burnout"
+    ]
+}

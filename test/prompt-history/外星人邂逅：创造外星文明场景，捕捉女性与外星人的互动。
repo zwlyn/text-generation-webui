@@ -1,0 +1,43 @@
+{
+    "positive": [
+        "Futuristic Fashion",
+        "Utopian Cityscape",
+        "Advanced Technology",
+        "Holographic Communication",
+        "Alien Architecture",
+        "Glowing Bioluminescence",
+        "Intergalactic Traveler",
+        "Peaceful Coexistence",
+        "Multicultural Society",
+        "Neon Lights",
+        "Futuristic Infrastructure",
+        "Clean Energy Sources",
+        "Sleek Designs",
+        "Urban Landscape",
+        "Cybernetic Enhancements",
+        "Virtual Reality",
+        "Harmonious Living",
+        "Eco-Friendly Solutions",
+        "Innovative Transportation"
+    ],
+    "negative": [
+        "Post-Apocalyptic Atmosphere",
+        "Dystopian Cityscape",
+        "Oppressive Regime",
+        "Environmental Degradation",
+        "Overcrowded Spaces",
+        "Crumbling Infrastructure",
+        "Alien Oppression",
+        "Conflict and Strife",
+        "Corruption in Leadership",
+        "Energy Crisis",
+        "Dark Urban Underbelly",
+        "Failed Technology",
+        "Isolated Individuals",
+        "Polluted Environments",
+        "Resource Scarcity",
+        "Surveillance State",
+        "Warring Factions",
+        "Collapsed Society"
+    ]
+}

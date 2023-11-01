@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Performance",
+        "Stage Lighting",
+        "Expression",
+        "Drama",
+        "Artistry",
+        "Choreography",
+        "Costumes",
+        "Makeup",
+        "Props",
+        "Scenery",
+        "Audience Engagement",
+        "Rehearsal",
+        "Backstage",
+        "Theater Atmosphere",
+        "Energy",
+        "Emotion"
+    ],
+    "negative": [
+        "Incomplete Preparation",
+        "Lack of Focus",
+        "Poor Execution",
+        "Unprepared Cast",
+        "Disorganized Backstage",
+        "Missing Props",
+        "Bad Lighting",
+        "Flat Performance",
+        "Confused Audience",
+        "Disharmony",
+        "Uneven Stage",
+        "Wrong Cues",
+        "Technical Difficulties"
+    ]
+}

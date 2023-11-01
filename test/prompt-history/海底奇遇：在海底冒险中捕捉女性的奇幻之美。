@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Futuristic",
+        "Innovative",
+        "High-tech",
+        "Sleek",
+        "Urban",
+        "Vibrant",
+        "Neon",
+        "Glowing",
+        "Holographic",
+        "Technology",
+        "Advanced",
+        "Experimental",
+        "Cutting Edge",
+        "Fashionable",
+        "Awe-inspiring",
+        "Energetic",
+        "Dynamic"
+    ],
+    "negative": [
+        "Darkness",
+        "Shadows",
+        "Desolation",
+        "Abandoned",
+        "Gloominess",
+        "Decay",
+        "Corroded",
+        "Disintegrating",
+        "Smoke",
+        "Grime",
+        "Pollution"
+    ]
+}

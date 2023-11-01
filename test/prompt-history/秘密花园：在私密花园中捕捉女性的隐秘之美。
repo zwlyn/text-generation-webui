@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Secret Garden",
+        "Whimsical Atmosphere",
+        "Mysterious Flora",
+        "Enchanted Forest",
+        "Magical Creatures",
+        "Nature's Beauty",
+        "Ethereal Lighting",
+        "Dreamlike Quality",
+        "Fantastical Scenery",
+        "Spectral Visions",
+        "Otherworldly Feel",
+        "Glimmering",
+        "Captivating",
+        "Fairytale-Like",
+        "Mysterious Adventure"
+    ],
+    "negative": [
+        "Abandoned Garden",
+        "Overgrown Vegetation",
+        "Unkempt Pathways",
+        "Forbidden Areas",
+        "Nature's Destruction",
+        "Dark Shadows",
+        "Ominous Atmosphere",
+        "Gloomy Scenery",
+        "Desolate Landscapes",
+        "Spooky Ambiance",
+        "Untamed Wilderness",
+        "Frightening Encounters",
+        "Haunting Remnants",
+        "Decaying Structures"
+    ]
+}

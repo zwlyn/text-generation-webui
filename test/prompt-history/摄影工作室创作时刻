@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Photography",
+        "Creative Space",
+        "Lighting Setup",
+        "Strobe Lights",
+        "Film Negatives",
+        "Darkroom",
+        "Enlarger",
+        "Chemistry",
+        "Printing Process",
+        "Developer Tray",
+        "Stop Bath",
+        "Fixer",
+        "Wet Prints",
+        "Colorful Chemicals",
+        "Photographic Paper"
+    ],
+    "negative": [
+        "Messy Workspace",
+        "Cluttered Environment",
+        "Old Equipment",
+        "Dusty Cameras",
+        "Expired Film",
+        "Abandoned Darkroom",
+        "Discarded Negatives",
+        "Broken Enlarger",
+        "Chemistry Spills",
+        "Printing Mistakes",
+        "Exposure Errors",
+        "Focus Issues",
+        "Light Leaks",
+        "Processing Errors"
+    ]
+}

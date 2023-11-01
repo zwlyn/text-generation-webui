@@ -1,0 +1,42 @@
+{
+    "positive": [
+        "Graceful",
+        "Elegant",
+        "Artistic",
+        "Expressive",
+        "Choreography",
+        "Dancer",
+        "Performance",
+        "Stage Lighting",
+        "Theater",
+        "Drama",
+        "Costumes",
+        "Makeup",
+        "Hair Styling",
+        "Emotion",
+        "Movement",
+        "Acrobatics",
+        "Body Paint",
+        "Avant-Garde"
+    ],
+    "negative": [
+        "Clumsy",
+        "Uncoordinated",
+        "Ungraceful",
+        "Disjointed",
+        "Harsh Lighting",
+        "Amateurish",
+        "Confusion",
+        "Noise",
+        "Chaos",
+        "Disorganization",
+        "Inappropriate",
+        "Overacting",
+        "Bad Makeup",
+        "Unkempt Hair",
+        "Fear",
+        "Rigidity",
+        "Monotonous Movements",
+        "Lack of Expression"
+    ]
+}

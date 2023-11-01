@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Jewelry Designer",
+        "Creative Director",
+        "Fashionable",
+        "Glamorous",
+        "Elegant",
+        "Sophisticated",
+        "Artisan",
+        "Handcrafted",
+        "Luxury",
+        "Exclusive",
+        "Innovative",
+        "Bold Statement Pieces",
+        "Unique Designs",
+        "Accessible Luxury",
+        "Modern Aesthetic",
+        "Timeless Elegance"
+    ],
+    "negative": [
+        "Outdated Style",
+        "Mass-Produced",
+        "Overly Simplistic",
+        "Tacky",
+        "Kitsch",
+        "Low Quality",
+        "Unimaginative",
+        "Inconsistent Designs",
+        "Inexpensive Materials",
+        "Out of Touch",
+        "Overpriced"
+    ]
+}

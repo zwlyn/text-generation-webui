@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Frozen Beauty",
+        "Ice Queen",
+        "Glacial Grace",
+        "Winter Wonderland",
+        "Crystal Elegance",
+        "Snowflake Aesthetic",
+        "Cold Beauty",
+        "Chilling Chic",
+        "Arctic Allure",
+        "Polar Poise",
+        "Frosty Fashionista",
+        "Ethereal Ice",
+        "Frigid Finesse"
+    ],
+    "negative": [
+        "Bitter Cold",
+        "Winter Woe",
+        "Icy Despair",
+        "Snowbound Isolation",
+        "Cold Comfortless",
+        "Frozen Solitude",
+        "Chilling Loneliness",
+        "Glacial Gloom",
+        "Arctic Angst",
+        "Frostbitten Frustration",
+        "Snow-Bound Suffering",
+        "Winter's Grasp",
+        "Cold Cruelty",
+        "Icebound Anguish",
+        "Polar Pain"
+    ]
+}

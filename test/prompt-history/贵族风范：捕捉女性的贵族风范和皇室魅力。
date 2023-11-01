@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Elegant",
+        "Regal",
+        "Opulent",
+        "Luxurious",
+        "Glamorous",
+        "Royal Guards",
+        "Palatial Estate",
+        "Crown Jewels",
+        "Throne Room",
+        "Noble Attire",
+        "Royal Ball",
+        "Monarch Portrait",
+        "Grand Staircase",
+        "Family Crest",
+        "Heraldic Symbols",
+        "Chivalric Pursuits"
+    ],
+    "negative": [
+        "Isolation",
+        "Loneliness",
+        "Duty-Bound",
+        "Sacrifice",
+        "Decadence",
+        "Overindulgence",
+        "Tyranny",
+        "Oppression",
+        "Rebellion",
+        "Uprising",
+        "Exile",
+        "Disinheritance",
+        "Abdication",
+        "Betrayal",
+        "Assassination",
+        "Intrigue",
+        "Conspiracy"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Elegant",
+        "Graceful",
+        "Feminine",
+        "Nature-infused",
+        "Whimsical",
+        "Dance-inspired",
+        "Flowy",
+        "Organic",
+        "Vibrant",
+        "Choreographed",
+        "Intricate",
+        "Artistic",
+        "Serene",
+        "Movement",
+        "Balletic",
+        "Ethereal",
+        "Sensual",
+        "Floral"
+    ],
+    "negative": [
+        "Disjointed",
+        "Harsh",
+        "Concrete",
+        "Inorganic",
+        "Disruptive",
+        "Unrefined",
+        "Rigid",
+        "Mechanical",
+        "Monotonous",
+        "Random",
+        "Conflicting",
+        "Artificial",
+        "Turbulent",
+        "Fractured",
+        "Brutalist"
+    ]
+}

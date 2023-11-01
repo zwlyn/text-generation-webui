@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Vintage",
+        "Nostalgic",
+        "Charming",
+        "Romantic",
+        "Old-Fashioned",
+        "Classic Elegance",
+        "Timeless Beauty",
+        "Antique",
+        "Heirloom",
+        "Soft Focus",
+        "Dreamlike",
+        "Sentimental",
+        "Wistful"
+    ],
+    "negative": [
+        "Decaying",
+        "Forgotten",
+        "Abandoned",
+        "Faded Glory",
+        "Musty Odor",
+        "Cobwebs",
+        "Dusty",
+        "Rusted",
+        "Discoloration",
+        "Chipped Paint",
+        "Creaky Floorboards",
+        "Shattered Glass"
+    ]
+}

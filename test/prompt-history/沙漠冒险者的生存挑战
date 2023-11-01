@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Desert Explorer",
+        "Solar Powered",
+        "Advanced Hydration",
+        "High-Tech Gear",
+        "Innovative Shelter",
+        "Navigational Aids",
+        "Ultra Violet Protection",
+        "Energy Efficient",
+        "Solar Charged Devices",
+        "Sustainable Resources",
+        "Waste-to- Energy Conversion",
+        "Futuristic Desert Vehicles",
+        "Biodegradable Materials"
+    ],
+    "negative": [
+        "Harsh Sunlight",
+        "Dehydration Dangers",
+        "Solar Panel Malfunction",
+        "Battery Depletion",
+        "Inadequate Shelter",
+        "Lack of Navigation Tools",
+        "UV Radiation Exposure",
+        "Energy Consumption",
+        "Power-Hungry Devices",
+        "Overuse of Resources",
+        "Waste Disposal Challenges",
+        "Desert Vehicle Breakdowns",
+        "Environmentally Unfriendly Materials"
+    ]
+}

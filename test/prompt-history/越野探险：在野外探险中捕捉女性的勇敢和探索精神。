@@ -1,0 +1,43 @@
+{
+    "positive": [
+        "Wilderness",
+        "Adventure",
+        "Courageous",
+        "Exploration",
+        "Nature",
+        "Rugged Terrain",
+        "Challenge",
+        "Independence",
+        "Outdoor Activities",
+        "Bravery",
+        "Discovery",
+        "Empowerment",
+        "Fearless",
+        "Freedom",
+        "Inspiration",
+        "Motivation",
+        "Nurturing",
+        "Resilience",
+        "Spiritual Growth",
+        "Strength",
+        "Survival",
+        "Teamwork"
+    ],
+    "negative": [
+        "Danger",
+        "Fear",
+        "Hazards",
+        "Injury",
+        "Isolation",
+        "Loneliness",
+        "Risk",
+        "Uncertainty",
+        "Vulnerability",
+        "Exhaustion",
+        "Failure",
+        "Helplessness",
+        "Setbacks",
+        "Susceptibility",
+        "Threats"
+    ]
+}

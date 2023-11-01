@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Magical Tail",
+        "Fantasy World",
+        "Adventurous Journey",
+        "Mysterious Creatures",
+        "Enchanted Forest",
+        "Whimsical Atmosphere",
+        "Charming Characters",
+        "Playful Spirits",
+        "Colorful Landscapes",
+        "Friendly Encounters",
+        "Wondrous Creations",
+        "Imaginative Surroundings",
+        "Inspiring Quests",
+        "Empowering Transformations",
+        "Boundless Exploration"
+    ],
+    "negative": [
+        "Mundane Reality",
+        "Drab Settings",
+        "Everyday Life",
+        "Lackluster Atmosphere",
+        "Uninteresting Characters",
+        "Plain Landscapes",
+        "Monotonous Creatures",
+        "Disenchanted Forest",
+        "Gloomy Spirits",
+        "Drab Encounters",
+        "Uninspiring Quests",
+        "Restrictive Transformations",
+        "Confining Exploration"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "positive": [
+        "Shadow Assassin",
+        "Stealthy Approach",
+        "Ninja-like Skills",
+        "Silent Takedowns",
+        "Mysterious Presence",
+        "High-tech Equipment",
+        "Infiltration Expert",
+        "Surveillance Specialist"
+    ],
+    "negative": [
+        "Exposed Position",
+        "Failed Mission",
+        "Betrayed by Allies",
+        "Captured by Enemies",
+        "Lacking Skills",
+        "Ineffective Gear",
+        "Misplaced Trust",
+        "Discovered Identity"
+    ]
+}

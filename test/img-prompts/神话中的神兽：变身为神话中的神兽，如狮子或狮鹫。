@@ -1,0 +1,42 @@
+{
+    "positive": [
+        "Mythical Creature",
+        "Ancient Legend",
+        "Powerful Aura",
+        "Fierce Expression",
+        "Sacred Transformation",
+        "Wisdom",
+        "Culture",
+        "Symbol of Strength",
+        "Nature's Wrath",
+        "Guardian",
+        "Enchanted Forest",
+        "Mystical Encounter",
+        "Protector",
+        "Magic",
+        "Fantastical Beings",
+        "Awe-Inspiring",
+        "Primal Energy",
+        "Tranquil Moment",
+        "Timeless Beauty"
+    ],
+    "negative": [
+        "Loss of Identity",
+        "Uncontrollable Power",
+        "Isolation from Society",
+        "Dangerous Creature",
+        "Fear and Panic",
+        "Hunted by Humans",
+        "Cursed",
+        "Victim of Betrayal",
+        "Ancient Evil",
+        "Corruption",
+        "Deserted Landscape",
+        "Sadness",
+        "Oppression",
+        "Forbidden Knowledge",
+        "Haunting Memories",
+        "Loss of Innocence",
+        "Destruction"
+    ]
+}

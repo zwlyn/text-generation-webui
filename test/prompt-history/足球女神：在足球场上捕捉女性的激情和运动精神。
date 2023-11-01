@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Football",
+        "Female Athlete",
+        "Passionate",
+        "Sportsmanship",
+        "Competitive Spirit",
+        "Teamwork",
+        "Determination",
+        "Celebration",
+        "Goal Scoring",
+        "Inspiring",
+        "Empowering",
+        "Perseverance",
+        "Athletic Bodies",
+        "Graceful Moves",
+        "Resilience",
+        "Pride",
+        "Championship",
+        "Legends"
+    ],
+    "negative": [
+        "Sports Injury",
+        "Loss",
+        "Disappointment",
+        "Pressure",
+        "Intimidation",
+        "Self-Doubt",
+        "Isolation",
+        "Exclusion",
+        "Frustration",
+        "Failure",
+        "Setbacks",
+        "Competitive Stress",
+        "Unfair Play",
+        "Scandal",
+        "Burnout",
+        "Negative Stereotypes"
+    ]
+}

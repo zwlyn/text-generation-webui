@@ -1,0 +1,24 @@
+{
+    "positive": [
+        "Ancient Swordsman",
+        "Historical Combat",
+        "Martial Arts Mastery",
+        "Samurai Spirit",
+        "Renaissance Fencing",
+        "Medieval Duels",
+        "Chivalric Prowess",
+        "Battle-tested Blades",
+        "Warrior Tradition"
+    ],
+    "negative": [
+        "Bloodied Blade",
+        "Swordplay Carnage",
+        "Dishonorable Duelist",
+        "Fallen Warrior",
+        "Lost Legacy",
+        "Martial Arts Decline",
+        "Broken Cutlass",
+        "Tarnished Armor",
+        "Abandoned Weapons"
+    ]
+}

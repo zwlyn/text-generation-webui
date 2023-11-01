@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Elegant",
+        "Glamorous",
+        "Chic",
+        "Upscale",
+        "Stylish",
+        "Classy",
+        "Refined",
+        "Fashionable",
+        "Exclusive",
+        "Sophisticated",
+        "Couture",
+        "High Society",
+        "Luxurious",
+        "Opulent",
+        "Gilded",
+        "Artful"
+    ],
+    "negative": [
+        "Shabby",
+        "Tattered",
+        "Dowdy",
+        "Outdated",
+        "Provincial",
+        "Plain",
+        "Unfashionable",
+        "Mundane",
+        "Ordinary",
+        "Bland",
+        "Vulgar",
+        "Overdone",
+        "Trashy",
+        "Tacky",
+        "Garish",
+        "Kitsch"
+    ]
+}

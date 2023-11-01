@@ -1,0 +1,43 @@
+{
+    "positive": [
+        "Beach",
+        "Sunset",
+        "Ocean",
+        "Coastline",
+        "Ball",
+        "Volleyball",
+        "Teamwork",
+        "Athletic",
+        "Competition",
+        "Friendly",
+        "Landscape",
+        "Outdoor Activity",
+        "Recreational Sports",
+        "Sand",
+        "Waves",
+        "Fun",
+        "Relaxation",
+        "Fitness",
+        "Skill"
+    ],
+    "negative": [
+        "Rainy",
+        "Stormy",
+        "Grey Sky",
+        "Crowded",
+        "Accident",
+        "Injury",
+        "Landslide",
+        "Rip Current",
+        "Tidal Wave",
+        "Flood",
+        "Dangerous Waves",
+        "Erosion",
+        "Debris",
+        "Pollution",
+        "Overcrowded",
+        "Disaster",
+        "Nature's Wrath",
+        "Desolation"
+    ]
+}

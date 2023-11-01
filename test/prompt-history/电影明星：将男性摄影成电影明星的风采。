@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Glamorous",
+        "Charismatic",
+        "Confident",
+        "Captivating",
+        "Stylish",
+        "Suave",
+        "Dashing",
+        "Sophisticated",
+        "Handsome",
+        "Alluring",
+        "Mysterious",
+        "Powerful",
+        "Elegant",
+        "Bold",
+        "Fashionable",
+        "Iconic"
+    ],
+    "negative": [
+        "Overacting",
+        "Insensitive",
+        "Arrogant",
+        "Vain",
+        "Superficial",
+        "Shallow",
+        "Narcissistic",
+        "Showy",
+        "Exaggerated",
+        "Pretentious",
+        "Cliché",
+        "Hollow",
+        "Materialistic",
+        "Predictable",
+        "Boring"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "High-Tech Gadgets",
+        "Futuristic Equipment",
+        "Advanced Interface",
+        "Sleek Designs",
+        "Immersive Environment",
+        "Cutting-Edge Tech",
+        "Cybernetic Enhancements",
+        "Urban Landscape",
+        "Neon Lights",
+        "Holographic Displays",
+        "Futuristic Fashion",
+        "Sci-Fi Inspired",
+        "Virtual Reality",
+        "Advanced Weaponry",
+        "Enhanced Abilities",
+        "Futuristic Transportation"
+    ],
+    "negative": [
+        "Broken Technology",
+        "Isolated Environment",
+        "Dystopian Setting",
+        "Cyber Attacks",
+        "System Failures",
+        "Corrupted Data",
+        "Surveillance Detection",
+        "Hacking Threats",
+        "Dark Urban Streets",
+        "Grimy Infrastructure",
+        "Exposure to Viruses",
+        "Cyber Warfare",
+        "Pollution",
+        "Decaying Cityscape",
+        "Urban Decline"
+    ]
+}

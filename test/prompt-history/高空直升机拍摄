@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Futuristic Transportation",
+        "Aerial Perspective",
+        "Flying High Above the City",
+        "Skybound Photography",
+        "Innovative Technology",
+        "Visionary Urban Design",
+        "Bright Lights of the Metropolis",
+        "Stunning Architectural Features",
+        "Panoramic Views",
+        "Cutting-Edge Engineering",
+        "Elevated Experience",
+        "Uplifting Imagery",
+        "Bold Color Palettes",
+        "Reflective Surfaces",
+        "Dramatic Angles",
+        "Dynamic Movement",
+        "Breathtaking Scenery",
+        "Timeless Aesthetics"
+    ],
+    "negative": [
+        "Cramped Interior Spaces",
+        "Limited Flight Range",
+        "Noise Pollution",
+        "Safety Concerns",
+        "Complicated Control Systems",
+        "High Maintenance Costs",
+        "Energy Inefficiency",
+        "Restrictive Regulations",
+        "Lack of Practicality",
+        "Difficulty in Navigation",
+        "Limited Weather Tolerance",
+        "Unpredictable Flight Conditions",
+        "Potential Collisions",
+        "Fear of Heights",
+        "Narrow Target Audience",
+        "Exclusionary Design",
+        "Environmental Impact"
+    ]
+}

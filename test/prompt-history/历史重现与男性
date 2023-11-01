@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Retro",
+        "Vintage",
+        "Historical Reenactment",
+        "Period Costumes",
+        "Antique",
+        "Nostalgic",
+        "Old-Fashioned",
+        "Traditional Craftsmanship",
+        "Heritage",
+        "Classic",
+        "Elegant",
+        "Timeless",
+        "Chivalry",
+        "Past Glory",
+        "Storybook Romance",
+        "Royal Court",
+        "Age of Elegance"
+    ],
+    "negative": [
+        "Outdated",
+        "Obsolete",
+        "Rusty",
+        "Dilapidated",
+        "Forgotten",
+        "Antiquated Technology",
+        "Lacking Modern Conveniences",
+        "Slow-Paced",
+        "Old-Fashioned Gender Roles",
+        "Chauvinistic Attitudes",
+        "Resistance to Change",
+        "Nostalgia Trap",
+        "Stagnant Society",
+        "Oppressive Tradition",
+        "Cultural Stagnation",
+        "Rigid Hierarchy"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Beach Vibes",
+        "Sun Kissed",
+        "Ocean Breeze",
+        "Salty Hair",
+        "Freedom",
+        "Carefree",
+        "Laughter",
+        "Joyful",
+        "Playful",
+        "Relaxation",
+        "Sandcastles",
+        "Wave Chasing",
+        "Family Time",
+        "Friendship",
+        "Romance",
+        "Beach Picnic",
+        "Sunset Stroll",
+        "Coastal Beauty"
+    ],
+    "negative": [
+        "Loneliness",
+        "Separation",
+        "Longing",
+        "Fear of Water",
+        "Depression",
+        "Grief",
+        "Anxiety",
+        "Insomnia",
+        "Sadness",
+        "Regret",
+        "Nostalgia",
+        "Trauma"
+    ]
+}

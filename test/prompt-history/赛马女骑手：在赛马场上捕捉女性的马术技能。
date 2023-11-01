@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Equestrian",
+        "Female Rider",
+        "Confident",
+        "Galloping Horse",
+        "Proud Stance",
+        "Impressive Form",
+        "Dressage",
+        "Stable Life",
+        "Jumping Over Obstacles",
+        "Western Saddle",
+        "English Saddle",
+        "Equine Athleticism",
+        "Tradition Meets Modernity"
+    ],
+    "negative": [
+        "Injured Horse",
+        "Fallen Rider",
+        "Despair",
+        "Abandoned Stable",
+        "Neglected Horses",
+        "Run-down Arena",
+        "Lack of Training",
+        "Strained Relationship",
+        "Unwanted Responsibility",
+        "Hardships in Rural Life",
+        "Urban Sprawl Threatens Equestrianism"
+    ]
+}

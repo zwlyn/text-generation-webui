@@ -1,0 +1,43 @@
+{
+    "positive": [
+        "Female Miner",
+        "Mining Gems",
+        "Underground Treasure",
+        "Shiny Ore",
+        "Excavator",
+        "Drilling Machine",
+        "Tunneling Equipment",
+        "Precious Stones",
+        "Glittering Crystals",
+        "Dark Mines",
+        "Illuminated Caverns",
+        "Hard Hat",
+        "Work Gloves",
+        "Utility Belt",
+        "Headlamp",
+        "Picks and Shovels",
+        "Steel-toed Boots",
+        "Dusty Environment",
+        "Heavy Machinery",
+        "Rock Drill"
+    ],
+    "negative": [
+        "Cave-In",
+        "Toxic Gas",
+        "Collapsed Tunnel",
+        "Dangerous Equipment",
+        "Low Oxygen Levels",
+        "Slippery Ground",
+        "Water Intrusion",
+        "Unstable Structures",
+        "Darkness",
+        "Noise Pollution",
+        "Cramped Spaces",
+        "Limited Visibility",
+        "Heavy Lifting",
+        "Long Hours",
+        "Remote Location",
+        "Isolation",
+        "Claustrophobia"
+    ]
+}

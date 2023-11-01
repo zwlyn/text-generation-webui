@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Astronaut",
+        "Space Travel",
+        "Interstellar Journey",
+        "Galactic Exploration",
+        "Stellar Adventure",
+        "Celestial Wonders",
+        "Starship",
+        "Planetary Discovery",
+        "Extraterrestrial Life",
+        "Zero-gravity Sports",
+        "Orbiting Space Station",
+        "Manned Mission to Mars",
+        "Lunar Base",
+        "Asteroid Mining",
+        "Space Colony"
+    ],
+    "negative": [
+        "Cosmic Danger",
+        "Deep Space Fear",
+        "Isolation in Space",
+        "Astronaut Loneliness",
+        "Life-threatening Emergencies",
+        "Meteor Showers",
+        "Black Holes",
+        "Killer Asteroids",
+        "Gravity Fluctuations",
+        "Radiation Exposure",
+        "Malfunctioning Equipment",
+        "Loss of Oxygen",
+        "Frozen in Space",
+        "Cramped Quarters",
+        "Endless Work"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Wind",
+        "Waves",
+        "Goddess",
+        "Mystical",
+        "Awe-inspiring",
+        "Powerful",
+        "Beautiful",
+        "Female",
+        "Nature",
+        "Elemental",
+        "Ethereal",
+        "Whirlwind",
+        "Tidal Force",
+        "Inspirational"
+    ],
+    "negative": [
+        "Stormy",
+        "Unpredictable",
+        "Destructive",
+        "Dangerous",
+        "Intimidating",
+        "Fearsome",
+        "Wild",
+        "Untamed",
+        "Violent",
+        "Chaotic",
+        "Uncontrollable",
+        "Harmful"
+    ]
+}

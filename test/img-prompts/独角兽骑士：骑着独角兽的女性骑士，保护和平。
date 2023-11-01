@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Magical",
+        "Mystical",
+        "Fantasy",
+        "Whimsical",
+        "Colorful",
+        "Beautiful",
+        "Nature",
+        "Forest",
+        "Serene",
+        "Enchanted",
+        "Graceful",
+        "Harmony",
+        "Dreamy",
+        "Wondrous",
+        "Imagination",
+        "Fairytale",
+        "Chivalry"
+    ],
+    "negative": [
+        "Disenchantment",
+        "Mundane",
+        "Urban Sprawl",
+        "Pollution",
+        "Despair",
+        "Darkness",
+        "Destruction",
+        "Sadness",
+        "Decay",
+        "Loneliness",
+        "Bleak",
+        "Gloom",
+        "Discord"
+    ]
+}

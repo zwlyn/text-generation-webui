@@ -1,0 +1,42 @@
+{
+    "positive": [
+        "Chic",
+        "Modern",
+        "Stylish",
+        "Fashionable",
+        "Urban",
+        "Glamorous",
+        "High-end",
+        "Elegant",
+        "Refined",
+        "Sophisticated",
+        "Trendy",
+        "Classy",
+        "Luxurious",
+        "Artistic",
+        "Creative",
+        "Innovative",
+        "Bold",
+        "Daring"
+    ],
+    "negative": [
+        "Poverty",
+        "Run-down",
+        "Shabby",
+        "Tired",
+        "Outdated",
+        "Unfashionable",
+        "Cheap",
+        "Tacky",
+        "Crowded",
+        "Noisy",
+        "Dirty",
+        "Disorganized",
+        "Overwhelming",
+        "Gritty",
+        "Hasty",
+        "Drab",
+        "Boring",
+        "Ordinary"
+    ]
+}

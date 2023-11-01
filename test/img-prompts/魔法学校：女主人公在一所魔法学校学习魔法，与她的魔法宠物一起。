@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Magical School",
+        "Female Protagonist",
+        "Charming Creatures",
+        "Whimsical Atmosphere",
+        "Enchanted Classrooms",
+        "Friendly Competition",
+        "Mysterious Library",
+        "Inspiring Teachers",
+        "Talented Students",
+        "Spellbinding Experiments",
+        "Supportive Community",
+        "Exciting Adventures"
+    ],
+    "negative": [
+        "Dark Forces",
+        "Forbidden Spells",
+        "Nefarious Creatures",
+        "Ominous Atmosphere",
+        "Abandoned Classrooms",
+        "Cutthroat Competition",
+        "Hidden Library",
+        "Sinister Teachers",
+        "Arrogant Students",
+        "Dangerous Experiments",
+        "Secretive Community",
+        "Treacherous Adventures"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Futuristic",
+        "Mysterious",
+        "Exploration",
+        "Adventure",
+        "Intriguing",
+        "Discovery",
+        "Alien Worlds",
+        "Interstellar Travel",
+        "Cosmic Wonders",
+        "Diverse Cultures",
+        "Enigmatic Technologies",
+        "Extraordinary Scenery",
+        "Breathtaking Views",
+        "Galactic Encounters",
+        "Navigating the Unknown"
+    ],
+    "negative": [
+        "Isolation",
+        "Loneliness",
+        "Perilous Journeys",
+        "Dangerous Creatures",
+        "Hostile Environments",
+        "Asteroid Fields",
+        "Warp Errors",
+        "Malfunctioning Equipment",
+        "Known Unknowns",
+        "Deep Space Phenomena",
+        "Cosmic Horrors",
+        "Navigational Challenges",
+        "Oxygen Deprivation",
+        "Gravitational Perturbations",
+        "Existential Threats"
+    ]
+}

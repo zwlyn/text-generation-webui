@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Ocean Adventure",
+        "Seafaring Women",
+        "Maritime Exploration",
+        "Sailing Ships",
+        "Brave Captains",
+        "Nautical Chic",
+        "Women's Sailor Fashion",
+        "Beach Vibes",
+        "Female Pirates",
+        "Treasure Island",
+        "Coral Reefs",
+        "Marine Life Encounters",
+        "Sunset Cruises",
+        "Salty Breeze"
+    ],
+    "negative": [
+        "Shipwrecked",
+        "Lost at Sea",
+        "Stormy Waters",
+        "Abandoned Ships",
+        "Cursed Treasure",
+        "Davy Jones's Locker",
+        "Ghostly Crews",
+        "Waterlogged Decks",
+        "Sirens Call",
+        "Whirlpools",
+        "Sea Monsters",
+        "Lost Voyage"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Artist's Studio",
+        "Creative Space",
+        "Female Artist",
+        "Painting",
+        "Drawing",
+        "Sculpting",
+        "Creativity",
+        "Inspiration",
+        "Colorful",
+        "Light-Filled",
+        "Organized",
+        "Eclectic",
+        "Vintage",
+        "Natural Light"
+    ],
+    "negative": [
+        "Messy Studio",
+        "Cluttered Workspace",
+        "Unfinished Artwork",
+        "Dark Corners",
+        "Disorganization",
+        "Creative Block"
+    ]
+}

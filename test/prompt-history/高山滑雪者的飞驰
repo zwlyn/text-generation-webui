@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Adventure",
+        "Extreme Sports",
+        "Thrill-Seeker",
+        "Snowy Peaks",
+        "Gliding",
+        "Speed Rush",
+        "Freedom",
+        "Fresh Air",
+        "Mountain Landscape",
+        "Exhilarating",
+        "Natural Beauty",
+        "Icy Terrain",
+        "Crisp Morning",
+        "Breathtaking Views",
+        "Winter Wonderland"
+    ],
+    "negative": [
+        "Dangerous",
+        "Accidents",
+        "Injuries",
+        "Risky Behavior",
+        "Unpredictable Conditions",
+        "Slippery Slope",
+        "Icy Surfaces",
+        "Hidden Obstacles",
+        "Nature's Wrath",
+        "Vulnerability"
+    ]
+}

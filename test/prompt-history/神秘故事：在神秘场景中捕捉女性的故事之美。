@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Mysterious",
+        "Atmospheric",
+        "Ethereal",
+        "Futuristic",
+        "Sleek",
+        "High-Tech",
+        "Illuminated",
+        "Neon Glow",
+        "Futuristic Fashion",
+        "Cybernetic Enhancements",
+        "Urban Landscape",
+        "Holographic",
+        "Glowing Elements"
+    ],
+    "negative": [
+        "Dark Corners",
+        "Hidden Dangers",
+        "Shadows",
+        "Ominous Tones",
+        "Suspenseful Atmosphere",
+        "Unsettling Scenes",
+        "High-Tech Gadgets",
+        "Futuristic Vehicles",
+        "Cybernetic Environments"
+    ]
+}

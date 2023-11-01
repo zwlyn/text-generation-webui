@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Ice",
+        "Glacier",
+        "Hiking",
+        "Adventure",
+        "Exploration",
+        "Nature",
+        "Winter Wonderland",
+        "Snowy Landscape",
+        "Frozen Waterfall",
+        "Mountain Peaks",
+        "Crystal Clear Lakes",
+        "Fresh Air",
+        "Serenity",
+        "Majestic Views"
+    ],
+    "negative": [
+        "Dangerous Terrain",
+        "Unstable Ice",
+        "Hidden Crevasses",
+        "Slippery Paths",
+        "Freezing Temperatures",
+        "Harsh Conditions",
+        "Isolated Locations",
+        "Risky Ventures",
+        "Threatening Weather",
+        "Inhospitable Environment",
+        "Exhausting Journeys"
+    ]
+}

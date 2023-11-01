@@ -1,0 +1,43 @@
+{
+    "positive": [
+        "Bookworm",
+        "Literary Beauty",
+        "Intellectual",
+        "Coffee Shop Read",
+        "Classic Novels",
+        "Vintage Books",
+        "Library Atmosphere",
+        "Quiet Study Corner",
+        "Engrossed in a Story",
+        "Warm Lighting",
+        "Cozy Nook",
+        "Bookstore Browsing",
+        "Literary Inspiration",
+        "Cosy Interior",
+        "Comfy Chair",
+        "Inviting Window Seat",
+        "Natural Light",
+        "Personal Library",
+        "Home Office Haven"
+    ],
+    "negative": [
+        "Abandoned Bookstore",
+        "Unread Volumes",
+        "Dusty Shelves",
+        "Forgotten Classics",
+        "Outdated Reference Books",
+        "Closed Bookshop",
+        "Deserted Reading Space",
+        "Neglected Literature",
+        "Harsh Lighting",
+        "Sterile Atmosphere",
+        "Uncomfortable Furniture",
+        "Overcrowded Library",
+        "Study Stress",
+        "Late Night Studying",
+        "Research Overload",
+        "Crumpled Notes",
+        "Highlighter Marks",
+        "Overflowing Bookshelves"
+    ]
+}

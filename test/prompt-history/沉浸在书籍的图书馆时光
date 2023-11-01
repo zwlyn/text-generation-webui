@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Futuristic Architecture",
+        "Advanced Technology",
+        "Holographic Projections",
+        "Sleek Interior Design",
+        "Cybernetic Enhancements",
+        "Urban Innovation",
+        "Virtual Reality Environment",
+        "Neon-Lit Streets",
+        "High-Tech Gadgets",
+        "Masculine Fashion Trends"
+    ],
+    "negative": [
+        "Decaying Cityscape",
+        "Polluted Atmosphere",
+        "Dystopian Elements",
+        "Crowded Urban Spaces",
+        "Overwhelming Technology",
+        "Cybersecurity Risks",
+        "Social Isolation",
+        "Urban Congestion",
+        "Crumbling Infrastructure"
+    ]
+}

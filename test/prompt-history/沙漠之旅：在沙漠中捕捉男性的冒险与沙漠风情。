@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Sandstorm",
+        "Desert Explorer",
+        "Adventurous Journey",
+        "Mysterious Oasis",
+        "Survival Skills",
+        "Rugged Landscape",
+        "Endurance",
+        "Extreme Temperatures",
+        "Vast Horizons",
+        "Sunset Dunes",
+        "Navigating Terrain",
+        "Solitude",
+        "Courageous",
+        "Resilient",
+        "Primitive Shelters",
+        "Desert Wildlife Encounters",
+        "Remote Expedition",
+        "Sense of Freedom"
+    ],
+    "negative": [
+        "Dehydration",
+        "Exhaustion",
+        "Lost in the Desert",
+        "Harsh Conditions",
+        "Desolate Scenery",
+        "Extreme Weather",
+        "Dangerous Creatures",
+        "Isolation",
+        "Thirsty Struggle",
+        "Exposed to Elements",
+        "Abandoned in the Sand",
+        "Suffering",
+        "Despair",
+        "Hopeless Situations"
+    ]
+}

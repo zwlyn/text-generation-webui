@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Creative Expression",
+        "Innovative Recording Techniques",
+        "Musical Collaboration",
+        "State-of-the-Art Equipment",
+        "Acoustically Optimized Spaces",
+        "Inspiring Environment",
+        "Immersive Listening Experience",
+        "Emotional Connection",
+        "Engaging Performances",
+        "Memorable Melodies",
+        "Harmonious Compositions"
+    ],
+    "negative": [
+        "Artistic Block",
+        "Ineffective Mixing Techniques",
+        "Uncooperative Collaborators",
+        "Outdated Gear",
+        "Reverberant Nightmare",
+        "Stifling Creativity",
+        "Disconnect with Audience",
+        "Forgettable Tunes",
+        "Dissonant Cacophony"
+    ]
+}

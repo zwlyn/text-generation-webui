@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Gastronomy",
+        "Food Culture",
+        "Culinary Traditions",
+        "Exotic Spices",
+        "Local Ingredients",
+        "Healthy Options",
+        "Sustainable Practices",
+        "Innovative Techniques",
+        "Cooking Methods",
+        "International Cuisine",
+        "Fusion Dishes",
+        "Vegan Delights",
+        "Gluten-Free options",
+        "Seasonal Produce",
+        "Artisanal Products"
+    ],
+    "negative": [
+        "Overcooked Food",
+        "Bland Flavors",
+        "Processed Ingredients",
+        "Unhealthy Options",
+        "Wasteful Practices",
+        "Outdated Techniques",
+        "Foodborne Illnesses",
+        "Contamination",
+        "Allergen Risks",
+        "Chemical Additives",
+        "Monotonous Dishes"
+    ]
+}

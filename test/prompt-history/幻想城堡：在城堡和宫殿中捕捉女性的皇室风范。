@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Castle",
+        "Palace",
+        "Royalty",
+        "Regal",
+        "Elegance",
+        "Architectural Wonder",
+        "Stunning Views",
+        "Lush Gardens",
+        "Sunlit",
+        "Majestic Hallways",
+        "Golden Accents",
+        "Marble Floors",
+        "Chandeliers",
+        "Crystal Clear Lakes",
+        "Fountains",
+        "Vibrant Flowers"
+    ],
+    "negative": [
+        "Abandoned",
+        "Decaying Walls",
+        "Overgrown Gardens",
+        "Dark Corners",
+        "Broken Windows",
+        "Rusty Gates",
+        "Unkept Pathways",
+        "Moss-Covered Stonework",
+        "Forgotten Rooms",
+        "Empty Thrones",
+        "Dust-Filled Air",
+        "Cobwebs Everywhere",
+        "Loneliness",
+        "Whispers of the Past",
+        "Chilling Echoes",
+        "Shadows Lurking"
+    ]
+}

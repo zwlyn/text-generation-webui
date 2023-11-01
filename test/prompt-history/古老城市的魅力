@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Historic",
+        "Ancient",
+        "Mysterious",
+        "Charming",
+        "Timeless",
+        "Elegant",
+        "Grandiose",
+        "Ornate",
+        "Intricate",
+        "Arcane",
+        "Whimsical",
+        "Vintage",
+        "Nostalgic",
+        "Enigmatic",
+        "Legacy"
+    ],
+    "negative": [
+        "Decaying",
+        "Forgotten",
+        "Abandoned",
+        "Dilapidated",
+        "Somber",
+        "Eerie",
+        "Shadowy",
+        "Deserted",
+        "Creepy",
+        "Gloomy",
+        "Isolated",
+        "Ominous",
+        "Haunted",
+        "Forgotten",
+        "Ruins"
+    ]
+}

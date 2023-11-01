@@ -1,0 +1,43 @@
+[[source]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = true
+name = "pip_conf_index_global"
+
+[packages]
+aiofiles = "==23.1.0"
+fastapi = "==0.95.2"
+gradio-client = "==0.2.5"
+gradio = "==3.33.1"
+accelerate = "==0.22.*"
+colorama = "*"
+datasets = "*"
+einops = "*"
+markdown = "*"
+numpy = "==1.24"
+optimum = "==1.12.0"
+pandas = "*"
+peft = "==0.5.*"
+pillow = ">=9.5.0"
+pyyaml = "*"
+requests = "*"
+safetensors = "==0.3.2"
+transformers = "==4.32.*"
+scipy = "*"
+sentencepiece = "*"
+tensorboard = "*"
+tqdm = "*"
+wandb = "*"
+bitsandbytes = {file = "https://github.com/jllllll/bitsandbytes-windows-webui/releases/download/wheels/bitsandbytes-0.41.1-py3-none-win_amd64.whl"}
+auto-gptq = {file = "https://github.com/PanQiWei/AutoGPTQ/releases/download/v0.4.2/auto_gptq-0.4.2+cu117-cp310-cp310-linux_x86_64.whl"}
+exllama = {file = "https://github.com/jllllll/exllama/releases/download/0.0.14/exllama-0.0.14+cu117-cp310-cp310-linux_x86_64.whl"}
+llama-cpp-python = {file = "https://github.com/abetlen/llama-cpp-python/releases/download/v0.1.83/llama_cpp_python-0.1.83-cp310-cp310-win_amd64.whl"}
+llama-cpp-python-cuda = {file = "https://github.com/jllllll/llama-cpp-python-cuBLAS-wheels/releases/download/textgen-webui/llama_cpp_python_cuda-0.1.83+cu117-cp310-cp310-linux_x86_64.whl"}
+llama-cpp-python-ggml = {file = "https://github.com/jllllll/llama-cpp-python-cuBLAS-wheels/releases/download/cpu/llama_cpp_python_ggml-0.1.78+cpuavx2-cp310-cp310-linux_x86_64.whl"}
+llama-cpp-python-ggml-cuda = {file = "https://github.com/jllllll/llama-cpp-python-cuBLAS-wheels/releases/download/textgen-webui/llama_cpp_python_ggml_cuda-0.1.78+cu117-cp310-cp310-linux_x86_64.whl"}
+gptq-for-llama = {file = "https://github.com/jllllll/GPTQ-for-LLaMa-CUDA/releases/download/0.1.0/gptq_for_llama-0.1.0+cu117-cp310-cp310-linux_x86_64.whl"}
+ctransformers = {file = "https://github.com/jllllll/ctransformers-cuBLAS-wheels/releases/download/AVX2/ctransformers-0.2.25+cu117-py3-none-any.whl"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"

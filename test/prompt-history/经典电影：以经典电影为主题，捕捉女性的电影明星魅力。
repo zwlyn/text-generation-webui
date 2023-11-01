@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Glamorous Hollywood",
+        "Vintage Glamour",
+        "Classic Cinema",
+        "Iconic Scenes",
+        "Timeless Style",
+        "Elegant Wardrobe",
+        "Charming Smile",
+        "Captivating Gaze",
+        "Powerful Presence",
+        "Strong Female Lead",
+        "Memorable Dialogues",
+        "Witty Banter",
+        "Romantic Moment",
+        "Dramatic Pose"
+    ],
+    "negative": [
+        "Outdated Special Effects",
+        "Black and White Aesthetic",
+        "Silent Film Style",
+        "Unrealistic Expectations",
+        "Sexist Stereotypes",
+        "Old Fashioned Values",
+        "Clichéd Plotlines",
+        "Simplistic Characters",
+        "Overacting",
+        "Inconsequential Sidekicks",
+        "Outmoded Social Norms",
+        "Vintage Technical Limitations"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Futuristic Cityscape",
+        "Neon Glow",
+        "Sleek Armor",
+        "Advanced Weapons",
+        "Enhanced Abilities",
+        "Cybernetic Enhancements",
+        "Holographic Interface",
+        "High-Tech Vehicles",
+        "Urban Warfare"
+    ],
+    "negative": [
+        "Dark Alleyways",
+        "Polluted Environment",
+        "Crumbling Infrastructure",
+        "Ruined Cityscape",
+        "Corrupted Technology",
+        "Abandoned Facilities",
+        "Loss of Privacy",
+        "Surveillance State",
+        "Social Inequality",
+        "Class Struggle"
+    ]
+}

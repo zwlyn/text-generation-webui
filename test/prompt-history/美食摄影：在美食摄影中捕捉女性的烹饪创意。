@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Female Chef",
+        "Culinary Creativity",
+        "Kitchen Mastery",
+        "Colorful Dishes",
+        "Presentation Skills",
+        "Artistic Plating",
+        "Innovative Flavors",
+        "Healthy Cooking",
+        "Seasonal Ingredients",
+        "Locally Sourced Food",
+        "Farm-to-Table",
+        "Vibrant Settings",
+        "Rustic Atmosphere",
+        "Elegant Tableware"
+    ],
+    "negative": [
+        "Mismatched Ingredients",
+        "Overcooked Dishes",
+        "Lack of Creativity",
+        "Bland Flavors",
+        "Unappealing Presentation",
+        "Messy Plating",
+        "Artificial Additives",
+        "Processed Foods",
+        "Overuse of Spices",
+        "Excessive Oil",
+        "Inconvenient Settings",
+        "Disconnected Atmosphere",
+        "Ugly Tableware"
+    ]
+}

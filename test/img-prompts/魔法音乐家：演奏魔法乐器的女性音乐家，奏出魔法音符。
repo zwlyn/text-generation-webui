@@ -1,0 +1,43 @@
+{
+    "positive": [
+        "Magical Musician",
+        "Female Pianist",
+        "Enchanted Concert Hall",
+        "Mystical Melody",
+        "Spellbinding Symphony",
+        "Incantation Interlude",
+        "Charming Compositions",
+        "Magic and Music",
+        "Spectral Performance",
+        "Ethereal Encores",
+        "Transcendent Tunes",
+        "Supernatural Serenades",
+        "Enchantress Ensemble",
+        "Melodious Magic",
+        "Arcane Artistry",
+        "Wondrous Woodwinds",
+        "Sorceress Strings",
+        "Celestial Chords",
+        "Harmonious Harmony",
+        "Divine Duets"
+    ],
+    "negative": [
+        "Mundane Melodies",
+        "Banal Beats",
+        "Prosaic Performances",
+        "Average Arias",
+        "Uninspired Interludes",
+        "Dull Dynamics",
+        "Pedestrian Pianissimos",
+        "Ordinary Orchestrations",
+        "Humdrum Harmonies",
+        "Boring Basslines",
+        "Monotonous Melodic Motifs",
+        "Uninspired Undertones",
+        "Plodding Percussion",
+        "Somber Scales",
+        "Languid Lyrics",
+        "Dreary Duets",
+        "Discordant Dissonance"
+    ]
+}

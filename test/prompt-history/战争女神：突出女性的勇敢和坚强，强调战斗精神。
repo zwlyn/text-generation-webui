@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Warrior",
+        "Fierce",
+        "Strong",
+        "Courageous",
+        "Battle-tested",
+        "Defiant",
+        "Determined",
+        "Victorious",
+        "Confident",
+        "Empowering",
+        "Inspirational",
+        "Leader",
+        "Heroic",
+        "Perseverance",
+        "Resilient"
+    ],
+    "negative": [
+        "Fearful",
+        "Doubtful",
+        "Timid",
+        "Weak",
+        "Retreat",
+        "Surrender",
+        "Submissive",
+        "Vulnerable",
+        "Intimidated",
+        "Discouraged",
+        "Defeated",
+        "Lost Hope"
+    ]
+}

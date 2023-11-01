@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Adventurous",
+        "Desert Exploration",
+        "Camel Caravan",
+        "Solar Energy",
+        "Innovative Solutions",
+        "Sustainable Living",
+        "Nomadic Culture",
+        "Starry Sky",
+        "Oasis",
+        "Ancient Trade Routes",
+        "Sand Dunes",
+        "Panoramic Landscapes",
+        "Efficient Transportation",
+        "Cultural Exchange"
+    ],
+    "negative": [
+        "Harsh Conditions",
+        "Dehydration",
+        "Exhaustion",
+        "Lost in the Desert",
+        "Sandstorms",
+        "Thirsty Camels",
+        "Fragile Equipment",
+        "Dangerous Animals",
+        "Desolate Terrain",
+        "Endless Walking",
+        "Rationing Supplies",
+        "Communication Breakdown"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "positive": [
+        "Mysterious",
+        "Nighttime Exploration",
+        "Shadows",
+        "Suspenseful",
+        "Secretive",
+        "Hidden Passages",
+        "Urban Legends",
+        "Illuminated Signs",
+        "Whispers",
+        "Clandestine Meetings",
+        "Undiscovered Places"
+    ],
+    "negative": [
+        "Dangerous",
+        "Lurking Threats",
+        "Abandoned Structures",
+        "Unseen Watchers",
+        "Fearful Encounters",
+        "Eerie Silence",
+        "Hushed Voices",
+        "Deserted Streets",
+        "Hidden Perils",
+        "Sinister Atmosphere"
+    ]
+}

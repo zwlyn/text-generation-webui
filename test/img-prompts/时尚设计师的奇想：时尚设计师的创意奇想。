@@ -1,0 +1,43 @@
+{
+    "positive": [
+        "Elegant",
+        "Sophisticated",
+        "Innovative",
+        "Bold",
+        "Vibrant",
+        "Futuristic",
+        "Urban",
+        "Playful",
+        "Daring",
+        "Unconventional",
+        "Opulent",
+        "Glamorous",
+        "Refined",
+        "Dynamic",
+        "Crisp",
+        "Stylish",
+        "Imaginative",
+        "Influential",
+        "Experimental"
+    ],
+    "negative": [
+        "Mundane",
+        "Outdated",
+        "Conservative",
+        "Dull",
+        "Monotonous",
+        "Restrictive",
+        "Ordinary",
+        "Uninspiring",
+        "Reserved",
+        "Safe",
+        "Stereotypical",
+        "Inaccessible",
+        "Exclusive",
+        "Static",
+        "Predictable",
+        "Limited",
+        "Unoriginal",
+        "Clichéd"
+    ]
+}

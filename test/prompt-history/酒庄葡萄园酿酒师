@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Artisanal",
+        "Fermentation",
+        "Handcrafted",
+        "Wooden Barrels",
+        "Oak Aging",
+        "Vintage Tools",
+        "Time-Honored Traditions",
+        "Rustic Ambiance",
+        "Seasonal Flavors",
+        "Sensory Experience",
+        "Craftsmanship"
+    ],
+    "negative": [
+        "Mass Production",
+        "Chemical Additives",
+        "Artificial Flavors",
+        "Expired Ingredients",
+        "Poor Hygiene",
+        "Outdated Techniques",
+        "Disregard for Quality",
+        "Overly Processed"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Music School",
+        "Practice Room",
+        "Musical Instruments",
+        "Female Musicians",
+        "Creative Expression",
+        "Artistic Talent",
+        "Harmony",
+        "Rhythm",
+        "Notes",
+        "Sheet Music"
+    ],
+    "negative": [
+        "Noise Pollution",
+        "Distorted Sound",
+        "Off-Key",
+        "Discordant Melody",
+        "Unharmonious Chords",
+        "Lack of Creativity",
+        "Talentless Performance",
+        "Disharmony",
+        "Cacophony"
+    ]
+}

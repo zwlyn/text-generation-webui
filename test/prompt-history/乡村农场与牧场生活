@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Rural",
+        "Idyllic",
+        "Serene",
+        "Nature",
+        "Organic",
+        "Fresh",
+        "Greenery",
+        "Sustainable",
+        "Family-owned",
+        "Traditional",
+        "Charming",
+        "Harmony",
+        "Tranquil",
+        "Scenic",
+        "Bountiful",
+        "Harvest",
+        "Sunrise",
+        "Sunset"
+    ],
+    "negative": [
+        "Abandoned",
+        "Decay",
+        "Urbanization",
+        "Development",
+        "Exploitation",
+        "Pollution",
+        "Drought",
+        "Invasive Species",
+        "Overdevelopment",
+        "Disconnection",
+        "Modernization",
+        "Loss of Heritage",
+        "Depletion",
+        "Stress",
+        "Migration"
+    ]
+}

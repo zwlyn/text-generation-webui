@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Mysterious",
+        "Enigmatic",
+        "Fascinating",
+        "Captivating",
+        "Exploration",
+        "Adventure",
+        "Hidden Corners",
+        "Secret Passages",
+        "Whispers",
+        "Shadows",
+        "Unveiling",
+        "Revelation",
+        "Eerie Beauty",
+        "Sense of Wonder",
+        "Immersive",
+        "Dreamlike"
+    ],
+    "negative": [
+        "Dangerous",
+        "Ominous",
+        "Threatening",
+        "Mysterious Forces",
+        "Hidden Traps",
+        "Unsafe Territory",
+        "Dark Secrets",
+        "Unsettling Atmosphere",
+        "Fear of the Unknown",
+        "Lurking Dangers",
+        "Sinister Whispers",
+        "Haunting Shadows",
+        "Eerie Presence",
+        "Apprehension",
+        "Immersive Fear",
+        "Nightmarish"
+    ]
+}

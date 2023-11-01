@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Theatrical",
+        "Dramatic Lighting",
+        "Stage Presence",
+        "Graceful Moves",
+        "Expressive Face",
+        "Elegant Costumes",
+        "Dynamic Poses",
+        "Emotional Performance",
+        "Engaging Audience",
+        "Artistic Makeup",
+        "Intricate Hairstyles",
+        "Sophisticated Accessories",
+        "Rich Colors"
+    ],
+    "negative": [
+        "Overacting",
+        "Harsh Lighting",
+        "Stage Fright",
+        "Rigid Posture",
+        "Flat Expression",
+        "Untidy Costumes",
+        "Static Poses",
+        "Lack of Emotion",
+        "Indifferent Audience",
+        "Overdone Makeup",
+        "Unkempt Hairstyles",
+        "Jarring Accessories",
+        "Dull Colors"
+    ]
+}

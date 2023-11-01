@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Marathon",
+        "Runner",
+        "Speed",
+        "Agility",
+        "Female Athletes",
+        "Endurance",
+        "Sportswear",
+        "Determination",
+        "Goal Oriented",
+        "Persistence",
+        "Training",
+        "Competition",
+        "Victory",
+        "Achievement"
+    ],
+    "negative": [
+        "Injury",
+        "Exhaustion",
+        "Dehydration",
+        "Sore Muscles",
+        "Pain",
+        "Fatigue",
+        "Failed Attempts",
+        "Discouragement",
+        "Loss",
+        "Self-Doubt",
+        "Unhealthy Competition",
+        "Burnout",
+        "Overexertion"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "positive": [
+        "Fairy-tale Wedding",
+        "Dreamy Atmosphere",
+        "Romantic Details",
+        "Ethereal Lighting",
+        "Whimsical Decor",
+        "Charming Settings"
+    ],
+    "negative": [
+        "Harsh Reality",
+        "Mundane Tasks",
+        "Lack of Romance",
+        "Boring Ceremony",
+        "Ugly Dresses",
+        "Crude Behavior"
+    ]
+}

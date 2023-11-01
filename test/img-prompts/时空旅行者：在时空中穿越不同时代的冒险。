@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Time Travel",
+        "Adventure",
+        "Voyager",
+        "Navigate",
+        "Past & Future",
+        "Sci-Fi",
+        "Futuristic Fashion",
+        "Holographic",
+        "Portals",
+        "Masculine Style",
+        "Neon Lights",
+        "Cyberpunk",
+        "Explorer",
+        "Innovative Technology"
+    ],
+    "negative": [
+        "Lost in Time",
+        "Paradox",
+        "Temporal Anomaly",
+        "Dystopian Worlds",
+        "Time Paradoxes",
+        "Disoriented",
+        "Broken Timeline",
+        "Ruined Future",
+        "Alternate Realities",
+        "Dark Ages",
+        "Apocalyptic Scenario",
+        "Anachronistic Mix",
+        "Time Warp",
+        "Isolated Moments"
+    ]
+}

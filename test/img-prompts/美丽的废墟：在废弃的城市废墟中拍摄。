@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Futuristic Cityscapes",
+        "Neon Glow",
+        "Modern Architectural Wonders",
+        "Stunning Urban Views",
+        "Sleek Designs",
+        "Vibrant Atmosphere",
+        "Innovative Technology",
+        "Urban Oasis",
+        "Creative Spaces",
+        "Captivating Abandoned Places",
+        "Revitalized Areas",
+        "Artistic Vision",
+        "Nature's Reclamation",
+        "Historical Treasures",
+        "Colorful Murals",
+        "Inspiring Stories",
+        "Fresh Perspectives",
+        "Renewal and Growth"
+    ],
+    "negative": [
+        "Abandoned Factories",
+        "Decaying Infrastructure",
+        "Dilapidated Buildings",
+        "Deserted Neighborhoods",
+        "Overgrown Parks",
+        "Forgotten Landmarks",
+        "Discarded Memorabilia",
+        "Graffiti-Covered Walls",
+        "Vacant Lots",
+        "Broken Windows",
+        "Peeling Paint",
+        "Crumbling Bricks",
+        "Rusty Metal",
+        "Collapsed Roofs",
+        "Cracked Sidewalks",
+        "Unkept Gardens",
+        "Forgotten Stories"
+    ]
+}

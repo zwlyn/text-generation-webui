@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Cooking",
+        "Culinary Art",
+        "Chef",
+        "Kitchen",
+        "Gourmet",
+        "Flavors",
+        "Ingredients",
+        "Presentation",
+        "Baking",
+        "Sauces",
+        "Spices",
+        "Herbs",
+        "Plating",
+        "Food Photography",
+        "Recipes",
+        "Cookbooks",
+        "Healthy Eating",
+        "Seasonal Produce",
+        "Farmers Market"
+    ],
+    "negative": [
+        "Bland Food",
+        "Overcooked Meals",
+        "Burnt Dishes",
+        "Bad Presentation",
+        "Lack of Flavor",
+        "Outdated Recipes",
+        "Unhealthy Cooking",
+        "Overeating",
+        "Fast Food Addiction",
+        "Processed Ingredients",
+        "Pesticide-Contaminated Produce",
+        "Wasteful Kitchen Practices",
+        "Unsanitary Conditions",
+        "Overused Kitchen Gadgets",
+        "Lack of Creativity",
+        "Uninspired Cooking"
+    ]
+}

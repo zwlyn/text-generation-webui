@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Stunning",
+        "Gorgeous",
+        "Breathtaking",
+        "Vibrant",
+        "Energetic",
+        "Illuminated",
+        "Futuristic",
+        "Urban Oasis",
+        "Innovative",
+        "High-Tech",
+        "Modern Marvels",
+        "City of Lights",
+        "Cosmopolitan",
+        "Dynamic",
+        "Sleek",
+        "Chic",
+        "Exciting",
+        "Dreamlike"
+    ],
+    "negative": [
+        "Gloomy",
+        "Desolate",
+        "Abandoned",
+        "Decaying",
+        "Shadowy",
+        "Dimly Lit",
+        "Post-Apocalyptic",
+        "Bleak",
+        "Isolated",
+        "Dark Corners",
+        "Dystopian",
+        "Urban Wasteland",
+        "Disintegrating",
+        "Ominous",
+        "Graffiti",
+        "Polluted",
+        "Forsaken"
+    ]
+}

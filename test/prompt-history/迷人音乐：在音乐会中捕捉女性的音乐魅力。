@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Elegant",
+        "Glamorous",
+        "Sophisticated",
+        "Stylish",
+        "Chic",
+        "Fashionable",
+        "Urban",
+        "Cityscape",
+        "Luxurious",
+        "High Society",
+        "Exclusive Event",
+        "Performance",
+        "Musical Instruments",
+        "Artistic Expression",
+        "Beautiful Voice",
+        "Enchanting Melody",
+        "Harmony",
+        "Emotional Connection"
+    ],
+    "negative": [
+        "Isolation",
+        "Loneliness",
+        "Sadness",
+        "Despair",
+        "Gloom",
+        "Darkness",
+        "Shadows",
+        "Abandoned Stage",
+        "Empty Concert Hall",
+        "Unattended Instruments",
+        "Silent Audience",
+        "Disconnected Performers",
+        "Incomplete Compositions"
+    ]
+}

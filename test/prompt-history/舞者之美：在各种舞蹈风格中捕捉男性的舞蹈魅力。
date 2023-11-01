@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Elegant",
+        "Graceful",
+        "Artistic",
+        "Dance Moves",
+        "Fluid Motion",
+        "Ballet",
+        "Jazz",
+        "Contemporary",
+        "Tango",
+        "Waltz",
+        "Smooth",
+        "Expressive",
+        "Emotional",
+        "Powerful",
+        "Charismatic"
+    ],
+    "negative": [
+        "Clumsy",
+        "Rigid",
+        "Uncoordinated",
+        "Stiff",
+        "Jerky",
+        "Shaky",
+        "Insecure",
+        "Tense",
+        "Forced",
+        "Lacking Emotion",
+        "Mechanical",
+        "Unnatural",
+        "Harsh",
+        "Abrupt"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Athletic",
+        "Competition",
+        "Champion",
+        "Victory",
+        "Goal Achievement",
+        "Teamwork",
+        "Sports Field",
+        "Stadium Atmosphere",
+        "Crowd Cheering",
+        "Winning Moment",
+        "Determination",
+        "Focus",
+        "Persistence"
+    ],
+    "negative": [
+        "Injury",
+        "Losing",
+        "Disappointment",
+        "Dejection",
+        "Sports Rivalry",
+        "Unfair Play",
+        "Poor Sportsmanship",
+        "Crowd Booing",
+        "Lack of Motivation",
+        "Giving Up",
+        "Negative Emotions",
+        "Failure"
+    ]
+}

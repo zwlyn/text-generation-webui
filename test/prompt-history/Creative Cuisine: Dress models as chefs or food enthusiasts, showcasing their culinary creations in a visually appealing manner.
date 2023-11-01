@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Innovative",
+        "Fresh",
+        "Colorful",
+        "Appetizing",
+        "Artistic Plating",
+        "Healthy Ingredients",
+        "Seasonal Produce",
+        "Creative Presentation",
+        "Modern Kitchenware",
+        "Collaboration",
+        "Experimentation"
+    ],
+    "negative": [
+        "Bland",
+        "Overcooked",
+        "Cold Dishes",
+        "Lack of Flavor",
+        "Poorly Composed Plates",
+        "Unhealthy Choices",
+        "Out-of-season Ingredients",
+        "Boring Presentation",
+        "Old Kitchen Tools",
+        "Conflict",
+        "Resistance to Change"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Scientific",
+        "Experiment",
+        "Lab Coat",
+        "Goggles",
+        "Laboratory",
+        "Test Tubes",
+        "Bunsen Burner",
+        "Microscope",
+        "Chemicals",
+        "Electronics",
+        "Robotic Arm",
+        "Safety Gear",
+        "Data Analysis"
+    ],
+    "negative": [
+        "Abandoned",
+        "Disarray",
+        "Decaying",
+        "Darkness",
+        "Leaks",
+        "Malfunction",
+        "Obsolete",
+        "Clutter",
+        "Lack of Safety",
+        "Unorganized",
+        "Neglected"
+    ]
+}

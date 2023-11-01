@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Dance",
+        "Choreography",
+        "Creativity",
+        "Expression",
+        "Graceful",
+        "Movement",
+        "Artistic",
+        "Performance",
+        "Emotion",
+        "Flow",
+        "Rhythm",
+        "Harmony",
+        "Energy",
+        "Beauty",
+        "Innovation"
+    ],
+    "negative": [
+        "Stiffness",
+        "Uncoordinated",
+        "Disjointed",
+        "Confusion",
+        "Ungraceful",
+        "Motion Sickness",
+        "Noise",
+        "Clutter",
+        "Tension",
+        "Dissonance",
+        "Lack of Focus",
+        "Rigidity",
+        "Boredom"
+    ]
+}

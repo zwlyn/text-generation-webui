@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Fairy Tale",
+        "Magical World",
+        "Whimsical",
+        "Dreamlike",
+        "Enchanted Forest",
+        "Mystical Creatures",
+        "Charming",
+        "Nurturing Nature",
+        "Soft Lighting",
+        "Storybook Atmosphere",
+        "Fantastical Fashion",
+        "Imagination",
+        "Wondrous"
+    ],
+    "negative": [
+        "Harsh Reality",
+        "Broken Dreams",
+        "Urban Chaos",
+        "Dark Corners",
+        "Loneliness",
+        "Nature's Wrath",
+        "Oppressive Society",
+        "Cruel Fate",
+        "Despair"
+    ]
+}

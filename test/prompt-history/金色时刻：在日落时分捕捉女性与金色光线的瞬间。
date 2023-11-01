@@ -1,0 +1,27 @@
+{
+    "positive": [
+        "Golden Hour",
+        "Sunset Glow",
+        "Warm Tones",
+        "Soft Shadows",
+        "Calm Atmosphere",
+        "Nature Inspired",
+        "Beautiful Scenery",
+        "Serene Moments",
+        "Uplifting Emotions",
+        "Hopeful Outlook",
+        "Inspirational Vibes"
+    ],
+    "negative": [
+        "Dark Night",
+        "Frightening Shadows",
+        "Cold Tones",
+        "Unsettling Atmosphere",
+        "Industrial Decay",
+        "Harsh Contrast",
+        "Discomforting Feelings",
+        "Somber Moods",
+        "Despairing Outlook",
+        "Ominous Vibes"
+    ]
+}

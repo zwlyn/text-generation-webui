@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Adventurous",
+        "Ascending",
+        "Breathtaking Views",
+        "Challenging Terrain",
+        "Cliffside Trail",
+        "Confidence",
+        "Dramatic Landscapes",
+        "Fearless",
+        "Gloves",
+        "Harnesses",
+        "Helmets",
+        "Hiking Boots",
+        "Incredible Feats",
+        "Mountain Climbing Gear",
+        "Nature's Beauty",
+        "Rugged Terrain",
+        "Safe Practices",
+        "Steep Ascents",
+        "Strength",
+        "Trail Markers",
+        "Untouched Wilderness"
+    ],
+    "negative": [
+        "Falling Rocks",
+        "Hazardous Weather",
+        "Injuries",
+        "Loose Gravel",
+        "Risky Behavior",
+        "Slippery Surfaces",
+        "Steep Decents",
+        "Threatening Wildlife",
+        "Tiredness",
+        "Unstable Ground",
+        "Verdant Forest Floor",
+        "Wet Rocks"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Elegant",
+        "Feminine",
+        "Glamorous",
+        "High Society",
+        "Chic",
+        "Refined",
+        "Upscale",
+        "Stylish",
+        "Classy",
+        "Sophisticated",
+        "Artful",
+        "Creative",
+        "Beautifully Lit",
+        "Intricate Patterns"
+    ],
+    "negative": [
+        "Shabby",
+        "Tacky",
+        "Garish",
+        "Trashy",
+        "Over-the-Top",
+        "Tasteless",
+        "Cheap",
+        "Gaudy",
+        "Flashy",
+        "Vulgar"
+    ]
+}

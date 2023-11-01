@@ -1,0 +1,35 @@
+{
+    "positive": [
+        "Dreamy",
+        "Fantasy",
+        "Imagination",
+        "Innocent",
+        "Whimsical",
+        "Soft Focus",
+        "Storybook",
+        "Magic",
+        "Enchanted",
+        "Mysterious",
+        "Wondrous",
+        "Playful",
+        "Colorful",
+        "Fairy Tale",
+        "Charming",
+        "Childlike",
+        "Sweet"
+    ],
+    "negative": [
+        "Harsh",
+        "Gritty",
+        "Dark Shadows",
+        "Hard Light",
+        "Contrast",
+        "Muted Colors",
+        "Realism",
+        "Unfocused",
+        "Disenchanted",
+        "Forbidden",
+        "Haunting",
+        "Fearful"
+    ]
+}

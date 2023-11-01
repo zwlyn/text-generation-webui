@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Rustic",
+        "Idyllic",
+        "Natural Lighting",
+        "Soft Textures",
+        "Fresh Air",
+        "Serene Landscape",
+        "Pastoral Scenery",
+        "Wooden Structures",
+        "Babbling Brook",
+        "Country Living",
+        "Organic Materials",
+        "Peaceful Coexistence",
+        "Nature-Inspired",
+        "Rural Atmosphere",
+        "Sustainable Lifestyle",
+        "Tranquil Moments",
+        "Harmonious Relationship"
+    ],
+    "negative": [
+        "Overcrowded",
+        "Urban Chaos",
+        "Air Pollution",
+        "Noise Pollution",
+        "Concrete Jungle",
+        "Traffic Congestion",
+        "Garbage Disposal Issues",
+        "Cramped Spaces",
+        "Construction Work",
+        "Polluted Waterways",
+        "Disconnection from Nature",
+        "Unhealthy Lifestyle",
+        "Stressful Environment",
+        "Isolation From The Natural World"
+    ]
+}

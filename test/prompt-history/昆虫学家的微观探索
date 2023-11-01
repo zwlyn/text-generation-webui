@@ -1,0 +1,33 @@
+{
+    "positive": [
+        "Microscopic",
+        "Intricate Details",
+        "Bioluminescence",
+        "Ultra Macro Photography",
+        "Biodiversity",
+        "Symbiotic Relationships",
+        "Ecological Balance",
+        "Nanotechnology",
+        "Sustainable Design",
+        "High Resolution Imaging",
+        "Future of Insect Studies",
+        "Environmental Conservation",
+        "Amazing Discoveries",
+        "Innovative Techniques"
+    ],
+    "negative": [
+        "Overlooked Details",
+        "Hidden Dangers",
+        "Species Extinction",
+        "Pollution Impacts",
+        "Unintended Consequences",
+        "Technology Disruption",
+        "Environmental Destruction",
+        "Climate Change Effects",
+        "Competition for Resources",
+        "Inefficient Systems",
+        "Urbanization Pressure",
+        "Loss of Biodiversity",
+        "Insect Decline"
+    ]
+}

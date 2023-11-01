@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Architectural Beauty",
+        "Urban Life",
+        "Street Culture",
+        "Vibrant Colors",
+        "Dynamic Perspectives",
+        "Natural Lighting",
+        "Iconic Landmarks",
+        "Human Emotion",
+        "Movement and Energy",
+        "City Lights",
+        "Reflections",
+        "Graffiti Art",
+        "Skyscraper Silhouettes"
+    ],
+    "negative": [
+        "Urban Chaos",
+        "Pollution",
+        "Overcrowding",
+        "Traffic Congestion",
+        "Social Inequality",
+        "Crime and Danger",
+        "Neglected Public Spaces",
+        "Architectural Flaws",
+        "Harsh Shadows",
+        "Noise Pollution",
+        "Construction Disruption"
+    ]
+}

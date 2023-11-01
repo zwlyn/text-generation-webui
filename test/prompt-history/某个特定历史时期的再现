@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Victorian Era",
+        "Elegant",
+        "Gentleman",
+        "Classic Architecture",
+        "Vintage Attire",
+        "Steampunk",
+        "Alternate History",
+        "Futuristic Victorian",
+        "Inventive Gadgets",
+        "Mysterious",
+        "Enigmatic",
+        "Sophisticated Fashion",
+        "Etiquette",
+        "High Society"
+    ],
+    "negative": [
+        "Poverty",
+        "Inequality",
+        "Social Stratification",
+        "Oppressive Regimes",
+        "Child Labor",
+        "Unfair Competition",
+        "Victorian Slums",
+        "Grime",
+        "Squalor",
+        "Exploitation",
+        "Class Division",
+        "Restrictive Social Norms",
+        "Pollution",
+        "Overcrowding"
+    ]
+}

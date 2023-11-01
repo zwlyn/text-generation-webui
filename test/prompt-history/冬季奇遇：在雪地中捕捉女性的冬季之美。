@@ -1,0 +1,38 @@
+{
+    "positive": [
+        "Winter Wonderland",
+        "Snowy Scenery",
+        "Frozen Lake",
+        "Icicles",
+        "Cold Sunlight",
+        "Ski Slope",
+        "Cozy Cabin",
+        "Hot Cocoa",
+        "Christmas Tree",
+        "Holiday Season",
+        "Winter Fashion",
+        "Snowball Fight",
+        "Sledding Hill",
+        "Ice Skating Rink",
+        "Frozen Waterfall",
+        "Northern Lights",
+        "Mountain Peak",
+        "Winter Wildlife"
+    ],
+    "negative": [
+        "Bitter Cold",
+        "Blinding Snowstorm",
+        "Ice Storm",
+        "Frozen Pipes",
+        "Slippery Sidewalks",
+        "Car Battery Dies",
+        "Heating Bill",
+        "Cabin Fever",
+        "Shoveling Snow",
+        "Traffic Accidents",
+        "Frostbite",
+        "Runny Nose",
+        "Chapped Lips",
+        "Winter Weather Warning"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Dancing",
+        "Galaxy",
+        "Stars",
+        "Planets",
+        "Choreography",
+        "Elegant",
+        "Outer Space",
+        "Futuristic Costume",
+        "Neon Glow",
+        "Astronaut",
+        "Innovative",
+        "Beautiful",
+        "Artistic",
+        "Dreamy"
+    ],
+    "negative": [
+        "Loneliness",
+        "Vast Emptiness",
+        "No Atmosphere",
+        "Weightlessness",
+        "Disorientation",
+        "Cold",
+        "Radiation",
+        "Hazardous Environment",
+        "Energy-free Movement"
+    ]
+}

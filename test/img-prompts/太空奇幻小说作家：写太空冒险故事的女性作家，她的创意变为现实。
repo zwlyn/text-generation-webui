@@ -1,0 +1,25 @@
+{
+    "positive": [
+        "Stellar Adventure",
+        "Futuristic Gadgets",
+        "Intrepid Explorer",
+        "Astral Landscapes",
+        "Infinite Possibilities",
+        "Celestial Fashion",
+        "Gravity-Defying Hair",
+        "Dreamlike Atmosphere",
+        "Sleek Technology",
+        "Robotic Companion",
+        "Floating Cities",
+        "Intergalactic Traveler"
+    ],
+    "negative": [
+        "Loneliness",
+        "Hostile Environments",
+        "Dark Abyss",
+        "Desolate Worlds",
+        "Crushing Pressure",
+        "Vast Emptiness",
+        "Deep Space Isolation"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "Futuristic",
+        "Adventurous",
+        "Daring",
+        "Independent",
+        "Resourceful",
+        "Mysterious",
+        "Innovative",
+        "Stylish",
+        "Sleek",
+        "Urban Exploration",
+        "High-Tech Gadgets",
+        "Neon Lights",
+        "Cutting Edge",
+        "Cybernetic Enhancements"
+    ],
+    "negative": [
+        "Dangerous",
+        "Isolated",
+        "Hazardous",
+        "Chaotic",
+        "Crime Infested",
+        "Abandoned Places",
+        "Corrupted Systems",
+        "Dark Alleys",
+        "Urban Chaos",
+        "Loss of Identity",
+        "Existential Threats",
+        "Environmental Degradation",
+        "Cyber Bullying",
+        "Surveillance State"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Nature's Kiss",
+        "Embrace the Wild",
+        "Floral Whispers",
+        "Botanical Beauty",
+        "Organic Elegance",
+        "Forest Encounter",
+        "Natural Allure",
+        "Wild Romance",
+        "Sun-Kissed Glow",
+        "Enchanting Woods",
+        "Ethereal Meadows",
+        "Fresh Scent",
+        "Blooming Radiance",
+        "Gentle Breeze",
+        "Tranquil Moments",
+        "Serene Gardens"
+    ],
+    "negative": [
+        "Urban Wilderness",
+        "Concrete Jungle",
+        "Industrial Chaos",
+        "Polluted Parks",
+        "Artificial Atmosphere",
+        "Synthetic Serenity",
+        "Harsh Sunlight",
+        "Barren Landscapes",
+        "Lonely Trees",
+        "Deserted Gardens"
+    ]
+}

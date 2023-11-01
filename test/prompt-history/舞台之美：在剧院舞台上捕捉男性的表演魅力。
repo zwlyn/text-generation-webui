@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Theater",
+        "Stage",
+        "Performance",
+        "Acting Skills",
+        "Dramatic Lighting",
+        "Costumes",
+        "Makeup",
+        "Hair Styling",
+        "Set Design",
+        "Expression",
+        "Emotion",
+        "Charisma",
+        "Presence",
+        "Storytelling",
+        "Audience Engagement",
+        "Applause"
+    ],
+    "negative": [
+        "Off Stage",
+        "Backstage Chaos",
+        "Technical Difficulties",
+        "Stage Fright",
+        "Inaudible Dialogue",
+        "Unconvincing Performance",
+        "Disconnected Audience",
+        "Poor Lighting",
+        "Subpar Costumes",
+        "Bad Hair Day",
+        "Sloppy Makeup",
+        "Inept Set Design",
+        "Lack of Expression",
+        "Flat Emotion",
+        "No Applause"
+    ]
+}

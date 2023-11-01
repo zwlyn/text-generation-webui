@@ -1,0 +1,26 @@
+{
+    "positive": [
+        "Street Food",
+        "Cultural Experience",
+        "Authentic Cuisine",
+        "Night Market",
+        "Vibrant Atmosphere",
+        "Colorful Dishes",
+        "Flavor Explosion",
+        "Local Delicacies",
+        "Food Truck",
+        "Outdoor Dining",
+        "Street Performance",
+        "Culinary Journey"
+    ],
+    "negative": [
+        "Limited Sanitation",
+        "Long Waiting Time",
+        "Overcrowded Space",
+        "Unhealthy Options",
+        "Inconsistent Quality",
+        "Language Barrier",
+        "Weather-Dependent",
+        "Potential Safety Issues"
+    ]
+}

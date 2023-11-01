@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Nature",
+        "Wild Animals",
+        "Beautiful Scenery",
+        "Action Shots",
+        "Macro Photography",
+        "Birds of Prey",
+        "Endangered Species",
+        "Stunning Landscapes",
+        "Floral Patterns",
+        "Tropical Forests",
+        "Marine Life",
+        "Urban Wildlife"
+    ],
+    "negative": [
+        "Darkness",
+        "Insects",
+        "Claustrophobic Spaces",
+        "Pollution",
+        "Deforestation",
+        "Animal Cruelty",
+        "Wildfires",
+        "Drought",
+        "Hunting",
+        "Overcrowded Areas",
+        "Man-Made Structures",
+        "Loneliness"
+    ]
+}

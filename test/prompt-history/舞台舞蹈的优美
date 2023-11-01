@@ -1,0 +1,31 @@
+{
+    "positive": [
+        "Graceful Moves",
+        "Dance Performance",
+        "Expression through Dance",
+        "Movement and Form",
+        "Choreography",
+        "Stage Lighting",
+        "Theater Atmosphere",
+        "Artistic Vision",
+        "Dance Costumes",
+        "Elegant Posture",
+        "Performance Artistry",
+        "Dramatic Expressions"
+    ],
+    "negative": [
+        "Clumsy Moves",
+        "Abandoned Stage",
+        "Lack of Coordination",
+        "Unable to Dance",
+        "No Rhythm or Timing",
+        "Incomplete Choreography",
+        "Poor Lighting Design",
+        "Missing Theater Atmosphere",
+        "Lack of Artistic Vision",
+        "Ill-fitting Costumes",
+        "Ungraceful Posture",
+        "Performance Anxiety",
+        "Lost in the Moment"
+    ]
+}

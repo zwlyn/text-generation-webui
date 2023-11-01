@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Enchanted Forest",
+        "Magical Creatures",
+        "Mystical Lighting",
+        "Nature Spirits",
+        "Whimsical Textures",
+        "Fantastical Flora and Fauna",
+        "Vibrant Colors",
+        "Playful Patterns",
+        "Dreamlike Atmosphere",
+        "Charming Magic",
+        "Wondrous Wildlife",
+        "Luminescent Mushrooms"
+    ],
+    "negative": [
+        "Abandoned Forest",
+        "Decaying Nature",
+        "Unsettling Shadows",
+        "Forgotten Whispers",
+        "Muted Tones",
+        "Desolate Woods",
+        "Eerie Silence",
+        "Ominous Magic",
+        "Spooky Creatures",
+        "Withered Flora and Fauna"
+    ]
+}

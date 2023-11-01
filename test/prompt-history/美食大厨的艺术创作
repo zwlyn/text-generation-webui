@@ -1,0 +1,24 @@
+{
+    "positive": [
+        "Culinary Artistry",
+        "Gourmet Creations",
+        "Food Sculpture",
+        "Elegant Presentation",
+        "Innovative Techniques",
+        "Visual Feast",
+        "Sensory Experience",
+        "Masterful Plating",
+        "Artisanal Ingredients"
+    ],
+    "negative": [
+        "Overcooked Meal",
+        "Burnt Creation",
+        "Food Waste",
+        "Unappetizing Presentation",
+        "Culinary Disaster",
+        "Failed Experiment",
+        "Visual Mess",
+        "Tasteless Dish",
+        "Subpar Techniques"
+    ]
+}

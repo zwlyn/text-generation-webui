@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Performance",
+        "Expressive",
+        "Confidence",
+        "Charisma",
+        "Dance Moves",
+        "Singing Voice",
+        "Emotional Connection",
+        "Costumes",
+        "Makeup",
+        "Hair Styles",
+        "Sets and Scenery",
+        "Lighting Design"
+    ],
+    "negative": [
+        "Microphone Malfunction",
+        "Off-Key Singing",
+        "Forgetfulness",
+        "Lack of Enthusiasm",
+        "Uncomfortable Poses",
+        "Inappropriate Costumes",
+        "Overdone Makeup",
+        "Bad Hair Days",
+        "Cheap Sets",
+        "Boring Scenery",
+        "Poor Lighting"
+    ]
+}

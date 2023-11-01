@@ -1,0 +1,23 @@
+{
+    "positive": [
+        "Confident",
+        "Proud",
+        "Passionate",
+        "Engaged",
+        "Focused",
+        "Connected",
+        "Artistic",
+        "Expressive",
+        "Inspiring"
+    ],
+    "negative": [
+        "Anxious",
+        "Frustrated",
+        "Disinterested",
+        "Distracted",
+        "Overwhelmed",
+        "Uninspired",
+        "Detached",
+        "Disconnected"
+    ]
+}

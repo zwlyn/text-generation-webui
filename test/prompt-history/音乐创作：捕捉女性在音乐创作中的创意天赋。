@@ -1,0 +1,43 @@
+{
+    "positive": [
+        "Artistic expression",
+        "Creative energy",
+        "Inspirational moments",
+        "Musical innovation",
+        "Passionate performance",
+        "Rhythmic harmony",
+        "Melodic masterpiece",
+        "Emotional connection",
+        "Visionary composition",
+        "Empowering lyrics",
+        "Collaborative spirit",
+        "Dynamic range",
+        "Technological integration",
+        "Synergistic fusion",
+        "Timeless appeal",
+        "Universal language",
+        "Cathartic experience",
+        "Cross-cultural exchange",
+        "Transformational impact"
+    ],
+    "negative": [
+        "Creative block",
+        "Performance anxiety",
+        "Inhibited self-expression",
+        "Lack of inspiration",
+        "Stifled creativity",
+        "Resistance to change",
+        "Traditional constraints",
+        "Critical judgment",
+        "Isolation in the process",
+        "Unsupportive environment",
+        "Limited resources",
+        "Technophobia",
+        "Fragmented focus",
+        "Overemphasis on technology",
+        "Misguided innovation",
+        "Ephemeral trends",
+        "Communication barriers",
+        "Inequitable industry"
+    ]
+}

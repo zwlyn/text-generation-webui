@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Art Gallery",
+        "Urban Art Space",
+        "Contemporary Exhibition",
+        "Gallery Opening",
+        "Female Artist",
+        "Creative Expression",
+        "Cultural Exchange",
+        "Interactive Installation",
+        "Innovative Techniques",
+        "Colorful Palette",
+        "Dynamic Perspective",
+        "Sculpture Garden",
+        "Mixed Media Exploration",
+        "Artistic Collaboration",
+        "Immersive Experience",
+        "Light and Shadow Play"
+    ],
+    "negative": [
+        "Abandoned Gallery",
+        "Graffiti-Covered Walls",
+        "Dilapidated Studios",
+        "Unattended Exhibits",
+        "Neglected Artwork",
+        "Lack of Inspiration",
+        "Isolated Creators",
+        "Restrictive Themes",
+        "Monotonous Display",
+        "Faded Colors",
+        "Confining Perspectives",
+        "Overgrown Sculpture Park",
+        "Unimaginative Techniques",
+        "Bland Mixed Media"
+    ]
+}

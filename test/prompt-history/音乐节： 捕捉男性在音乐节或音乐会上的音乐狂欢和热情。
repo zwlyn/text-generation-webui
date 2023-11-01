@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Musician",
+        "Performance",
+        "Concert",
+        "Stage Lighting",
+        "Instruments",
+        "Rhythm",
+        "Harmony",
+        "Music Lovers",
+        "Dance Moves",
+        "Fans",
+        "Applause",
+        "On-stage Antics",
+        "Energetic Vibes",
+        "Passionate Playing",
+        "Crowd Connection"
+    ],
+    "negative": [
+        "Audience Confusion",
+        "Mismatched Ensemble",
+        "Off-Key Melodies",
+        "Unengaged Crowd",
+        "Poor Acoustics",
+        "Equipment Malfunction",
+        "Discordant Chords",
+        "Lack of Enthusiasm",
+        "Time Mismanagement"
+    ]
+}

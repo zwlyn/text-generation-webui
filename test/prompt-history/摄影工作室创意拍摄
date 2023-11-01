@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Innovative",
+        "Stylish",
+        "Creative",
+        "High-Contrast",
+        "Dramatic Lighting",
+        "Shallow Depth of Field",
+        "Unique Perspectives",
+        "Vibrant Colors",
+        "Geometric Shapes",
+        "Smooth Textures",
+        "Futuristic Atmosphere"
+    ],
+    "negative": [
+        "Mundane",
+        "Monotonous",
+        "Lack of Creativity",
+        "Harsh Lighting",
+        "Overused Angles",
+        "Lack of Contrast",
+        "Boring Subjects",
+        "Dull Colors",
+        "Repetitive Patterns",
+        "Rough Textures",
+        "Uninspired Composition"
+    ]
+}

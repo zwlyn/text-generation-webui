@@ -1,0 +1,41 @@
+{
+    "positive": [
+        "Night",
+        "Cityscape",
+        "Glowing",
+        "Shadows",
+        "Reflections",
+        "Neon Signs",
+        "Urban Atmosphere",
+        "Architectural Lines",
+        "Mysterious",
+        "Silhouette",
+        "Illuminated",
+        "Streets",
+        "Noir Style",
+        "Glimmers",
+        "Artistic Vision",
+        "Nightlife",
+        "Enigmatic Expression",
+        "Dramatic Lighting",
+        "Futuristic Elements"
+    ],
+    "negative": [
+        "Darkness",
+        "Isolation",
+        "Loneliness",
+        "Deserted Streets",
+        "Shadowy Corners",
+        "Hidden Dangers",
+        "Ominous Atmosphere",
+        "Gloomy Cityscapes",
+        "Abandoned Places",
+        "Fearful Shadows",
+        "Hiding Spots",
+        "Noir Influence",
+        "Suspenseful Moments",
+        "Unsettling Feelings",
+        "Hidden Threats",
+        "Dark Secrets"
+    ]
+}

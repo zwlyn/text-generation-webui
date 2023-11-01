@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Magical",
+        "Enchanting",
+        "Whimsical",
+        "Dreamlike",
+        "Fairytale",
+        "Mysterious",
+        "Nature's Beauty",
+        "Organic Forms",
+        "Soft Lighting",
+        "Ethereal Atmosphere",
+        "Playful Spirit",
+        "Innocent Wonder",
+        "Charming Details",
+        "Carefree Joy"
+    ],
+    "negative": [
+        "Harsh Reality",
+        "Urban Chaos",
+        "Industrial Pollution",
+        "Crushing Loneliness",
+        "Moral Degradation",
+        "Corruption's Grip",
+        "Unforgiving City Life",
+        "Nature's Decline"
+    ]
+}

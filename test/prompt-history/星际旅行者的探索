@@ -1,0 +1,43 @@
+{
+    "positive": [
+        "Interstellar Traveler",
+        "Space Odyssey",
+        "Astronaut",
+        "Galactic Journey",
+        "Cosmic Vibes",
+        "Neon Galaxy",
+        "Futuristic Fashion",
+        "High-Tech Gadgets",
+        "Urban Landscape",
+        "Holographic",
+        "Cybernetic Enhancements",
+        "Sleek",
+        "Dystopian",
+        "Sci-Fi Chic",
+        "Virtual Reality",
+        "Futuristic Grooming",
+        "Metallic",
+        "Glowing",
+        "Exotic"
+    ],
+    "negative": [
+        "Alienated Explorer",
+        "Loneliness in Space",
+        "Cramped Quarters",
+        "Claustrophobia",
+        "Dark Nebula",
+        "Technology Malfunction",
+        "Psychological Stress",
+        "Isolation",
+        "Desolation",
+        "Cybercrime",
+        "System Failure",
+        "Dystopian Future",
+        "Ruined Cityscape",
+        "Corruption",
+        "Hackers",
+        "Underground",
+        "Chaos",
+        "Resistance"
+    ]
+}

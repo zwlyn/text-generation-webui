@@ -1,0 +1,22 @@
+{
+    "positive": [
+        "Idyllic Garden",
+        "Peaceful Pond",
+        "Blossoming Flowers",
+        "Charming Cottage",
+        "Vintage Tea Party",
+        "Romantic Walkway",
+        "Sunlit Meadow",
+        "Soft Pastel Colors",
+        "Dreamy Atmosphere"
+    ],
+    "negative": [
+        "Abandoned Estate",
+        "Overgrown Garden",
+        "Frozen Pond",
+        "Withering Flowers",
+        "Desolate Walkway",
+        "Shadow-Covered Meadow",
+        "Gloomy Atmosphere"
+    ]
+}

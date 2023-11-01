@@ -1,0 +1,30 @@
+{
+    "positive": [
+        "Aviation",
+        "Flight Attendant",
+        "Pilot",
+        "Crew Member",
+        "Airport Worker",
+        "Professional",
+        "Confident",
+        "Efficient",
+        "Groomed",
+        "Welcoming",
+        "Travel",
+        "Adventure",
+        "Exploration",
+        "Sleek Uniforms",
+        "Badges of Honor"
+    ],
+    "negative": [
+        "Grounded Flights",
+        "Delayed Departures",
+        "Cancellations",
+        "Lost Luggage",
+        "Airport Congestion",
+        "Long Security Lines",
+        "Stress",
+        "Fatigue",
+        "Unruly Passengers"
+    ]
+}

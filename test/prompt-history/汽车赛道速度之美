@@ -1,0 +1,34 @@
+{
+    "positive": [
+        "High-Speed",
+        "Car Racing",
+        "Sleek Vehicles",
+        "Adrenaline Rush",
+        "Motion Blur",
+        "Racing Lines",
+        "Glowing Engines",
+        "Powerful Cars",
+        "Neon Headlights",
+        "Futuristic Design",
+        "Aggressive Stance",
+        "Winding Road",
+        "Victory",
+        "Speed Records"
+    ],
+    "negative": [
+        "Crashes",
+        "Car Accidents",
+        "Burnouts",
+        "Skidding Tires",
+        "Failed Racing Lines",
+        "Broken Engines",
+        "Rusty Frames",
+        "Abandoned Vehicles",
+        "Empty Racetracks",
+        "Dangerous Curves",
+        "Loss of Control",
+        "Oil Slicks",
+        "Collisions",
+        "Wrecks"
+    ]
+}

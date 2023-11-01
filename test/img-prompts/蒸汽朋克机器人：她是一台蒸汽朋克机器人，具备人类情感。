@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Futuristic Kitchen Appliance",
+        "High-Tech Gadget",
+        "Sleek Design",
+        "Robotic Cooking",
+        "Smart Home Integration",
+        "Intelligent Assistant",
+        "Cooking Innovation",
+        "User-Friendly Interface",
+        "Advanced Sensors",
+        "Precision Control",
+        "Modern Kitchen Aesthetic",
+        "Streamlined Functionality"
+    ],
+    "negative": [
+        "Kitchen Chaos",
+        "Broken Gadget",
+        "Outdated Technology",
+        "Unintelligible Instructions",
+        "Cluttered Workspace",
+        "Incompatibility with Devices",
+        "Overwhelming Features",
+        "Lack of User Support",
+        "Inefficient Design",
+        "Dysfunctional Robotics"
+    ]
+}

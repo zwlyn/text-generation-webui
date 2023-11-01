@@ -1,0 +1,37 @@
+{
+    "positive": [
+        "Elegant Attire",
+        "Charming Setting",
+        "Tea Time",
+        "Vintage Atmosphere",
+        "Feminine Elegance",
+        "Gentleman's Club",
+        "Sophisticated Style",
+        "High Society",
+        "Downton Abbey",
+        "Afternoon Tea",
+        "Etiquette",
+        "Cultured Ambiance",
+        "Refined Taste",
+        "Victorian Grace",
+        "Classic Beauty",
+        "Timeless Charm"
+    ],
+    "negative": [
+        "Shabby Setting",
+        "Disheveled Appearance",
+        "Sloppy Dressing",
+        "Uncultivated Ambiance",
+        "Rude Behavior",
+        "Loud Conversation",
+        "Crass Atmosphere",
+        "Lower Class Gathering",
+        "Tacky Fashion",
+        "Brash Taste",
+        "Inappropriate Etiquette",
+        "Boorish Guests",
+        "Chaotic Scene",
+        "Annoying Habits",
+        "Unrefined Style"
+    ]
+}

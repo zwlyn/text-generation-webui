@@ -1,0 +1,40 @@
+{
+    "positive": [
+        "Feminine",
+        "Ethereal",
+        "Glowing",
+        "Whispers",
+        "Mystical",
+        "Dreamy",
+        "Fantasy",
+        "Enchanted",
+        "Illuminated",
+        "Angelic",
+        "Soft",
+        "Tranquil",
+        "Beautiful",
+        "Ethereal Beauty",
+        "Graceful",
+        "Mysterious",
+        "Otherworldly"
+    ],
+    "negative": [
+        "Harsh",
+        "Jarring",
+        "Shadows",
+        "Ominous",
+        "Darkness",
+        "Fear",
+        "Unsettling",
+        "Sinister",
+        "Haunting",
+        "Lurking",
+        "Eerie",
+        "Chilling",
+        "Unspeakable",
+        "Ghostly",
+        "Creeping",
+        "Unknown",
+        "Inscrutable"
+    ]
+}

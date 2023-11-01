@@ -1,0 +1,39 @@
+{
+    "positive": [
+        "Astronaut",
+        "Cosmic",
+        "Intergalactic",
+        "Infinity",
+        "Stellar",
+        "Adventure",
+        "Pioneer",
+        "Exploration",
+        "Discovery",
+        "Mystery",
+        "Innovation",
+        "Frontier",
+        "Voyage",
+        "Uncharted Territory",
+        "Awe-inspiring",
+        "Extraterrestrial",
+        "Futuristic",
+        "Boundless"
+    ],
+    "negative": [
+        "Isolated",
+        "Loneliness",
+        "Dangerous",
+        "Unknown",
+        "Vastness",
+        "Limited Oxygen",
+        "Radiation",
+        "Zero Gravity",
+        "Eerie Silence",
+        "Fear of the Unknown",
+        "Alien Lifeforms",
+        "Hostile Environment",
+        "Colossal Distances",
+        "Light-Years Away",
+        "Inhospitable Planets"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "positive": [
+        "Ancient Greece",
+        "Roman Empire",
+        "Egyptian Civilization",
+        "Mesopotamia",
+        "Indus Valley Civilization",
+        "Chinese Dynasties",
+        "Celtic Society",
+        "Mayan Culture",
+        "Aztec Empire"
+    ],
+    "negative": [
+        "Burning Cityscape",
+        "Fallen Statues",
+        "Collapsed Architecture",
+        "Deserted Streets",
+        "Abandoned Temples",
+        "Decaying Walls",
+        "Broken Artifacts",
+        "Neglected Gardens",
+        "Dilapidated Structures"
+    ]
+}

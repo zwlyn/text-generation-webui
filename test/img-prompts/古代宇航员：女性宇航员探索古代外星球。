@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "Ancient Astronaut",
+        "Female Explorer",
+        "Alien Worlds",
+        "Mysterious Ruins",
+        "Stellar Cartography",
+        "Navigating the Cosmos",
+        "Time Traveler",
+        "Intergalactic Voyage",
+        "Celestial Discovery",
+        "Extraplanetary Expedition",
+        "Ancient Knowledge",
+        "Galactic Pioneers"
+    ],
+    "negative": [
+        "Lost Civilization",
+        "Forgotten Technology",
+        "Alien Menace",
+        "Dangerous Planet",
+        "Hostile Environment",
+        "Solar Storms",
+        "Temporal Paradox",
+        "Cosmic Isolation",
+        "Unknown Perils",
+        "Interdimensional Threat",
+        "Collision Course",
+        "Eternal Night",
+        "Strange Phenomena",
+        "Lost Legacy"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "positive": [
+        "Adventurous",
+        "Daring",
+        "Explorer",
+        "Fearless",
+        "Intrepid",
+        "Rugged",
+        "Resilient",
+        "Wilderness",
+        "Backcountry",
+        "Nature Lover",
+        "Solo Traveler",
+        "Remote Locations",
+        "Challenge Seeker",
+        "Extreme Sports",
+        "Outdoor Enthusiast",
+        "Undiscovered Territory"
+    ],
+    "negative": [
+        "Dangerous",
+        "Perilous",
+        "Threatening",
+        "Uncharted",
+        "Isolated",
+        "Desolate",
+        "Inhospitable"
+    ]
+}

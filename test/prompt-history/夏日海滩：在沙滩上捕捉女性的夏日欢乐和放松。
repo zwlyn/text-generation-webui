@@ -1,0 +1,43 @@
+{
+    "positive": [
+        "Summer",
+        "Beach",
+        "Sunshine",
+        "Relaxation",
+        "Swimsuits",
+        "Tanning",
+        "Laughter",
+        "Fun",
+        "Watersports",
+        "Beach Activities",
+        "Seashells",
+        "Drinks",
+        "Ice Cream",
+        "Good Vibes",
+        "Friendship",
+        "Sunsets",
+        "Coral Reefs",
+        "Underwater World",
+        "Boating",
+        "Sailing"
+    ],
+    "negative": [
+        "Rainy Days",
+        "Overcrowded Beaches",
+        "Sunburns",
+        "Waves",
+        "Seaweed",
+        "Litter",
+        "Noise Pollution",
+        "Unfriendly People",
+        "High Prices",
+        "Insects",
+        "Long Queues",
+        "Bad Weather",
+        "Rough Seas",
+        "Dangerous Animals",
+        "Pollution",
+        "Trash",
+        "Lack of Privacy"
+    ]
+}

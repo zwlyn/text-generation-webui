@@ -1,0 +1,28 @@
+{
+    "positive": [
+        "Mysterious",
+        "Ancient",
+        "Sacred",
+        "Timeless",
+        "Enigmatic",
+        "Spiritual",
+        "Ethereal",
+        "Harmonious",
+        "Traditional",
+        "Celestial",
+        "Ornate",
+        "Intricate"
+    ],
+    "negative": [
+        "Destructive",
+        "Damaged",
+        "Decayed",
+        "Defaced",
+        "Desecrated",
+        "Abandoned",
+        "Forsaken",
+        "Vandalized",
+        "Derelict",
+        "Ominous"
+    ]
+}
